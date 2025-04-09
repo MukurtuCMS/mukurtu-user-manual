@@ -6,8 +6,52 @@ theme:
   favicon: _static/assets/favicon.ico
   features:
     - search.suggest
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      accent: deep orange
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      accent: deep orange
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
+copyright: Mukurtu CMS is managed by the Center for Digital Scholarship and Curation at Washington State University. Mukurtu CMS, Mukurtu Support resources, and all materials on mukurtu.org are distributed under the terms of the GNU General Public License version 3 (or "GPLv3"), which means anyone is free to download and share them with others. <p></p>
+
+extra:
+  tags: 
+    media: media
+    metadata: 
+    roundtrip:
+    users: 
+    content: 
+
+extra_css:
+  - _static/style.css
 
 plugins:
+  - search
+  - tags
+  - offline
   - exporter:
       formats:
         pdf:
@@ -17,3 +61,17 @@ plugins:
             enabled: true
             output: site.pdf
             covers: all
+      buttons:
+        - title: Download as PDF
+          icon: material-file-download-outline
+          enabled: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.enabled
+          attributes: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.attributes
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
