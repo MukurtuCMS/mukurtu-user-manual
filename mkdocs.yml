@@ -2,6 +2,10 @@ site_name: Mukurtu User Manual
 
 theme:
   name: material
+  logo: _static/assets/logo.png
+  favicon: _static/assets/favicon.ico
+  features:
+    - search.suggest
 
 plugins:
   - exporter:
