@@ -1,0 +1,15 @@
+site_name: Mukurtu User Manual
+
+theme:
+  name: material
+
+plugins:
+  - exporter:
+      formats:
+        pdf:
+          enabled: !ENV [MKDOCS_EXPORTER_PDF, true]
+          concurrency: 8
+          aggregator:
+            enabled: true
+            output: site.pdf
+            covers: all
