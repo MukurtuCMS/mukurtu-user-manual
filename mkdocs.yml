@@ -1,5 +1,6 @@
 site_name: Mukurtu User Manual
 
+
 theme:
   name: material
   logo: _static/assets/logo.png
@@ -52,6 +53,7 @@ plugins:
   - tags
   - offline
   - exporter:
+      base_path: !relative 
       formats:
         pdf:
           enabled: !ENV [MKDOCS_EXPORTER_PDF, true]
