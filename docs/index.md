@@ -10,4 +10,4 @@ We provide basic training and troubleshooting through web conference, phone call
 
 Mukurtu CMS, Mukurtu Support resources, and all materials on [mukurtu.org](https://mukurtu.org) are distributed under the terms of the [GNU General Public License version 3](https://www.gnu.org/licenses/quick-guide-gplv3.html) (or "GPLv3"), which means anyone is free to download and share them with others.
 
-<p style="text-align:center;">[Contact Support   :fontawesome-solid-paper-plane:](mailto:support@mukurtu.org){ .md-button .md-button--primary }</p>
+[Contact Support   :fortawesome-solid-paper-plane:](mailto:support@mukurtu.org){ .md-button .md-button--primary }
