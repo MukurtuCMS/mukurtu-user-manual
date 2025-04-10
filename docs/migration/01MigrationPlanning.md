@@ -1,3 +1,7 @@
+---
+tags: migration
+---
+
 # 1) Migration Planning
 
 There is a series of pre-migration planning activities you will want to undertake. Most of these are documentation oriented, though some may require additional research and testing.

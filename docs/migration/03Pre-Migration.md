@@ -1,3 +1,7 @@
+---
+tags: migration
+---
+
 # 3) Mukurtu 3 Pre-Migration Activities
 
 The pre-migration report will identify all site content that needs to be updated or modified before it can be migrated to Mukurtu 4. The report will also identify any content settings that will not be migrated. 
