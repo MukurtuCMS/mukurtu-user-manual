@@ -9,6 +9,11 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.12"
+  apt_packages:
+    - libasound2  
+  jobs: 
+    post_install:
+      - python -m playwright install chromium
 
 mkdocs:
   configuration: mkdocs.yml

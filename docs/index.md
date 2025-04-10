@@ -2,7 +2,7 @@
 
 !!! warning "Please note that this user manual is still in development!"
 
-    Mukurtu 3 documentation is available at [support.mukurtu.org](https://support.mukurtu.org) and you can contact [support@mukurtu.org](mailto:support@mukurtu.org) with any questions.
+    Mukurtu 3 documentation is available at [support.mukurtu.org](https://support.mukurtu.org){target=_blank} and you can contact [support@mukurtu.org](mailto:support@mukurtu.org) with any questions.
 
 All Mukurtu support articles and training resources are posted to our main support site at [support.mukurtu.org](https://support.mukurtu.org). These are free.
 

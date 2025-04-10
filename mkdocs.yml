@@ -7,18 +7,17 @@ theme:
   features:
     - search.suggest
   palette:
-    # Dark Mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Dark mode
-      accent: deep orange
-
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
+      accent: deep orange
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
       accent: deep orange
   icon:
     admonition:
@@ -59,7 +58,7 @@ plugins:
           concurrency: 8
           aggregator:
             enabled: true
-            output: site.pdf
+            output: mukurtu-user-manual.pdf
             covers: all
       buttons:
         - title: Download as PDF
@@ -75,3 +74,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Style Guide: styleguide.md
+  - Tags: tags.md
+  - PDF User Manual: mukurtu-user-manual.pdf
