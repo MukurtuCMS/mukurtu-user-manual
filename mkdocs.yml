@@ -80,16 +80,16 @@ nav:
   - Home: index.md
   - Style Guide: styleguide.md
   - Migration from Mukurtu 3 to Mukurtu 4: 
-    - migration/00MigrationOverview
-    - migration/01MigrationPlanning
-    - migration/02UpdateMukurtu3
-    - migration/03Pre-Migration
-    - migration/04InstallMukurtu4
-    - migration/05CopyMediaDirectory
-    - migration/06RunMigrationTool
-    - migration/07VerifyMigration
-    - migration/08CompleteConfiguration
-    - migration/09ConfirmSiteOperation
-    - migration/10DecommissionMukurtu3
+    - migration/00MigrationOverview.md
+    - migration/01MigrationPlanning.md
+    - migration/02UpdateMukurtu3.md
+    - migration/03Pre-Migration.md
+    - migration/04InstallMukurtu4.md
+    - migration/05CopyMediaDirectory.md
+    - migration/06RunMigrationTool.md
+    - migration/07VerifyMigration.md
+    - migration/08CompleteConfiguration.md
+    - migration/09ConfirmSiteOperation.md
+    - migration/10DecommissionMukurtu3.md
   - Tags: tags.md
   - PDF User Manual: mukurtu-user-manual.pdf
