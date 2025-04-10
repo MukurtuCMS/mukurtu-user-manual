@@ -1,5 +1,6 @@
 ---
-tags: migration
+tags: 
+    - migration
 ---
 
 # 4) Install Mukurtu 4
