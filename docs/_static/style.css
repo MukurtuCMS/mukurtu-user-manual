@@ -48,7 +48,7 @@
     --md-code-hl-generic-color: var(--md-default-fg-color--light);
     --md-code-hl-variable-color: var(--md-default-fg-color--light);
     --md-typeset-color: var(--md-default-fg-color);
-    --md-typeset-a-color: var(--md-primary-fg-color);
+    --md-typeset-a-color: var(--md-code-hl-color);
     --md-typeset-kbd-color: hsla(var(--md-hue), 15%, 90%, 0.12);
     --md-typeset-kbd-accent-color: hsla(var(--md-hue), 15%, 90%, 0.2);
     --md-typeset-kbd-border-color: hsla(var(--md-hue), 15%, 14%, 1);
@@ -94,7 +94,7 @@
     --md-code-hl-generic-color: var(--md-default-fg-color--light);
     --md-code-hl-variable-color: var(--md-default-fg-color--light);
     --md-typeset-color: var(--md-default-fg-color);
-    --md-typeset-a-color: var(--md-primary-fg-color);
+    --md-typeset-a-color: var(--md-code-hl-color);
     --md-typeset-del-color: #f5503d26;
     --md-typeset-ins-color: #0bd57026;
     --md-typeset-kbd-color: #fafafa;
