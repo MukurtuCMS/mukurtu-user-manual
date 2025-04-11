@@ -1,6 +1,5 @@
 site_name: Mukurtu User Manual
 
-
 theme:
   name: material
   logo: _static/assets/logo.png
