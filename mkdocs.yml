@@ -63,8 +63,8 @@ plugins:
       buttons:
         - title: Download as PDF
           icon: material-file-download-outline
-          enabled: !python/name:mkdocs_exporter.formats.pdf.buttons.download.enabled
-          attributes: !python/name:mkdocs_exporter.formats.pdf.buttons.download.attributes
+          enabled: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.enabled
+          attributes: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.attributes
 
 markdown_extensions:
   - admonition
@@ -78,6 +78,30 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Style Guide: styleguide.md
+  - 3Cs:
+    - 3Cs/create-a-cultural-protocol.md 
+    - 3Cs/creating-categories.md 
+    - 3Cs/understanding-categories.md
+    - 3Cs/Create-a-community-and-initial-cultural-protocol.md
+  - Collections:
+    - collections/CreateCollection.md 
+    - collections/UnderstandingCollections.md
+  - DH Items:
+    - digital-heritage-items/DHMetadataFields.md
+  - FAQs:
+    - faqs/DatabasePrivacy.md
+  - Localization and Translation:
+    - localization-translation/LocalizationTranslationOverview.md 
+    - localization-translation/RequiredModules.md
+  - Media:
+    - media/ManageMediaAccessWithProtocols.md 
+    - media/MediaAssetFileFormats.md 
+    - media/MediaAssetMetadata.md 
+    - media/SoundCloudPrivacySettings.md 
+    - media/UnderstandingMediaAssets.md 
+    - media/upload-media-assets.md 
+    - media/VimeoPrivacySettings.md 
+    - media/YoutubePrivacySettings.md
   - Migration from Mukurtu 3 to Mukurtu 4: 
     - migration/00MigrationOverview.md
     - migration/01MigrationPlanning.md
@@ -90,5 +114,11 @@ nav:
     - migration/08CompleteConfiguration.md
     - migration/09ConfirmSiteOperation.md
     - migration/10DecommissionMukurtu3.md
+  - Users:
+    - users/creating-account.md 
+    - users/managing-administrator-roles.md 
+    - users/managing-user-roles.md 
+    - users/user-role-types.md 
+    - users/users-intro.md
   - Tags: tags.md
   - PDF User Manual: mukurtu-user-manual.pdf
