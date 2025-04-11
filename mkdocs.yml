@@ -78,23 +78,11 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Style Guide: styleguide.md
-  - Migration from Mukurtu 3 to Mukurtu 4: 
-    - migration/00MigrationOverview.md
-    - migration/01MigrationPlanning.md
-    - migration/02UpdateMukurtu3.md
-    - migration/03Pre-Migration.md
-    - migration/04InstallMukurtu4.md
-    - migration/05CopyMediaDirectory.md
-    - migration/06RunMigrationTool.md
-    - migration/07VerifyMigration.md
-    - migration/08CompleteConfiguration.md
-    - migration/09ConfirmSiteOperation.md
-    - migration/10DecommissionMukurtu3.md
   - 3Cs:
     - 3Cs/create-a-cultural-protocol.md 
     - 3Cs/creating-categories.md 
     - 3Cs/understanding-categories.md
-    - 3CS/Create-a-community-and-initial-cultural-protocol.md
+    - 3Cs/Create-a-community-and-initial-cultural-protocol.md
   - Collections:
     - collections/CreateCollection.md 
     - collections/UnderstandingCollections.md
@@ -114,6 +102,18 @@ nav:
     - media/upload-media-assets.md 
     - media/VimeoPrivacySettings.md 
     - media/YoutubePrivacySettings.md
+  - Migration from Mukurtu 3 to Mukurtu 4: 
+    - migration/00MigrationOverview.md
+    - migration/01MigrationPlanning.md
+    - migration/02UpdateMukurtu3.md
+    - migration/03Pre-Migration.md
+    - migration/04InstallMukurtu4.md
+    - migration/05CopyMediaDirectory.md
+    - migration/06RunMigrationTool.md
+    - migration/07VerifyMigration.md
+    - migration/08CompleteConfiguration.md
+    - migration/09ConfirmSiteOperation.md
+    - migration/10DecommissionMukurtu3.md
   - Users:
     - users/creating-account.md 
     - users/managing-administrator-roles.md 
