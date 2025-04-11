@@ -9,19 +9,19 @@ The default browse view in Mukurtu sorts content items by the most recently upda
 
 There are many options for ways to use the collections feature. Some communities use it to create digital exhibits, such as Gather's [Living Language: Country, Culture, Community Exhibition](https://gather.sl.nsw.gov.au/collection/living-language-country-culture-community-exhibition).
 
-[![Gather](../embeds/collections1.png "Image of Gather's Living Language Country Culture and Community Exhibition collection page.")](https://gather.sl.nsw.gov.au/collection/living-language-country-culture-community-exhibition)
+[![Gather](../_embeds/collections1.png "Image of Gather's Living Language Country Culture and Community Exhibition collection page.")](https://gather.sl.nsw.gov.au/collection/living-language-country-culture-community-exhibition)
 
 Some communities use it to format educational resources and provide access to lesson plans and materials, such as the Passamaquoddy People's [Lewestuhtine collection](https://passamaquoddypeople.com/collection/lewestuhtine). 
 
-[![Passamaquoddy People](../embeds/collections2.png "Image of the Passamaquoddy People's Lewestuhtine collection")](https://passamaquoddypeople.com/collection/lewestuhtine)
+[![Passamaquoddy People](../_embeds/collections2.png "Image of the Passamaquoddy People's Lewestuhtine collection")](https://passamaquoddypeople.com/collection/lewestuhtine)
 
 The Passamaquoddy People also used the collections feature to provide structure and context for the [1890 Passamaquoddy Phonograph Recordings](https://passamaquoddypeople.com/collection/1890-passamaquoddy-phonograph-recordings), which feature the digitized phonograph recordings as well as associated field notes and related journal articles.
 
-[![Passamaquoddy People](../embeds/collections3.png "Image of the Passamaquoddy People's 1890 Passamaquoddy Phonograph Recordings collection")](https://passamaquoddypeople.com/collection/1890-passamaquoddy-phonograph-recordings)
+[![Passamaquoddy People](../_embeds/collections3.png "Image of the Passamaquoddy People's 1890 Passamaquoddy Phonograph Recordings collection")](https://passamaquoddypeople.com/collection/1890-passamaquoddy-phonograph-recordings)
 
 Another example of how collections have been used is from the Sustainable Heritage Network, who used the collections feature to provide consolidated access to resources from the [Association of Tribal Archives, Libraries, and Museums (ATALM)](https://sustainableheritagenetwork.org/collection/atalm-resources) including full sessions, short video tutorials, presentations, and speeches from the 2014-2019 ATALM Annual Conferences.
 
-[![Sustainable Heritage Network](../embeds/collections4.png "Association of Tribal Archives, Libraries, and Museums resources")](https://sustainableheritagenetwork.org/collection/atalm-resources)
+[![Sustainable Heritage Network](../_embeds/collections4.png "Association of Tribal Archives, Libraries, and Museums resources")](https://sustainableheritagenetwork.org/collection/atalm-resources)
 
 ## Personal collections
 
