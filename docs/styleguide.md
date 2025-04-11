@@ -71,6 +71,9 @@ The maximum display width of an image in the user manuals currently is around 13
 
 A screenshot of a portion of the interface, such as the left-hand navigation, should appear at full scale for maximum readability. Currently, Omeka Classic has a left-side menu-bar width of about 200px, and a main content width of about 1040px, on a 1920x1080 screen. Expand the browser window wide enough to add some whitespace and keep things from looking cramped, but screenshots do not need to be the full width of your monitor.
 
+**Linking to full-size image**
+- `[![alt text](path to image)](path to image)`
+
 **Taking screenshots**
 - Use PNG images.
 

@@ -43,7 +43,7 @@ You will need to prepare the following database settings and credentials.
 
 Go to the Reclaim Client Portal ([https://portal.reclaimhosting.com/clientarea.php](https://portal.reclaimhosting.com/clientarea.php)) and login with your **Reclaim** account.
 
-![migration-credentials-01](../_embeds/migration-credentials-01.png)
+[![migration-credentials-01](../_embeds/migration-credentials-01.png)](../_embeds/migration-credentials-01.png)
 
 Click on "cPanel". If you have multiple accounts, select the correct account from the dropdown menu.
 
