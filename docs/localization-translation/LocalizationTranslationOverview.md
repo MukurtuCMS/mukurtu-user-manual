@@ -24,6 +24,7 @@
 ## Localization steps
 
 Based on [https://www.specbee.com/blogs/multilingual-website-using-drupal-9](https://www.specbee.com/blogs/multilingual-website-using-drupal-9)
+
 1. Enable required multilingual modules
 2. Add a language (Language module)
 3. Update translations (Language module)

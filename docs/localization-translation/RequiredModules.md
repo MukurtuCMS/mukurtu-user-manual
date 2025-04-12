@@ -8,10 +8,10 @@ The following modules should already be included in a stock Mukurtu 4 build, and
 
 ## Enabling required modules
 
-1) Go to /admin/modules (administrator view > Extend)
-2) Search for "translation". The three translation modules are grouped in the multilingual package.
-3) Select all three modules and click "install".
-4) Follow any remaining prompts.
+1. Go to /admin/modules (administrator view > Extend)
+2. Search for "translation". The three translation modules are grouped in the multilingual package.
+3. Select all three modules and click "install".
+4. Follow any remaining prompts.
 
 Note: the Language module should already be installed. If in doubt, search for and install it in the same way.
 
