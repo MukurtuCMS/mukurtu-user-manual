@@ -1,3 +1,7 @@
+---
+pdf: false
+---
+
 # Mukurtu user manual style guide
 
 ## Formatting 
