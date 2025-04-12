@@ -1,6 +1,6 @@
 # Overview of localization and translation in Mukurtu 4.
 
-**Translation** is (at the simplest level) converting words from one language to another. **Localization** is the process of adpating content and structure more exhaustively for another language.
+**Translation** is (at the simplest level) converting words from one language to another. **Localization** is the process of adapting content and structure more exhaustively for another language.
 
 ## Translation
 
@@ -24,11 +24,12 @@
 ## Localization steps
 
 Based on [https://www.specbee.com/blogs/multilingual-website-using-drupal-9](https://www.specbee.com/blogs/multilingual-website-using-drupal-9)
-1) Enable required multilingual modules
-2) Add a language (Language module)
-3) Update translations (Language module)
-4) Enable language switcher (blocks)
-5) Add translatons to content types and entities (Content language and translation)
+
+1. Enable required multilingual modules
+2. Add a language (Language module)
+3. Update translations (Language module)
+4. Enable language switcher (blocks)
+5. Add translations to content types and entities (Content language and translation)
 
 ## Drupal configuration translation
 
