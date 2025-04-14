@@ -1,8 +1,13 @@
+---
+tags: 
+    - media
+---
 # Media Asset File Formats
 
 ## Audio Files 
 
 Supported audio file types: 
+
 - MP3
 - WAV
 - OGG
@@ -15,6 +20,7 @@ Insert a URL for a SoundCloud asset in the *SoundCloud URL* field.  
 ## Documents 
 
 Supported document file types: 
+
 - PDF
 - PPT
 - PPTX
@@ -42,11 +48,11 @@ Insert an embed code from a remote website in the *External Embed* field.  
 ## Images 
 
 Supported image file types: 
+
 - JPEG
 - JPG
 - PNG
 - GIF
-
 - DNG
 - TIFF  
 	- DNG and TIFF preservation format files are not recommended. 
@@ -58,6 +64,7 @@ Insert a URL for a Vimeo or YouTube asset in the *Add Remote Video via URL* fiel
 ## Uploaded Video 
 
 Supported video file types: 
+
 - MP4
 - WEBM
 - OGV

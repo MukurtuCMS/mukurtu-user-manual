@@ -1,3 +1,7 @@
+---
+tags: 
+    - media
+---
 # Youtube Privacy Settings
 
 Youtube offers limited privacy settings.

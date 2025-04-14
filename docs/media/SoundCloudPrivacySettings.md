@@ -1,3 +1,8 @@
+---
+tags: 
+    - media
+    - privacy
+---
 # SoundCloud Privacy Settings
 
 SoundCloud offers limited privacy settings. [SoundCloud Privacy Information](https://help.soundcloud.com/hc/en-us/articles/115003562388-Changing-your-track-s-privacy-setting)
