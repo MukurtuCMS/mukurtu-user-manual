@@ -4,6 +4,57 @@ pdf: false
 
 # Mukurtu user manual style guide
 
+## Folders and files
+- All of the articles and image embeds are located in the `docs` folder in this repository.
+    - ***Do not*** edit anything in the `docs/_static` subfolder, or the `requirements.txt` document.
+- ***Do not*** edit the `site` or `venv` folders.
+- ***Do not*** edit any of the following top-level files: `.gitattributes`, `.gitignore`, `.readthedocs.yml`, `README.md`
+- In the `mkdocs.yml` file, ***only*** edit the `nav` section at the end of the document (this controls the navigation menu). ***Do not*** make any other changes to this document.
+
+### Topic folders
+- Each topic has a subfolder in the `docs` directory.
+- Topic folder names should be short and distinct. Longer names can be provided in the navigation menu.
+- Separate words with a hyphen, do not use capital letters.
+- Eg: `digital-heritage-items`, `collections`, `local-contexts`
+
+### Article pages
+- Place all article pages in the subfolder corresponding to their primary topic. Some articles may touch on multiple topics, this will be indicated with tags.
+- All article pages must end with the `.md` (markdown) extension.
+- Article page names should be descriptive.
+- Use CamelCase, and do not separate words.
+- Omit conjunctions, articles, and other connecting words.
+- Eg: `LocalizationTranslationOverview.md`, `CreateCollection.md`
+
+### Image embeds
+- Place all image files in the `docs/_embeds` subfolder.
+- Image files should be short, descriptive, and include numbering to indicate their placement within an article as needed. 
+- Image filenames should roughly indicate the the topic and article where they are embedded.
+- Separate words with a hyphen, do not use capital letters.
+- If an article includes 10 or more images, use a 2-digit numbering.
+- Images should be PNG files where possible.
+- Eg: `category-create-1.png`, `migration-credentials-01.png`
+- For more information on formatting images and embedding them in articles, see the formatting sections of this guide.
+
+## Navigation menu
+- Topics and articles must be referenced in the `nav` section at the end of the `mkdocs.yml` top-level file to be included in the navigation menu.
+    - Articles *can* be created without including them in the navigation menu, but this is not common practice. If you do this, the site will still build, but the terminal/console will display a warning.
+- Follow the established list and indent structure in place.
+- Enter topic names using their full name, in title case, followed by a colon.
+- If the topic only includes a single article/page, provide the relative path to the article/page after colon.
+- If the topic includes multiple articles, provide the relative paths to the articles on indented lines below the topic.
+
+```
+Eg: 
+
+  nav:
+    - Home: index.md
+    - Collections:
+      - collections/CreateCollection.md 
+      - collections/UnderstandingCollections.md
+    - Localization and Translation:
+      - localization-translation/LocalizationTranslationOverview.md 
+```
+
 ## Formatting 
 
 ### Navigation sections (topics)
@@ -36,7 +87,7 @@ pdf: false
 - Indicate field names and labels in *italics*.
 
 ### Other features
-- Indicate URLs, file paths, bits of code, and metadata fields in `code formatting`. 
+- Indicate URLs, file paths, and bits of code in `code formatting` (text between backticks ``).
 
 ### Links
 

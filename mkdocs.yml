@@ -50,7 +50,6 @@ extra_css:
 plugins:
   - search
   - tags
-  - offline
   - exporter:
       formats:
         pdf:
