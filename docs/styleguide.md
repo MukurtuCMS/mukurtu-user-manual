@@ -36,7 +36,7 @@ pdf: false
 - Indicate field names and labels in *italics*.
 
 ### Other features
-- Indicate URLs, file paths, bits of code, and metadata fields in `code formatting`. 
+- Indicate URLs, file paths, and bits of code in `code formatting` (text between backticks ``).
 
 ### Links
 
