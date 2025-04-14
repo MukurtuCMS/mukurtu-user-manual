@@ -1,3 +1,7 @@
+---
+tags: 
+    - media
+---
 # Vimeo Privacy Settings
 
 Vimeo's paid plans offer multiple privacy settings. [Vimeo privacy information](https://vimeo.com/features/video-privacy)

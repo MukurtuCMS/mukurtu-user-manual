@@ -86,6 +86,7 @@ nav:
   - Collections:
     - collections/CreateCollection.md 
     - collections/UnderstandingCollections.md
+    - collections/PersonalCollection.md
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
   - FAQs:
@@ -93,6 +94,8 @@ nav:
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
+  - Location:
+    - location/mapping-test.md
   - Media:
     - media/ManageMediaAccessWithProtocols.md 
     - media/MediaAssetFileFormats.md 
