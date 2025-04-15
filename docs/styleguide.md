@@ -21,8 +21,8 @@ pdf: false
 - Place all article pages in the subfolder corresponding to their primary topic. Some articles may touch on multiple topics, this will be indicated with tags.
 - All article pages must end with the `.md` (markdown) extension.
 - Article page names should be descriptive.
-- Use CamelCase, and do not separate words.
-- Omit conjunctions, articles, and other connecting words.
+- Use CamelCase, and do not separate words in the filenames.
+- Omit conjunctions, articles, and other connecting words from the filenames.
 - Eg: `LocalizationTranslationOverview.md`, `CreateCollection.md`
 
 ### Image embeds
@@ -119,10 +119,9 @@ tags:
     - bug
     - example
     - quote
-- An admonition starts with three exclamation marks, followed by the admonition type. Leave one empty line, then indent the content of the admonition.
+- An admonition starts with three exclamation marks, followed by the admonition type. Indent the content of the admonition below.
 ```
 !!! note
-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
@@ -130,7 +129,6 @@ tags:
 - To override the default title of the admonition, follow the admonition type with the desired title in double quotes.
 ```
 !!! note "Phasellus posuere in sem ut cursus"
-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
@@ -220,12 +218,26 @@ A screenshot of a portion of the interface, such as the left-hand navigation, sh
 
 
 ## Writing, tone, and style.
+### Article types and titles
+- There are a few major article types used in this documentation. Most articles will fall into one of these types, but there may be exceptions.
+    - Informational
+    - "How to" guides
+    - 
+
+### Tone and style
+- 
 - Include admonitions and call-outs. Especially when a external step is required.
 - Include examples.
 - Separate high level info vs how to use.
 
 - "Create a ____"
-
+- Improving accessibility for screen readers and other tools:
+    - Use `select` instead of `click/click on` page elements. This is more inclusive of those using screen readers and other assistive tools.
+    - Avoid using `-` in text elements. Fine in compound words.
+    - Use the proper heading formats.
+    - Image alt text: <https://www.csun.edu/universal-design-center/document-learning-tools#DescribingImages>
+    - Don't repeat the image's caption as the alt text. People don't need to hear the same information twice.
+    - Descriptive link text (eg: not "Read more")
 
 
 ### Buttons
