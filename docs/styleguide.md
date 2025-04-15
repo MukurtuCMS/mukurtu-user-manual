@@ -192,29 +192,32 @@ Eg:
     1. To quickly turn a URL into a link, enclose it in angle brackets: `<https://mukurtu.org>`, `<https://mukurtu.org>{target=_blank}` or `<support@mukurutu.org>`
     2. To include a title, include the text/title in square brackets, followed by the URL in round brackets: `[Mukurtu CMS](https://mukurtu.org){target=_blank}`
 
-## Images
-- Images should never give information that is not provided in the text (or in the image alt text and title). No one with vision problems should be missing out. Think of images as a shortcut, not the only route, to understanding how to do something. 
+## Screenshots and images
+- This documentation will include many screenshots to accompany the text. We do not anticipate using many other types of images.
+- Screenshots or images are never a replacement for written information. They should never give information that is not also provided in text. Use them as an optional shortcut to understanding the information or processes.
+
+### Taking good screenshots
+- Use PNG images.
+
+### Annotating screenshots
+**Arrows**
+
+**Outlines**
+
+### Filenames
+
+### Embedding image files
 
 **Alt text**
-All images should have alt text. A title can also be supplied if having some pop-up text would be useful to readers. An image entered in Markdown looks like this:
-
-`![Alt text for the image goes here.](../doc_files/animage_pathGoesHere.png "An optional title which will appear when a user mouses over the image.")`
-
-The maximum display width of an image in the user manuals currently is around 1300px (actually 1296px). A screenshot of the full Omeka Classic interface (public or admin side) should be large. Images can be saved larger (up to 2000px wide) so that readers can open them in new tabs and inspect them in full-scale detail if desired. 
-
-A screenshot of a portion of the interface, such as the left-hand navigation, should appear at full scale for maximum readability. Currently, Omeka Classic has a left-side menu-bar width of about 200px, and a main content width of about 1040px, on a 1920x1080 screen. Expand the browser window wide enough to add some whitespace and keep things from looking cramped, but screenshots do not need to be the full width of your monitor.
 
 **Linking to full-size image**
 - `[![alt text](path to image)](path to image)`
 
-**Taking screenshots**
-- Use PNG images.
-
-**Image markup**
-
-*Arrows*
-
-*Circles?*
+### Alt text
+- https://www.archbee.com/blog/screenshots-in-technical-documentation 
+- All images should have alt text. A title can also be supplied if having some pop-up text would be useful to readers. An image entered in Markdown looks like this: `![Alt text for the image goes here.](../doc_files/animage_pathGoesHere.png "An optional title which will appear when a user mouses over the image.")`
+- The maximum display width of an image in the user manuals currently is around 1300px (actually 1296px). A screenshot of the full Omeka Classic interface (public or admin side) should be large. Images can be saved larger (up to 2000px wide) so that readers can open them in new tabs and inspect them in full-scale detail if desired. 
+- A screenshot of a portion of the interface, such as the left-hand navigation, should appear at full scale for maximum readability. Currently, Omeka Classic has a left-side menu-bar width of about 200px, and a main content width of about 1040px, on a 1920x1080 screen. Expand the browser window wide enough to add some whitespace and keep things from looking cramped, but screenshots do not need to be the full width of your monitor.
 
 
 ## Writing, tone, and style.
@@ -229,6 +232,17 @@ A screenshot of a portion of the interface, such as the left-hand navigation, sh
 - Include admonitions and call-outs. Especially when a external step is required.
 - Include examples.
 - Separate high level info vs how to use.
+- <https://learn.microsoft.com/en-us/power-platform/well-architected/experience-optimization/user-interface-content>
+    - Concise and scannable.
+    - Contextual and task-focused.
+    - Use plain language.
+    - Polite and friendly tone.
+    - Maintain stylistic consistency.
+    - Declarative / imperative > interrogative > exclamatory.
+    - Primarily use active voice. "For best practices and standards, rely on the active voice. However, for general guidelines (especially when recommending things to avoid or error messages), use passive voice."
+    - International audiences.
+
+- Types of UI interactions <https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui>
 
 - "Create a ____"
 - Improving accessibility for screen readers and other tools:
@@ -238,6 +252,8 @@ A screenshot of a portion of the interface, such as the left-hand navigation, sh
     - Image alt text: <https://www.csun.edu/universal-design-center/document-learning-tools#DescribingImages>
     - Don't repeat the image's caption as the alt text. People don't need to hear the same information twice.
     - Descriptive link text (eg: not "Read more")
+    - Other problematic language <https://arthalearning.com/accessible-and-inclusive-language-in-elearning/#/>
+
 
 
 ### Buttons
@@ -255,3 +271,6 @@ A screenshot of a portion of the interface, such as the left-hand navigation, sh
 
 !!! info "Mukurtu terms"
     Do not capitalize Mukurtu terms outside of proper nouns, titles, and headings as appropriate. Eg: community, cultural protocol, digital heritage item, Mukurtu CMS, Local Contexts
+
+
+## Video (TBD)
