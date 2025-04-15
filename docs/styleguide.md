@@ -20,20 +20,14 @@ pdf: false
 ### Article pages
 - Place all article pages in the subfolder corresponding to their primary topic. Some articles may touch on multiple topics, this will be indicated with tags.
 - All article pages must end with the `.md` (markdown) extension.
-- Article page names should be descriptive.
+- Article page names should be modified versions of the [Article titles](#article-titles).
 - Use CamelCase, and do not separate words in the filenames.
 - Omit conjunctions, articles, and other connecting words from the filenames.
 - Eg: `LocalizationTranslationOverview.md`, `CreateCollection.md`
 
 ### Image embeds
 - Place all image files in the `docs/_embeds` subfolder.
-- Image files should be short, descriptive, and include numbering to indicate their placement within an article as needed. 
-- Image filenames should roughly indicate the the topic and article where they are embedded.
-- Separate words with a hyphen, do not use capital letters.
-- If an article includes 10 or more images, use a 2-digit numbering.
-- Images should be PNG files where possible.
-- Eg: `category-create-1.png`, `migration-credentials-01.png`
-- For more information on formatting images and embedding them in articles, see the formatting sections of this guide.
+- See [Image filenames](#filenames) for more information.
 
 ## Navigation menu
 - Topics and articles must be referenced in the `nav` section at the end of the `mkdocs.yml` top-level file to be included in the navigation menu.
@@ -193,11 +187,13 @@ Eg:
     2. To include a title, include the text/title in square brackets, followed by the URL in round brackets: `[Mukurtu CMS](https://mukurtu.org){target=_blank}`
 
 ## Screenshots and images
-- This documentation will include many screenshots to accompany the text. We do not anticipate using many other types of images.
+- This documentation includes many screenshots to accompany the text. We do not anticipate using many other types of images.
 - Screenshots or images are never a replacement for written information. They should never give information that is not also provided in text. Use them as an optional shortcut to understanding the information or processes.
 
 ### Taking good screenshots
 - Use PNG images.
+- The maximum display width of an image in the user manuals currently is around 1300px (actually 1296px). A screenshot of the full Omeka Classic interface (public or admin side) should be large. Images can be saved larger (up to 2000px wide) so that readers can open them in new tabs and inspect them in full-scale detail if desired. 
+- A screenshot of a portion of the interface, such as the left-hand navigation, should appear at full scale for maximum readability. Currently, Omeka Classic has a left-side menu-bar width of about 200px, and a main content width of about 1040px, on a 1920x1080 screen. Expand the browser window wide enough to add some whitespace and keep things from looking cramped, but screenshots do not need to be the full width of your monitor.
 
 ### Annotating screenshots
 **Arrows**
@@ -205,19 +201,25 @@ Eg:
 **Outlines**
 
 ### Filenames
+- Image files should be short, descriptive, and include numbering to indicate their placement within an article as needed. 
+- Image filenames should roughly indicate the the topic and article where they are embedded.
+- Separate words with a hyphen, do not use capital letters.
+- If an article includes 10 or more images, use a 2-digit numbering. Default to 2-digit numbering if unsure.
+- Images should be PNG files where possible.
+- Eg: `category-create-1.png`, `migration-credentials-01.png`
 
 ### Embedding image files
+- The syntax to embed an image is `![Alt text for the image.](../docs/_embeds/filename-here-01.png)`
+    - Alt text requirements are provided in [Alt test](#alt-text).
+- Eg: `![Screenshot of the create digital heritage item form.](../docs/_embeds/create-dh-01.png)`
 
-**Alt text**
-
-**Linking to full-size image**
-- `[![alt text](path to image)](path to image)`
+**Linking to full-size images**
+- Some images may have too much detail to see clearly when embedded in the article. An image can be wrapped in a link which will open the original image file: `[![alt text](path to image)](path to image)`
+- `[![Screenshot of the create digital heritage item form.](../docs/_embeds/create-dh-01.png)](../docs/_embeds/create-dh-01.png)`
 
 ### Alt text
 - https://www.archbee.com/blog/screenshots-in-technical-documentation 
-- All images should have alt text. A title can also be supplied if having some pop-up text would be useful to readers. An image entered in Markdown looks like this: `![Alt text for the image goes here.](../doc_files/animage_pathGoesHere.png "An optional title which will appear when a user mouses over the image.")`
-- The maximum display width of an image in the user manuals currently is around 1300px (actually 1296px). A screenshot of the full Omeka Classic interface (public or admin side) should be large. Images can be saved larger (up to 2000px wide) so that readers can open them in new tabs and inspect them in full-scale detail if desired. 
-- A screenshot of a portion of the interface, such as the left-hand navigation, should appear at full scale for maximum readability. Currently, Omeka Classic has a left-side menu-bar width of about 200px, and a main content width of about 1040px, on a 1920x1080 screen. Expand the browser window wide enough to add some whitespace and keep things from looking cramped, but screenshots do not need to be the full width of your monitor.
+- All screenshots and images should have alt text.
 
 
 ## Writing, tone, and style.
@@ -225,10 +227,8 @@ Eg:
 - There are a few major article types used in this documentation. Most articles will fall into one of these types, but there may be exceptions.
     - Informational
     - "How to" guides
-    - 
 
 ### Tone and style
-- 
 - Include admonitions and call-outs. Especially when a external step is required.
 - Include examples.
 - Separate high level info vs how to use.
@@ -254,23 +254,23 @@ Eg:
     - Descriptive link text (eg: not "Read more")
     - Other problematic language <https://arthalearning.com/accessible-and-inclusive-language-in-elearning/#/>
 
-
-
-### Buttons
+### Indicating interface elements
+#### Buttons
 - Indicate buttons in quotes.
 - Eg: `"Save"`
 
-### Interface features
+#### Interface features
 - Indicate interface features (such as page titles, page tabs, links, dropdown menus, and checkboxes) in **bold**. 
 
-### Field names
+#### Field names
 - Indicate field names and labels in *italics*.
 
-### Other features
+#### Other features
 - Indicate URLs, file paths, and bits of code in `code formatting` (text between backticks ``).
 
 !!! info "Mukurtu terms"
-    Do not capitalize Mukurtu terms outside of proper nouns, titles, and headings as appropriate. Eg: community, cultural protocol, digital heritage item, Mukurtu CMS, Local Contexts
+    Do not capitalize Mukurtu terms outside of proper nouns, titles, and headings as appropriate. 
+    Eg: `community`, `cultural protocol`, `digital heritage item`, `Mukurtu CMS`, `Local Contexts`
 
 
 ## Video (TBD)
