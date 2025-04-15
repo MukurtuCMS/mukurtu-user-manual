@@ -36,14 +36,6 @@ theme:
 
 copyright: Mukurtu CMS is managed by the Center for Digital Scholarship and Curation at Washington State University. Mukurtu CMS, Mukurtu Support resources, and all materials on mukurtu.org are distributed under the terms of the GNU General Public License version 3 (or "GPLv3"), which means anyone is free to download and share them with others. <p></p>
 
-extra:
-  tags: 
-    media: media
-    metadata: 
-    roundtrip:
-    users: 
-    content: 
-
 extra_css:
   - _static/style.css
 
@@ -73,6 +65,14 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  tags: #Include these tags in the front matter of articles to group by tag/topic. Articles can have multiple tags.
+    media: media
+    metadata: 
+    roundtrip:
+    users: 
+    content: 
 
 nav:
   - Home: index.md
