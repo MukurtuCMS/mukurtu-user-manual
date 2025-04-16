@@ -42,20 +42,6 @@ extra_css:
 plugins:
   - search
   - tags
-  - exporter:
-      formats:
-        pdf:
-          enabled: !ENV [MKDOCS_EXPORTER_PDF, true]
-          concurrency: 8
-          aggregator:
-            enabled: true
-            output: mukurtu-user-manual.pdf
-            covers: all
-      buttons:
-        - title: Download as PDF
-          icon: material-file-download-outline
-          enabled: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.enabled
-          attributes: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.attributes
   - glightbox:
       touchNavigation: true
       loop: false
@@ -70,6 +56,20 @@ plugins:
       background: white
       shadow: true
       manual: false
+  - exporter:
+      formats:
+        pdf:
+          enabled: !ENV [MKDOCS_EXPORTER_PDF, true]
+          concurrency: 8
+          aggregator:
+            enabled: true
+            output: mukurtu-user-manual.pdf
+            covers: all
+      buttons:
+        - title: Download as PDF
+          icon: material-file-download-outline
+          enabled: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.enabled
+          attributes: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.attributes
 
 markdown_extensions:
   - admonition
