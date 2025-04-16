@@ -273,10 +273,9 @@ Eg:
 - https://www.archbee.com/blog/screenshots-in-technical-documentation 
 - All screenshots and images should have alt text.
 - <https://www.csun.edu/universal-design-center/document-learning-tools#DescribingImages>;
-- Don't repeat the image's caption as the alt text. People don't need to hear the same information twice.
 - ??? how to write good alt text ???
 
-## Writing tone, and style
+## Writing tone and style
 
 ### Article types and titles
 
