@@ -111,7 +111,7 @@ tags:
 
 ### Blockquotes
 
-- ??? Unsure how we will use these. ???
+- ??? Unsure how we will use these.
 
 ### Admonitions (call outs)
 
@@ -224,16 +224,30 @@ Eg:
 
 - This documentation includes many screenshots to accompany the text. We do not anticipate using many other types of images.
 - Screenshots or images are never a replacement for written information. They should never give information that is not also provided in text. Use them as an optional shortcut to understanding the information or processes.
+- Always place screenshots and images BELOW their corresponding text.
 
 ### Taking good screenshots
 
-- Use PNG images.
-- The maximum display width of an image in the user manuals currently is around 1300px (actually 1296px). A screenshot of the full Omeka Classic interface (public or admin side) should be large. Images can be saved larger (up to 2000px wide) so that readers can open them in new tabs and inspect them in full-scale detail if desired. 
-- A screenshot of a portion of the interface, such as the left-hand navigation, should appear at full scale for maximum readability. Currently, Omeka Classic has a left-side menu-bar width of about 200px, and a main content width of about 1040px, on a 1920x1080 screen. Expand the browser window wide enough to add some whitespace and keep things from looking cramped, but screenshots do not need to be the full width of your monitor.
+- You can use your system's screenshot tool or a browser extension to capture screenshots.
+- Screenshots should be taken with your browser zoom at 100%.
+- Screenshots do not need to be the full width of your monitor.
+- A screenshot of a portion of the interface should include enough visual context around the focus area to orient readers. Too narrow of a focus is not effective.
+- If necessary, widen the browser window enough to include whitespace and keep things form looking cramped.
+- If there is a visual difference between browsers, include representative screenshots of each (eg: Firefox and Chrome have audio players that look different).
+- Save screenshots as PNG files.
+
+### Filenames
+
+- Image files should be short, descriptive, and include numbering to indicate their placement within an article as needed. 
+- Image filenames should roughly indicate the the topic and article where they are embedded.
+- Separate words with a hyphen, do not use capital letters.
+- If an article includes 10 or more images, use a 2-digit numbering. Default to 2-digit numbering if unsure.
+- Images should be PNG files where possible.
+- Eg: `category-create-1.png`, `migration-credentials-01.png`
 
 ### Annotating screenshots
 
-- ???
+- Screenshots should be annotated/marked up to indicate the area of focus. This can be done several ways depending on what is conveyed in the screenshot.
 
 **Arrows**
 
@@ -247,69 +261,79 @@ Eg:
 
 - ???
 
-### Filenames
-
-- Image files should be short, descriptive, and include numbering to indicate their placement within an article as needed. 
-- Image filenames should roughly indicate the the topic and article where they are embedded.
-- Separate words with a hyphen, do not use capital letters.
-- If an article includes 10 or more images, use a 2-digit numbering. Default to 2-digit numbering if unsure.
-- Images should be PNG files where possible.
-- Eg: `category-create-1.png`, `migration-credentials-01.png`
-
 ### Embedding image files
 - The syntax to embed an image is `![Alt text for the image.](../docs/_embeds/filename-here-01.png)`
     - Alt text requirements are provided in [Alt test](#alt-text).
 - Eg: `![Screenshot of the create digital heritage item form.](../docs/_embeds/create-dh-01.png)`
-
-**Linking to full-size images**
-
-- Some images may have too much detail to see clearly when embedded in the article. An image can be wrapped in a link which will open the original image file: `[![alt text](path to image)](path to image)`
-- `[![Screenshot of the create digital heritage item form.](../docs/_embeds/create-dh-01.png)](../docs/_embeds/create-dh-01.png)`
+- Images use a lightbox tool, so any image can be clicked on to view it at full resolution.
+- Do not use images as links.
 
 ### Alt text
 
 - https://www.archbee.com/blog/screenshots-in-technical-documentation 
 - All screenshots and images should have alt text.
+- <https://www.csun.edu/universal-design-center/document-learning-tools#DescribingImages>;
+- Don't repeat the image's caption as the alt text. People don't need to hear the same information twice.
 - ??? how to write good alt text ???
-
 
 ## Writing tone, and style
 
 ### Article types and titles
 
 - There are a few major article types used in this documentation. Most articles will fall into one of these types, but there may be exceptions.
-    - Overviews
-    - "How to" guides
-    - 
+
+**Informational articles**
+
+- Informational articles provide an overview, explanation, or otherwise explain the core concept and purpose behind a feature or tool.
+- They are typically the first article in the navigation menu for a given topic.
+- Use the naming convention `Understanding _____`
+- Eg: `Understanding Collections`
+
+**Instructional articles**
+
+- Instructional articles show how to use a feature or tool.
+- They usual follow a corresponding informational article.
+- Use the naming convention `[Verb] [Feature]`
+- Eg: `Create a Collection`, `Upload a Media Asset`, `Edit a Cultural Protocol`
+
+**Additional articles**
+
+- Additional articles can cover more detailed information, technical specifications, and other topics.
+- Keep titles simple.
+- There is no set naming convention.
+- Eg: `Vimeo Privacy Settings`, `Digital Heritage Item Metadata`
+
+**FAQs**
+
+- FAQs (frequently asked questions) are a specific type of article presented in a Q&A style to reflect common user questions that are not easily answerable from existing documentation.
+- Use question-based titles.
+- Eg: `Can the System Administrator View All Content?`
+
+**???Other types of articles?**
 
 ### Tone and style
 
-- 
-Include admonitions and call-outs. Especially when a external step is required.
-- Include examples.
-- Separate high level info vs how to use.
-- <https://learn.microsoft.com/en-us/power-platform/well-architected/experience-optimization/user-interface-content>
-    - Concise and scannable.
-    - Contextual and task-focused.
-    - Use plain language.
-    - Polite and friendly tone.
-    - Maintain stylistic consistency.
-    - Declarative / imperative > interrogative > exclamatory.
-    - Primarily use active voice. "For best practices and standards, rely on the active voice. However, for general guidelines (especially when recommending things to avoid or error messages), use passive voice."
-    - International audiences.
-
-- Types of UI interactions <https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui>
-
-- Improving accessibility for screen readers and other tools:
-    - Use `select` instead of `click/click on` page elements. This is more inclusive of those using screen readers and other assistive tools.
-    - Avoid using `-` in text elements. Fine in compound words.
-    - Use the proper heading formats.
-    - Image alt text: <https://www.csun.edu/universal-design-center/document-learning-tools#DescribingImages>
-    - Don't repeat the image's caption as the alt text. People don't need to hear the same information twice.
-    - Descriptive link text (eg: not "Read more")
-    - Other problematic language <https://arthalearning.com/accessible-and-inclusive-language-in-elearning/#/>
-
-### Indicators
+- The Mukurtu user base includes individuals with a wide range of technical understanding and areas of expertise. We should always try to use language that is easily understood and followed by the largest group of potential users. The following guidelines are not exhaustive.
+- Based on this user interface documentation guide from Microsoft <https://learn.microsoft.com/en-us/power-platform/well-architected/experience-optimization/user-interface-content>, our writing should...
+    - Be concise and scannable;
+    - Be contextual and task-focused;
+    - Use plain language;
+    - Employ a polite and friendly tone;
+    - Maintain stylistic consistency;
+    - Consider and international audience;
+    - Make regular use of declarative and imperative language, limited use of interrogative language, and sparing use of exclamatory language;
+    - Primarily use active voice;
+    - For general guidelines (especially when recommending things to avoid or error messages) use passive voice;
+- We should strive to provide accessible documentation to support use of screen readers and other tools...
+    - Use `select` instead of `click/click on` page elements. This is more inclusive of those using screen readers and other assistive tools;
+    - Avoid using `-` in text as a separator. It is fine when used in compound words and markdown syntax.;
+    - Use the proper heading formats;
+    - Use image alt text;
+    - Used descriptive link text (eg: not "Read more")
+    - Avoid other problematic or ableist language, eg: <https://arthalearning.com/accessible-and-inclusive-language-in-elearning/#/>.
+- Include textual and visual examples where beneficial.
+- Use specific language for different types of UI interactions <https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui>
+- Use consistent stylistic indicators to communicate things like buttons, interface elements, and other features.
 
 **Buttons**
 
@@ -338,8 +362,12 @@ Include admonitions and call-outs. Especially when a external step is required.
 
 **User roles**
 
-- Indicate the relevant user role(s) using the ??? admonition at the start of an article, and anywhere it needs to be noted.
+- Indicate the relevant user role(s) using the ??? admonition at the start of an article, and anywhere it needs to be noted within an article.
 
 ## Video (TBD)
+
+- ???
+
+## GIFs (TBD)
 
 - ???
