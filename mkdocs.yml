@@ -69,22 +69,24 @@ markdown_extensions:
 extra:
   tags: #Include these tags in the front matter of articles to group by tag/topic. Articles can have multiple tags.
     media: media
-    metadata: 
-    roundtrip:
-    users: 
-    content: 
+    metadata: metadata
+    roundtrip: roundtrip
+    users: users
+    content: content
 
 nav:
   - Home: index.md
   - Style Guide: styleguide.md
   - 3Cs:
     - 3Cs/create-a-cultural-protocol.md 
-    - 3Cs/creating-categories.md 
     - 3Cs/understanding-categories.md
+    - 3Cs/creating-categories.md 
     - 3Cs/Create-a-community-and-initial-cultural-protocol.md
   - Collections:
-    - collections/CreateCollection.md 
     - collections/UnderstandingCollections.md
+    - collections/CreateCollection.md 
+    - collections/AddandArrangeCollections.md
+    - collections/PersonalCollection.md
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
   - FAQs:
@@ -93,12 +95,12 @@ nav:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
   - Media:
+    - media/UnderstandingMediaAssets.md 
+    - media/upload-media-assets.md 
     - media/ManageMediaAccessWithProtocols.md 
     - media/MediaAssetFileFormats.md 
     - media/MediaAssetMetadata.md 
     - media/SoundCloudPrivacySettings.md 
-    - media/UnderstandingMediaAssets.md 
-    - media/upload-media-assets.md 
     - media/VimeoPrivacySettings.md 
     - media/YoutubePrivacySettings.md
   - Migration from Mukurtu 3 to Mukurtu 4: 

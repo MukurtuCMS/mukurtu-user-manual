@@ -1,3 +1,7 @@
+---
+tags: 
+    - content
+---
 # Create a Collection
 
 You can create a collection in Mukurtu from your **Dashboard** or by selecting **Add Content**.
