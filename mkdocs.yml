@@ -92,13 +92,13 @@ nav:
   - Home: index.md
   - Style Guide: styleguide.md
   - 3Cs:
-    - 3Cs/create-a-cultural-protocol.md 
-    - 3Cs/creating-categories.md 
     - 3Cs/understanding-categories.md
+    - 3Cs/creating-categories.md 
     - 3Cs/Create-a-community-and-initial-cultural-protocol.md
+    - 3Cs/create-a-cultural-protocol.md 
   - Collections:
-    - collections/CreateCollection.md 
     - collections/UnderstandingCollections.md
+    - collections/CreateCollection.md 
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
   - FAQs:
@@ -107,14 +107,14 @@ nav:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
   - Media:
-    - media/ManageMediaAccessWithProtocols.md 
-    - media/MediaAssetFileFormats.md 
-    - media/MediaAssetMetadata.md 
-    - media/SoundCloudPrivacySettings.md 
     - media/UnderstandingMediaAssets.md 
     - media/upload-media-assets.md 
+    - media/MediaAssetMetadata.md
+    - media/MediaAssetFileFormats.md 
+    - media/ManageMediaAccessWithProtocols.md 
     - media/VimeoPrivacySettings.md 
     - media/YoutubePrivacySettings.md
+    - media/SoundCloudPrivacySettings.md 
   - Migration from Mukurtu 3 to Mukurtu 4: 
     - migration/00MigrationOverview.md
     - migration/01MigrationPlanning.md
@@ -128,10 +128,10 @@ nav:
     - migration/09ConfirmSiteOperation.md
     - migration/10DecommissionMukurtu3.md
   - Users:
+    - users/users-intro.md
+    - users/user-role-types.md 
     - users/creating-account.md 
     - users/managing-administrator-roles.md 
     - users/managing-user-roles.md 
-    - users/user-role-types.md 
-    - users/users-intro.md
   - Tags: tags.md
   - PDF User Manual: mukurtu-user-manual.pdf
