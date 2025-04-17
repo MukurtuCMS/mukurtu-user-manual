@@ -86,7 +86,7 @@ nav:
     - collections/UnderstandingCollections.md
     - collections/CreateCollection.md 
     - collections/AddandArrangeCollections.md
-
+    - collections/SubcollectionOrganization.md
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
   - FAQs:

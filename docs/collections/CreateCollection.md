@@ -4,6 +4,9 @@ tags:
 ---
 # Create a Collection
 
+!!! question "User roles:" 
+    Protocol steward, Curator
+
 You can create a collection in Mukurtu from your **Dashboard** or by selecting **Add Content**.
 
 To create a collection from your dashboard, select **Dashboard** and scroll down to the **Collection** link. 
