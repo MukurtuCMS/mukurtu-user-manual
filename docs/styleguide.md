@@ -272,7 +272,7 @@ Eg:
 
 - https://www.archbee.com/blog/screenshots-in-technical-documentation 
 - All screenshots and images should have alt text.
-- <https://www.csun.edu/universal-design-center/document-learning-tools#DescribingImages>;
+- <https://www.csun.edu/universal-design-center/document-learning-tools#DescribingImages> 
 - ??? how to write good alt text ???
 
 ## Writing tone and style
