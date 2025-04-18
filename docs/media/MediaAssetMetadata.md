@@ -1,4 +1,12 @@
+---
+tags:
+    - media
+    - metadata
+---
 # Media Asset Metadata
+
+!!! question "User roles:"
+    Protocol steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor
 
 Media assets are the core element of Digital Heritage Items and can be images, documents, video, audio files, or embedded media. 
 
@@ -69,8 +77,3 @@ Transcription - A transcription of an Audio recording.
 #### Images
 
 Alternative text - A short description of the imaged used by screen readers and displayed when the image is not loaded. This is important for accessability. 
-
-For more information on Media Assets, see:
-
-- [Understanding Media Assets](UnderstandingMediaAssets.md)
-- [Creating Media Assets](upload-media-assets.md)

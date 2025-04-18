@@ -112,7 +112,7 @@ nav:
     - media/MediaAssetMetadata.md 
     - media/SoundCloudPrivacySettings.md 
     - media/UnderstandingMediaAssets.md 
-    - media/upload-media-assets.md 
+    - media/CreateMediaAssets.md 
     - media/VimeoPrivacySettings.md 
     - media/YoutubePrivacySettings.md
   - Migration from Mukurtu 3 to Mukurtu 4: 
