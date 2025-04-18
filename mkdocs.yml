@@ -36,21 +36,26 @@ theme:
 
 copyright: Mukurtu CMS is managed by the Center for Digital Scholarship and Curation at Washington State University. Mukurtu CMS, Mukurtu Support resources, and all materials on mukurtu.org are distributed under the terms of the GNU General Public License version 3 (or "GPLv3"), which means anyone is free to download and share them with others. <p></p>
 
-extra:
-  tags: 
-    media: media
-    metadata: 
-    roundtrip:
-    users: 
-    content: 
-
 extra_css:
   - _static/style.css
 
 plugins:
   - search
   - tags
-  - offline
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: auto
+      height: auto
+      zoomable: true
+      draggable: true
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+      manual: false
   - exporter:
       formats:
         pdf:
@@ -75,6 +80,14 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+extra:
+  tags: #Include these tags in the front matter of articles to group by tag/topic. Articles can have multiple tags.
+    media: media
+    metadata: 
+    roundtrip:
+    users: 
+    content: 
+
 nav:
   - Home: index.md
   - Style Guide: styleguide.md
@@ -83,10 +96,11 @@ nav:
     - 3Cs/UnderstandingCategories.md
     - 3Cs/CreateCategories.md 
     - 3Cs/Create-a-community-and-initial-cultural-protocol.md
+    - 3Cs/create-a-cultural-protocol.md 
   - Collections:
-    - collections/CreateCollection.md 
     - collections/UnderstandingCollections.md
     - collections/PersonalCollection.md
+    - collections/CreateCollection.md 
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
   - FAQs:
@@ -97,14 +111,14 @@ nav:
   - Location:
     - location/mapping-test.md
   - Media:
-    - media/ManageMediaAccessWithProtocols.md 
-    - media/MediaAssetFileFormats.md 
-    - media/MediaAssetMetadata.md 
-    - media/SoundCloudPrivacySettings.md 
     - media/UnderstandingMediaAssets.md 
     - media/upload-media-assets.md 
+    - media/MediaAssetMetadata.md
+    - media/MediaAssetFileFormats.md 
+    - media/ManageMediaAccessWithProtocols.md 
     - media/VimeoPrivacySettings.md 
     - media/YoutubePrivacySettings.md
+    - media/SoundCloudPrivacySettings.md 
   - Migration from Mukurtu 3 to Mukurtu 4: 
     - migration/00MigrationOverview.md
     - migration/01MigrationPlanning.md
@@ -118,10 +132,10 @@ nav:
     - migration/09ConfirmSiteOperation.md
     - migration/10DecommissionMukurtu3.md
   - Users:
+    - users/users-intro.md
+    - users/user-role-types.md 
     - users/creating-account.md 
     - users/managing-administrator-roles.md 
     - users/managing-user-roles.md 
-    - users/user-role-types.md 
-    - users/users-intro.md
   - Tags: tags.md
   - PDF User Manual: mukurtu-user-manual.pdf
