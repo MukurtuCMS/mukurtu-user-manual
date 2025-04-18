@@ -15,7 +15,7 @@ There are two ways to create a media asset: from your Dashboard or from Content 
 	- Select the type of media you want to add. 
 	- Select "Browse" for uploading audio, document, image, or video files.
 	- Insert the URL or embed code for remote video, SoundCloud, or external embeds.
-	- Enter the media asset metadata as described below or in the ../MediaAssetMetadata.md support document.
+	- Enter the media asset metadata as described below or in the [Media Asset Metadata](MediaAssetMetadata.md) support document.
 	- Select Save. 
 	- Select the media asset you want to assign to your content item, then select the Insert Selected button.
 
@@ -38,7 +38,9 @@ There are two ways to create a media asset: from your Dashboard or from Content 
 - Enter the name of your externally embedded media.
 - Enter the embed code.
 - Select and insert a thumbnail image for your external embed.
-
+	1. In the **Thumbnail** field, select the "Browse" button to upload an image file or drag and drop an image file from your file explorer.
+	2. Provide alternative text for the thumbnail image. This short description is used by screen readers and displayed when the image is not loaded. It is important for accessability. This is a required field.
+	
 ## These additional fields are used across all media types 
 
 - Identifier 

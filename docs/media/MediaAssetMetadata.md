@@ -46,7 +46,7 @@ Thumbnail
 - A thumbnail image associated with the media asset. 
 - These are automatically generated for audio, video, and URL-linked assets. 
 
-> This is a required field for External Embeds.
+!!! warning "This is a required field for External Embeds."
 
 ## Fields unique to specific media asset types
 
