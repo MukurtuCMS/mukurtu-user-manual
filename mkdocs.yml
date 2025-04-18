@@ -80,8 +80,8 @@ nav:
   - Style Guide: styleguide.md
   - 3Cs:
     - 3Cs/create-a-cultural-protocol.md 
-    - 3Cs/creating-categories.md 
-    - 3Cs/understanding-categories.md
+    - 3Cs/UnderstandingCategories.md
+    - 3Cs/CreateCategories.md 
     - 3Cs/Create-a-community-and-initial-cultural-protocol.md
   - Collections:
     - collections/CreateCollection.md 

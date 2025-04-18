@@ -6,7 +6,8 @@ tags:
 
 # Understanding Categories
 
-- User Role: Mukurtu Administrators
+!!! question "User Role:"
+    Mukurtu Administrators
 
 Categories are high-level descriptive terms that help users discover digital heritage items. All communities on the site share the same set of categories.
 
@@ -20,10 +21,10 @@ There are many ways categories can be used. Some examples include:
 
 - The Plateau Peoples' Web Portal:
 
-[![Plateau Peoples' Web Portal Categories](../_embeds/Categories-understand1.png "Image of the Plateau Peoples' Web Portal categories page.")](https://plateauportal.libraries.wsu.edu/categories-browse)
+[![Plateau Peoples' Web Portal Categories](../_embeds/Categories-understand1.png)](https://plateauportal.libraries.wsu.edu/categories-browse)
 
 - Gather from the State Library of New South Wales 
 
-[![Gather Categories](../_embeds/Categories-understand2.png "Image of Gather's categories")](https://gather.sl.nsw.gov.au/)
+[![Gather Categories ](../_embeds/Categories-understand2.png)](https://gather.sl.nsw.gov.au/)
 
 
