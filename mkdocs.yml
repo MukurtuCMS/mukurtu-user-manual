@@ -108,7 +108,7 @@ nav:
     - localization-translation/RequiredModules.md
   - Media:
     - media/UnderstandingMediaAssets.md 
-    - media/upload-media-assets.md 
+    - media/CreateMediaAssets.md 
     - media/MediaAssetMetadata.md
     - media/MediaAssetFileFormats.md 
     - media/ManageMediaAccessWithProtocols.md 
