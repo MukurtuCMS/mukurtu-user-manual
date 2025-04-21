@@ -118,18 +118,10 @@ tags:
 - Admonitions provide clear visual indicators that ask for more attention through use of color, icon, styling, and placement.
 - They are used to highlight warnings, reminders, and other check ins.
 - The available admonitions are:
-    - note
-    - abstract
-    - info
+    - roles "User roles"
     - tip
-    - success
-    - question
+    - requirement
     - warning
-    - failure
-    - danger
-    - bug
-    - example
-    - quote
 - An admonition starts with three exclamation marks, followed by the admonition type. Indent the content of the admonition below.
 
 ```
@@ -142,6 +134,7 @@ Eg:
 ```
 
 - To override the default title of the admonition, follow the admonition type with the desired title in double quotes.
+    - You must include the "User roles" title override.
 
 ```
 Eg: 
@@ -266,7 +259,8 @@ Eg:
     - Alt text requirements are provided in [Alt test](#alt-text).
 - Eg: `![Screenshot of the create digital heritage item form.](../docs/_embeds/create-dh-01.png)`
 - Images use a lightbox tool, so any image can be clicked on to view it at full resolution.
-- Do not use images as links.
+- Images can be links
+    -  ??? they need different alt text
 
 ### Alt text
 
