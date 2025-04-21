@@ -83,10 +83,10 @@ markdown_extensions:
 extra:
   tags: #Include these tags in the front matter of articles to group by tag/topic. Articles can have multiple tags.
     media: media
-    metadata: 
-    roundtrip:
-    users: 
-    content: 
+    metadata: metadata
+    roundtrip: roundtrip
+    users: users
+    content: content
 
 nav:
   - Home: index.md
