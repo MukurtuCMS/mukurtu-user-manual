@@ -13,7 +13,7 @@ Enter a community name and description.
 
 Under *Sharing Protocol*, select *Strict* to limit  access to the community page to community members only, or *Open* to allow public access to the community page.
 
-![Select sharing protocol](../_embeds/createcommunity3.PNG)
+![Select sharing protocol](../_embeds/createcommunity3.png)
 
 Next, select community managers, community members and community affiliates. Each of these follows the same workflow: 
 

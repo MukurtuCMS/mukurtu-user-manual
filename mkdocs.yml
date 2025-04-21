@@ -92,12 +92,13 @@ nav:
   - Home: index.md
   - Style Guide: styleguide.md
   - 3Cs:
-    - 3Cs/understanding-categories.md
-    - 3Cs/creating-categories.md 
-    - 3Cs/Create-a-community-and-initial-cultural-protocol.md
     - 3Cs/create-a-cultural-protocol.md 
+    - 3Cs/UnderstandingCategories.md
+    - 3Cs/CreateCategories.md 
+    - 3Cs/Create-a-community-and-initial-cultural-protocol.md
   - Collections:
     - collections/UnderstandingCollections.md
+    - collections/PersonalCollection.md
     - collections/CreateCollection.md 
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
@@ -106,6 +107,8 @@ nav:
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
+  - Location:
+    - location/mapping-test.md
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/upload-media-assets.md 
