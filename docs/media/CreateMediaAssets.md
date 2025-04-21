@@ -1,6 +1,7 @@
 ---
 tags: 
     - media
+	- getting started
 ---
 # Create Media Assets 
 
@@ -22,7 +23,8 @@ There are two ways to create a media asset: from your Dashboard or from Content 
 	- Select Save. 
 	- Select the media asset you want to assign to your content item, then select the Insert Selected button.
 
->Note that externally hosted resources cannot be protected by cultural protocols. 
+!!! warning 
+	Note that externally hosted resources cannot be protected by cultural protocols. 
 
 ## Required fields for locally hosted media files 
 

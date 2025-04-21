@@ -1,6 +1,7 @@
 ---
 tags: 
     - media
+    - metadata
 ---
 # Media Asset File Formats
 
