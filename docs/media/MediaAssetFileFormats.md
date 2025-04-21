@@ -4,6 +4,9 @@ tags:
 ---
 # Media Asset File Formats
 
+!!! question "User roles:"
+    Protocol steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor
+
 ## Audio Files 
 
 Supported audio file types: 
@@ -54,8 +57,10 @@ Supported image file types: 
 - PNG
 - GIF
 - DNG
-- TIFF  
-	- DNG and TIFF preservation format files are not recommended. 
+- TIFF
+  
+!!! warning 
+	DNG and TIFF preservation format files are not recommended. 
 
 ## Remote Video 
 
