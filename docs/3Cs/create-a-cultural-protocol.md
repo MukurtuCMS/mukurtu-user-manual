@@ -20,7 +20,7 @@
 From the Mukurtu Dashboard, select **Cultural Protocols**
 
 
-![Select Cultural Protocols](../_embeds/createprotocol6.png)
+![Select Cultural Protocols](../_embeds/Createprotocol6.png)
 
 Select **Add Protocol**
 ![Select Add Protocol](../_embeds/createprotocol1.png)

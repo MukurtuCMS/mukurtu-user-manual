@@ -42,6 +42,20 @@ extra_css:
 plugins:
   - search
   - tags
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: auto
+      height: auto
+      zoomable: true
+      draggable: true
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+      manual: false
   - exporter:
       formats:
         pdf:
@@ -79,14 +93,13 @@ nav:
   - Style Guide: styleguide.md
   - 3Cs:
     - 3Cs/create-a-cultural-protocol.md 
-    - 3Cs/understanding-categories.md
-    - 3Cs/creating-categories.md 
+    - 3Cs/UnderstandingCategories.md
+    - 3Cs/CreateCategories.md 
     - 3Cs/Create-a-community-and-initial-cultural-protocol.md
   - Collections:
     - collections/UnderstandingCollections.md
+    - collections/PersonalCollection.md
     - collections/CreateCollection.md 
-    - collections/AddandArrangeCollections.md
-    - collections/SubcollectionOrganization.md
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
   - FAQs:
@@ -94,15 +107,17 @@ nav:
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
+  - Location:
+    - location/mapping-test.md
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/upload-media-assets.md 
-    - media/ManageMediaAccessWithProtocols.md 
+    - media/MediaAssetMetadata.md
     - media/MediaAssetFileFormats.md 
-    - media/MediaAssetMetadata.md 
-    - media/SoundCloudPrivacySettings.md 
+    - media/ManageMediaAccessWithProtocols.md 
     - media/VimeoPrivacySettings.md 
     - media/YoutubePrivacySettings.md
+    - media/SoundCloudPrivacySettings.md 
   - Migration from Mukurtu 3 to Mukurtu 4: 
     - migration/00MigrationOverview.md
     - migration/01MigrationPlanning.md
@@ -116,10 +131,10 @@ nav:
     - migration/09ConfirmSiteOperation.md
     - migration/10DecommissionMukurtu3.md
   - Users:
+    - users/users-intro.md
+    - users/user-role-types.md 
     - users/creating-account.md 
     - users/managing-administrator-roles.md 
     - users/managing-user-roles.md 
-    - users/user-role-types.md 
-    - users/users-intro.md
   - Tags: tags.md
   - PDF User Manual: mukurtu-user-manual.pdf
