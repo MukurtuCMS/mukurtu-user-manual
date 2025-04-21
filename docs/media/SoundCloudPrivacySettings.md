@@ -1,7 +1,7 @@
 ---
-tags:
+tags: 
     - media
-    - security
+    - privacy
 ---
 # SoundCloud Privacy Settings
 

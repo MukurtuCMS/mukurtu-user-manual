@@ -1,5 +1,5 @@
 ---
-tags:
+tags: 
     - media
 ---
 # Understanding Media Assets
