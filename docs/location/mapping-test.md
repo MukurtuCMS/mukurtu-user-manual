@@ -1,3 +1,7 @@
+---
+-pdf: false
+---
+
 # Mapping Test
 
 Do GIFs work in this context?
