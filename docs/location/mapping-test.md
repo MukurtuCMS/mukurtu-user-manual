@@ -1,4 +1,8 @@
-# Map Points
+---
+-pdf: false
+---
+
+# Mapping Test
 
 There are several ways users can highlight the location for content items. One of the most visual is by using the **Map Points** field. This is an interactive map from [Leaflet](https://leafletjs.com/) that supports various marking methods. Users can mark one or more points, paths, or areas on the map.
 
