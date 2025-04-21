@@ -5,7 +5,7 @@
 
 From the Mukurtu Dashboard, scroll down and select "Cultural Protocols" on the left menu. 
 
-![Name your protocol](../_embeds/CreateProtocol6.png)
+![Name your protocol](../_embeds/Createprotocol6.png)
 
 Next, select "Add Protocol" on the top right. This will open a form for the new protocol.
 ![Select Add Protocol](../_embeds/CreateProtocol7.png)
