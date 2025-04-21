@@ -96,9 +96,12 @@ nav:
     - 3Cs/UnderstandingCategories.md
     - 3Cs/CreateCategories.md 
     - 3Cs/Create-a-community-and-initial-cultural-protocol.md
+    - 3Cs/CreateACulturalProtocolFromTheDashboard.md
     - 3Cs/SharingSettings.md
   - Collections:
     - collections/UnderstandingCollections.md
+    - collections/AddandArrangeCollections.md
+    - collections/SubcollectionOrganization.md
     - collections/PersonalCollection.md
     - collections/CreateCollection.md 
   - DH Items:
