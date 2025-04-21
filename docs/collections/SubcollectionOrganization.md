@@ -1,5 +1,6 @@
 ---
 tags: 
+    - collections
     - content
 ---
 # Subcollection Organization

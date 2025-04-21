@@ -1,6 +1,7 @@
 ---
 tags:
     - collections
+    - content
 ---
 # Create and Manage a Personal Collection
 
@@ -23,7 +24,8 @@ To create a personal collection, navigate to "Personal Collections" in your dash
 7. You can select "Save" to save your personal collection at this point, or scroll to the top and select the **Items** tab to add content items.
 8. From the **Items** tab, select the "Select Content" button. 
 
-    !!! tip "You can filter content by type or search by title."
+    !!! tip 
+        You can filter content by type or search by title.
 
     - Scroll down and select the checkbox beside the content items you want to add to your personal collection.
     - Select "Add Content" to add the items to your personal collection.

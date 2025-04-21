@@ -1,5 +1,6 @@
 ---
 tags:
+    - collections
     - content
 ---
 
@@ -16,19 +17,19 @@ Select the collection you want to add content to.
 
 Select the **Edit** link above the collection. 
 
-![Select the edit button](../_embeds/collections_addcontent1.png "Select the edit button.")
+![Select the edit button](../_embeds/collections_addcontent1.png)
 
 Select the **Relations** tab.
 
-![Select the relations tab](../_embeds/collections_addcontent2.png "Select the relations tab.")
+![Select the relations tab](../_embeds/collections_addcontent2.png)
 
 In the **Items in Collection** field, select the "Select Content" button.
 
-![Select the select content button](../_embeds/collections_addcontent3.png "Select the select content button.")
+![Select the select content button](../_embeds/collections_addcontent3.png)
 
 Select the checkbox for each content item you wish to add to your collection. Then select the "Add Content" button at the bottom of the pop-up window to add your content.
 
-![Select content to add to your collection.](../_embeds/selectcollectioncontentGIF1.gif "Select content to add to your collection.")
+![Select content to add to your collection.](../_embeds/selectcollectioncontentGIF1.gif)
 
 Select the "Save" button at the bottom of the screen to save your collection.
 
@@ -38,6 +39,6 @@ Navigate to the collection you want to rearrange, then select the **Edit** link 
 
 Select the **Relations** tab. In the **Items in the Collection** field, select and drag the items in your collection to rearrange their order. Select the "Remove" button to delete content items from the collection.
 
-![Arrange content within a collection](../_embeds/selectcollectioncontentGIF2.gif "Arrange content within a collection.")
+![Arrange content within a collection](../_embeds/selectcollectioncontentGIF2.gif)
 
 Select the "Save" button at the bottom of the screen to save your collection.

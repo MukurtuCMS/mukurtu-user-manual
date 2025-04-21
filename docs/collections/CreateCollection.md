@@ -1,5 +1,6 @@
 ---
 tags: 
+    - collections
     - content
 ---
 # Create a Collection
@@ -11,11 +12,11 @@ You can create a collection in Mukurtu from your **Dashboard** or by selecting *
 
 To create a collection from your dashboard, select **Dashboard** and scroll down to the **Collection** link. 
 
-![Create Collection](../_embeds/collections_how_to1.png "An image of the dashboard with an arrow pointing to collections")
+![The dashboard with an arrow pointing to collection](../_embeds/collections_how_to1.png)
 
 From **Add Content** select the **Collections** link.
 
-![Create Collection](../_embeds/collections_how_to2.png "An image of the add content page with an arrow pointing to collections.")
+![The add content page with an arrow pointing to collections.](../_embeds/collections_how_to2.png)
 
 The remaining steps to create a collection are the same.
 
@@ -25,27 +26,27 @@ We will start with filling out the information contained in the **Mukurtu Essent
 
 1. Use the *Collection name* field to provide a name for your collection.
 
-    ![Create Collection](../_embeds/collections_how_to3.png "An image of the Collection name field below the Mukurtu Essentials and Relations tabs with an arrow.")
+    ![Collection name field below the Mukurtu Essentials and Relations tabs with an arrow.](../_embeds/collections_how_to3.png)
 
 2. Select a sharing setting and applicable cultural protocols. Sharing setting has two options: you can select **Any** or **All**. Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. All is more restrictive as users must belong to all the protocols selected to view the collection.
 
     !!! tip "Collection name, sharing settings, and cultural protocols are required fields."
 
-    ![Create Collections](../_embeds/collections_how_to4.png "An image with arrows indicating the location of the sharing settings and cultural protocol fields.")
+    ![Arrows indicating the location of the sharing settings and cultural protocol fields.](../_embeds/collections_how_to4.png)
 
 3. Use the *Summary* field to provide a summary of your collection. This field is limited to 255 characters. 
 
 4. Use the *Description* field to provide a description of your collection. This is a full HTML field that can also supports additional media items.
 
-    ![Create Collections](../_embeds/collections_how_to5.png "An image with arrows indicating the location of the summary and description fields and a box highlighting the additional media items option.")
+    ![Arrows indicating the location of the summary and description fields and a box highlighting the additional media items option.](../_embeds/collections_how_to5.png)
 
 5. Use the *Image* field to select a representative thumbnail image for your collection.
 
-    ![Create Collections](../_embeds/collections_how_to6.png "An image with an arrow indicating the button users should select to add a thumbnail image.")
+    ![An arrow indicating the button users should select to add a thumbnail image.](../_embeds/collections_how_to6.png)
 
 6. Select any *Keywords* you want to apply to your collection. If you need to add more than two keywords, select the "Add another item" button to add additional fields.
 
-    ![Create Collections](../_embeds/collections_how_to7.png "An image with arrows indicating the keywords fields and the button to add additional keywords fields.")
+    ![Arrows indicating the keywords fields and the button to add additional keywords fields.](../_embeds/collections_how_to7.png)
 
 7. In the *Source* field provide information indicating the resource, collection, or institution where the collection was contributed or originated.  
 
@@ -71,16 +72,3 @@ If you have any related content to the collection, select the "Select Content" b
 
 13. Select whether you want to save this collection as a draft or as a published collection. Select either **Draft** or **Published**, then select the "Save" button. You also have the option to preview your collection by selecting "Preview".
 
-
-!!! note
-!!! abstract
-!!! info
-!!! tip
-!!! success
-!!! question
-!!! warning
-!!! failure
-!!! danger
-!!! bug
-!!! example
-!!! quote
