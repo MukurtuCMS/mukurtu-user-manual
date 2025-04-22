@@ -12,14 +12,21 @@ Mukurtu CMS, Mukurtu Support resources, and all materials on [mukurtu.org](https
 
 [Contact Support :fontawesome-solid-paper-plane:](mailto:support@mukurtu.org){ .md-button .md-button--primary }
 
+## Using the Mukurtu 4 user manual
+
 !!! roles "User roles"
-    Mukurtu administrator, protocol steward
+    This call out specifies which user role(s) can take the actions defined in an article.
 
 !!! tip
-    Mukurtu administrator, protocol steward
+    This call out provides helpful additional information of context.
 
 !!! requirement
-    Mukurtu administrator, protocol steward
+    This call out notifies you that there are requirements or prerequisites before you can take the actions defined in an article.
 
 !!! warning
-    Mukurtu administrator, protocol steward
+    This call out notifies you that there is essential information or particularly risky actions defined in an article.
+
+When the manual states that you can go directly to a page and provides a partial path, you can append that path to your site's base URL to go there. Eg:
+- If your site is `https://my-mukurtu-site.com`
+- And the manual says you can "[....] go directly to the dashboard at `/admin/dashboard`"
+- You can go to that page at `https://my-mukurtu-site.com/admin/dashboard`
