@@ -78,12 +78,11 @@ nav:
   - Home: index.md
   - Style Guide: styleguide.md
   - 3Cs:
-    - 3Cs/create-a-cultural-protocol.md 
+    - 3Cs/CreateACommunityAndInitialCulturalProtocol.md
+    - 3Cs/CreateACulturalProtocol.md 
+    - 3Cs/UnderstandingSharingSettings.md
     - 3Cs/UnderstandingCategories.md
     - 3Cs/CreateCategories.md 
-    - 3Cs/Create-a-community-and-initial-cultural-protocol.md
-    - 3Cs/CreateACulturalProtocolFromTheDashboard.md
-    - 3Cs/SharingSettings.md
   - Collections:
     - collections/UnderstandingCollections.md
     - collections/AddandArrangeCollections.md
