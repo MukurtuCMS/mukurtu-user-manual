@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles:" 
     Protocol steward, Curator
 
-There are two types of collections in Mukurtu: Personal collections and collections curated by protocol stewards and curators. The bulk of this article addresses administrator curated collections. For more information on personal collections, please select the Personal Collections subheading in this article. 
+There are two types of collections in Mukurtu: personal collections and collections curated by protocol stewards and curators. The bulk of this article addresses administrator curated collections. For more information on personal collections, please select the Personal Collections subheading in this article. 
 
 ## Collections 
 
@@ -32,4 +32,4 @@ Another example of how collections have been used is from the Sustainable Herita
 
 ## Personal collections
 
-Individual users can create personal collections of content items by adding them to their personal collection and arranging selected items in any way they choose. Users can designate their personal collections as either public or private by selecting the appropriate sharing setting when creating their collection.
+Individual users can create personal collections of content items by adding them to their personal collection and arranging selected items in any way they choose. Users can designate their personal collections as either public or private by selecting the appropriate sharing setting when creating or editing their collection.

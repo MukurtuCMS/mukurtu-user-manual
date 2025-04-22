@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles:"
     Registered Users
 
-Mukurtu CMS users can create and manage personal collections. Personal collections can be created and managed through the dashboard or from any content item. 
+Registered Mukurtu CMS users can create and manage personal collections. Personal collections are created and managed through the dashboard or from any content item. 
 
 ## Create a new personal collection
 
@@ -20,7 +20,7 @@ To create a personal collection, navigate to "Personal Collections" in your dash
 4. Select a **Privacy Setting**. Personal collections can be either public or private. Private personal collections are only visible to you, while public personal collections are accessible by anyone with the proper cultural protocols.
 5. Enter a *Summary* and a *Description* for your personal collection. 
 6. You may choose to add a thumbnail to your personal collection. Select "Add media" to upload an image or select one from the media library.
-    - Browse to insert your image file, then select "Insert selected".
+    - Browse to insert your image file, then select the "Insert selected" button.
 7. You can select "Save" to save your personal collection at this point, or scroll to the top and select the **Items** tab to add content items.
 8. From the **Items** tab, select the "Select Content" button. 
 

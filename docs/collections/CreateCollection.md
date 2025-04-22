@@ -18,7 +18,7 @@ From **Add Content** select the **Collections** link.
 
 ![The add content page with an arrow pointing to collections.](../_embeds/collections_how_to2.png)
 
-The remaining steps to create a collection are the same.
+The remaining steps to create a collection are the same whether you're working from the dashboard or from content.
 
 ## Steps to create a collection 
 
@@ -28,7 +28,7 @@ We will start with filling out the information contained in the **Mukurtu Essent
 
     ![Collection name field below the Mukurtu Essentials and Relations tabs with an arrow.](../_embeds/collections_how_to3.png)
 
-2. Select a sharing setting and applicable cultural protocols. Sharing setting has two options: you can select **Any** or **All**. Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. All is more restrictive as users must belong to all the protocols selected to view the collection.
+2. Select a sharing setting and applicable cultural protocols. Sharing setting has two options: you can select **Any** or **All**. Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. All is more restrictive as users must belong to all the selected protocols to view the collection.
 
     !!! requirement 
         Collection name, sharing settings, and cultural protocols are required fields.
@@ -37,7 +37,7 @@ We will start with filling out the information contained in the **Mukurtu Essent
 
 3. Use the *Summary* field to provide a summary of your collection. This field is limited to 255 characters. 
 
-4. Use the *Description* field to provide a description of your collection. This is a full HTML field that can also supports additional media items.
+4. Use the *Description* field to provide a description of your collection. This is a full HTML field that also supports additional media items.
 
     ![Arrows indicating the location of the summary and description fields and a box highlighting the additional media items option.](../_embeds/collections_how_to5.png)
 
@@ -45,19 +45,19 @@ We will start with filling out the information contained in the **Mukurtu Essent
 
     ![An arrow indicating the button users should select to add a thumbnail image.](../_embeds/collections_how_to6.png)
 
-6. Select any *Keywords* you want to apply to your collection. If you need to add more than two keywords, select the "Add another item" button to add additional fields.
+6. Select any *Keywords* you want to apply to your collection. If you need to add more than two keywords, select the "Add another item" button to add additional keywords fields.
 
     ![Arrows indicating the keywords fields and the button to add additional keywords fields.](../_embeds/collections_how_to7.png)
 
 7. In the *Source* field provide information indicating the resource, collection, or institution where the collection was contributed or originated.  
 
-8. Select *Map Points* for your collection. You can include points, paths, rectangles, or polygons to indiciate  physical location references for your collection. **IDEALLY THIS SHOULD LINK TO A MAPPING TUTORIAL**
+8. Select *Map Points* for your collection. You can include points, paths, rectangles, or polygons to indiciate physical location references for your collection. **IDEALLY THIS SHOULD LINK TO A MAPPING TUTORIAL**
     - To add a point, select the first draw marker at the top right of the map. 
     - To add a polyline, select the second draw marker to the right of the map.
     - To add a rectangle, select the third draw marker to the right of the map.
     - To add a polygon, select the fourth draw marker to the right of the map.
     
-9. Add a *Location Description*. This field can be used to add additional context to the mapped location. If a location is identified but not precisely located on a map this field can be used instead of the mapped location. This is a full HTML field that can also supports additional media items.
+9. Add a *Location Description*. If a location has identifying characteristics but is not able to be pinpointed on a map this field can be used instead of the mapped location. It can also be used to add additional context to the map points. This is a full HTML field that can also supports additional media items.
 
 10. In the *Location* field, provide a taxonomic location term for your collection.
 

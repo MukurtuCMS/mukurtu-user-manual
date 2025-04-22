@@ -17,7 +17,7 @@ Select the collection you want to add content to.
 
 Select the **Edit** link above the collection. 
 
-![Select the edit button](../_embeds/collections_addcontent1.png)
+![Select the edit link](../_embeds/collections_addcontent1.png)
 
 Select the **Relations** tab.
 
