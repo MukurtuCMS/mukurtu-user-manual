@@ -5,7 +5,7 @@ tags:
 ---
 # Create Media Assets 
 
-!!! roles "User Roles:"
+!!! roles "User roles:"
 	Protocol Steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor 
 
 There are two ways to create a media asset: from your Dashboard or from Content Items. 
