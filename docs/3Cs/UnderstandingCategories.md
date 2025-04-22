@@ -6,7 +6,7 @@ tags:
 
 # Understanding Categories
 
-!!! roles "User Role:"
+!!! roles "User roles:"
     Mukurtu Administrators
 
 Categories are high-level descriptive terms that help users discover digital heritage items. All communities on the site share the same set of categories.
