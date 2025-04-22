@@ -5,7 +5,7 @@ tags:
 ---
 # Creating and Editing Categories
 
-!!! roles "User roles:"
+!!! roles "User roles"
     Mukurtu Administrators
 
 ## To create a new category, navigate to your Dashboard. 
