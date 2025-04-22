@@ -19,20 +19,6 @@ theme:
         icon: material/weather-sunny
         name: Dark mode
       accent: deep orange
-  icon:
-    admonition:
-      note: octicons/tag-16
-      abstract: octicons/checklist-16
-      info: octicons/info-16
-      tip: octicons/squirrel-16
-      success: octicons/check-16
-      question: octicons/question-16
-      warning: octicons/alert-16
-      failure: octicons/x-circle-16
-      danger: octicons/zap-16
-      bug: octicons/bug-16
-      example: octicons/beaker-16
-      quote: octicons/quote-16
 
 copyright: Mukurtu CMS is managed by the Center for Digital Scholarship and Curation at Washington State University. Mukurtu CMS, Mukurtu Support resources, and all materials on mukurtu.org are distributed under the terms of the GNU General Public License version 3 (or "GPLv3"), which means anyone is free to download and share them with others. <p></p>
 
@@ -59,10 +45,10 @@ plugins:
   - exporter:
       formats:
         pdf:
-          enabled: !ENV [MKDOCS_EXPORTER_PDF, true]
+          enabled: !ENV [MKDOCS_EXPORTER_PDF, false] #re-enable as true when ready
           concurrency: 8
           aggregator:
-            enabled: true
+            enabled: false #re-enable as true when ready
             output: mukurtu-user-manual.pdf
             covers: all
       buttons:
@@ -96,8 +82,12 @@ nav:
     - 3Cs/UnderstandingCategories.md
     - 3Cs/CreateCategories.md 
     - 3Cs/Create-a-community-and-initial-cultural-protocol.md
+    - 3Cs/CreateACulturalProtocolFromTheDashboard.md
+    - 3Cs/SharingSettings.md
   - Collections:
     - collections/UnderstandingCollections.md
+    - collections/AddandArrangeCollections.md
+    - collections/SubcollectionOrganization.md
     - collections/PersonalCollection.md
     - collections/CreateCollection.md 
   - DH Items:
@@ -138,4 +128,4 @@ nav:
     - users/managing-administrator-roles.md 
     - users/managing-user-roles.md 
   - Tags: tags.md
-  - PDF User Manual: mukurtu-user-manual.pdf
+  - Download the User Manual: DownloadManual.md
