@@ -1,9 +1,10 @@
 ---
-tags: 
+tags:
     - media
-	- getting started
+    - getting started
 ---
-# Create Media Assets 
+
+# Create Media Assets
 
 !!! roles "User roles:"
 	Protocol Steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor 
