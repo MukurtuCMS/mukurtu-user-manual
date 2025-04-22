@@ -11,7 +11,7 @@ tags:
 
 All dictionary words must be associated with one language listed in the language taxonomy. Languages can be added to the language taxonomy two ways:
 
-- When a digital heritage item is created by using the *language* field. See [Creating a Digital Heritage Item](../digital-heritage-items/CreateDHItem.md) for more information.
+- When a digital heritage item is created by using the language field. See [Creating a Digital Heritage Item](../digital-heritage-items/CreateDHItem.md) for more information.
 - Directly adding a language to the language taxonomy.
 
 To add a language, INSERT STEPS HERE
@@ -22,10 +22,12 @@ If the language you want to use is already listed, no further action is needed.
 
 If the language is not already listed, select "+ Add Term".
 
-![Screenshot of the language taxonomy list.](../_embeds/language-add-01.png)
+![Screenshot of the language taxonomy list with the add term button indicated.](../_embeds/language-add-01.png)
 
-Enter the language name in the *Term* field, as you want it to appear on the site.
-The *Description* field is optional, and display in INSERT CONTEXT HERE.
+Enter the language name in the *Name* field, as you want it to appear on the site.
+
+The *Description* field is optional, and displayed INSERT CONTEXT HERE.
+
 When ready:
 
 - Select "Save" and the page will reload so you can continue to add more terms, or;
