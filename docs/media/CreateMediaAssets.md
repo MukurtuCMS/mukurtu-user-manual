@@ -5,7 +5,7 @@ tags:
 ---
 # Create Media Assets 
 
-!!! question "User Roles:"
+!!! roles "User Roles:"
 	Protocol Steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor 
 
 There are two ways to create a media asset: from your Dashboard or from Content Items. 
@@ -43,8 +43,8 @@ There are two ways to create a media asset: from your Dashboard or from Content 
 - Enter the name of your externally embedded media.
 - Enter the embed code.
 - Select and insert a thumbnail image for your external embed.
-	1. In the **Thumbnail** field, select the "Browse" button to upload an image file or drag and drop an image file from your file explorer.
-	2. Provide alternative text for the thumbnail image. This short description is used by screen readers and displayed when the image is not loaded. It is important for accessability. This is a required field.
+	- In the **Thumbnail** field, select the "Browse" button to upload an image file or drag and drop an image file from your file explorer.
+	- Provide alternative text for the thumbnail image. This short description is used by screen readers and displayed when the image is not loaded. It is important for accessability. This is a required field.
 	
 ## These additional fields are used across all media types 
 

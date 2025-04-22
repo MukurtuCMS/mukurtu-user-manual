@@ -5,7 +5,7 @@ tags:
 ---
 # Manage Media Access with Cultural Protocols
 
-!!! question "User roles:"
+!!! roles "User roles:"
     Protocol steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor
 
 Cultural protocols must be directly added to all media assets in your media library. This is a new requirement for Mukurtu v4.

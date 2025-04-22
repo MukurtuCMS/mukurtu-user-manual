@@ -5,7 +5,7 @@ tags:
 ---
 # Vimeo Privacy Settings
 
-!!! question "User Roles:"
+!!! roles "User Roles:"
 	Protocol Steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor 
 
 Vimeo's paid plans offer multiple privacy settings. [Vimeo privacy information](https://vimeo.com/features/video-privacy)

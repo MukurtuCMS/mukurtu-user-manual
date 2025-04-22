@@ -5,7 +5,7 @@ tags:
 ---
 # Media Asset Metadata
 
-!!! question "User roles:"
+!!! roles "User roles:"
     Protocol steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor
 
 Media assets are the core element of Digital Heritage Items and can be images, documents, video, audio files, or embedded media. 
@@ -54,7 +54,7 @@ Media assets are the core element of Digital Heritage Items and can be images, d
 - A thumbnail image associated with the media asset. 
 - These are automatically generated for audio, video, and URL-linked assets. 
 
-!!! warning 
+!!! requirement 
     This is a required field for External Embeds.
 
 ## Fields unique to specific media asset types
