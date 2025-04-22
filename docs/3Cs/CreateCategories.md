@@ -5,7 +5,7 @@ tags:
 ---
 # Creating and Editing Categories
 
-!!! question "User roles:"
+!!! roles "User roles:"
     Mukurtu Administrators
 
 ## To create a new category, navigate to your Dashboard. 
@@ -28,7 +28,7 @@ tags:
 3. Apply a thumbnail image to your category. The thumbnail image appears on your front page and can help further clarify your category for users. 
 4. Select **Add media**. Select **Browse** to upload a file or scroll down to select images that have already been uploaded.  
 
-    !!! warning "Allowed file types are .png, .gif, .jpg, or .jpeg."
+    !!! requirement "Allowed file types are .png, .gif, .jpg, or .jpeg."
 
     ![Add a Thumbnail Image](../_embeds/categories5.PNG)
 
