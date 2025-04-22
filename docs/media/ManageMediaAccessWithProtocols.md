@@ -15,7 +15,7 @@ All media assets require cultural protocols.
 
 In most cases you will want to apply the same cultural protocols to each media asset that are applied to the content items where the media asset is used. This ensures that if a user can view the content, they can also view the media assets.
 
-If necessary, you can have different protocols between content and media. You can apply a strict protocol to a media asset and associate it with a content item with an open protocol. A common use case for this is when you want to provide access to metadata from an open protocol but restrict access to the media. 
+If necessary, you can have different protocols between content and media. You can apply a strict protocol to a media asset and associate it with a content item with an open protocol. A common use for this is when you want to provide access to metadata from an open protocol but restrict access to the media. 
 
 If the media is not available under certain cultural protocols it is not presented to the user. 
 **MAKE SOMETHING UP FOR WHY THIS WOULD NOT BE SHOWN LIKE THIS PROJECT IS UNDER REVIEW BY PROJECT PARTNERS** The **THING** itself was assigned a strict protocol and does not appear on the site.
