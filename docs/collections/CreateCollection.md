@@ -61,15 +61,15 @@ We will start with filling out the information contained in the **Mukurtu Essent
 
 10. In the *Location* field, provide a taxonomic location term for your collection.
 
-You can save your Collection at this point. Return to the top of your page to select the **Relations** tab to add content to your collection.
+    You can save your Collection at this point. Return to the top of your page to select the **Relations** tab to add content to your collection.
 
 11. In the **Items in Collection** section, select the "Select Content" button. Digital heritage items, person records, dictionary words, and other content items can be included in a collection. 
 
 12. Select the checkbox beside all the content items you wish to include in the collection, then scroll down and select "Add Content".
 
-If you choose to create any sub-collections, they can be added by selecting the "Select Content" button in the **Sub-Collections** section. Sub-collections must have already been created to be added from this section.
+    If you choose to create any sub-collections, they can be added by selecting the "Select Content" button in the **Sub-Collections** section. Sub-collections must have already been created to be added from this section.
 
-If you have any related content to the collection, select the "Select Content" button in the **Related Content** section.
+    If you have any related content to the collection, select the "Select Content" button in the **Related Content** section.
 
 13. Select whether you want to save this collection as a draft or as a published collection. Select either **Draft** or **Published**, then select the "Save" button. You also have the option to preview your collection by selecting "Preview".
 
