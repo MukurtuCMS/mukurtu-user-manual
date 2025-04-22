@@ -5,7 +5,7 @@ tags:
 ---
 # Media Upload Instructions by Media Type
 
-!!! roles "User roles:"
+!!! roles "User roles"
 	Protocol Steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor 
 
 

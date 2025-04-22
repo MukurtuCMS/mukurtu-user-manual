@@ -5,7 +5,7 @@ tags:
 ---
 # Youtube Privacy Settings
 
-!!! roles "User Roles:"
+!!! roles "User roles"
 	Protocol Steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor 
 
 Youtube offers limited privacy settings.

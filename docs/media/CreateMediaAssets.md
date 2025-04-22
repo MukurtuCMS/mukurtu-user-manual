@@ -4,61 +4,64 @@ tags:
     - getting started
 ---
 
-# Create Media Assets
+# Create Media Assets Overview
 
-!!! roles "User roles:"
+!!! roles "User roles"
 	Protocol Steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor 
 
-There are two ways to create a media asset: from your Dashboard or from Content Items. 
+Mukurtu supports several different types of media assets. These include audio files, SoundCloud links, documents, external embeds, image files, remote video links from Vimeo and YouTube, and video files. The way you create media assets varies slightly for different types of assets, but generally follows a similar workflow. 
 
-- From your dashboard, select "Add Media". 
+This article provides a basic overview of how to create media assets, along with some special considerations for different media types. For step-by-step instructions on creating different types of media assets, please see [Media Upload Instructions by Media Type](ByTypeMediaUpload.md).
 
-- Select the type of media you want to add and enter metadata as described below.  
+## Overview 
 
-- To create a media asset in a content item, select the "Add Media" **Mukurtu Essentials** tab. 
+There are two ways to create a media asset: from your dashboard or while creating content. Some elements will look different depending on whether you are adding media from your dashboard or while creating content, but the workflow for both of these are the same.
 
-	- Select the type of media you want to add. 
-	- Select "Browse" for uploading audio, document, image, or video files.
-	- Insert the URL or embed code for remote video, SoundCloud, or external embeds.
-	- Enter the media asset metadata as described below or in the [Media Asset Metadata](MediaAssetMetadata.md) support document.
-	- Select Save. 
-	- Select the media asset you want to assign to your content item, then select the Insert Selected button.
+- When adding media from your dashboard, you can select "Add Media". When adding media from content, selecting "Add Media" in the **Media Assets** field allows you to add different media types. 
+	- When adding media from content, the media type may be restricted by the content that is being created.
+- You can select the "Choose File" or "Browse" button for uploading audio, document, image, or video files. 
+
+!!! tip
+	Depending on your browser, the text on the button may vary.
+
+- You can insert the URL or embed code for remote video, SoundCloud, or external embeds.
+- Media asset metadata for is briefly described below. For more details, visit the [Media Asset Metadata](MediaAssetMetadata.md) support document.
+- Once your media assets are part of your media library, they can easily be added to your content. 
 
 !!! warning 
 	Note that externally hosted resources cannot be protected by cultural protocols. 
 
-## Required fields for locally hosted media files 
+## Considerations for locally hosted media files 
 
-- Select "Browse" to upload your file.  
 - Names are automatically generated from the filename of the media. 
-- Select a *Sharing Setting* and *Cultural Protocol* to apply to your media. 
+- Make sure you select a *Sharing Setting* and *Cultural Protocol* to apply to your media. 
 
-## Required fields for remotely hosted media 
+## Considerations for remotely hosted media 
 
-- Enter the URL for your media asset.  
+- Enter the URL to link to your media asset.  
 - Filenames automatically generate for remotely hosted media.
-- Select a *Sharing Setting* and *Cultural Protocol* to apply to your media. 
+- Make sure you select a *Sharing Setting* and *Cultural Protocol* to apply to your media. 
 
-## Required fields for embedded media
+## Considerations for embedded media
 
-- Enter the name of your externally embedded media.
-- Enter the embed code.
-- Select and insert a thumbnail image for your external embed.
+- The name of your externally embedded media is not auto-generated.
+- Enter the embed code to add your externally embedded media to the media library.
+- You must select a thumbnail image for your external embed.
 	- In the **Thumbnail** field, select the "Browse" button to upload an image file or drag and drop an image file from your file explorer.
-	- Provide alternative text for the thumbnail image. This short description is used by screen readers and displayed when the image is not loaded. It is important for accessability. This is a required field.
+	- Alternative text is required for the thumbnail image. This short description is used by screen readers and displayed when the image is not loaded. It is important for accessability. This is a required field.
 	
-## These additional fields are used across all media types 
+## These optional metadata fields are used for all media types 
 
 - Identifier 
 - People 
 - Media Tags 
 - Thumbnail
 
-### Additional audio metadata fields 
+### Additional optional audio metadata fields 
 
 - Contributor 
 - Transcription 
 
-### Additional image metadata fields
+### Additional required image metadata field
 
 - Alternative Text - this is a required field for images

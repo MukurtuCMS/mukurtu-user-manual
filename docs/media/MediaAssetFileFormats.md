@@ -5,7 +5,7 @@ tags:
 ---
 # Media Asset File Formats
 
-!!! roles "User roles:"
+!!! roles "User roles"
     Protocol steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor
 
 ## Audio Files 

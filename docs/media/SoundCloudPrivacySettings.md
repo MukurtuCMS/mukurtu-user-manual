@@ -5,7 +5,7 @@ tags:
 ---
 # SoundCloud Privacy Settings
 
-!!! roles "User roles:"
+!!! roles "User roles"
     Protocol steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor
 
 SoundCloud offers limited privacy settings. [SoundCloud Privacy Information](https://help.soundcloud.com/hc/en-us/articles/115003562388-Changing-your-track-s-privacy-setting)
