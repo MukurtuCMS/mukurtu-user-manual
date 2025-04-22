@@ -5,7 +5,7 @@ tags:
 ---
 # Create and Manage a Personal Collection
 
-!!! question "User roles:"
+!!! roles "User roles:"
     Registered Users
 
 Mukurtu CMS users can create and manage personal collections. Personal collections can be created and managed through the dashboard or from any content item. 

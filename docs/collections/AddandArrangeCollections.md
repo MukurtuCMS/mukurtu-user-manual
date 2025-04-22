@@ -6,7 +6,7 @@ tags:
 
 # Add Content and Arrange a Collection
 
-!!! question "User roles:" 
+!!! roles "User roles:" 
     Protocol steward, Curator
     
 Protocol Stewards and Curators can add content and arrange the collections they administer through the collections page. 

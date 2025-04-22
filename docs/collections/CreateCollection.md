@@ -5,7 +5,7 @@ tags:
 ---
 # Create a Collection
 
-!!! question "User roles:" 
+!!! roles "User roles:" 
     Protocol steward, Curator
 
 You can create a collection in Mukurtu from your **Dashboard** or by selecting **Add Content**.
@@ -30,7 +30,8 @@ We will start with filling out the information contained in the **Mukurtu Essent
 
 2. Select a sharing setting and applicable cultural protocols. Sharing setting has two options: you can select **Any** or **All**. Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. All is more restrictive as users must belong to all the protocols selected to view the collection.
 
-    !!! tip "Collection name, sharing settings, and cultural protocols are required fields."
+    !!! requirement 
+        Collection name, sharing settings, and cultural protocols are required fields.
 
     ![Arrows indicating the location of the sharing settings and cultural protocol fields.](../_embeds/collections_how_to4.png)
 

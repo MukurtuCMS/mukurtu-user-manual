@@ -5,7 +5,7 @@ tags:
 ---
 # Subcollection Organization
 
-!!! question "User roles:" 
+!!! roles "User roles:" 
     Protocol steward, Curator, Registered user
 
 Collections and personal collections can be structurally organized in hierarchies by creating subcollections. Creating a subcollection follows the same process creating a collection. Assigning a subcollection to a parent collection can be done in two ways. 
