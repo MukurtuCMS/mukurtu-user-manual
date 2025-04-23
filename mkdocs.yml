@@ -98,8 +98,10 @@ nav:
     - 3Cs/Create-a-community-and-initial-cultural-protocol.md
   - Collections:
     - collections/UnderstandingCollections.md
+    - collections/CreateCollection.md
     - collections/PersonalCollection.md
-    - collections/CreateCollection.md 
+    - collections/SubcollectionOrganization.md
+    - collections/AddandArrangeCollections.md
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
   - FAQs:

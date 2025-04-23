@@ -5,16 +5,16 @@ tags:
 ---
 # Understanding Collections
 
-!!! roles "User roles:" 
+!!! roles "User roles" 
     Protocol steward, Curator
 
 There are two types of collections in Mukurtu: personal collections and collections curated by protocol stewards and curators. The bulk of this article addresses administrator curated collections. For more information on personal collections, please navigate to the Personal Collections subheading in this article or visit [Create and Manage a Personal Collection](PersonalCollection.md).
 
 ## Collections 
 
-The default browse view in Mukurtu sorts content by the most recently updated, which may not be the way communities prefer to organize some content. To provide context or connections for some items or groups of items, communities may choose to use Mukurtu's Collections feature. Collections are a useful feature that can help protocol stewards and curators arrange content in ways that help provide a more comprehensive context for that content. The creator of the collection determines the way the collection is arranged, including the order in which content is displayed. Users only see those items they have access to based on their cultural protocols. Collections provide users with a more curated or guided experience of the site's content.
+The default browse view in Mukurtu sorts content by the most recently updated, which may not be the way communities prefer to organize some content. To provide context or connections for some items or groups of items, communities may choose to use Mukurtu's Collections feature. Collections are a useful feature that help protocol stewards and curators arrange content in ways that help provide a more comprehensive context for that content. The creator of the collection determines the way the collection is arranged, including the order in which content is displayed. Users only see those items they have access to based on their cultural protocols. Collections provide users with a more curated or guided experience of the site's content.
 
-There are many options for ways to use the collections feature. Some communities use it to create digital exhibits, such as Gather's [Living Language: Country, Culture, Community Exhibition](https://gather.sl.nsw.gov.au/collection/living-language-country-culture-community-exhibition).
+There are many ways to use the collections feature. Some communities use it to create digital exhibits, such as Gather's [Living Language: Country, Culture, Community Exhibition](https://gather.sl.nsw.gov.au/collection/living-language-country-culture-community-exhibition).
 
 [![Gather's Living Language Country Culture and Community Exhibition collection page.](../_embeds/collections1.png)](https://gather.sl.nsw.gov.au/collection/living-language-country-culture-community-exhibition)
 

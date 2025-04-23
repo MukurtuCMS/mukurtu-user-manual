@@ -5,12 +5,13 @@ tags:
 ---
 # Create a Collection
 
-!!! roles "User roles:" 
+!!! roles "User roles" 
     Protocol steward, Curator
 
+To provide context or connections for some items or groups of items, communities may choose to use Mukurtu's Collections feature. Collections are a useful feature that help protocol stewards and curators arrange content in ways that help provide a more comprehensive context for that content. The creator of the collection determines the way the collection is arranged, including the order in which content is displayed. Users only see those items they have access to based on their cultural protocols. Collections provide users with a more curated or guided experience of the site's content. 
 You can create a collection in Mukurtu from your **Dashboard** or by selecting **Add Content**.
 
-## Steps to create a collection 
+## Create a new collection 
 
 To create a collection from your dashboard, select **Dashboard** and scroll down to the **Collection** link. 
 
@@ -24,12 +25,12 @@ Begin by filling out the metadata fields in the **Mukurtu Essentials** tab.
 
 2. Select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. All is more restrictive as users must belong to all the selected protocols to view the collection. This is a required field.
 
+3. Apply cultural protocols by selecting the checkbox beside any cultural protocols that should be applied to this collection. 
+
     !!! requirement 
         Collection name, sharing settings, and cultural protocols are required fields.
 
     ![Arrows indicating the location of the sharing settings and cultural protocol fields.](../_embeds/collections_how_to4.png)
-
-3. Apply cultural protocols by selecting the checkbox beside any cultural protocols that should be applied to this collection. 
 
 4. Use the *Summary* field to provide a summary of your collection. This field is limited to 255 characters. 
 
@@ -48,6 +49,7 @@ Begin by filling out the metadata fields in the **Mukurtu Essentials** tab.
 8. In the *Source* field provide information indicating the resource, collection, or institution where the collection was contributed or originated.  
 
 9. Select *Map Points* for your collection. You can include points, paths, rectangles, or polygons to indiciate physical location references for your collection. **IDEALLY THIS SHOULD LINK TO A MAPPING TUTORIAL**
+
     - To add a point, select the first draw marker at the top right of the map. 
     - To add a polyline, select the second draw marker to the right of the map.
     - To add a rectangle, select the third draw marker to the right of the map.
