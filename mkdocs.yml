@@ -73,6 +73,8 @@ extra:
     roundtrip: roundtrip
     users: users
     content: content
+    dictionary: dictionary
+    taxonomies: taxonomies
 
 nav:
   - Home: index.md
@@ -92,6 +94,9 @@ nav:
     - collections/CreateCollection.md 
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
+    - digital-heritage-items/CreateDHItem.md
+  - Dictionary:
+    - dictionary/AddLanguage.md
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Localization and Translation:
