@@ -118,18 +118,10 @@ tags:
 - Admonitions provide clear visual indicators that ask for more attention through use of color, icon, styling, and placement.
 - They are used to highlight warnings, reminders, and other check ins.
 - The available admonitions are:
-    - note
-    - abstract
-    - info
+    - roles "User roles"
     - tip
-    - success
-    - question
+    - requirement
     - warning
-    - failure
-    - danger
-    - bug
-    - example
-    - quote
 - An admonition starts with three exclamation marks, followed by the admonition type. Indent the content of the admonition below.
 
 ```
@@ -142,6 +134,7 @@ Eg:
 ```
 
 - To override the default title of the admonition, follow the admonition type with the desired title in double quotes.
+    - You must include the "User roles" title override.
 
 ```
 Eg: 
@@ -231,8 +224,9 @@ Eg:
 - You can use your system's screenshot tool or a browser extension to capture screenshots.
 - Screenshots should be taken with your browser zoom at 100%.
 - Screenshots do not need to be the full width of your monitor.
+- In general, capturing the full width of the page, instead of cropping to a more portrait orientation will look better on the site. But use good judgement.
 - A screenshot of a portion of the interface should include enough visual context around the focus area to orient readers. Too narrow of a focus is not effective.
-- If necessary, widen the browser window enough to include whitespace and keep things form looking cramped.
+- If necessary, widen the browser window enough to include whitespace and keep things from looking cramped.
 - If there is a visual difference between browsers, include representative screenshots of each (eg: Firefox and Chrome have audio players that look different).
 - Save screenshots as PNG files.
 
@@ -266,13 +260,15 @@ Eg:
     - Alt text requirements are provided in [Alt test](#alt-text).
 - Eg: `![Screenshot of the create digital heritage item form.](../docs/_embeds/create-dh-01.png)`
 - Images use a lightbox tool, so any image can be clicked on to view it at full resolution.
-- Do not use images as links.
+- Images can be links
+    -  ??? they need different alt text
 
 ### Alt text
 
 - https://www.archbee.com/blog/screenshots-in-technical-documentation 
 - All screenshots and images should have alt text.
 - <https://www.csun.edu/universal-design-center/document-learning-tools#DescribingImages> 
+- <https://intranet.birmingham.ac.uk/staff/resources/digital/web-resources/editor-resources/guidelines/accessibility/alt-text.aspx>
 - ??? how to write good alt text ???
 
 ## Writing tone and style
@@ -322,7 +318,8 @@ Eg:
     - Consider and international audience;
     - Make regular use of declarative and imperative language, limited use of interrogative language, and sparing use of exclamatory language;
     - Primarily use active voice;
-    - For general guidelines (especially when recommending things to avoid or error messages) use passive voice;
+    - For general guidelines (especially when recommending things to avoid or error messages) use passive voice.
+- Be direct.
 - We should strive to provide accessible documentation to support use of screen readers and other tools...
     - Use `select` instead of `click/click on` page elements. This is more inclusive of those using screen readers and other assistive tools;
     - Avoid using `-` in text as a separator. It is fine when used in compound words and markdown syntax.;
@@ -332,7 +329,8 @@ Eg:
     - Avoid other problematic or ableist language, eg: <https://arthalearning.com/accessible-and-inclusive-language-in-elearning/#/>.
 - Include textual and visual examples where beneficial.
 - Use specific language for different types of UI interactions <https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui>
-- Use consistent stylistic indicators to communicate things like buttons, interface elements, and other features.
+- Use consistent stylistic indicators to communicate things like buttons, interface elements, and other features 
+    - ??? ONLY in relation to the instructions/screenshots/etc on page
 
 **Buttons**
 
