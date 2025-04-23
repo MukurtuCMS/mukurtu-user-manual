@@ -56,6 +56,6 @@ There are two different ways to assign an existing collection as a sub-collectio
 3. Your new sub-collection will populate under Collection. You must click and drag it under the parent collection to assign it as a subcollection.
 
     !!! warning
-        If you do not click and drag the sub-collection under the parent collection before saving, it will not be assigned as a sub-collection.
+        If you do not select and drag the sub-collection under the parent collection before saving, it will not be assigned as a sub-collection.
 
 4. Select "Save" to save your collection organization. 
