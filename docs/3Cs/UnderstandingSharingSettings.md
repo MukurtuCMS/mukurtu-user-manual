@@ -1,6 +1,5 @@
-# Sharing Settings
+# Understanding Sharing Settings
 
-## Understanding Sharing Settings
 For content with multiple protocols assigned, sharing settings help to determine a content item's level of access. You will see this setting on all content types (digital heritage, dictionary word, person record and collection) The setting is a  choice between *all* or *any*. 
 
 **All**: An item with multiple protocols may only be viewed by members of ALL assigned protocols. 
