@@ -45,10 +45,10 @@ plugins:
   - exporter:
       formats:
         pdf:
-          enabled: !ENV [MKDOCS_EXPORTER_PDF, true]
+          enabled: !ENV [MKDOCS_EXPORTER_PDF, false] #re-enable as true when ready
           concurrency: 8
           aggregator:
-            enabled: true
+            enabled: false #re-enable as true when ready
             output: mukurtu-user-manual.pdf
             covers: all
       buttons:
@@ -78,7 +78,7 @@ extra:
     collections: collections
     comments: comments
     communities cultural protocols and categories: communities cultural protocols and categories
-    dictionary: dictonary
+    dictionary: dictionary
     digital heritage items: digital heritage items
     future development: future development
     getting started: getting started
@@ -115,6 +115,9 @@ nav:
     - collections/CreateCollection.md 
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
+    - digital-heritage-items/CreateDHItem.md
+  - Dictionary:
+    - dictionary/AddLanguage.md
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Localization and Translation:
