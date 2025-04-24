@@ -65,9 +65,9 @@ Begin by filling out the metadata fields in the **Mukurtu Essentials** tab.
 
 13. Select the checkbox beside all the content you wish to include in the collection, then scroll down and select "Add Content".
 
-    If you choose to create any sub-collections, they can be added by selecting the "Select Content" button in the **Sub-Collections** section. Sub-collections must have already been created to be added from this section.
+    - If you choose to create any sub-collections, they can be added by selecting the "Select Content" button in the **Sub-Collections** section. Sub-collections must have already been created to be added from this section.
 
-    If you have any related content to the collection, select the "Select Content" button in the **Related Content** section.
+    - If you have any related content to the collection, select the "Select Content" button in the **Related Content** section.
 
 14. Select whether you want to save this collection as a draft or as a published collection. Select either **Draft** or **Published**, then select the "Save" button. You also have the option to preview your collection by selecting "Preview".
 
