@@ -153,26 +153,33 @@ Eg:
     - Asterisks (*) and plus signs (+) work as well, but this documentation will use dashes.
 - Indent one or more items (using tab or 4 spaces) to create a nested list.
 - There must be an empty line before and after the list.
+- There must be an empty line after each list item. Do not double space.
 
 ```
 Eg: 
 
 - Item
+
 - Another item
+
     - Indented item
+
+    - When the line continues to the end of the page, there is no need for an empty line underneath. Simply add a line after the next item.
 ```
 
 **Ordered (numbered) lists**
 
 - To create an ordered list, add line items with numbers followed by periods. 
 - Indent one or more items (using tab or 4 spaces) to create a nested list.
+- There must be an empty line after each list item. Do not double space for lines that continue past the edge of the page.
+- Top level list items are numbered. All sub-list items are formatted as unordered lists or unordered lists.
 
 ```
 Eg: 
 
 1. Item
 2. Another item
-    a. Indented item
+    - Indented item
 ```
 
 ### Emphasis
