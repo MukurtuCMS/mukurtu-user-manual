@@ -11,3 +11,23 @@ We provide basic training and troubleshooting through web conference, phone call
 Mukurtu CMS, Mukurtu Support resources, and all materials on [mukurtu.org](https://mukurtu.org){target=_blank} are distributed under the terms of the [GNU General Public License version 3](https://www.gnu.org/licenses/quick-guide-gplv3.html){target=_blank} (or "GPLv3"), which means anyone is free to download and share them with others.
 
 [Contact Support :fontawesome-solid-paper-plane:](mailto:support@mukurtu.org){ .md-button .md-button--primary }
+
+## Using the Mukurtu 4 user manual
+
+!!! roles "User roles"
+    This call out specifies which user role(s) can take the actions defined in an article.
+
+!!! tip
+    This call out provides helpful additional information of context.
+
+!!! requirement
+    This call out notifies you that there are requirements or prerequisites before you can take the actions defined in an article.
+
+!!! warning
+    This call out notifies you that there is essential information or particularly risky actions defined in an article.
+
+When the manual states that you can go directly to a page and provides a partial path, you can append that path to your site's base URL to go there. Eg:
+
+- If your site is `https://my-mukurtu-site.com`
+- And the manual says you can "[....] go directly to the dashboard at `/admin/dashboard`"
+- You can go to that page at `https://my-mukurtu-site.com/admin/dashboard`

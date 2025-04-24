@@ -5,10 +5,10 @@
 
 From the Mukurtu Dashboard, scroll down and select "Cultural Protocols" on the left menu. 
 
-![Name your protocol](../_embeds/createprotocol6.png)
+![Name your protocol](../_embeds/Createprotocol6.png)
 
 Next, select "Add Protocol" on the top right. This will open a form for the new protocol.
-![Select Add Protocol](../_embeds/createprotocol7.png)
+![Select Add Protocol](../_embeds/CreateProtocol7.png)
 
 
 Name your protocol. It's helpful to describe the organization or group associated with this protocol and the access level. (i.e. CDSC Public)
