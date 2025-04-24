@@ -153,7 +153,7 @@ Eg:
     - Asterisks (*) and plus signs (+) work as well, but this documentation will use dashes.
 - Indent one or more items (using tab or 4 spaces) to create a nested list.
 - There must be an empty line before and after the list.
-- There must be an empty line after each list item. Do not double space.
+- There must be an empty line after each list item, but do not double space for lines that continue past the edge of the page.
 
 ```
 Eg: 
@@ -163,8 +163,6 @@ Eg:
 - Another item
 
     - Indented item
-
-    - When the line continues to the end of the page, there is no need for an empty line underneath. Simply add a line after the next item.
 ```
 
 **Ordered (numbered) lists**
