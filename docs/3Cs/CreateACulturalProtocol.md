@@ -60,19 +60,19 @@ This article covers two other methods for creating a cultural protocol - from th
 
     At this point, you can add protocol members and assign them to user roles, but this step is not necessary to create the protocol and can be done at any time. Note that ALL protocol members must first be community members. 
 
-    Protocol user roles are:
+    Protocol user roles are: 
 
     -   Protocol stewards: Users with this role can manage membership (enrolling and removing users) and content (adding and deleting content).
     -   Protocol contributors: Users with this role can create digital heritage items within the protocol.
     -   Protocol members: Users with this role can view any content under the protocol unless that content is under multiple protocols, in which case they may need to be a member of all assigned protcols to access the content.
 
-3. The steps to enroll a community member into any user role are the same:
+3. The steps to enroll a community member into any protocol user role are the same:
 
     -  Under the appropriate user role, select "Select Member"
 
-     ![Screenshot of the description field, the protocol stewards field title with a grey button that says select members highlighted in a red box, a list of current protocol stewards with a grey remove button below their names, and the protocol members field title](../_embeds/create-protocol-16.png)
+    -  Enter their username in the search bar or select from the list of community members below. Select "Add Users." Once added, you can remove users by selecting "Remove" under their username. ---THE SEARCH BAR WILL CHANGE---
 
-    -  Enter their username in the search bar or select from the list of community members below. Select "Add Users." Once added, you can remove users by selecting "Remove" under their username. ---THIS WILL CHANGE---
+     ![Screenshot of the description field, the protocol stewards field title with a grey button that says select members highlighted with a red box, a list of current protocol stewards with a grey remove button below their names, and the protocol members field title](../_embeds/create-protocol-16.png)
 
     ![Screenshot of the form for selecting protocol members. At the top is a search field and grey search button. Beneath that is a list of community members with a checkbox next to each name. Beneath that list is a blue button that says add users with a list of current users with grey buttons below their names that say remove. Below this is a blue button that says finished next to a grey button that says hide selected.](../_embeds//create-protocol-17.png)
 
@@ -81,4 +81,6 @@ This article covers two other methods for creating a cultural protocol - from th
     ![Screenshot of the form for selecting protocol members. At the top is a grey button that says Select Members. Beneath that is a list of current members. Under that is the Protocol Members field title, with a grey button that says select members. Below that are two grey buttons. The button on the left says Save and create another protocol. The button on the right says save.](../_embeds//create-protocol-18.png)
 
 5. Once the protocol is saved, you will be taken to the new protocol page. If you've added a banner image   and description, you should be able to see them here. A confirmation message will also be displayed.
+
+    ![Screenshot of a newly created protocol page with a success message in green that reads Created the WSU-MASC Public Protocol.](../_embeds//create-protocol-18.png)
 
