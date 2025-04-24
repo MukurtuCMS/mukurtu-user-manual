@@ -16,31 +16,29 @@ You can create a personal collection from your dashboard or from content. The bu
 
 1. To create a personal collection, navigate to "Personal Collections" in your dashboard. 
 
-2. Select the "Add to Personal Collection" button at the top of the content page. 
+    ![Screenshot of the dashboard with the personal collections link highlighted.](../_embeds/personalcollectiondashboard1.png)
 
-    **ADD A SCREENSHOT HERE**
+2. Select the **Create a new personal collection** dropdown menu. 
 
-3. Select the **Create a new personal collection** dropdown menu. 
+    ![Screenshot of the dashboard on one side with the Add to personal collection section on the other, with the add to personal collection button highlighted.](../_embeds/personalcollectiondashboard2.png)
 
-4. In the *Personal collection name* field, enter a name for your collection.
+3. In the *Personal collection name* field, enter a name for your collection.
 
-5. Select a **Privacy Setting**. Personal collections can be either public or private. Private personal collections are only visible to you, while public personal collections are accessible by anyone with the proper cultural protocols.
+4. Select a **Privacy Setting**. Personal collections can be either public or private. Private personal collections are only visible to you, while public personal collections are accessible by anyone with the proper cultural protocols.
 
-    **ADD A SCREENSHOT HERE**
+    ![Screenshot of the personal collections creation page with the Personal collection name and Privacy settings fields highlighted.](../_embeds/personalcollectiondashboard3.png)
 
-6. Enter a *Summary* and a *Description* for your personal collection. 
+5. Enter a *Summary* and a *Description* for your personal collection. 
 
-    **ADD A SCREENSHOT HERE**
+6. You may choose to add a thumbnail to your personal collection. Select "Add media" to upload an image or select one from the media library.
 
-7. You may choose to add a thumbnail to your personal collection. Select "Add media" to upload an image or select one from the media library.
+    - Browse to insert your image file or select an image from your media library. Select the "Insert selected" button to assign your thumbnail.
 
-    - Browse to insert your image file, then select the "Insert selected" button.
+    ![Screenshot of the add media pop-up window with the browse button, a media item checkbox, and the insert selected buttons highlighted.](../_embeds/personalcollectiondashboard4.png)
 
-8. You can select "Save" to save your personal collection at this point, or scroll to the top and select the **Items** tab to add content items.
+7. You can select "Save" to save your personal collection at this point, or navigate to the top of the page and select the **Items** tab to add content items.
 
-    **ADD A SCREENSHOT HERE**
-
-9. From the **Items** tab, select the "Select Content" button. 
+8. From the **Items** tab, select the "Select Content" button. 
 
     !!! tip 
         You can filter content by type or search by title.
@@ -49,9 +47,9 @@ You can create a personal collection from your dashboard or from content. The bu
    
     - Select "Add Content" to add the items to your personal collection.
 
-    **ADD A SCREENSHOT HERE**
+    ![Screenshot of the Add content pop-up window with the type and title search options highlighted.](../_embeds/personalcollectiondashboard5.png)
 
-10. Select "Save".
+9. Select "Save".
 
 ## Create a personal collection from content
 
@@ -65,7 +63,7 @@ You can create a personal collection from your dashboard or from content. The bu
 
 3. Select the "Add to personal collection" button from the menu bar of the content.
 
-    ![alt text](../_embeds/personalcollection1.png)
+    ![Screenshot of a content item with the Add to personal collection button highlighted.](../_embeds/personalcollection1.png)
 
 4. The remaining steps are the same as creating a new personal collection from your dashboard. 
 

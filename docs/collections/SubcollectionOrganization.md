@@ -49,7 +49,7 @@ There are two different ways to assign an existing collection as a sub-collectio
 
 1. From the parent collection page, select "Manage Collection Organization".
 
-    ![alt text](../_embeds/subcollections3.png)
+    ![Screenshot with the Manage collection organization button highlighted.](../_embeds/subcollections3.png)
 
 2. Start typing the sub-collection name in the text box to bring up a list of your existing sub-collections. Select the sub-collection you want to assign, then select "Add to Organization".
 
@@ -57,6 +57,10 @@ There are two different ways to assign an existing collection as a sub-collectio
 
     !!! warning
         You must select and drag the sub-collection under the parent collection before saving for it to be assigned as a sub-collection.
+
+    ![Screenshot with sub-collection to the left, not arranged under the collection.](../_embeds/subcollections8.png)
+
+    ![Screenshot with sub-collection arranged under the collection.](../_embeds/subcollections9.png)
 
 4. Select "Save" to save your collection organization. 
 
