@@ -73,6 +73,29 @@ extra:
     roundtrip: roundtrip
     users: users
     content: content
+    about mukurtu: about Mukurtu
+    account management: account management
+    collections: collections
+    comments: comments
+    communities cultural protocols and categories: communities cultural protocols and categories
+    dictionary: dictonary
+    digital heritage items: digital heritage items
+    future development: future development
+    getting started: getting started
+    infrastructure: infrastructure
+    local contexts: Local Contexts
+    look and feel: look and feel
+    mapping: mapping
+    migration: migration
+    person records: person records
+    search: search
+    security: security
+    site maintenance: site maintenance
+    structure: structure
+    taxonomies: taxonomies
+    translation and localization: translation and localization
+    user roles and responsibilities: user roles and responsibilities
+    workflows: workflows
 
 nav:
   - Home: index.md
