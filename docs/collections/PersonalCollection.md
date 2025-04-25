@@ -10,9 +10,9 @@ tags:
 
 Registered Mukurtu CMS users can create and manage personal collections. Personal collections are created and managed through the dashboard or from any content item. Personal collections are useful for consolidating content or organizing it according to your needs. You can designate your personal collections as either public or private by selecting the appropriate sharing setting when creating or editing your collection.
 
-You can create a personal collection from your dashboard or from content. The bulk of this article addresses creating a personal collection from your dashboard. Select the Create a personal collection from content section for instructions.
+You can create a personal collection from your dashboard or from content. The bulk of this article addresses creating a personal collection from your dashboard. For instructions on how to create a personal collection from content such as a digital heritage item or person record, navigate to the Create a personal collection from content section.
 
-## Create a new personal collection
+## Create a personal collection
 
 1. To create a personal collection, navigate to "Personal Collections" in your dashboard. 
 
@@ -24,7 +24,7 @@ You can create a personal collection from your dashboard or from content. The bu
 
 3. In the *Personal collection name* field, enter a name for your collection.
 
-4. Select a **Privacy Setting**. Personal collections can be either public or private. Private personal collections are only visible to you, while public personal collections are accessible by anyone with the proper cultural protocols.
+4. Select a **Privacy Setting**. Personal collections can be either public or private. Private personal collections are only visible to you, while public personal collections are accessible by anyone. Privacy settings do not override assigned cultural protocols. Any items under strict protocols are only accesible to protocol members.
 
     ![Screenshot of the personal collections creation page with the Personal collection name and Privacy settings fields highlighted.](../_embeds/personalcollectiondashboard3.png)
 
@@ -34,18 +34,18 @@ You can create a personal collection from your dashboard or from content. The bu
 
     - Browse to insert your image file or select an image from your media library. Select the "Insert selected" button to assign your thumbnail.
 
-    ![Screenshot of the add media pop-up window with the browse button, a media item checkbox, and the insert selected buttons highlighted.](../_embeds/personalcollectiondashboard4.png)
+    ![Screenshot of the add media pop-up window with the browse button, a media checkbox, and the insert selected buttons highlighted.](../_embeds/personalcollectiondashboard4.png)
 
-7. You can select "Save" to save your personal collection at this point, or navigate to the top of the page and select the **Items** tab to add content items.
+7. Select "Save" to save your personal collection at this point, or navigate to the top of the page and select the **Items** tab to add content.
 
 8. From the **Items** tab, select the "Select Content" button. 
 
     !!! tip 
         You can filter content by type or search by title.
 
-    - Scroll down and select the checkbox beside the content items you want to add to your personal collection.
+    - Scroll down and select the checkbox beside the content you want to add to your personal collection.
    
-    - Select "Add Content" to add the items to your personal collection.
+    - Select "Add Content" to add the content to your personal collection.
 
     ![Screenshot of the Add content pop-up window with the type and title search options highlighted.](../_embeds/personalcollectiondashboard5.png)
 
@@ -75,7 +75,7 @@ To manage a personal collection, navigate to "Personal Collections" through the 
 
 2. Select "Edit" at the top of the collection. 
 
-    **ADD A SCREENSHOT HERE**
+    ![Screenshot of a collection page with the Edit button highlighted.](../_embeds/placeholderscreenshot.png)
 
 3. Either edit the personal collection information in the **Mukurtu Essentials** tab or add new items to the personal collection in the **Items** tab.
 

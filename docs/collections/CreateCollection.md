@@ -59,7 +59,11 @@ You can create a collection in Mukurtu from your **Dashboard** or by selecting *
     
     You can save your Collection at this point, or return to the top of your page to select the **Relations** tab to add content to your collection.
 
-13. In the **Items in Collection** section, select the "Select Content" button. Digital heritage items, person records, dictionary words, and other content can be included in a collection. To filter by content type or search for specific items you can select the **Type** dropdown or input the title of the item in the *Title* box. 
+13. In the **Items in Collection** section, select the "Select Content" button. Digital heritage items, person records, dictionary words, and other content can be included in a collection. 
+
+    !!! tip 
+        You can filter content by type or search by title.
+
 14. Select the checkbox beside all the content you wish to include in the collection, then scroll down and select "Add Content".
 
     ![Screenshot of the Select Content pop-up with the search and filter, checkboxes, and Add Content button highlighted.](../_embeds/collections_how_to7.png)

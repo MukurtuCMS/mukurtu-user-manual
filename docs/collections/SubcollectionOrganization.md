@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles" 
     Protocol steward, Curator, Registered user
 
-Collections and personal collections can be structurally organized in hierarchies by creating sub-collections. Creating a sub-collection follows the same process as [creating a collection](CreateCollection.md) and can be done from the dashboard or from the parent collection page. Assigning a sub-collection to a parent collection can be done from the parent collection page. 
+Collections and personal collections can be structurally organized in hierarchies by creating sub-collections. Creating a sub-collection follows the same process as creating a collection, which can be found here [Create a Collection](CreateCollection.md). Sub-collections are created from the parent collection page or as stand-alone collections. A sub-collection is assigned to a parent collection through the parent collection page. 
 
 ## New sub-collection
 
@@ -18,11 +18,11 @@ You can create a new sub-collection from a parent collection page.
 
     ![Screenshot showing a collection page with the New Sub-collection button highlighted.](../_embeds/subcollections1.png)
 
-2. Create your sub-collection by going through the same processes you used to create your parent collection. Those instructions are found in the [Creating a Collection](CreateCollection.md) article.
+2. Create your sub-collection by going through the same processes you used to create your parent collection. Those instructions are found in the [Create a Collection](CreateCollection.md) article.
 
 ## Assign existing sub-collection
 
-There are two different ways to assign an existing collection as a sub-collection. These are also completed within the parent collection. You can assign a sub-collection by editing the parent collection or by selecting the "Manage Collection Organization" button. 
+There are two different ways to assign an existing collection as a sub-collection. These are completed from the parent collection page. You can assign a sub-collection by editing the parent collection or by selecting the "Manage Collection Organization" button. 
 
 ### From "Edit" 
 
@@ -43,7 +43,7 @@ There are two different ways to assign an existing collection as a sub-collectio
     ![Screenshot of the parent collection relations page showing the selected sub-collection and the save button.](../_embeds/subcollections6.png)
 
     !!! tip
-        Select the "Remove" button to remove a sub-collection.
+        Select the "Remove" button if you need to remove a sub-collection.
 
 ### From "Manage Collection Organization" 
 
