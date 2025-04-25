@@ -1,3 +1,8 @@
+---
+tags:
+    - communities, cultural protocols, and categories
+---
+
 # Understanding Sharing Settings
 
 For content with multiple protocols assigned, sharing settings help to determine a content item's level of access. You will see this setting on all content types (digital heritage, dictionary word, person record and collection) The setting is a  choice between *all* or *any*. 
@@ -20,5 +25,5 @@ Select the setting that provides the most appropriate access to the content.
 
 2. Select the protocols you would like to apply to the content.
 
-![Screenshot of sharing settings under cultural protocols showing radio buttons with all and any as options. Below the radio buttons is a list of available cultural protocols with checkboxes for selection](../_embeds/sharingsettings-select-sharing-setting.png)
+![Screenshot of sharing settings under cultural protocols showing radio buttons with all and any as options. Below the radio buttons is a list of available cultural protocols with checkboxes for selection](../_embeds/sharing-settings-01.png)
 
