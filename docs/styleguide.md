@@ -178,7 +178,7 @@ Eg:
 
 ### Lists
 
-**Unordered lists (bullet points**)
+**Unordered lists (bullet points)**
 
 - To create an unordered list, add dashes (-) in front of line items. 
     - Asterisks (*) and plus signs (+) work as well, but this documentation will use dashes.
@@ -189,10 +189,9 @@ Eg:
 Eg: 
 
 - Item
-
 - Another item
-
     - Indented item
+
 ```
 
 **Ordered (numbered) lists**
