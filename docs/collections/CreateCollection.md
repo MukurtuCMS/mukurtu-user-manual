@@ -31,7 +31,7 @@ You can create a collection in Mukurtu from your **Dashboard** or by selecting *
     ![Collection cultural protocols fields below the Mukurtu Essentials and Relations tabs with sharing settings and cultural protocols highlighted.](../_embeds/collections_how_to2.png)
 
 5. Use the *Summary* field to provide a summary of your collection. This field is limited to 255 characters. 
-6. Use the *Description* field to provide a description of your collection. This is a full HTML field that also supports additional media items.
+6. Use the *Description* field to provide a description of your collection. This is a full HTML field that also supports additional media.
 7. Use the *Image* field to select a representative thumbnail image for your collection. Select the "Add media" button to access the media library. You can either upload an image or select one from your media library.
     - From your computer: select the "Choose File" or "Browse" button to upload an image from your computer. The terms on the button are browser dependent. 
     - From the media library: select the checkbox on the image you want to add as a thumbnail. 
@@ -53,7 +53,7 @@ You can create a collection in Mukurtu from your **Dashboard** or by selecting *
 
     ![Screenshot of Map points field with the draw markers highlighted.](../_embeds/collections_how_to5.png)
 
-11. Add a *Location Description*. If a location has identifying characteristics but is not able to be pinpointed on a map this field can be used instead of the mapped location. It can also be used to add additional context to the map points. This is a full HTML field that can also supports additional media items.
+11. Add a *Location Description*. If a location has identifying characteristics but is not able to be pinpointed on a map this field can be used instead of the mapped location. It can also be used to add additional context to the map points. This is a full HTML field that can also supports additional media.
 12. In the *Location* field, provide a taxonomic location term for your collection.
 13. If your collection should have Traditional Knowledge labels, select your Local Contexts project from the dropdown. Then select Local Contexts labels and notices to assign to the collection. To start a project or for more information on Local Contexts projects, labels, and notices, visit the [Local Contexts](https://localcontexts.org/).
     
