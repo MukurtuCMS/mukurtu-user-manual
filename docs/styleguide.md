@@ -63,8 +63,7 @@ Eg:
 - These tags are placed within two rows of three hyphens (example below).
 - At this time, the meta tags we use are:
     - `pdf: false` - if the page should nto generate a PDF for download.
-    - `tags: [tag names]` - tags allow us to group pages by tagged topics, not just by their topic in the navigation menu. Tags are displayed at the top of the article page and can selected in order to view all articles with that tag. The tag(s) must be included in the tags section of the `mkdocs.yml` document before they can referenced in articles.
-
+    - `tags: [tag names]` - tags allow us to group pages by tagged topics, not just by their topic in the navigation menu. Tags are displayed at the top of the article page and can selected in order to view all articles with that tag. 
 ```
 Eg:
 
@@ -75,6 +74,35 @@ tags:
     - content
 ---
 ```
+- Here are the tags currently in use:
+
+     - media
+     - metadata
+     - roundtrip
+     - users
+     - content 
+     - about Mukurtu
+     - account management
+     - collections
+     - comments
+     - communities, cultural protocols, and categories
+     - dictionary
+     - digital heritage items
+     - getting started
+     - infrastructure
+     - Local Contexts
+     - look and feel
+     - mapping
+     - migration
+     - person records
+     - search
+     - security
+     - site maintenance
+     - structure
+     - taxonomies
+     - translation and localization
+     - user roles and responsibilities
+     - workflows
 
 ### Article titles
 

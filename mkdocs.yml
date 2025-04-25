@@ -65,17 +65,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-extra:
-  tags: #Include these tags in the front matter of articles to group by tag/topic. Articles can have multiple tags.
-    media: media
-    metadata: metadata
-    roundtrip: roundtrip
-    users: users
-    content: content
-    dictionary: dictionary
-    taxonomies: taxonomies
-
+      
 nav:
   - Home: index.md
   - Style Guide: styleguide.md
