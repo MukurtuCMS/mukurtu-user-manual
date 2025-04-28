@@ -1,3 +1,8 @@
+---
+Tags:
+    - communities, cultural protocols, and categories
+---
+
 # Understanding Communities and Cultural Protocols
 
 ## What are communities?
