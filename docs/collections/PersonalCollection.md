@@ -8,15 +8,27 @@ tags:
 !!! roles "User role"
     Authenticated User
 
-Authenticated Mukurtu CMS users can create and manage personal collections. Personal collections are created and managed through the dashboard or from any content item. Personal collections are useful for consolidating content or organizing it according to your needs. You can designate your personal collections as either public or private by selecting the appropriate sharing setting when creating or editing your collection.
-
-You can create a personal collection from your dashboard or from content. The bulk of this article addresses creating a personal collection from your dashboard. For instructions on how to create a personal collection from content such as a digital heritage item or person record, navigate to the Create a personal collection from content section.
-
 ## Create a personal collection
 
-1. To create a personal collection, navigate to "Personal Collections" in your dashboard. 
+1. There are two ways to create personal collections: from the dashboard, or on the fly from any content page.
 
-    ![Screenshot of the dashboard with the personal collections link highlighted.](../_embeds/personalcollectiondashboard1.png)
+    - To create a personal collection from your dashboard, navigate to "Personal Collections" in your dashboard. 
+
+        ![Screenshot of the dashboard with the personal collections link highlighted.](../_embeds/personalcollectiondashboard1.png)
+
+    - To create a personal collection from content, select **Browse** or **Browse Digital Heritage** to navigate to content. 
+
+        ![Screenshot of the front page with Browse and Browse Digital Heritage highlighted.](../_embeds/personalcollection.png)
+
+        - Select the content you want to add to your personal collection.
+
+            ![Screenshot of content items with the Eastern black rat snake digital heritage item highlighted.](../_embeds/personalcollection.5.png)
+
+        - Select the "Add to personal collection" button from the menu bar of the content.
+
+            ![Screenshot of a content item with the Add to personal collection button highlighted.](../_embeds/personalcollection1.png)
+
+    The remaining steps are the same as creating a new personal collection from your dashboard. 
 
 2. Select the **Create a new personal collection** dropdown menu. 
 
@@ -34,6 +46,9 @@ You can create a personal collection from your dashboard or from content. The bu
 
     ![Screenshot of the add media pop-up window with the browse button, a media checkbox, and the insert selected buttons highlighted.](../_embeds/personalcollectiondashboard4.png)
 
+    !!! tip
+        You may choose to add a summary, description, and thumbnail to your personal collection. These are helpful for keeping multiple private personal collections organized. If your personal collections are public these fields can help other users browse your personal collection.
+
 7. Select "Save" to save your personal collection at this point, or navigate to the top of the page and select the **Items** tab to add content.
 8. From the **Items** tab, select the "Select Content" button. 
 
@@ -47,22 +62,6 @@ You can create a personal collection from your dashboard or from content. The bu
     ![Screenshot of the Add content pop-up window with the type and title search options highlighted.](../_embeds/personalcollectiondashboard5.png)
 
 9. Select "Save".
-
-## Create a personal collection from content
-
-1. Select **Browse** or **Browse Digital Heritage** to navigate to content. 
-
-    ![Screenshot of the front page with Browse and Browse Digital Heritage highlighted.](../_embeds/personalcollection.png)
-
-2. Select the content you want to add to your personal collection.
-
-    ![Screenshot of content items with the Eastern black rat snake digital heritage item highlighted.](../_embeds/personalcollection.5.png)
-
-3. Select the "Add to personal collection" button from the menu bar of the content.
-
-    ![Screenshot of a content item with the Add to personal collection button highlighted.](../_embeds/personalcollection1.png)
-
-4. The remaining steps are the same as creating a new personal collection from your dashboard. 
 
 ## Manage a personal collection
 
