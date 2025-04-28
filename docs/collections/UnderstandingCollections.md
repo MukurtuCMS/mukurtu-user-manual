@@ -32,4 +32,6 @@ Another example of how collections have been used is from the Sustainable Herita
 
 ## Personal collections
 
-Authenticated users can create personal collections of content by adding them to their personal collection and arranging selected items in any way they choose. Users can designate their personal collections as either public or private by selecting the appropriate sharing setting when creating or editing their collection.
+All users can create and manage their own personal collections. Personal collections have several uses, such as saving content so you can easily find it again later, or curating a list of resources to share with students or colleagues.
+
+Personal collections share most of same features as regular collections - adding, removing, and rearranging content, and using sub-collections. Instead of the regular cultural protocols, personal collection pages can either be kept private, or you can make a personal collection page public to share with others.
