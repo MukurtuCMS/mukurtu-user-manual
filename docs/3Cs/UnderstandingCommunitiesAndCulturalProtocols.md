@@ -1,5 +1,5 @@
 ---
-Tags:
+tags:
     - communities, cultural protocols, and categories
 ---
 
