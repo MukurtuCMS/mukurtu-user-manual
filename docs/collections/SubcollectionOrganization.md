@@ -1,19 +1,68 @@
 ---
 tags: 
+    - collections
     - content
 ---
-# Subcollection Organization
+# Sub-collection Organization
 
-!!! question "User roles:" 
-    Protocol steward, Curator, Registered user
+!!! roles "User roles" 
+    Protocol steward, Curator, Authenticated user
 
-Collections and personal collections can be structurally organized in hierarchies by creating subcollections. Creating a subcollection follows the same process creating a collection. Assigning a subcollection to a parent collection can be done in two ways. 
+Collections and personal collections can be structurally organized in hierarchies by creating sub-collections. Creating a sub-collection follows the same process as creating a collection, which can be found here [Create a Collection](CreateCollection.md). Sub-collections are created from the parent collection page or as stand-alone collections. A sub-collection is assigned to a parent collection through the parent collection page. 
 
-To create a subcollection from the parent collection page, navigate to the page you want to assign as a parent collection. Select the "New Subcollection" button, then fill in the information for your subcollection.
+## New sub-collection
 
-You can also make existing collections subcollections by rearranging them on the dashboard. From the dashboard, navigate to **Manage Content**. 
+You can create a new sub-collection from a parent collection page.
 
-In the *Content Type* field, select "Collection", then select "Search". In the **Action** dropdown menu, select the option "Add to Collection".
-Select the checkbox beside the collection you want to assign as a subcollection. 
-Select "Apply to selected items". 
-Select the parent collection from the dropdown menu, then select "Apply" to assign your chosen collection as a subcollection.
+1. Select the "New Sub-collection" button at the top of the parent collection page.
+
+    ![Screenshot showing a collection page with the New Sub-collection button highlighted.](../_embeds/subcollections1.png)
+
+2. Create your sub-collection by going through the same processes you used to create your parent collection. Those instructions are found in the [Create a Collection](CreateCollection.md) article.
+
+## Assign existing sub-collection
+
+There are two different ways to assign an existing collection as a sub-collection. These are completed from the parent collection page. You can assign a sub-collection by editing the parent collection or by selecting the "Manage Collection Organization" button. 
+
+### From "Edit" 
+
+1. From the parent collection page, select "Edit".
+
+    ![Screenshot showing the top menu of a parent collection page with the edit button highlighted.](../_embeds/subcollections2.png)
+ 
+2. Navigate to the **Relations** tab, then select the "Select Content" button under the **Sub-collections** category.
+
+    ![Screenshot of the relations tab showing the sub-collections field with relations highlighted and select content highlighted under the sub-collection field.](../_embeds/subcollections4.png)
+
+3. Select any collections you want to assign as a sub-collection by selecting the checkbox beside the collection, then select "Add Content". 
+
+    ![Screenshot of the sub-collection pop-up window showing three collection options to the right of checkboxes and the add content button.](../_embeds/subcollections5.png)
+
+4. Check to make sure your sub-collection was properly assigned. Then select the "Save" button at the bottom of the page to save your sub-collection.
+
+    ![Screenshot of the parent collection relations page showing the selected sub-collection and the save button.](../_embeds/subcollections6.png)
+
+    !!! tip
+        Select the "Remove" button if you need to remove a sub-collection.
+
+### From "Manage Collection Organization" 
+
+1. From the parent collection page, select "Manage Collection Organization".
+
+    ![Screenshot with the Manage collection organization button highlighted.](../_embeds/subcollections3.png)
+
+2. Start typing the sub-collection name in the text box to bring up a list of your existing sub-collections. Select the sub-collection you want to assign, then select "Add to Organization".
+
+3. Your new sub-collection will populate under Collection. You must click and drag it under the parent collection to assign it as a subcollection.
+
+    !!! warning
+        You must select and drag the sub-collection under the parent collection before saving for it to be assigned as a sub-collection.
+
+    ![Screenshot with sub-collection to the left, not arranged under the collection.](../_embeds/subcollections8.png)
+
+    ![Screenshot with sub-collection arranged under the collection.](../_embeds/subcollections9.png)
+
+4. Select "Save" to save your collection organization. 
+
+    !!! tip 
+        This is also how you create sub-collections for personal collections.
