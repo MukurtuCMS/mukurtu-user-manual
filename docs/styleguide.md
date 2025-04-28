@@ -180,9 +180,12 @@ Eg:
     massa, nec semper lorem quam in massa.
 ```
 
+- There must be an empty line before and after every admonition.
+
+
 ### Lists
 
-**Unordered lists (bullet points**)
+**Unordered lists (bullet points)**
 
 - To create an unordered list, add dashes (-) in front of line items. 
     - Asterisks (*) and plus signs (+) work as well, but this documentation will use dashes.
@@ -195,19 +198,22 @@ Eg:
 - Item
 - Another item
     - Indented item
+
 ```
 
 **Ordered (numbered) lists**
 
 - To create an ordered list, add line items with numbers followed by periods. 
 - Indent one or more items (using tab or 4 spaces) to create a nested list.
+    - When creating nested lists, the indented items should use bullet points.
+- There must be an empty line before and after each list.
 
 ```
 Eg: 
 
 1. Item
 2. Another item
-    a. Indented item
+    - Indented item
 ```
 
 ### Emphasis
@@ -253,6 +259,7 @@ Eg:
 - This documentation includes many screenshots to accompany the text. We do not anticipate using many other types of images.
 - Screenshots or images are never a replacement for written information. They should never give information that is not also provided in text. Use them as an optional shortcut to understanding the information or processes.
 - Always place screenshots and images BELOW their corresponding text.
+- Include an empty line before and after screenshots.
 
 ### Taking good screenshots
 
