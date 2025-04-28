@@ -59,18 +59,18 @@ You can create a collection in Mukurtu from your **Dashboard** or by selecting *
     
     You can save your Collection at this point, or return to the top of your page to select the **Relations** tab to add content to your collection.
 
-13. In the **Items in Collection** section, select the "Select Content" button. Digital heritage items, person records, dictionary words, and other content can be included in a collection. 
+14. In the **Items in Collection** section, select the "Select Content" button. Digital heritage items, person records, dictionary words, and other content can be included in a collection. 
 
     !!! tip 
         You can filter content by type or search by title.
 
-14. Select the checkbox beside all the content you wish to include in the collection, then scroll down and select "Add Content".
+15. Select the checkbox beside all the content you wish to include in the collection, then scroll down and select "Add Content".
 
     ![Screenshot of the Select Content pop-up with the search and filter, checkboxes, and Add Content button highlighted.](../_embeds/collections_how_to7.png)
 
-15. If you choose to create any sub-collections, they can be added by selecting the "Select Content" button in the **Sub-Collections** section. Sub-collections must have already been created to be added from this section.
-16. If you have any related content to the collection, select the "Select Content" button in the **Related Content** section.
-17. Select whether you want to save this collection as a draft or as a published collection. Select either **Draft** or **Published**, then select the "Save" button. You also have the option to preview your collection by selecting "Preview".
+16. If you choose to create any sub-collections, they can be added by selecting the "Select Content" button in the **Sub-Collections** section. Sub-collections must have already been created to be added from this section.
+17. If you have any related content to the collection, select the "Select Content" button in the **Related Content** section.
+18. Select whether you want to save this collection as a draft or as a published collection. Select either **Draft** or **Published**, then select the "Save" button. You also have the option to preview your collection by selecting "Preview".
 
 ### From Add Content
 
