@@ -6,7 +6,7 @@ tags:
 # Sub-collection Organization
 
 !!! roles "User roles" 
-    Protocol steward, Curator, Registered user
+    Protocol steward, Curator, Authenticated user
 
 Collections and personal collections can be structurally organized in hierarchies by creating sub-collections. Creating a sub-collection follows the same process as creating a collection, which can be found here [Create a Collection](CreateCollection.md). Sub-collections are created from the parent collection page or as stand-alone collections. A sub-collection is assigned to a parent collection through the parent collection page. 
 

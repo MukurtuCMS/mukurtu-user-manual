@@ -7,7 +7,7 @@ tags:
 # Add Content and Arrange a Collection
 
 !!! roles "User roles" 
-    Protocol steward, Curator
+    Protocol steward, Curator, Authenticated user
     
 Protocol Stewards and Curators can add content and arrange the collections they administer through the collections page. Collections are a useful feature that can provide a more comprehensive context for content. This article discusses how to add and arrange content within a collection.
 
