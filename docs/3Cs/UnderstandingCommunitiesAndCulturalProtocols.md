@@ -53,12 +53,12 @@ One caveat to this rule is the use of multiple protocols: if two or more protoco
 
 Protocols allow for members to take an active role in managing the content within a protocol:
 
-- Protocol Member - views content but cannot add or edit.
-- Protocol Affiliate - ???
-- Language Steward - can add, edit and delete dictionary words and create language lists
-- Language Contributor - can add dictionary words and create language lists
-- Contributor - can create new digital heritage items (only? or other pieces of content as well?)
-- Community Record Steward - can add, edit and delete community records
+- protocol member - views content but cannot add or edit.
+- protocol ffiliate - ???
+- language steward - can add, edit and delete dictionary words and create language lists
+- language contributor - can add dictionary words and create language lists
+- contributor - can create new digital heritage items (only? or other pieces of content as well?)
+- community record steward - can add, edit and delete community records
 
 To read more about user roles and responsibilities, visit [User Roles Types](../users/user-role-types.md) 
 
