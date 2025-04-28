@@ -9,7 +9,7 @@ tags:
 !!! roles "User role"
     Mukurtu administrators
 
-Categories are high-level descriptive terms that help Mukurtu users discover digital heritage items. They are shared by all communities on a site. Each digital heritage item must belong to one or more category. Categories should reflect the type of content within your site. If the categories are too broad they won’t help users narrow down their search, but if they are too narrow they may not represent the scope of the site. Ensure that the category terms you choose make sense to your users by avoiding jargon and overly technical terms. 
+Categories are high-level descriptive terms that help Mukurtu users discover digital heritage items. For more information about how to plan categories see [Understanding Categories](UnderstandingCategories.md).
 
 ## Create a category 
 
