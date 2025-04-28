@@ -26,7 +26,9 @@ There are two ways to create a media asset: from your dashboard or while creatin
 
 - To insert remote video, SoundCloud, or external embeds, copy and paste the URL or embed code.
 - Media asset metadata for is briefly described below. For more details, visit the [Media Asset Metadata](MediaAssetMetadata.md) support document.
-- Once your media assets are part of your media library, they can easily be added to your content **ADD A SCREENSHOT**
+- Once your media assets are part of your media library, they can easily be added to your content 
+
+	![Screenshot of media library.](../_embeds/placeholderscreenshot.png)
 
 !!! warning 
 	Note that externally hosted resources cannot be protected by cultural protocols. 

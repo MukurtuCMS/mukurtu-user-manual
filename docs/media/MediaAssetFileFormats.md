@@ -2,6 +2,7 @@
 tags: 
     - media
     - metadata
+    - getting started
 ---
 # Media Asset File Formats
 
@@ -67,7 +68,7 @@ Supported image file types: 
 
 Insert a URL for a Vimeo or YouTube asset in the *Add Remote Video via URL* field.   
 
-## Uploaded Video 
+## Video Files 
 
 Supported video file types: 
 

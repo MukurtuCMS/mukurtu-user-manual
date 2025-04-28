@@ -1,7 +1,7 @@
 ---
 tags:
     - media
-    - communities cultural protocols and categories
+    - communities, cultural protocols, and categories
 ---
 # Manage Media Access with Cultural Protocols
 
@@ -20,6 +20,8 @@ If necessary, you can have different protocols between content and media. You ca
 If the media is not available under certain cultural protocols it is not presented to the user. 
 **MAKE SOMETHING UP FOR WHY THIS WOULD NOT BE SHOWN LIKE THIS PROJECT IS UNDER REVIEW BY PROJECT PARTNERS** The **THING** itself was assigned a strict protocol and does not appear on the site.
 
-**PUT IN NEW EXAMPLE FROM V4 DEMO SITE**
+![Screenshot of the menu view of a digital heritage item with an open protocol featuring a media asset with a strict cultural protocol.](../_embeds/placeholderscreenshot.png)
+
+![Screenshot of the page view of a digital heritage item with an open protocol featuring a media asset with a strict cultural protocol](../_embeds/placeholderscreenshot.png)
 
 
