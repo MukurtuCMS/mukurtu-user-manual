@@ -10,8 +10,6 @@ tags:
 
 Categories are high-level descriptive terms that help Mukurtu users discover digital heritage items. They are shared by all communities on a site. Each digital heritage item must belong to one or more category. Categories should reflect the type of content within your site. If the categories are too broad they won’t help users narrow down their search, but if they are too narrow they may not represent the scope of the site. Ensure that the category terms you choose make sense to your users by avoiding jargon and overly technical terms. 
 
-The following are the steps to create and edit categories. 
-
 ## Create a category 
 
 1. Navigate to your dashboard and select **Manage Categories**. 
@@ -33,7 +31,7 @@ The following are the steps to create and edit categories.
     ![Screenshot of the Add or select media pop-up menu.](../_embeds/categories4.PNG)
 
     - Select **Insert selected** to apply the image to your category as a thumbnail. 
-    
+
 4. Select the checkbox by “Published” to publish your category or leave it unselected to save your category as a draft. 
 5. Select the "Save" button to save your category.
 
