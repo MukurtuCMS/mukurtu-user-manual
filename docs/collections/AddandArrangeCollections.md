@@ -17,15 +17,15 @@ Protocol Stewards and Curators can add content and arrange the collections they 
 
 2. Select the **Edit** link above the collection. 
 
-   ![Select the edit link](../_embeds/collections_addcontent1.png)
+   ![Screenshot of the edit link](../_embeds/collections_addcontent1.png)
 
 3. Select the **Relations** tab.
 
-   ![Select the relations tab](../_embeds/collections_addcontent2.png)
+   ![Screenshot of the relations tab](../_embeds/collections_addcontent2.png)
 
 4. In the **Items in Collection** field, select the "Select Content" button.
 
-   ![Select the select content button](../_embeds/collections_addcontent3.png)
+   ![Screenshot of the select content button](../_embeds/collections_addcontent3.png)
 
 5. Select the checkbox for all the content you wish to add to your collection. Then select the "Add Content" button at the bottom of the pop-up window to add your content.
 

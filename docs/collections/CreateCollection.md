@@ -17,7 +17,7 @@ You can create a collection in Mukurtu from your **Dashboard** or by selecting *
 
 1. To create a collection from your dashboard, select **Dashboard** and scroll down to the **Collection** link. 
 
-    ![The dashboard with an arrow pointing to collection](../_embeds/collections_how_to1.png)
+    ![Screenshot of the dashboard with an arrow pointing to collection](../_embeds/collections_how_to1.png)
 
     Begin by filling out the metadata fields in the **Mukurtu Essentials** tab. 
 
@@ -28,7 +28,7 @@ You can create a collection in Mukurtu from your **Dashboard** or by selecting *
     !!! requirement
         Collection name, sharing settings, and cultural protocols are required fields.
 
-    ![Collection cultural protocols fields below the Mukurtu Essentials and Relations tabs with sharing settings and cultural protocols highlighted.](../_embeds/collections_how_to2.png)
+    ![Screenshot of collection cultural protocols fields below the Mukurtu Essentials and Relations tabs with sharing settings and cultural protocols highlighted.](../_embeds/collections_how_to2.png)
 
 5. Use the *Summary* field to provide a summary of your collection. This field is limited to 255 characters. 
 6. Use the *Description* field to provide a description of your collection. This is a full HTML field that also supports additional media.
@@ -76,6 +76,6 @@ You can create a collection in Mukurtu from your **Dashboard** or by selecting *
 
 To create a collection from **Add Content** select the **Add Content**, then select the **Collection** link.
 
-![The add content page with Collection highlighted.](../_embeds/collections_how_to8.png)
+![Screenshot of the add content page with Collection highlighted.](../_embeds/collections_how_to8.png)
 
 The steps to create a collection are the same whether you're working from the dashboard or from content.
