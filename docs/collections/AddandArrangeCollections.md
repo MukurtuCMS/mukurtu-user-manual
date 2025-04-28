@@ -9,7 +9,9 @@ tags:
 !!! roles "User roles" 
     Protocol steward, Curator
     
-Protocol Stewards and Curators can add content and arrange the collections they administer through the collections page. Collections are a tool that is used to group and arrange content in a structured way, or to provide additional context. They can also be used to provide and exhibit-type experience. This article demonstrates adding and arranging content within a collection.
+Collections are a tool used to group and arrange content in a structured way, or to provide additional context. They can also be used to provide and exhibit-type experience.
+
+Protocol stewards and curators can curate the content within the collections they are responsible for. This article demonstrates adding and arranging content within a pre-existing collection.
 
 ## Add content
 
