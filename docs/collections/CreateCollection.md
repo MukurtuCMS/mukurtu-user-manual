@@ -9,17 +9,20 @@ tags:
     Protocol steward, Curator
 
 To provide context or connections for some items or groups of items, communities may choose to use Mukurtu's Collections feature. Collections are a useful feature that help protocol stewards and curators arrange content in ways that help provide a more comprehensive context for that content. The creator of the collection determines the way the collection is arranged, including the order in which content is displayed. Users only see those items they have access to based on their cultural protocols. Collections provide users with a more curated or guided experience of the site's content. 
-You can create a collection in Mukurtu from your **Dashboard** or by selecting **Add Content**.
 
 ## Create a new collection 
 
-### From your dashboard
-
-1. To create a collection from your dashboard, select **Dashboard** and scroll down to the **Collection** link. 
+1. There are two ways to create a collection in Mukurtu. You can create a collection from your **Dashboard** or by selecting **Add Content**.
+    
+    - To create a collection from your dashboard, select **Dashboard** and scroll down to the **Collection** link. 
 
     ![Screenshot of the dashboard with an arrow pointing to collection](../_embeds/collections_how_to1.png)
 
-    Begin by filling out the metadata fields in the **Mukurtu Essentials** tab. 
+    - To create a collection from **Add Content** select the **Add Content**, then select the **Collection** link.
+
+    ![Screenshot of the add content page with Collection highlighted.](../_embeds/collections_how_to8.png)
+
+    The remaining steps to create a collection are the same.
 
 2. Use the *Collection name* field to provide a name for your collection. This is a required field.
 3. Select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. All is more restrictive as users must belong to all the selected protocols to view the collection. This is a required field.
@@ -71,11 +74,3 @@ You can create a collection in Mukurtu from your **Dashboard** or by selecting *
 16. If you choose to create any sub-collections, they can be added by selecting the "Select Content" button in the **Sub-Collections** section. Sub-collections must have already been created to be added from this section.
 17. If you have any related content to the collection, select the "Select Content" button in the **Related Content** section.
 18. Select whether you want to save this collection as a draft or as a published collection. Select either **Draft** or **Published**, then select the "Save" button. You also have the option to preview your collection by selecting "Preview".
-
-### From Add Content
-
-To create a collection from **Add Content** select the **Add Content**, then select the **Collection** link.
-
-![Screenshot of the add content page with Collection highlighted.](../_embeds/collections_how_to8.png)
-
-The steps to create a collection are the same whether you're working from the dashboard or from content.
