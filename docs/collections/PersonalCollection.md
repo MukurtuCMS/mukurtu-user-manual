@@ -5,8 +5,8 @@ tags:
 ---
 # Create and Manage a Personal Collection
 
-!!! roles "User roles"
-    Authenticated Users
+!!! roles "User role"
+    Authenticated User
 
 Authenticated Mukurtu CMS users can create and manage personal collections. Personal collections are created and managed through the dashboard or from any content item. Personal collections are useful for consolidating content or organizing it according to your needs. You can designate your personal collections as either public or private by selecting the appropriate sharing setting when creating or editing your collection.
 
