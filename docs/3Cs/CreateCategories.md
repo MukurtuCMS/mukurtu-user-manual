@@ -2,6 +2,7 @@
 tags: 
     - categories
     - taxonomy
+    - getting started
 ---
 # Creating and Editing Categories
 
