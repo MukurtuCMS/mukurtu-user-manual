@@ -29,6 +29,7 @@ Protocol stewards and curators can curate the content within the collections the
 
     !!! tip 
         You can filter content by type or search by title.
+        
         You can add digital heritage items, dictionary words, person records, word lists, articles, and basic pages to your collection.
 
 4. Use the checkboxes to select content to add to the collection. Select the "Add Content" button below the content list to add selected content to the collection.
