@@ -78,6 +78,7 @@ nav:
   - Home: index.md
   - Style Guide: styleguide.md
   - 3Cs:
+    - 3Cs/UnderstandingCommunitiesAndCulturalProtocols.md
     - 3Cs/CreateACommunityAndInitialCulturalProtocol.md
     - 3Cs/CreateACulturalProtocol.md 
     - 3Cs/UnderstandingSharingSettings.md
