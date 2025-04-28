@@ -23,13 +23,11 @@ You can create a personal collection from your dashboard or from content. The bu
     ![Screenshot of the dashboard on one side with the Add to personal collection section on the other, with the add to personal collection button highlighted.](../_embeds/personalcollectiondashboard2.png)
 
 3. In the *Personal collection name* field, enter a name for your collection.
-
 4. Select a **Privacy Setting**. Personal collections can be either public or private. Private personal collections are only visible to you, while public personal collections are accessible by anyone. Privacy settings do not override assigned cultural protocols. Any items under strict protocols are only accesible to protocol members.
 
     ![Screenshot of the personal collections creation page with the Personal collection name and Privacy settings fields highlighted.](../_embeds/personalcollectiondashboard3.png)
 
 5. Enter a *Summary* and a *Description* for your personal collection. 
-
 6. You may choose to add a thumbnail to your personal collection. Select "Add media" to upload an image or select one from the media library.
 
     - Browse to insert your image file or select an image from your media library. Select the "Insert selected" button to assign your thumbnail.
@@ -37,7 +35,6 @@ You can create a personal collection from your dashboard or from content. The bu
     ![Screenshot of the add media pop-up window with the browse button, a media checkbox, and the insert selected buttons highlighted.](../_embeds/personalcollectiondashboard4.png)
 
 7. Select "Save" to save your personal collection at this point, or navigate to the top of the page and select the **Items** tab to add content.
-
 8. From the **Items** tab, select the "Select Content" button. 
 
     !!! tip 
@@ -72,11 +69,9 @@ You can create a personal collection from your dashboard or from content. The bu
 To manage a personal collection, navigate to "Personal Collections" through the dashboard. 
 
 1. Select the collection you want to manage.
-
 2. Select "Edit" at the top of the collection. 
 
     ![Screenshot of a collection page with the Edit button highlighted.](../_embeds/placeholderscreenshot.png)
 
 3. Either edit the personal collection information in the **Mukurtu Essentials** tab or add new items to the personal collection in the **Items** tab.
-
 4. Select "Save" to save any changes to the personal collection.
