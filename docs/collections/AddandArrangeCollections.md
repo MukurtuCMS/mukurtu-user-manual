@@ -4,10 +4,10 @@ tags:
     - content
 ---
 
-# Add Content and Arrange a Collection
+# Curate a Collection
 
 !!! roles "User roles" 
-    Protocol steward, Curator
+    Protocol steward, curator
     
 Collections are a tool used to group and arrange content in a structured way, or to provide additional context. They can also be used to provide and exhibit-type experience.
 
@@ -40,7 +40,7 @@ Protocol stewards and curators can curate the content within the collections the
 
     To use the default order select the "Save" button at the bottom of the page to save your changes.
 
-## Curate a collection 
+## Arrange a collection 
 
 1. Navigate to the collection you want to rearrange, and select the **Edit** button from the menu below the collection title.
 
