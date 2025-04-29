@@ -1,43 +1,47 @@
 ---
 tags:
+    - collections
     - content
 ---
 
 # Add Content and Arrange a Collection
 
-!!! question "User roles:" 
-    Protocol steward, Curator
+!!! roles "User roles" 
+    Protocol steward, Curator, Authenticated user
     
-Protocol Stewards and Curators can add content and arrange the collections they administer through the collections page. 
+Protocol Stewards and Curators can add content and arrange the collections they administer through the collections page. Collections are a useful feature that can provide a more comprehensive context for content. This article discusses how to add and arrange content within a collection.
 
-## Add content to a collection
+## Add content
 
-Select the collection you want to add content to. 
+1. Select the collection you want to add content to. 
 
-Select the **Edit** link above the collection. 
+2. Select the **Edit** link above the collection. 
 
-![Select the edit button](../_embeds/collections_addcontent1.png "Select the edit button.")
+   ![Screenshot of the edit link](../_embeds/collections_addcontent1.png)
 
-Select the **Relations** tab.
+3. Select the **Relations** tab.
 
-![Select the relations tab](../_embeds/collections_addcontent2.png "Select the relations tab.")
+   ![Screenshot of the relations tab](../_embeds/collections_addcontent2.png)
 
-In the **Items in Collection** field, select the "Select Content" button.
+4. In the **Items in Collection** field, select the "Select Content" button.
 
-![Select the select content button](../_embeds/collections_addcontent3.png "Select the select content button.")
+   ![Screenshot of the select content button](../_embeds/collections_addcontent3.png)
 
-Select the checkbox for each content item you wish to add to your collection. Then select the "Add Content" button at the bottom of the pop-up window to add your content.
+5. Select the checkbox for all the content you wish to add to your collection. Then select the "Add Content" button at the bottom of the pop-up window to add your content.
 
-![Select content to add to your collection.](../_embeds/selectcollectioncontentGIF1.gif "Select content to add to your collection.")
+    !!! tip 
+        You can filter content by type or search by title.
 
-Select the "Save" button at the bottom of the screen to save your collection.
+   ![Screenshot of the Select Content pop-up with the search and filter, checkboxes, and Add Content button highlighted.](../_embeds/placeholderscreenshot.png)
 
-### Arrange content within a collection
+6. Select the "Save" button at the bottom of the screen to save your collection.
 
-Navigate to the collection you want to rearrange, then select the **Edit** link above the collection.
+## Arrange content 
 
-Select the **Relations** tab. In the **Items in the Collection** field, select and drag the items in your collection to rearrange their order. Select the "Remove" button to delete content items from the collection.
+1. Navigate to the collection you want to rearrange, then select the **Edit** link above the collection.
 
-![Arrange content within a collection](../_embeds/selectcollectioncontentGIF2.gif "Arrange content within a collection.")
+2. Select the **Relations** tab. In the **Items in the Collection** field, select and drag the content in your collection to rearrange their order. Select the "Remove" button to delete content from the collection.
 
-Select the "Save" button at the bottom of the screen to save your collection.
+   ![Screenshot of the content in the collection with the drag icon highlighted.](../_embeds/placeholderscreenshot.png)
+   
+3. Select the "Save" button at the bottom of the screen to save your collection.

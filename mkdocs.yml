@@ -4,6 +4,7 @@ theme:
   name: material
   logo: _static/assets/logo.png
   favicon: _static/assets/favicon.ico
+  custom_dir: docs/_overrides
   features:
     - search.suggest
   palette:
@@ -67,7 +68,6 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       
 nav:
-  - Home: index.md
   - Style Guide: styleguide.md
   - 3Cs:
     - 3Cs/create-a-cultural-protocol.md 
