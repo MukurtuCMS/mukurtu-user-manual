@@ -6,7 +6,7 @@ tags:
 # Create and Manage a Personal Collection
 
 !!! roles "User role"
-    Authenticated User
+    Authenticated user
 
 ## Create a personal collection
 
@@ -42,12 +42,12 @@ tags:
 5. Enter a *Summary* and a *Description* for your personal collection. 
 6. You may choose to add a thumbnail to your personal collection. Select "Add media" to upload an image or select one from the media library.
 
+    !!! tip
+        You may choose to add a summary, description, and thumbnail to your personal collection. These are helpful for keeping multiple private personal collections organized. If your personal collections are public these fields can help other users browse your personal collection.
+
     - Browse to insert your image file or select an image from your media library. Select the "Insert selected" button to assign your thumbnail.
 
     ![Screenshot of the add media pop-up window with the browse button, a media checkbox, and the insert selected buttons highlighted.](../_embeds/personalcollectiondashboard4.png)
-
-    !!! tip
-        You may choose to add a summary, description, and thumbnail to your personal collection. These are helpful for keeping multiple private personal collections organized. If your personal collections are public these fields can help other users browse your personal collection.
 
 7. Select "Save" to save your personal collection at this point, or navigate to the top of the page and select the **Items** tab to add content.
 8. From the **Items** tab, select the "Select Content" button. 
