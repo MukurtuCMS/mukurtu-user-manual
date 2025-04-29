@@ -6,7 +6,7 @@ tags:
 # Create a Collection
 
 !!! roles "User roles" 
-    Protocol steward, Curator
+    Protocol steward, curator
 
 To provide context or connections for some items or groups of items, communities may choose to use Mukurtu's Collections feature. Collections are a useful feature that help protocol stewards and curators arrange content in ways that help provide a more comprehensive context for that content. The creator of the collection determines the way the collection is arranged, including the order in which content is displayed. Users only see those items they have access to based on their cultural protocols. Collections provide users with a more curated or guided experience of the site's content. 
 
