@@ -7,7 +7,7 @@ tags:
 # Media Asset File Formats
 
 !!! roles "User roles"
-    Protocol steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor
+    Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
 ## Audio Files 
 

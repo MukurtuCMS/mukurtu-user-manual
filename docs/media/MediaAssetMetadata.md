@@ -6,7 +6,7 @@ tags:
 # Media Asset Metadata
 
 !!! roles "User roles"
-    Protocol steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor
+    Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
 Media assets are the core element of Digital Heritage Items and can be images, documents, video, audio files, or embedded media. 
 
@@ -21,7 +21,7 @@ Media assets are the core element of Digital Heritage Items and can be images, d
 ### Communities and Cultural Protocols 
 
 - Cultural protocols must be applied directly to media assets. 
-- We strongly recommend applying the same protocol to each media asset that will be applied to the content item(s) where the asset will be used. 
+- In most cases you will want to apply the same cultural protocols to each media asset that are applied to the content items where the media asset is used. This ensures that if a user can view the content, they can also view the media assets.
 - These are required fields.  
 
 ### Sharing Setting 
@@ -42,6 +42,8 @@ Media assets are the core element of Digital Heritage Items and can be images, d
 
 - The name of anyone present, named, or referenced in the media asset. 
 - This field feeds into the "deceased person" media content warnings. 
+    - If the "deceased person" media content warnings are in place, users see a blacked-out box in place of the media asset overlaid with descriptive text when they visit a page with a media tag. The user may choose to click through to access the media. 
+    - This does not prevent users from accessing tagged media.
 
 ### Media Tags 
 

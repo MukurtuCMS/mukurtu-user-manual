@@ -1,33 +1,34 @@
 ---
-tags: 
+tags:
     - media
     - privacy
 ---
 # SoundCloud Privacy Settings
 
 !!! roles "User roles"
-    Protocol steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor
+    Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
-SoundCloud offers limited privacy settings. [SoundCloud Privacy Information](https://help.soundcloud.com/hc/en-us/articles/115003562388-Changing-your-track-s-privacy-setting)
+SoundCloud offers limited privacy settings. For more information on these settings, visit [SoundCloud privacy information](https://help.soundcloud.com/hc/en-us/articles/115003562388-Changing-your-track-s-privacy-setting).
 
 These privacy settings allow your tracks, albums, and playlists to be added to the Mukurtu media library and accessed by users. Content and media protocols apply. 
+
 - **Public**
 - **Private** 
 
-To change privacy settings for your SoundCloud assets, select Edit. Change your privacy settings and select Save.
-
-**Scheduled** tracks are only available to paid Artist Pro subscribers. It allows you to schedule when your tracks shift from **Private** to **Public**.
+!!! tip
+    **Scheduled** tracks are only available to paid Artist Pro subscribers. This feature allows you to schedule when your tracks shift from **Private** to **Public**.
 
 ## Embed permissions can limit function
 
-Mukurtu cannot display SoundCloud media assets in content items without an embedded-player code. To enable this setting, select the ellipsis button on your SoundCloud asset.
+Mukurtu cannot display SoundCloud media assets in content items without an embedded-player code. 
+To enable this setting, complete the following steps. 
 
-![Screenshot of the menu for a SoundCloud track with the ellipsis highlighted.](../_embeds/placeholderscreenshot.png)
+1. Select the "Edit" button on your SoundCloud asset.
 
-Select Edit Track.
+    ![Screenshot of the menu for a SoundCloud track with the Edit button highlighted.](../_embeds/SoundCloudpermission1.png)
 
-![Screenshot of the menu for a SoundCloud track with the ellipsis selected and the **Edit Track** from the dropdown menu highlighted.](../_embeds/placeholderscreenshot.png)
+2. Navigate to Permissions and make sure that **Display embed code** is selected. No other fields are required. 
 
-Select Permissions and make sure that **Display embed code** is selected. No other fields are required. 
+    ![Screenshot of the pop-up permissions menu for a SoundCloud track highlighting the location of the Permissions tab and the Display embed code checkbox.](../_embeds/SoundCloudpermission2.png)
 
-![Screenshot of the Permissions menu with "Display embed code" highlighted.](../_embeds/placeholderscreenshot.png)
+3. Select the "Save changes" button to save changes to your embed code.

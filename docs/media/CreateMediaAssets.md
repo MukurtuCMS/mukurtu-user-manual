@@ -7,7 +7,7 @@ tags:
 # Create Media Assets Overview
 
 !!! roles "User roles"
-	Protocol Steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor 
+	Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
 Mukurtu supports several different types of media assets. These include audio files, SoundCloud links, documents, external embeds, image files, remote video links from Vimeo and YouTube, and video files. The way you create media assets varies slightly for different types of assets, but generally follows a similar workflow. 
 
