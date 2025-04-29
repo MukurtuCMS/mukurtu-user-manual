@@ -15,7 +15,7 @@ Protocol stewards and curators can curate the content within the collections the
 
 ## Add content
 
-1. Navigate to the collection you want to manage. Select the **Edit** link above the collection.
+1. Navigate to the collection you want to manage. Select the **Edit** link below the collection title.
 
     ![Screenshot of the edit link](../_embeds/placeholderscreenshot.png)
 
