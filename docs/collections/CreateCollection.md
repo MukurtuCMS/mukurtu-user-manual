@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles" 
     Protocol steward, curator
 
-To provide context or connections for some items or groups of items, communities may choose to use Mukurtu's Collections feature. Collections are a useful feature that help protocol stewards and curators arrange content in ways that help provide a more comprehensive context for that content. The creator of the collection determines the way the collection is arranged, including the order in which content is displayed. Users only see those items they have access to based on their cultural protocols. Collections provide users with a more curated or guided experience of the site's content. 
+Collections are a useful feature that help protocol stewards and curators arrange content in ways that help provide a more comprehensive context for that content. The creator of the collection determines the way the collection is arranged, including the order in which content is displayed. Users only see those items they have access to based on their cultural protocols. Collections provide users with a more curated or guided experience of the site's content. 
 
 ## Create a new collection 
 
@@ -24,17 +24,17 @@ To provide context or connections for some items or groups of items, communities
 
     The remaining steps to create a collection are the same.
 
-2. Use the *Collection name* field to provide a name for your collection. This is a required field.
-3. Use the checkboxes to select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
-
-    - Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
-    - All is more restrictive as users must belong to all the selected protocols to view the collection. This is a required field.
-
-4. Use the checkboxes to apply cultural protocols to your collection. 
-    
     !!! requirement
         Collection name, sharing settings, and cultural protocols are required fields.
 
+2. Use the *Collection name* field to provide a name for your collection. 
+3. Use the checkboxes to select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
+
+    - Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
+    - All is more restrictive as users must belong to all the selected protocols to view the collection. 
+
+4. Use the checkboxes to apply cultural protocols to your collection. 
+    
     ![Screenshot of collection cultural protocols fields below the Mukurtu Essentials and Relations tabs with sharing settings and cultural protocols highlighted.](../_embeds/collections_how_to2.png)
 
 5. Use the *Summary* field to provide a summary of your collection. This field is limited to 255 characters. 
