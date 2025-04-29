@@ -6,7 +6,7 @@ tags:
 # Understanding Collections
 
 !!! roles "User roles" 
-    Protocol steward, Curator, Authenticated user
+    Protocol steward, curator, authenticated user
 
 There are two types of collections in Mukurtu: personal collections and collections curated by protocol stewards and curators. The bulk of this article addresses administrator curated collections. For more information on personal collections, please navigate to the Personal Collections subheading in this article or visit [Create and Manage a Personal Collection](PersonalCollection.md).
 
