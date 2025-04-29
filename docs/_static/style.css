@@ -22,6 +22,10 @@
     border-style: solid;
 }
 
+.md-typeset a {
+  text-decoration: underline;
+}
+
 .md-content {
     border-left-style: solid;
 }
