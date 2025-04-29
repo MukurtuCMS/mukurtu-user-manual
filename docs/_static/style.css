@@ -30,6 +30,12 @@
     border-left-style: solid;
 }
 
+.md-copyright__highlight {
+  color: var(--md-accent-bg-color);
+  font-size: .8rem;
+
+}
+
 [data-md-color-scheme=slate] {
     --md-primary-fg-color:#343131;
     --md-default-fg-color--light: #ffffff;
