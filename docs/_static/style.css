@@ -30,7 +30,7 @@
     border-left-style: solid;
 }
 
-.md-copyright__highlight {
+.md-copyright {
   color: var(--md-accent-bg-color);
   font-size: .8rem;
 
