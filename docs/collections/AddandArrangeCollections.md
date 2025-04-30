@@ -9,7 +9,7 @@ tags:
 !!! roles "User roles" 
     Protocol steward, curator
     
-Collections are a tool used to group and arrange content in a structured way, or to provide additional context. They can also be used to provide and exhibit-type experience.
+Collections are a tool used to group and arrange content in a structured way, or to provide additional context. They can also be used to provide an exhibit-type experience.
 
 Protocol stewards and curators can curate the content within the collections they are responsible for. This article demonstrates adding and arranging content within a pre-existing collection.
 
@@ -30,7 +30,7 @@ Protocol stewards and curators can curate the content within the collections the
     !!! tip 
         You can filter content by type or search by title.
         
-        You can add digital heritage items, dictionary words, person records, word lists, articles, and basic pages to your collection.
+        You can add digital heritage items, dictionary words, person records, and word lists to your collection.
 
 4. Use the checkboxes to select content to add to the collection. Select the "Add Content" button below the content list to add selected content to the collection.
 
