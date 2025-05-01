@@ -97,6 +97,8 @@ nav:
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
+    - media/CreateMediaContent.md 
+    - media/ByTypeMediaUpload.md
     - media/MediaAssetMetadata.md
     - media/MediaAssetFileFormats.md 
     - media/ManageMediaAccessWithProtocols.md 
