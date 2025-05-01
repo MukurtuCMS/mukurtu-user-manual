@@ -6,9 +6,16 @@ tags:
 # Sub-collection Organization
 
 !!! roles "User roles" 
-    Protocol steward, Curator, Authenticated user
+    Protocol steward, curator
 
-Collections and personal collections can be structurally organized in hierarchies by creating sub-collections. Creating a sub-collection follows the same process as creating a collection, which can be found here [Create a Collection](CreateCollection.md). Sub-collections are created from the parent collection page or as stand-alone collections. A sub-collection is assigned to a parent collection through the parent collection page. 
+Collections can be extended by including sub-collections, which work like subfolders and provide a hierarchical structure to further arrange content within the collection.
+
+Sub-collections include all the same fields as a regular collection, and can have different cultural protocols than their parent collection. 
+
+There are two ways to create a sub-collection:
+
+- By creating a new sub-collection from the parent collection page.
+- By assigning an existing collection as a sub-collection within the parent collection. This is useful if you already have existing collections and later want to rearrange them, or you accidentally created a collection that should have been a sub-collection.
 
 ## New sub-collection
 
@@ -52,7 +59,6 @@ There are two different ways to assign an existing collection as a sub-collectio
     ![Screenshot with the Manage collection organization button highlighted.](../_embeds/subcollections3.png)
 
 2. Start typing the sub-collection name in the text box to bring up a list of your existing sub-collections. Select the sub-collection you want to assign, then select "Add to Organization".
-
 3. Your new sub-collection will populate under Collection. You must click and drag it under the parent collection to assign it as a subcollection.
 
     !!! warning
@@ -66,3 +72,5 @@ There are two different ways to assign an existing collection as a sub-collectio
 
     !!! tip 
         This is also how you create sub-collections for personal collections.
+
+![Screenshot of a collection with sub-collections](../embeds_placeholderscreenshot.png)
