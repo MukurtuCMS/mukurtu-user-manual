@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles"
     Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
-Media assets are the core element of Digital Heritage Items and can be images, documents, video, audio files, or embedded media. 
+Media assets are the core element of digital heritage items and other content. They can be images, documents, video, audio files, or embedded media. 
 
 ## Fields used across all media types 
 
@@ -47,17 +47,17 @@ Media assets are the core element of Digital Heritage Items and can be images, d
 
 ### Media Tags 
 
-- Media tags enable administrators to flag potentially sensitive media assets. 
-- Users see a blacked-out box in place of the media asset overlaid with descriptive text when they visit a page with a media tag. The user may choose to click through to access the media. 
-- This does not prevent users from accessing tagged media. 
+- Media tags can be used to tag and locate assets within the media library (for example, `oral history` or `newspaper`). 
+- They can also be used to trigger media content warnings when that tool is enabled.
+    - Users see a blacked-out box in place of the media asset overlaid with descriptive text when they visit a page with a media tag. The user may choose to click through to access the media. 
+    - This does not prevent users from accessing tagged media. 
 
 ### Thumbnail 
 
 - A thumbnail image associated with the media asset. 
 - These are automatically generated for audio, video, and URL-linked assets. 
-
-!!! requirement 
-    This is a required field for External Embeds.
+- This is a required field for External Embeds.
+- Thumbnail images require an alternative text description for accessibility. 
 
 ## Fields unique to specific media asset types
 
@@ -73,18 +73,16 @@ Video file - Upload a video file.
 
 External Embed - The embed code for an external file.
 
-Remote Video via URL - Video files can be very large, using a third party to host video content for access copies saves storage space on your server. Both YouTube (youtube.com) and Vimeo (vimeo.com) offer private and/or unlisted hosting of videos, allowing you to privately host content on either service, and then feed those videos into your Mukurtu site. Please note that each of these hosting services has their own list of supported file formats.
+Remote Video via URL - Video files can be very large, using a third party to host video content for access copies saves storage space on your server. Both [YouTube](https://www.youtube.com/) and [Vimeo](https://vimeo.com/) offer private and/or unlisted hosting of videos, allowing you to privately host content on either service and feed those videos into your Mukurtu site. Please note that each of these hosting services has their own list of supported file formats.
 
-SoundCloud Track URL - This field includes URLs for SoundCloud Tracks, Albums, and Playlists. Audio files can be very large, using a third party to host audio content for access copies saves storage space on your server. SoundCloud offers private audio hosting, allowing you to privately host content on either service, and then feed that audio into your Mukurtu site. Please note that SoundCloud has its own list of supported file formats.
+SoundCloud Track URL - This field includes URLs for SoundCloud Tracks, Albums, and Playlists. Audio files can be very large, using a third party to host audio content for access copies saves storage space on your server. [SoundCloud](https://soundcloud.com/discover) offers private audio hosting, allowing you to privately host content on either service and feed that audio into your Mukurtu site. Please note that SoundCloud has its own list of supported file formats.
 
-### Fields for specific media assets
+### Audio files
 
-#### Audio files
+Contributor - The name of the speaker or singer of a recording. Applies to audio and SoundCloud assets.
 
-Contributor - The name of the speaker or singer of a recording. Applies to Audio and SoundCloud recordings.
+Transcription - A transcription of an audio file.
 
-Transcription - A transcription of an Audio recording.
+### Images
 
-#### Images
-
-Alternative text - A short description of the imaged used by screen readers and displayed when the image is not loaded. This is important for accessability. 
+Alternative text - A short description of the imaged used by screen readers and displayed when the image is not loaded. This is important for accessibility. 

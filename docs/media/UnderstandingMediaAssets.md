@@ -22,7 +22,7 @@ Mukurtu supports several different types of media assets. These include:
 
 You can apply media assets to content and taxonomic records, such as digital heritage items, dictionary words, person and place records, and other facets of Mukurtu. Most items do not have a limit on the number of associated media assets. 
 
-Digital heritage items generally feature at least one media asset, and can contain multiple media assets as metadata in the cultural narrative, traditional knowledge, and description fields. Digital heritage items also allow multi-page items, which can compile multiple media assets into one digital heritage item, such as a yearbook or newspaper. 
+Digital heritage items generally feature at least one media asset, and can contain multiple media assets as metadata in the cultural narrative, traditional knowledge, and description fields. Digital heritage items also allow multi-page items, which can compile multiple media assets into one digital heritage item. One common use for the multi-page is to showcase a yearbook or newspaper. 
 
 Dictionary words can use multiple audio files to provide users more comprehensive pronounciation examples. In some cases, audio files are used to provide an example of the way a word or phrase is pronounced according to the age, gender, or region of the speaker. You can also apply an image thumbnail to dictionary words. 
 

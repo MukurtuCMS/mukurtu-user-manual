@@ -25,8 +25,8 @@ There are two ways to create a media asset: from your dashboard or while creatin
 	Depending on your browser, the text on the button may vary.
 
 - To insert remote video, SoundCloud, or external embeds, copy and paste the URL or embed code.
-- Media asset metadata for is briefly described below. For more details, visit the [Media Asset Metadata](MediaAssetMetadata.md) support document.
-- Once your media assets are part of your media library, they can easily be added to your content 
+- Media asset metadata for is briefly described below. For more details, visit the [Media Asset Metadata](MediaAssetMetadata.md) or the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md)support documents.
+- Once your media assets are part of your media library, they can easily be added to your content.
 
 	![Screenshot of media library.](../_embeds/placeholderscreenshot.png)
 
@@ -49,7 +49,7 @@ There are two ways to create a media asset: from your dashboard or while creatin
 - The name of your externally embedded media is not auto-generated.
 - Enter the embed code to add your externally embedded media to the media library.
 - You must select a thumbnail image for your external embed.
-	- In the **Thumbnail** field, select the "Browse" button to upload an image file or drag and drop an image file from your file explorer.
+	- In the **Thumbnail** field, select the "Choose File" or "Browse" button to upload an image file or drag and drop an image file from your file explorer.
 	- Alternative text is required for the thumbnail image. This short description is used by screen readers and displayed when the image is not loaded. It is important for accessability. This is a required field.
 	
 ## Optional metadata fields 
@@ -72,4 +72,4 @@ Audio files have the following optional metadata fields
 
 Image files have the following required metadata field.
 
-- Alternative Text - this is a required field for images
+- Alternative Text - this is a required field for images, including thumbnails
