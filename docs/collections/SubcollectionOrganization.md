@@ -72,5 +72,5 @@ There are two different ways to assign an existing collection as a sub-collectio
 
     !!! tip 
         This is also how you create sub-collections for personal collections.
-
-![Screenshot of a collection with sub-collections](../embeds_placeholderscreenshot.png)
+        
+![Screenshot of a collection with sub-collections](../_embeds/placeholderscreenshot.png)
