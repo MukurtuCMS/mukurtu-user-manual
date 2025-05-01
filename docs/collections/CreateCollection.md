@@ -14,25 +14,31 @@ Collections are a tool to group and arrange content, can be used to provide addi
 
 There are two ways to create a collection in Mukurtu. You can create a collection from your **Dashboard** or by selecting **Add Content**.
     
-    - To create a collection from your dashboard, navigate to your **Dashboard** and scroll down to the **Collection** link. 
+- To create a collection from your dashboard, navigate to your **Dashboard** and scroll down to the **Collection** link. 
 
    ![Screenshot of the dashboard with an arrow pointing to collection](../_embeds/collections_how_to1.png)
 
-    - To create a collection from **Add Content** navigate to **Add Content**, then select the **Collection** link.
+- To create a collection from **Add Content** navigate to **Add Content**, then select the **Collection** link.
 
    ![Screenshot of the add content page with Collection highlighted.](../_embeds/collections_how_to8.png)
 
-    The remaining steps to create a collection are the same.
+The remaining steps to create a collection are the same.
 
-### Mukurtu essentials
+## Mukurtu essentials
 
 1. Use the *Collection name* field to provide a name for your collection. The collection name should give users useful information about the collection when browsing or searching.
+
+    - This is a required field.
+
 2. Use the checkboxes to select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
 
     - Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
     - All is more restrictive as users must belong to all the selected protocols to view the collection. 
+    - This is a required field.
 
 3. Use the checkboxes to apply cultural protocols to your collection. 
+
+    - This is a required field.
     
     ![Screenshot of collection cultural protocols fields below the Mukurtu Essentials and Relations tabs with a collection name, sharing settings, and cultural protocols filled in.](../_embeds/placeholderscreenshot.png)
 
@@ -83,7 +89,7 @@ There are two ways to create a collection in Mukurtu. You can create a collectio
 
 You can save your Collection at this point, or return to the top of your page to select the **Relations** tab to add content to your collection.
 
-### Relations
+## Relations
 
 1. In the **Items in Collection** section, select the "Select Content" button. Digital heritage items, person records, dictionary words, and other content can be included in a collection. 
 
