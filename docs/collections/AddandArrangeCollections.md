@@ -4,44 +4,50 @@ tags:
     - content
 ---
 
-# Add Content and Arrange a Collection
+# Curate a Collection
 
 !!! roles "User roles" 
-    Protocol steward, Curator, Authenticated user
+    Protocol steward, curator
     
-Protocol Stewards and Curators can add content and arrange the collections they administer through the collections page. Collections are a useful feature that can provide a more comprehensive context for content. This article discusses how to add and arrange content within a collection.
+Collections are a tool used to group and arrange content in a structured way, or to provide additional context. They can also be used to provide an exhibit-type experience.
+
+Protocol stewards and curators can curate the content within the collections they are responsible for. This article demonstrates adding and arranging content within a pre-existing collection.
 
 ## Add content
 
-1. Select the collection you want to add content to. 
+1. Navigate to the collection you want to manage. Select the **Edit** link below the collection title.
 
-2. Select the **Edit** link above the collection. 
+    ![Screenshot of the edit link](../_embeds/placeholderscreenshot.png)
 
-   ![Screenshot of the edit link](../_embeds/collections_addcontent1.png)
+2. Select the **Relations** tab.
 
-3. Select the **Relations** tab.
+    ![Screenshot of the relations tab](../_embeds/placeholderscreenshot.png)
 
-   ![Screenshot of the relations tab](../_embeds/collections_addcontent2.png)
+3. In the **Items in Collection** field, select the "Select Content" button.
 
-4. In the **Items in Collection** field, select the "Select Content" button.
-
-   ![Screenshot of the select content button](../_embeds/collections_addcontent3.png)
-
-5. Select the checkbox for all the content you wish to add to your collection. Then select the "Add Content" button at the bottom of the pop-up window to add your content.
+    ![Screenshot of the select content button](../_embeds/placeholderscreenshot.png)
 
     !!! tip 
         You can filter content by type or search by title.
+        
+        You can add digital heritage items, dictionary words, person records, and word lists to your collection.
 
-   ![Screenshot of the Select Content pop-up with the search and filter, checkboxes, and Add Content button highlighted.](../_embeds/placeholderscreenshot.png)
+4. Use the checkboxes to select content to add to the collection. Select the "Add Content" button below the content list to add selected content to the collection.
 
-6. Select the "Save" button at the bottom of the screen to save your collection.
+    ![Screenshot of the Select Content pop-up with the search and filter, checkboxes, and Add Content button highlighted.](../_embeds/placeholderscreenshot.png)
 
-## Arrange content 
+5. By default, content will be displayed on the collection page in the order it was added to the collection. You can also rearrange the content if needed.
 
-1. Navigate to the collection you want to rearrange, then select the **Edit** link above the collection.
+    To use the default order select the "Save" button at the bottom of the page to save your changes.
 
-2. Select the **Relations** tab. In the **Items in the Collection** field, select and drag the content in your collection to rearrange their order. Select the "Remove" button to delete content from the collection.
+## Arrange a collection 
 
-   ![Screenshot of the content in the collection with the drag icon highlighted.](../_embeds/placeholderscreenshot.png)
+1. Navigate to the collection you want to rearrange, and select the **Edit** button from the menu below the collection title.
+
+2. Select the **Relations** tab. In the **Items in the Collection** field, select and drag the content into the preferred order. 
+
+    To remove content from the collection, select the "Remove" button.
+
+    ![Screenshot of the content in the collection with the drag icon highlighted.](../_embeds/placeholderscreenshot.png)
    
-3. Select the "Save" button at the bottom of the screen to save your collection.
+3. Select the "Save" button at the bottom of the page to save your changes.
