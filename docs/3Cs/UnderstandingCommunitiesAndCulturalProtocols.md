@@ -44,9 +44,9 @@ While cultural protocols can serve many purposes, functionally they are all the 
 
 Each cultural protocol is created by and managed within a community. Cultural protocols are managed by the protocol steward, who is assigned to the role by the community manager. Protocol stewards manage protocol membership (enrolling and removing members and assigning other protocol roles), and content (adding, updating and removing content).
 
-### Sharing Protocol Settings
+### Cultural Protocol Types
 
-Sharing protocol settings determine who can access the protocol page and items under the protocol. It consists of two options: open and strict.
+There are two types of cultural protocols: open and strict, and they are determined in the "Cultural Protocol Types" setting of a cultural protocol.
 
 - Open: Items under open protocols are accessible to all visitors, including those without user accounts.
 
@@ -59,7 +59,7 @@ One caveat to this rule is the use of multiple protocols: if two or more protoco
 Protocols allow for members to take an active role in managing the content within a protocol:
 
 - protocol member - views content but cannot add or edit.
-- protocol ffiliate - ???
+- protocol affiliate - ???
 - language steward - can add, edit and delete dictionary words and create language lists
 - language contributor - can add dictionary words and create language lists
 - contributor - can create new digital heritage items (only? or other pieces of content as well?)

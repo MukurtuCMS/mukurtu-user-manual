@@ -3,7 +3,7 @@ tags:
     - communities, cultural protocols, and categories
 ---
 
-# Create a cultural protocol
+# Create a Cultural Protocol
 
 !!! roles "User Roles"
     Community Manager 

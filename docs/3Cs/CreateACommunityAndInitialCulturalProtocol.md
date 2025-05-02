@@ -2,63 +2,77 @@
 tags:
     - communities, cultural protocols, and categories
 ---
-# Create a community and initial cultural protocol
+# Create a Community and Initial Cultural Protocol
 
-!!! User Roles 
-    Mukurtu Administrator
+!!! User roles 
+    Mukurtu administrator
 
-## Stage 1: Create a community
+In Mukurtu 4, creating a new community will automatically prompt you to create a cultural protocol for that community. This article walks you through that initial setup. 
 
-1. From the Mukurtu dashboard, select "Add Community"
+## Create a community
+
+1. From the dashboard, select "Add Community"
 
     ![A screenshot of the Mukurtu dashboard with the add community button annotated with a red box.](../_embeds/create-community-01.png)
 
 2. Enter a *community name* and *description*. You can use the *description* field to introduce your community, share background and history, information about who to contact with questions, and any other information you would like visitors to know. 
 
-    ![A screenshot of the add community form. Visible on the form are two text entry fields. The first field says community name and the second says description.](../_embeds/create-community-02.png)
+    ![A screenshot of the add community form two text entry fields. The first field says community name and the second says description.](../_embeds/create-community-02.png)
 
-3. Under *Sharing Protocol*, select **Strict** to limit  access to the community page to community members only, or **Open** to allow public access to the community page.
+3. In the *community page visibility field*, select **Strict** or **Open**:
+
+    - **Strict** limits community page access to community members only.
+    - **Open** allows public access to the community page.
 
     ![A screenshot of the sharing protocol field with two radio buttons, one labeled strict and the other labeled open and a red arrow pointing to the buttons](../_embeds/create-community-03.png)
 
-4. At this point, you have the option to add community members and assign user roles. You can also skip this and add members later. By default, the Mukurtu administrator will be added to the community and assigned to the community manager role. The instructions for adding members and assigning roles are the same:
+    At this point, you have the option to add community members and assign user roles. If you are currently unsure about role assignments, or you have not yet created the necessary user accounts, you can skip this step and manage membership later. By default, the Mukurtu administrator will be added to the community and assigned to the community manager role. The instructions for adding members and assigning roles are the same:
 
     !!! tip
-         Only registered users of the site will be able to be added to a community.
+        Only registered users of the site will be able to be added to a community.
 
-    - Under the user role to which you wish to enroll members, select "Select Members". A window will open where you will make your selections.
+    There are three community roles. To read more, see [User Role Types](../users/user-role-types.md)
+
+    - community manager - manages community membership and creates new protocols.
+
+    - community affiliate - does not belong to a given community in real life, but works with the community in some capacity that necessitates inclusion in the community. This role helps to differentiate outsiders (i.e. researcher).
+
+    - community member - views content within the community.
+
+    
+4. Under the user role to which you wish to enroll members, select "Select Members". A window will open where you will make your selections.
 
     ![Select Community Managers](../_embeds/create-community-04.png)
 
-    - Use the search bar to quickly find users, or find them in the list below the search bar and check the box next to their name. 
-    - Once all the desired names have been checked, select "Add Users".
+    - Begin typing a username into the search bar. Usernames will autocomplete as you type, or find them in the list below the search bar and check the box next to their name. 
+    - Once all the desired users have been selected, select "Add Users".
 
-    ![Select Finished](../_embeds/create-community-05.png)
+        ![Select Finished](../_embeds/create-community-05.png)
 
     - To remove users, select "Remove" under their name.
     - Select "Finished" when your are done adding users.
     - Repeat these steps for any other user roles you would like to assign at this time.
 
-6. When you're finished, select "Create Community". 
+5. When you're finished, select "Create Community". 
 
     ![Select Create Community](../_embeds/create-community-06.png)
 
-## Stage 2: Create a protocol
+## Create a protocol
 
-Once you have created a community, you will be directed to create a cultural protocol for that community. Every community must have at least one cultural protocol. Your community will not be saved until the protocol is created.
+Once you have created a community, you will be directed to create a cultural protocol for that community. Every community must have at least one cultural protocol. 
 
 1. Name your cultural protocol. It's helpful to name the community associated with this protocol and indicate the type of access provided. For example, public collections at the Washington State University Library Manuscripts, Archives and Special Collections (WSU-MASC) might use the protocol, WSU-MASC Public.
 
-2. Select a sharing protocol. Sharing protocols determine who can access the protocol page and items under this protocol.
+2.  Under *Protocol Type*, select **open** or **strict**. 
 
     - **Open**: Items under open protocol are accessible to all visitors, including those without user accounts.
-    - **Strict**: Items under strict protocol will only be visible to logged in protocol members. The protocol page will not be visible to the public.
+    - **Strict**: Items under strict protocol are only visible to logged in protocol members. The protocol page will not be visible to the public.
 
-3. Add an optional description. Descriptions display on the protocol page and may include information about the purpose of the protocol, the type of content under this protocol, and who to contact if you have qustions.
+3. Add an optional description. Descriptions display on the protocol page and may include information about the purpose of the protocol, the type of content under this protocol, and who to contact if you have questions.
 
     ![Name your protocol](../_embeds/create-community-07.png)
 
-4. At this point, you can add protocol members and assign user roles using the same steps we used to add community members, or, skip this step and add members at another time.
+4. At this point, you can add protocol members and assign user roles using the same steps  used to add community members. If you do not have community members yet, or are currently unsure of role assignments, you can skip this step and manage protocol membership later.
 
     There are several different user roles for protocols for you to use as needed:
 
@@ -90,3 +104,6 @@ Once you have created a community, you will be directed to create a cultural pro
     - "Save" takes you to the manage community page with a confirmation message.
 
  ![A sreenshot of the new protocol form. From top to bottom it reads protocol stewards with a grey button underneath that says select members. Beneath is protocol members with a grey select members button. Below that is a list of enrolled protocol members. Beneath that are two grey buttons. The button on the left says save and create another protocol. The button on the right says save. They are annotated with a red box around both buttons.](../_embeds/create-community-11.png)
+
+--SCREENSHOT OF THE NEWLY CREATED COMMUNITY PAGE AND CONFIRMATION MESSAGE--
+![A screenshot of the newly created community page and confirmation message](../_embeds/placeholderscreenshot.png)
