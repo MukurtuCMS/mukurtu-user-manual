@@ -10,6 +10,8 @@ tags:
 
 SoundCloud offers limited privacy settings. For more information on these settings, visit [SoundCloud privacy information](https://help.soundcloud.com/hc/en-us/articles/115003562388-Changing-your-track-s-privacy-setting).
 
+## SoundCloud privacy settings
+
 These privacy settings allow your tracks, albums, and playlists to be added to the Mukurtu media library and accessed by users. Content and media protocols apply. 
 
 - **Public**
@@ -18,7 +20,7 @@ These privacy settings allow your tracks, albums, and playlists to be added to t
 !!! tip
     **Scheduled** tracks are only available to paid Artist Pro subscribers. This feature allows you to schedule when your tracks shift from **Private** to **Public**.
 
-## Embed permissions can limit function
+## SoundCloud embed settings
 
 Mukurtu cannot display SoundCloud media assets in content items without an embedded-player code. 
 To enable this setting, complete the following steps. 
