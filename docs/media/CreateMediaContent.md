@@ -38,7 +38,6 @@ Digital heritage items support audio files, documents, external embeds, images, 
         
     - Select an file from your file explorer.        
     - If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
-    - This is a required field.
 
 Fill out the remaining metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
 
@@ -46,7 +45,7 @@ Fill out the remaining metadata according to the [Media Upload Instructions by M
 
 1. Navigate to the **Media Assets** section.
 2. Select the "Add Media" button. 
-3. Select the type of content you want to add. You can insert the link for a remote video or SoundCloud asset.
+3. Select the type of content you want to add. Insert the link for a remote video or SoundCloud asset.
 
 Fill out the metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
 
@@ -71,28 +70,69 @@ You can upload an image file to your media library from a collection.
         
     - Select an file from your file explorer.        
     - If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
-    - This is a required field.
 
 ## From a dictionary word
 
-In the **Mukurtu Essentials** and **Word Entries** tabs you can upload audio files. Audio files allow users to hear how dictionary words are pronounced and hear them used in sentences. 
+Use the **Recording** section of the **Mukurtu Essentials** and **Word Entries** tabs to upload audio files. Audio files allow users to hear how dictionary words are pronounced and hear them used in sentences. Follow the steps to upload audio files.
 
-1. Navigate to the **Recording** section.
-2. Select the "Add Media" button. 
-3. Select the "Choose File" or "Browse" button to upload an audio file. 
+### Upload an audio file
+
+1. Navigate to the **Mukurtu Essentials** or **Word Entries** tab.
+2. Navigate to the **Recording** section.
+3. Select the "Add Media" button. 
+4. Select the "Choose File" or "Browse" button to upload an audio file. 
 
     !!! tip
         The text of the upload button depends on your browser. 
         
     - Select an file from your file explorer.        
     - If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
-    - This is a required field.
 
 Fill out the remaining metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
 
+### Upload a media asset
+
 In the **Additional Fields** tab you can upload image files in the **Thumbnail** section and audio files, documents, images, remote video, SoundCloud links, or video files in the **Media Assets** field. 
 
-1. Navigate to the **Media Assets** section.
+1. Navigate to the **Additional Fields** tab.
+2. To upload a thumbnail image, navigate to the **Thumbnail** section. 
+    
+    - Select the "Choose File" or "Browse" button to upload a file. 
+
+    !!! tip
+        The text of the upload button depends on your browser. 
+        
+    - Select an file from your file explorer.        
+    - If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
+
+2. To upload a media asset, navigate to the **Media Assets** section.
+3. Select the "Add Media" button. 
+4. Select the type of content you want to add. You can upload an audio file, document, image, or video file.
+5. Select the "Choose File" or "Browse" button to upload a file. 
+
+    !!! tip
+        The text of the upload button depends on your browser. 
+        
+    - Select an file from your file explorer.        
+    - If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
+
+Fill out the remaining metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
+
+### Insert a remote asset
+
+1. To upload a remote asset from the media assets, navigate to the **Media Assets** section.
+2. Select the "Add Media" button. 
+3. Select the type of content you want to add. Insert the link for a remote video or SoundCloud asset.
+
+Fill out the metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
+
+## From a person record
+
+Under the **Mukurtu Essentials** tab you can add audio files, documents, images, remote video, SoundCloud links, or video files in the **Media Assets** field. Media assets can enhance a person record and help provide a fuller biographic sketch of the person. 
+
+### Upload a media asset
+
+1. To upload a media asset, navigate to the **Media Assets** section.
 2. Select the "Add Media" button. 
 3. Select the type of content you want to add. You can upload an audio file, document, image, or video file.
 4. Select the "Choose File" or "Browse" button to upload a file. 
@@ -102,14 +142,29 @@ In the **Additional Fields** tab you can upload image files in the **Thumbnail**
         
     - Select an file from your file explorer.        
     - If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
-    - This is a required field.
 
 Fill out the remaining metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
 
 ### Insert a remote asset
 
+1. To upload a remote asset from the media assets, navigate to the **Media Assets** section.
+2. Select the "Add Media" button. 
+3. Select the type of content you want to add. Insert the link for a remote video or SoundCloud asset.
+
+Fill out the metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
+
+## From a word list
+
+You can upload an image file to your media library from a word list. This is helpful if you don't have the representative image for a word list already in your media library. Add image files from your **Mukurtu Essentials** tab.
+
 1. Navigate to the **Media Assets** section.
 2. Select the "Add Media" button. 
-3. Select the type of content you want to add. You can insert the link for a remote video or SoundCloud asset.
+3. Select the "Choose File" or "Browse" button to upload a file. 
+
+    !!! tip
+        The text of the upload button depends on your browser. 
+        
+    - Select an file from your file explorer.        
+    - If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
 
 Fill out the metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
