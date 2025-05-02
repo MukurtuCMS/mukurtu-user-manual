@@ -17,8 +17,7 @@ These privacy settings allow your tracks, albums, and playlists to be added to t
 - **Public**
 - **Private** 
 
-!!! tip
-    **Scheduled** tracks are only available to paid Artist Pro subscribers. This feature allows you to schedule when your tracks shift from **Private** to **Public**.
+**Scheduled** tracks are only available to paid Artist Pro subscribers. This feature allows you to schedule when your tracks shift from **Private** to **Public**. For more information visit [SoundCloud scheduling a release date](https://help.soundcloud.com/hc/en-us/articles/360055603414-Scheduling-a-release-date)
 
 ## SoundCloud embed settings
 
