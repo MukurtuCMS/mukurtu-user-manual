@@ -1,19 +1,26 @@
 ---
 tags:
     - media
-    - cultural protocol
+    - communities, cultural protocols, and categories
 ---
 # Manage Media Access with Cultural Protocols
 
-!!! question "User roles:"
-    Protocol steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor
+!!! roles "User roles"
+    Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
-Cultural protocols must be directly added to all media assets in your media library. This is a new requirement for Mukurtu v4.
+All media assets require cultural protocols. 
 
-We strongly recommend applying the same cultural protocols to each media asset that are applied to the content items where the media asset is used. 
+!!! tip 
+    In Mukurtu v3 protocols were optional. This is a new requirement for Mukurtu v4.
 
-You can apply a strict protocol to a media asset and associate it with a content item with an open protocol. The media asset will not appear to users outside that protocol, but they can view the metadata from the open protocol. This might be desirable if you prefer to restrict some media assets while you share the associated metadata.
+In most cases you will want to apply the same cultural protocols to each media asset that are applied to the content items where the media asset is used. This ensures that if a user can view the content, they can also view the media assets.
 
-![A Mukurtu digital heritage menu listing the St. Croix River Island Was Scene of a Love Story of 350 Years Ago with a box to the left stating "No media is available on this item".](../_embeds/MEDIAExampleProtocol2.png)
+If necessary, you can have different protocols between content and media. For example, a public digital heritage item with a private protocol would make the metadata and item discoverable, but limit access to the media assets.
 
-![A Mukurtu digital heritage page for the St. Croix River Island Was Scene of a Love Story of 350 Years Ago that shows no media item.](../_embeds/MEDIAExampleProtocol1.png)
+**MAKE SOMETHING UP FOR WHY THIS WOULD NOT BE SHOWN LIKE THIS PROJECT IS UNDER REVIEW BY PROJECT PARTNERS** The **THING** itself was assigned a strict protocol and does not appear on the site.
+
+![Screenshot of the menu view of a digital heritage item with an open protocol featuring a media asset with a strict cultural protocol.](../_embeds/placeholderscreenshot.png)
+
+![Screenshot of the page view of a digital heritage item with an open protocol featuring a media asset with a strict cultural protocol](../_embeds/placeholderscreenshot.png)
+
+
