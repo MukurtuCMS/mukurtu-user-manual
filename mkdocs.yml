@@ -4,6 +4,7 @@ theme:
   name: material
   logo: _static/assets/logo.png
   favicon: _static/assets/favicon.ico
+  custom_dir: docs/_overrides
   features:
     - search.suggest
   palette:
@@ -45,10 +46,10 @@ plugins:
   - exporter:
       formats:
         pdf:
-          enabled: !ENV [MKDOCS_EXPORTER_PDF, true]
+          enabled: !ENV [MKDOCS_EXPORTER_PDF, false] #re-enable as true when ready
           concurrency: 8
           aggregator:
-            enabled: true
+            enabled: false #re-enable as true when ready
             output: mukurtu-user-manual.pdf
             covers: all
       buttons:
@@ -65,17 +66,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-extra:
-  tags: #Include these tags in the front matter of articles to group by tag/topic. Articles can have multiple tags.
-    media: media
-    metadata: metadata
-    roundtrip: roundtrip
-    users: users
-    content: content
-
+      
 nav:
-  - Home: index.md
   - Style Guide: styleguide.md
   - 3Cs:
     - 3Cs/UnderstandingCommunitiesAndCulturalProtocols.md
@@ -92,6 +84,9 @@ nav:
     - collections/CreateCollection.md 
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
+    - digital-heritage-items/CreateDHItem.md
+  - Dictionary:
+    - dictionary/AddLanguage.md
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Localization and Translation:

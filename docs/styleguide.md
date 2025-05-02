@@ -63,8 +63,7 @@ Eg:
 - These tags are placed within two rows of three hyphens (example below).
 - At this time, the meta tags we use are:
     - `pdf: false` - if the page should nto generate a PDF for download.
-    - `tags: [tag names]` - tags allow us to group pages by tagged topics, not just by their topic in the navigation menu. Tags are displayed at the top of the article page and can selected in order to view all articles with that tag. The tag(s) must be included in the tags section of the `mkdocs.yml` document before they can referenced in articles.
-
+    - `tags: [tag names]` - tags allow us to group pages by tagged topics, not just by their topic in the navigation menu. Tags are displayed at the top of the article page and can selected in order to view all articles with that tag. 
 ```
 Eg:
 
@@ -75,6 +74,35 @@ tags:
     - content
 ---
 ```
+- Here are the tags currently in use:
+
+     - media
+     - metadata
+     - roundtrip
+     - users
+     - content 
+     - about Mukurtu
+     - account management
+     - collections
+     - comments
+     - communities, cultural protocols, and categories
+     - dictionary
+     - digital heritage items
+     - getting started
+     - infrastructure
+     - Local Contexts
+     - look and feel
+     - mapping
+     - migration
+     - person records
+     - search
+     - security
+     - site maintenance
+     - structure
+     - taxonomies
+     - translation and localization
+     - user roles and responsibilities
+     - workflows
 
 ### Article titles
 
@@ -145,9 +173,12 @@ Eg:
     massa, nec semper lorem quam in massa.
 ```
 
+- There must be an empty line before and after every admonition.
+
+
 ### Lists
 
-**Unordered lists (bullet points**)
+**Unordered lists (bullet points)**
 
 - To create an unordered list, add dashes (-) in front of line items. 
     - Asterisks (*) and plus signs (+) work as well, but this documentation will use dashes.
@@ -160,19 +191,22 @@ Eg:
 - Item
 - Another item
     - Indented item
+
 ```
 
 **Ordered (numbered) lists**
 
 - To create an ordered list, add line items with numbers followed by periods. 
 - Indent one or more items (using tab or 4 spaces) to create a nested list.
+    - When creating nested lists, the indented items should use bullet points.
+- There must be an empty line before and after each list.
 
 ```
 Eg: 
 
 1. Item
 2. Another item
-    a. Indented item
+    - Indented item
 ```
 
 ### Emphasis
@@ -218,14 +252,16 @@ Eg:
 - This documentation includes many screenshots to accompany the text. We do not anticipate using many other types of images.
 - Screenshots or images are never a replacement for written information. They should never give information that is not also provided in text. Use them as an optional shortcut to understanding the information or processes.
 - Always place screenshots and images BELOW their corresponding text.
+- Include an empty line before and after screenshots.
 
 ### Taking good screenshots
 
 - You can use your system's screenshot tool or a browser extension to capture screenshots.
 - Screenshots should be taken with your browser zoom at 100%.
 - Screenshots do not need to be the full width of your monitor.
+- In general, capturing the full width of the page, instead of cropping to a more portrait orientation will look better on the site. But use good judgement.
 - A screenshot of a portion of the interface should include enough visual context around the focus area to orient readers. Too narrow of a focus is not effective.
-- If necessary, widen the browser window enough to include whitespace and keep things form looking cramped.
+- If necessary, widen the browser window enough to include whitespace and keep things from looking cramped.
 - If there is a visual difference between browsers, include representative screenshots of each (eg: Firefox and Chrome have audio players that look different).
 - Save screenshots as PNG files.
 
@@ -267,6 +303,7 @@ Eg:
 - https://www.archbee.com/blog/screenshots-in-technical-documentation 
 - All screenshots and images should have alt text.
 - <https://www.csun.edu/universal-design-center/document-learning-tools#DescribingImages> 
+- <https://intranet.birmingham.ac.uk/staff/resources/digital/web-resources/editor-resources/guidelines/accessibility/alt-text.aspx>
 - ??? how to write good alt text ???
 
 ## Writing tone and style
@@ -316,7 +353,8 @@ Eg:
     - Consider and international audience;
     - Make regular use of declarative and imperative language, limited use of interrogative language, and sparing use of exclamatory language;
     - Primarily use active voice;
-    - For general guidelines (especially when recommending things to avoid or error messages) use passive voice;
+    - For general guidelines (especially when recommending things to avoid or error messages) use passive voice.
+- Be direct.
 - We should strive to provide accessible documentation to support use of screen readers and other tools...
     - Use `select` instead of `click/click on` page elements. This is more inclusive of those using screen readers and other assistive tools;
     - Avoid using `-` in text as a separator. It is fine when used in compound words and markdown syntax.;
@@ -326,7 +364,8 @@ Eg:
     - Avoid other problematic or ableist language, eg: <https://arthalearning.com/accessible-and-inclusive-language-in-elearning/#/>.
 - Include textual and visual examples where beneficial.
 - Use specific language for different types of UI interactions <https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui>
-- Use consistent stylistic indicators to communicate things like buttons, interface elements, and other features.
+- Use consistent stylistic indicators to communicate things like buttons, interface elements, and other features 
+    - ??? ONLY in relation to the instructions/screenshots/etc on page
 
 **Buttons**
 

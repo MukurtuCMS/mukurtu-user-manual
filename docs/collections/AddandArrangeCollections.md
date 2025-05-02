@@ -1,43 +1,53 @@
 ---
 tags:
+    - collections
     - content
 ---
 
-# Add Content and Arrange a Collection
+# Curate a Collection
 
-!!! question "User roles:" 
-    Protocol steward, Curator
+!!! roles "User roles" 
+    Protocol steward, curator
     
-Protocol Stewards and Curators can add content and arrange the collections they administer through the collections page. 
+Collections are a tool used to group and arrange content in a structured way, or to provide additional context. They can also be used to provide an exhibit-type experience.
 
-## Add content to a collection
+Protocol stewards and curators can curate the content within the collections they are responsible for. This article demonstrates adding and arranging content within a pre-existing collection.
 
-Select the collection you want to add content to. 
+## Add content
 
-Select the **Edit** link above the collection. 
+1. Navigate to the collection you want to manage. Select the **Edit** link below the collection title.
 
-![Select the edit button](../_embeds/collections_addcontent1.png "Select the edit button.")
+    ![Screenshot of the edit link](../_embeds/placeholderscreenshot.png)
 
-Select the **Relations** tab.
+2. Select the **Relations** tab.
 
-![Select the relations tab](../_embeds/collections_addcontent2.png "Select the relations tab.")
+    ![Screenshot of the relations tab](../_embeds/placeholderscreenshot.png)
 
-In the **Items in Collection** field, select the "Select Content" button.
+3. In the **Items in Collection** field, select the "Select Content" button.
 
-![Select the select content button](../_embeds/collections_addcontent3.png "Select the select content button.")
+    ![Screenshot of the select content button](../_embeds/placeholderscreenshot.png)
 
-Select the checkbox for each content item you wish to add to your collection. Then select the "Add Content" button at the bottom of the pop-up window to add your content.
+    !!! tip 
+        You can filter content by type or search by title.
+        
+        You can add digital heritage items, dictionary words, person records, and word lists to your collection.
 
-![Select content to add to your collection.](../_embeds/selectcollectioncontentGIF1.gif "Select content to add to your collection.")
+4. Use the checkboxes to select content to add to the collection. Select the "Add Content" button below the content list to add selected content to the collection.
 
-Select the "Save" button at the bottom of the screen to save your collection.
+    ![Screenshot of the Select Content pop-up with the search and filter, checkboxes, and Add Content button highlighted.](../_embeds/placeholderscreenshot.png)
 
-### Arrange content within a collection
+5. By default, content will be displayed on the collection page in the order it was added to the collection. You can also rearrange the content if needed.
 
-Navigate to the collection you want to rearrange, then select the **Edit** link above the collection.
+    To use the default order select the "Save" button at the bottom of the page to save your changes.
 
-Select the **Relations** tab. In the **Items in the Collection** field, select and drag the items in your collection to rearrange their order. Select the "Remove" button to delete content items from the collection.
+## Arrange a collection 
 
-![Arrange content within a collection](../_embeds/selectcollectioncontentGIF2.gif "Arrange content within a collection.")
+1. Navigate to the collection you want to rearrange, and select the **Edit** button from the menu below the collection title.
 
-Select the "Save" button at the bottom of the screen to save your collection.
+2. Select the **Relations** tab. In the **Items in the Collection** field, select and drag the content into the preferred order. 
+
+    To remove content from the collection, select the "Remove" button.
+
+    ![Screenshot of the content in the collection with the drag icon highlighted.](../_embeds/placeholderscreenshot.png)
+   
+3. Select the "Save" button at the bottom of the page to save your changes.
