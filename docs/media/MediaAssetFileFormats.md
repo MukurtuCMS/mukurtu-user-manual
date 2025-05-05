@@ -1,11 +1,13 @@
 ---
 tags: 
     - media
+    - metadata
+    - getting started
 ---
 # Media Asset File Formats
 
-!!! question "User roles:"
-    Protocol steward, Contributor, Community Record Steward, Curator, Language Steward, Language Contributor
+!!! roles "User roles"
+    Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
 ## Audio Files 
 
@@ -13,63 +15,56 @@ Supported audio file types: 
 
 - MP3
 - WAV
-- OGG
-- M4A 
-
-## SoundCloud 
-
-Insert a URL for a SoundCloud asset in the *SoundCloud URL* field.  
+- AAC 
 
 ## Documents 
 
 Supported document file types: 
 
-- PDF
-- PPT
-- PPTX
-- XLS
-- XLSX
-- DOC
-- DOCX
-- ODT
 - TXT
-- CSV
-- ODG
-- SXW
-- ODS
 - RTF
-- ZIP
-- RAR
-- GZ
-- 7Z
-- TAR 
+- DOC, DOCS
+- PPT, PPTX
+- XLS, XLSX
+- PDF
+- ODF
+- ODG
+- ODP
+- ODS
+- ODT
+- FODT
+- FODS
+- FODP
+- FODG
+- KEY
+- NUMBERS
+- PAGES
 
 ## External Embeds 
 
-Insert an embed code from a remote website in the *External Embed* field.  
+- Embed codes in plain text
 
 ## Images 
 
 Supported image file types: 
 
-- JPEG
-- JPG
+- JPG, JPEG
 - PNG
 - GIF
-- DNG
-- TIFF
-  
-!!! warning 
-	DNG and TIFF preservation format files are not recommended. 
 
 ## Remote Video 
 
-Insert a URL for a Vimeo or YouTube asset in the *Add Remote Video via URL* field.   
+- YouTube
+- Vimeo
 
-## Uploaded Video 
+## SoundCloud 
+
+- SoundCloud tracks
+- SoundCloud albums
+- SoundCloud playlists
+
+## Video Files 
 
 Supported video file types: 
 
 - MP4
-- WEBM
-- OGV
