@@ -122,5 +122,8 @@ nav:
     - users/creating-account.md 
     - users/managing-administrator-roles.md 
     - users/managing-user-roles.md 
+  - Taxonomies:
+    - taxonomies/UnderstandingTaxonomies.md
+    - taxonomies/ManagingTaxonomies.md
   - Tags: tags.md
   - Download the User Manual: DownloadManual.md

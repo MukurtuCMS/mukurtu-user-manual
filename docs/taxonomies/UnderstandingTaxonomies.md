@@ -1,0 +1,6 @@
+---
+tags:
+    - taxonomies
+---
+
+# Understanding Taxonomies
