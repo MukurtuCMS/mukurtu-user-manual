@@ -1,26 +1,34 @@
 ---
 tags:
+
     - communities, cultural protocols, and categories
 ---
 
 # Edit Cultural Protocol Settings
 
-!!! roles “User roles”
-    Community manager
+!!! roles "User roles"
+    
+    Protocol steward
 
-## Name, protocol type and description
-1. Navigate to the protocol you wish to edit.
-2. From the protocol menu options, select **edit**.
-3. From here you can edit the protocol name, type and description.
+Cultural protocols can have a range of settings that can be updated once the protocol is created. Certain fields and settings are only available after the protocol has been created. To edit an existing protocol, navigate to the protocol, and select **edit**.
 
-## Protocol type ---UPDATE THIS SECTION WHEN NEW TERMS ARE SET---
+## Protocol Name
+
+Use this field to edit the protocol name. It's helpful to name the community associated with this protocol and indicate type of access provided. For example, public collections at the Washington State University Library Manuscripts, Archives and Special Collections (WSU-MASC) might use the protocol, WSU-MASC Public.
+
+## Protocol type 
     
 There are two types of protocols, open and strict. Select the appropriate protocol type.
     
-- Open: Content assigned to an open protocol are visible to the public.   
-- Strict: Content assigned to a strict protocol are visible to protocol members only.
+Strict - Content that uses this cultural protocol is only visible to members of this cultural protocol. The cultural protocol page is also only visible to cultural protocol members.
 
----SCREENSHOT OF PROTOCOL NAME, TYPE AND DESCRIPTION---
+Open - Content that uses this cultural protocol is visible to all site members and visitors, with no login required. The cultural protocol page is also visible.
+
+## Description
+
+Add or edit the protocol description. Descriptions display on the protocol page and may include information about the purpose of the protocol, the type of content under this protocol, and who to contact if you have questions.
+
+---SCREENSHOT OF PROTOCOL NAME, TYPE AND DESCRIPTION FILLED IN---
 ![Screenshot of protocol name, type and description](../_embeds/placeholderscreenshot.png)
 
 ## Banner and thumbnail images --THIS MIGHT CHANGE, ALSO CONFIRM IMAGE SIZES--
@@ -30,12 +38,12 @@ Banner and thumbnail images are optional styling elements. Banners appear across
 1. Under the image type you want to add, select "Add media."
 2. Browse for image files on your computer or select existing images.
 3. Add alt text and protocols to any new images. Make sure you choose protocols that enable visibility to your target audience.
-4. Populate optional fields as needed.
+4. Populate optional fields as needed. See [Media Asset Metadata](../media/MediaAssetMetadata.md) to learn more about these fields.
 5. Save your changes, then select "Insert Selected."
 
 ## Featured content
 
-Featured content gives users a preview of selected content within this protocol. It displays the title and thumbnail of the content on the protocol page. Custom thumbnails are added by editing the content directly. This may be especially useful for non-image media such as audio and PDFs, which will otherwise display a stock graphic.
+Featured content gives users a preview of selected content within this protocol. It displays the title and thumbnail of the content on the protocol page. 
 
 1. Expand featured content and select "Select Content."
 2. Use the dropdown menu to narrow your search by content type, and the search field to search for specific content.
@@ -48,15 +56,15 @@ Featured content gives users a preview of selected content within this protocol.
 
 ## Add/Remove communities
 
-It's possible that related families, villages, clans, or other communities might want to keep their communities distinct and manage access to certain shared pieces of content with the same set of protocols. This is done by adding additional communities to a protocol. All associated communities are listed in this section. 
+Each protocol is managed by at least one parent community. Protocols can also be managed jointly by multiple communities. If this is the case, additional parent communities can be assigned here. All parent communities will be displayed on the protocol page.
  
-1. To remove an existing community, select "Remove."
-2. To add a community, select "Add another item." 
+1. To add a parent community, select "Add another item." 
+2. To remove an existing parent community, select "Remove."
 
 ---SCREENSHOT OF COMMUNITY SECTION WITH RED BOXES AROUND REMOVE AND ADD ANOTHER ITEM---
 ![Screenshot of community section with red boxes around remove and add another item](../_embeds/placeholderscreenshot.png)
 
-3. Begin typing a community name to pull up a list of available communities. Select the community you would like to add. 
+3. Begin typing a community name to pull up a list of available communities. Select the community you would like to assign. --NEED TO UPDATE WHEN ENTITY BROWSER IS CONFIGURED--
 4. Repeat this step to add as many communities as needed.
 
 !!! Tip
