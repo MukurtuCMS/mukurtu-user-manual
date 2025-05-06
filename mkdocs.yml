@@ -70,12 +70,12 @@ markdown_extensions:
 nav:
   - Style Guide: styleguide.md
   - 3Cs:
-    - 3Cs/create-a-cultural-protocol.md 
+    - 3Cs/UnderstandingCommunitiesAndCulturalProtocols.md
+    - 3Cs/CreateACommunityAndInitialCulturalProtocol.md
+    - 3Cs/CreateACulturalProtocol.md 
+    - 3Cs/UnderstandingSharingSettings.md
     - 3Cs/UnderstandingCategories.md
     - 3Cs/CreateCategories.md 
-    - 3Cs/Create-a-community-and-initial-cultural-protocol.md
-    - 3Cs/CreateACulturalProtocolFromTheDashboard.md
-    - 3Cs/SharingSettings.md
     - 3Cs/EditCommunitySettings.md
     - 3Cs/EditCulturalProtocolSettings.md
   - Collections:
