@@ -14,7 +14,7 @@ Media content warnings can be applied in many different ways according to the co
 
 Creating media content warnings is a two part process. First you generate a media tag to act as the term, or name, of your media content warning. Then you create the media content warning itself. These parts need to be done in the order they are presented here to generate a media content warning and apply it to your media assets. To begin, navigate to your dashboard. 
 
-## Generate a media tag
+## Create a media tag
 
 1. Under the **Additional content settings** section of the dashboard, select the **Manage Taxonomies** link.
 
@@ -34,7 +34,7 @@ Creating media content warnings is a two part process. First you generate a medi
 
 7. Navigate back to your dashboard to complete creating your media content warning.
 
-## Generate a content warning
+## Create a content warning
 
 1. Under the **Media** section of the dashboard, select the **Content Warnings Settings** link.
 
