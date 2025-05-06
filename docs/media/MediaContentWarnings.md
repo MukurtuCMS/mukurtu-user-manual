@@ -59,6 +59,9 @@ Creating media content warnings is a two part process. First you generate a medi
 
 ## Apply a media content warning
 
+!!! roles "User roles"
+    Protocol steward, contributor, community record steward, curator, language steward, language contributor 
+
 Follow these steps to apply a media content warning to a media asset.
 
 1. Navigate to the media asset you want to apply the media content warning to through your dashboard or through editing the media asset from a content item. You can also apply a media content warning when you create a new media asset. For instructions on how to create a new media asset, visit the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
@@ -67,6 +70,9 @@ Follow these steps to apply a media content warning to a media asset.
         - Under the **Operations** heading, select the "Edit" button from the dropdown button menu.
     - From a content item, select a content item. 
         - Select the small, round edit button on the top right of the media asset. When you select it, it will present a dropdown menu with the options edit or delete the media asset. Select the **Edit** link.
+
+        ![Screenshot of a media asset showing the location of the edit button](../_embeds/placeholderscreenshot.png)
+
     - From a new media asset, follow the steps outlined in the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article to apply media tags.
 
 2. Navigate to the **Media Tags** section of your media asset.
