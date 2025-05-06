@@ -4,11 +4,24 @@ tags:
     - categories
 ---
 
+# Managing Taxonomies
+
 !!! roles "User roles"
 
     Mukurtu administrator
 
-# Managing Taxonomies
+There may be a need to manage or clean up taxonomy terms. Most commonly this happens when users mis-enter a term (eg: typing "baskey" when they meant "basket"), or enter a similar term (eg: "basket" instead of "baskets"), though there are any number of reasons.
 
-There may be a need to manage, or clean up, taxonomy terms. 
+## Accessing the taxonomies
+
+`/admin/structure/taxonomy`
+
+## Editing taxonomy terms
+
+If 
+
+## Merging taxonomy terms
+
+
+
 
