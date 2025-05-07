@@ -16,11 +16,16 @@ There may be a need to manage or clean up taxonomy terms. Most commonly this hap
 
 All taxonomies can be accessed at `/admin/structure/taxonomy`
 
-1. To view a taxonomy, on the far right of the its row, select "List terms".
+1. From the "Manage" menu, select "Structure".
+2. From the list, select "Taxonomy".
 
     SCREENSHOT
 
-2. From here, you can edit individual terms, or merge terms to together.
+3. To view a taxonomy, on the far right of the its row, select "List terms".
+
+    SCREENSHOT
+
+4. From here, you can edit individual terms, or merge terms to together.
 
     SCREENSHOT
 
