@@ -16,8 +16,8 @@ Mukurtu includes the following stock taxonomies:
 | Taxonomy                      | Used in            |
 | ----------------------------- | ------------------ |
 | ?Authors                      | ?                  |   
-| Category*                     | Digital heritage items|
-| Community type*               | Communities |
+| Category                      | Digital heritage items|
+| Community type                | Communities |
 | Contributor                   | Digital heritage items, dictionary word |
 | Creator                       | Digital heritage items, dictionary word |
 | Format                        | Digital heritage items |
