@@ -60,11 +60,11 @@ To begin, navigate to your dashboard.
 
 6. Select the "Submit" button to save your media content warning.
 
-To apply a taxonomy based media content warning, visit the 
+To apply a taxonomy based media content warning, navigate to the [Apply a media content warning](#apply-a-media-content-warning) section of this article.
 
 ## Deceased person warnings
 
-There are several steps to create a deceased person warning, including enabling the person taxonomy, creating a person record, and creating a taxonomic people term. For further information about how to create person records, visit [Create a Person Record](PersonRecords.md). For further instructions on how to create deceased person media content warnings, follow the instructions below.
+There are several steps to create a deceased person warning, including enabling the person taxonomy, creating a person record, and creating a taxonomic people term. For further information about how to create person records, visit [Create a Person Record](../person-records/PersonRecords). For further instructions on how to create deceased person media content warnings, follow the instructions below.
 
 ### Create a people term
 
@@ -86,7 +86,7 @@ There are several steps to create a deceased person warning, including enabling 
 
 ### Create a person record
 
-Create a person record according to the instructions here [Create Person Records](PersonRecords.md). To apply a person warning to a media asset, the *deceased* box must be checked and the person's name must be entered as a taxonomic term in the **representative terms** section. Follow the instructions to make sure your person record is configured to apply a deceased person warning.
+Create a person record according to the instructions here [Create a Person Record](../person-records/PersonRecords). To apply a person warning to a media asset, the *deceased* box must be checked and the person's name must be entered as a taxonomic term in the **representative terms** section. Follow the instructions to make sure your person record is configured to apply a deceased person warning.
 
 1. Make sure the *Deceased* box is selected. In the **Mukurtu Essentials** tab, mark the checkbox by *Deceased*.
 2. Make sure the person's name has been entered in the **Representative Terms** section as a taxonomic term. 
