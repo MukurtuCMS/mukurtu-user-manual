@@ -10,7 +10,7 @@ tags:
 !!! roles "User role"
     Community manager
 
-The actions community managers can take to manage community membership includes adding new members, assigning community roles and changing the membership state. This article provides instruction for each of these actions and instructions for bulk assigning community roles and membership states.
+The actions community managers can take to manage community membership include adding new members, assigning community roles and changing the membership state. This article provides instruction for each of these actions and instructions for bulk assigning community roles and membership states.
 
 To begin, navigate to the community you wish to manage and select **Manage Members.**
 
