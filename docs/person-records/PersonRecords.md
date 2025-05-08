@@ -95,3 +95,11 @@ The **Relations** tab is used to add representative terms, related content, or r
     - To search for specific terms, enter the term in the *Search* field and select the "Search" button.
     - Select the checkbox associated with the name(s) you want to apply to your person record.
     - Select the "Add Terms" button to add your people terms. 
+
+2. In the **Related Content** section, select the "Select Content" button to add content to your person record. Related content includes anything that has a close connection to the person, including digital heritage items, dictionary words, person records, and collections. 
+
+    - Select the *Type* dropdown field to filter content by type. Content can also be filtered by entering the name of the content in the *Title* field. Select the "Apply" button to apply these filters.
+    - Select the checkbox associated with the content you want to apply to your person record.
+    - Select the "Add Content" button to add your content. 
+
+3. 
