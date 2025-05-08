@@ -105,6 +105,7 @@ nav:
     - media/VimeoPrivacySettings.md 
     - media/YoutubePrivacySettings.md
     - media/SoundCloudPrivacySettings.md 
+    - media/MediaContentWarnings.md
   - Migration from Mukurtu 3 to Mukurtu 4: 
     - migration/00MigrationOverview.md
     - migration/01MigrationPlanning.md
