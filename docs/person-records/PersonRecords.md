@@ -51,6 +51,37 @@ From your **Dashboard** or **Add Content**, select the **Person** link.
     - Select and drag the arrows by the keyword to reorder your keywords if necessary.
     - To remove a keyword, select the "Remove" button.
 
-9. Use the **Map Points** Leaflet map to enter one or more geographic locations for your person record. This can be an area that the person lived in, that they were associated with, or any other geographic location. Use the buttons on the right to enter points, paths, rectangles, or polyons to your map. You can also add markers to your map by uploading GeoJSON shapes. For more information on how to use the **Map Points** Leaflet map, visit **INSERT AN ARTICLE ON MAPPING HERE REALLY NEED TO MAKE ONE**
+9. Use the **Map Points** Leaflet map to enter one or more geographic locations for your person record. This can be an area that the person lived in, that they were associated with, or any other geographic location. Use the buttons on the right to enter points, paths, rectangles, or polyons to your map. You can also add markers to your map by uploading GeoJSON shapes. For more information on how to use the **Map Points** Leaflet map, visit **INSERT AN ARTICLE ON MAPPING HERE**
+10. Add a *Location Description*. If a location has identifying characteristics but is not able to be pinpointed on a map this field can be used instead of the mapped location. It can also be used to add additional context to the map points. This is a full HTML field that also supports additional media.
+11. Use the *Location* field to provide a taxonomic location term for your collection.
 
-10. 
+    - Select the "Add another item" button to add additional location text boxes.
+    - Select and drag the arrows by the location to reorder your locations if necessary.
+    - To remove a location, select the "Remove" button.
+
+    ![Screenshot of the location description and taxonomic location fields filled in.](../_embeds/placeholderscreenshot.png)
+
+12. Use the *Local Contexts* field to apply Traditional Knowledge labels to your collection. 
+    
+    !!! tip
+        To start a project or for more information on Local Contexts projects, labels, and notices, visit [Local Contexts](https://localcontexts.org/).
+
+    - Select your Local Contexts project from the dropdown. 
+    - Select Local Contexts labels and notices to assign to the collection.  
+      
+    ![Screenshot of the local contexts fields with information selected from the dropdown menu.](../_embeds/placeholderscreenshot.png)
+
+You can save your person record at this point, or return to the top of your page to select the **Text Sections** or **Relations** tabs to add more context to your person record.
+
+## Text Sections tab
+
+1. Navigate to the **Text Sections** tab. This is where you can provide biographical information for your person record. 
+2. Under the **Biographical Information Sections**, enter the title of the biographical information in the *Title* field. 
+3. Use the *Body* field to provide a longer biographical sketch for your person record. This field enables a broader narrative that can include a written biography, audio recordings, video recordings, images, or any other supportive information for your person record. This is a full HTML field that supports text, audio, images, and video media assets.
+4. Select the "Add Formatted Text with Title" button to add an additional biographical information section.
+
+You can save your person record at this point, or return to the top of your page to select the **Mukurtu Essentials** or **Relations** tabs to add more context to your person record.
+
+## Relations tab
+
+The **Relations** tab is used to add representative terms, related content, or related people to your person record. Representative terms are taxonomic people terms. These should reflect the name or names of the person over the course of their life. This allows the proper attribution of cultural heritage to an individual under the name or names that they were known by, and helps to remove the distortion caused by misnamings, misspellings, or mistaken attributions.
