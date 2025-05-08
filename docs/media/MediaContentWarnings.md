@@ -11,7 +11,15 @@ Media content warnings are a specific type of media tag that enables Mukurtu adm
 
 Media content warnings can be applied in many different ways according to the community's needs. Some communities may decide to apply person warnings to let community members know that they may be viewing media that has images or recordings of persons who are deceased. Some ways that communities have chosen to apply taxonomy triggered media content warnings are as trigger warnings to inform users of media assets that might have violent or triggering content for some users. 
 
-Creating media content warnings is a multi-step process. First you generate a media tag for taxonomy triggered warnings or a people term for deceased person warnings. The media tag acts as the term, or name, of your media content warning. The people term is linked to the person record and acts as a trigger for the media content warning if the person record indicates that the person is deceased. Then you create the media content warning itself. These parts need to be done in the order they are presented here to generate media content warnings and apply them to your media assets. Sites can have many different media content warnings configured, and media assets can have more than one media content warning applied. To begin, navigate to your dashboard. 
+Creating media content warnings is a multi-step process. These parts need to be done in the order they are presented here to generate media content warnings and apply them to your media assets. 
+
+Sites can have many different media content warnings configured, and media assets can have more than one media content warning applied. 
+
+A completed media content warning can look like this:
+
+![Screenshot of a media content warning applied to a media asset in a digital heritage item](../_embeds/placeholderscreenshot.png)
+
+To begin, navigate to your dashboard. 
 
 ## Taxonomy triggered warnings
 
@@ -55,7 +63,7 @@ Creating media content warnings is a multi-step process. First you generate a me
 
 ## Deceased person warnings
 
-To create a deceased person warning, you must create a person record that annotates the individual is deceased and applies their taxonomic person term as a representative term. For further information about how to create person records, visit **MAKE A CREATE A PERSON RECORD LINK AND INSERT IT HERE**. For further information about applying deceased person media content warnings to media assets, follow the instructions below.
+There are several steps to create a deceased person warning, including enabling the person taxonomy, creating a person record, and creating a taxonomic people term. For further information about how to create person records, visit [Create a Person Record](PersonRecords.md). For further instructions on how to create deceased person media content warnings, follow the instructions below.
 
 ### Create a people term
 
