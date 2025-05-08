@@ -46,20 +46,21 @@ To begin, navigate to your dashboard.
     ![Screenshot of where the content warnings settings link is located in the dashboard](../_embeds/placeholderscreenshot.png)
 
 2. Navigate to the **Taxonomy Triggered Warnings** section. 
-3. Select the "Add taxonomy warning" button. 
-
-    ![Screenshot of where the taxonomy triggered warnings link is located in the content warnings settings ](../_embeds/placeholderscreenshot.png)
-
-4. Select a **Term** from the dropdown menu. Terms are media tags attached to the media that will trigger the warning. They are configured in under **Taxonomy** as media tags, and are the required name of your media content warning. 
+3. Select a **Term** from the dropdown menu. Terms are media tags attached to the media that will trigger the warning. They are configured in under **Taxonomy** as media tags, and are the required name of your media content warning. 
 
     !!! requirement
         If you have not created a term for your media content warning, navigate to the **Generate a media tag** section of this article for instructions.
 
+    ![Screenshot of where the taxonomy triggered warnings link is located in the content warnings settings ](../_embeds/placeholderscreenshot.png)
+
+4. Select the "Add taxonomy warning" button to add additional taxonomy warnings. 
 5. Once you have selected your term, apply warning text. In the *Warning Text* field enter the warning text you would like displayed on your media overlay. This field has a 255 character limit.
 
     ![Screenshot of where the content warnings settings link is located in the dashboard](../_embeds/placeholderscreenshot.png)
 
 6. Select the "Submit" button to save your media content warning.
+
+To apply a taxonomy based media content warning, visit the 
 
 ## Deceased person warnings
 
@@ -67,7 +68,7 @@ There are several steps to create a deceased person warning, including enabling 
 
 ### Create a people term
 
-1. Navigate to **Mukurtu Taxonomy Record Settings** from your dashboard or go directly to `/admin/config/mukurtu/taxonomy/records` to enable the person taxonomy. Select the checkbox beside the *Person* field to make sure this taxonomy is enabled, then select the "Save configuration" button.
+1. Navigate to **Mukurtu Taxonomy Record Settings** from your dashboard or go directly to `/admin/config/mukurtu/taxonomy/records` to enable the person taxonomy. Select the checkbox beside the *People* field to make sure this taxonomy is enabled, then select the "Save configuration" button.
 2. Navigate to your dashboard. Under the **Additional content settings** section of the dashboard, select the **Manage Taxonomies** link or go directly to `/admin/structure/taxonomy`
 
     ![Screenshot of where the manage taxonomies link is located in the dashboard](../_embeds/placeholderscreenshot.png)
@@ -85,11 +86,10 @@ There are several steps to create a deceased person warning, including enabling 
 
 ### Create a person record
 
-To apply a person warning to a media asset, the *deceased* box must be checked and the person's name must be entered as a taxonomic term in the **representative terms** section. 
+Create a person record according to the instructions here [Create Person Records](PersonRecords.md). To apply a person warning to a media asset, the *deceased* box must be checked and the person's name must be entered as a taxonomic term in the **representative terms** section. Follow the instructions to make sure your person record is configured to apply a deceased person warning.
 
-1. Create a person record according to the instructions here **MAKE A CREATE A PERSON RECORD LINK AND INSERT IT HERE**.
-2. Make sure the *Deceased* box is selected. In the **Mukurtu Essentials** tab, mark the checkbox by *Deceased*.
-3. Make sure the person's name has been entered in the **Representative Terms** section as a taxonomic term. 
+1. Make sure the *Deceased* box is selected. In the **Mukurtu Essentials** tab, mark the checkbox by *Deceased*.
+2. Make sure the person's name has been entered in the **Representative Terms** section as a taxonomic term. 
 
     - Navigate to the **Relations** tab.
     - In the **Representative Terms** section, select the "Select Terms" button. Enter your search term or select the term from the list below by selecting the checkbox by the person's name.
@@ -102,7 +102,7 @@ To apply a person warning to a media asset, the *deceased* box must be checked a
 
     ![Screenshot showing the add terms pop-up with a person's name selected](../_embeds/placeholderscreenshot.png)
 
-5. Select the "Save" button to save your person record. 
+3. Select the "Save" button to save your person record. 
 
 ### Create a person warning
 
@@ -115,6 +115,8 @@ To apply a person warning to a media asset, the *deceased* box must be checked a
 4. In the *Warning Text: Multiple People* field, enter the text to be displayed on the media overlay for a media asset displaying multiple deceased individuals. Use the replacement token `[names]` to automatically insert the people's names in the text. An example of warning text for multiple people is `Warning: The following people are deceased. Click through to access content. [names]`
 
 ![Screenshot showing how to fill out the enable people warnings and warning text fields.](../_embeds/placeholderscreenshot.png)
+
+5. Navigate to the bottom of the page and select the "Submit" button to save your media content warnings.
 
 ## Apply a media content warning
 
