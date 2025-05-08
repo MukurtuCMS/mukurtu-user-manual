@@ -51,4 +51,6 @@ From your **Dashboard** or **Add Content**, select the **Person** link.
     - Select and drag the arrows by the keyword to reorder your keywords if necessary.
     - To remove a keyword, select the "Remove" button.
 
-9. 
+9. Use the **Map Points** Leaflet map to enter one or more geographic locations for your person record. This can be an area that the person lived in, that they were associated with, or any other geographic location. Use the buttons on the right to enter points, paths, rectangles, or polyons to your map. You can also add markers to your map by uploading GeoJSON shapes. For more information on how to use the **Map Points** Leaflet map, visit **INSERT AN ARTICLE ON MAPPING HERE REALLY NEED TO MAKE ONE**
+
+10. 
