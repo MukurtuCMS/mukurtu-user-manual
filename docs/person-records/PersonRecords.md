@@ -84,4 +84,14 @@ You can save your person record at this point, or return to the top of your page
 
 ## Relations tab
 
-The **Relations** tab is used to add representative terms, related content, or related people to your person record. Representative terms are taxonomic people terms. These should reflect the name or names of the person over the course of their life. This allows the proper attribution of cultural heritage to an individual under the name or names that they were known by, and helps to remove the distortion caused by misnamings, misspellings, or mistaken attributions.
+The **Relations** tab is used to add representative terms, related content, or related people to your person record. 
+
+1. In the **Representative Term** section, select the "Select Terms" button to add a term to your person record. Representative terms are taxonomic people terms. These should reflect the name or names of the person over the course of their life. This allows the proper attribution of cultural heritage to an individual under the name or names that they were known by, and helps to remove the distortion caused by misnamings, misspellings, or mistaken attributions. 
+
+    !!! requirement
+        If you have not enabled the person taxonomy, this field will not populate. Navigate to the **INSERT A TAXONOMY MANAGEMENT ARTICLE** article for instructions. 
+        There must be people taxonomy terms created to populate this field. To create a people term, navigate to [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md)
+
+    - To search for specific terms, enter the term in the *Search* field and select the "Search" button.
+    - Select the checkbox associated with the name(s) you want to apply to your person record.
+    - Select the "Add Terms" button to add your people terms. 
