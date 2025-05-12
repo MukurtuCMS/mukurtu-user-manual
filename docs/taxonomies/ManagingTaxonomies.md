@@ -14,6 +14,8 @@ There may be a need to manage or clean up taxonomy terms. Most commonly this hap
 
 ## Accessing the taxonomies
 
+The taxonomy list can be accessed 
+
 `/admin/structure/taxonomy`
 
 ## Editing taxonomy terms
