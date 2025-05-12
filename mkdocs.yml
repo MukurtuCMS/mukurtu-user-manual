@@ -78,6 +78,8 @@ nav:
     - 3Cs/UnderstandingCategories.md
     - 3Cs/CreateCategories.md 
     - 3Cs/ManageCommunityMembershipAndRoles.md
+    - 3Cs/EditCommunitySettings.md
+    - 3Cs/EditCulturalProtocolSettings.md
   - Collections:
     - collections/UnderstandingCollections.md
     - collections/AddandArrangeCollections.md
