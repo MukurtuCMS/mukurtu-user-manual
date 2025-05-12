@@ -42,9 +42,14 @@ From your **Dashboard** or **Add Content**, select the **Person** link.
 
     - This is a required field.
 
+    ![Screenshot with the sharing setting and cultural protocols selected.](../_embeds/placeholderscreenshot.png)
+
 5. In the **Date Born** section enter the date the person was born. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
 6. In the **Date Died** section enter the date the person died. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
 7. Use the checkbox to indicate whether the person is **Deceased**. This field informs the deceased person media content warning. For more information on this and other media content warnings, please see the [Media Content Warnings](../media/MediaContentWarnings.md) article.
+
+    ![Screenshot of the date and deceased fields with information filled in to indicate the dates the person was born and died, and that the individual is deceased.](../_embeds/placeholderscreenshot.png)
+
 8. In the **Keywords** section, add keywords to each field to describe the person. Keywords provide an additional way to categorize your content. In general, 3-5 keywords are recommended to make it easier for users to search and retrieve content. 
    
     - Select the "Add another item" button to add additional keyword text boxes.
@@ -79,6 +84,8 @@ You can save your person record at this point, or return to the top of your page
 2. Under the **Biographical Information Sections**, enter the title of the biographical information in the *Title* field. 
 3. Use the *Body* field to provide a longer biographical sketch for your person record. This field enables a broader narrative that can include a written biography, audio recordings, video recordings, images, or any other supportive information for your person record. This is a full HTML field that supports text, audio, images, and video media assets.
 4. Select the "Add Formatted Text with Title" button to add an additional biographical information section.
+
+![Screenshot with the text sections and biographical information sections filled in with example text.](../_embeds/placeholderscreenshot.png)
 
 You can save your person record at this point, or return to the top of your page to select the **Mukurtu Essentials** or **Relations** tabs to add more context to your person record.
 
