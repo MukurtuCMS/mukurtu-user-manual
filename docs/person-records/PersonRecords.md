@@ -86,7 +86,7 @@ You can save your person record at this point, or return to the top of your page
 
 The **Relations** tab is used to add representative terms, related content, or related people to your person record. 
 
-1. In the **Representative Term** section, select the "Select Terms" button to add a term to your person record. Representative terms are taxonomic people terms. These should reflect the name or names of the person over the course of their life. This allows the proper attribution of cultural heritage to an individual under the name or names that they were known by, and helps to remove the distortion caused by misnamings, misspellings, or mistaken attributions. 
+1. In the **Representative Term** section, select the "Select Terms" button to add a term to your person record. Representative terms are taxonomic people terms. These should reflect the name or names of the person over the course of their life. This allows the individual to be properly identified by the name or names they are known by in their community, and can help to remove distortion caused by misnamings, misspellings, or mistaken attributions. 
 
     !!! requirement
         If you have not enabled the person taxonomy, this field will not populate. Navigate to the **INSERT A TAXONOMY MANAGEMENT ARTICLE** article for instructions. 
@@ -96,10 +96,35 @@ The **Relations** tab is used to add representative terms, related content, or r
     - Select the checkbox associated with the name(s) you want to apply to your person record.
     - Select the "Add Terms" button to add your people terms. 
 
+    ![Screenshot showing the representative term section with the fields filled out and content selected.](../_embeds/placeholderscreenshot.png)
+
 2. In the **Related Content** section, select the "Select Content" button to add content to your person record. Related content includes anything that has a close connection to the person, including digital heritage items, dictionary words, person records, and collections. 
 
     - Select the *Type* dropdown field to filter content by type. Content can also be filtered by entering the name of the content in the *Title* field. Select the "Apply" button to apply these filters.
     - Select the checkbox associated with the content you want to apply to your person record.
     - Select the "Add Content" button to add your content. 
 
-3. 
+    ![Screenshot showing the related content section with the fields filled out and content selected.](../_embeds/placeholderscreenshot.png)
+
+3. In the **Related People** section, select the "Add Related Person" button to add a related individual to your person record. Related people is a broad field that can encompass many different types of interpersonal relationships. Some examples of relationships include family members, friends, community members, and other complex relationships.
+
+    - Select the "Select Content" button to add another person record.
+    
+        - To search for a specific person record, enter the name of an individual in the *Title* field and select the "Apply" button.
+        - Select the checkbox associated with the name(s) of related people you want to apply to your person record.
+        - Select the "Add Content" button. 
+    
+    - In the *Relationship Type* field enter the name of the type of relationship between the individuals. This is an autocomplete field that is tied to the **Interpersonal Relationship** taxonomy terms. 
+    
+        - If the relationship type term already exists in the taxonomy, begin typing the term and select it from the autocomplete suggestions.
+        - If the relationship term does not exist in the taxonomy, enter the full term. The new term will be added to the taxonomy when you save your person record. 
+        - For more information on managing taxonomy terms, navigate to [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md).
+
+    ![Screenshot showing the relationship type field filled out with an autocomplete generated selection of taxonomy terms](../_embeds/placeholderscreenshot.png)
+
+    - To add another related person, select the "Add Related Person" button to add additional location text boxes.
+      
+        - Select and drag the arrows by the location to reorder your related people if necessary.
+        - To remove a related person, select the "Remove" button.
+
+4. Select the "Save" button to save your person record.
