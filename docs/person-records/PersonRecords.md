@@ -164,3 +164,9 @@ The **Relations** tab is used to add representative terms, related content, or r
     - To remove a related person, select the "Remove" button.
 
 Select the "Save" button to save your person record.
+
+## Browse person records
+
+To browse person records, navigate to **Browse** or go directly to `/browse`. To filter by person records, navigate to the **Content type** header on the right-hand side of the page and select the checkbox beside *Person*. 
+
+![Screenshot showing where the content type header and person checkbox are on the browse content page.](../_embeds/placeholderscreenshot.png)
