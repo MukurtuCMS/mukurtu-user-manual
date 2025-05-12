@@ -120,6 +120,8 @@ nav:
     - migration/08CompleteConfiguration.md
     - migration/09ConfirmSiteOperation.md
     - migration/10DecommissionMukurtu3.md
+  - Person Records:
+    - person-records/ConfigurePersonRecord.md
   - Users:
     - users/users-intro.md
     - users/user-role-types.md 
