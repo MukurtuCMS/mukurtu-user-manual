@@ -120,6 +120,7 @@ nav:
     - migration/09ConfirmSiteOperation.md
     - migration/10DecommissionMukurtu3.md
   - Person Records:
+    - person-records/UnderstandingPersonRecords.md
     - person-records/ConfigurePersonRecord.md
   - Users:
     - users/users-intro.md
