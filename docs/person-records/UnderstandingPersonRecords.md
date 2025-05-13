@@ -1,4 +1,13 @@
+---
+tags:
+    - person records
+    - taxonomies
+    - content
+---
 # Understanding Person Records
+
+!!! roles "User role"
+    Mukurtu administrator, protocol steward, contributor
 
 Person records are a content type that allows for rich, in-depth biographical records to be integrated into Mukurtu. Many different types of information can be integrated into person records. Some features include:
 
