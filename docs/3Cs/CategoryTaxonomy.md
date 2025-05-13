@@ -3,20 +3,33 @@ tags:
     - categories
     - taxonomies
 ---
-# Manage the Category Taxonomy
+# Manage Categories
 
 !!! roles "User role"
     Mukurtu administrator
 
-Categories are the cultural categories to which digital content refers. Associating content with one or more categories facilitates browsing. Sometimes communities may need to combine or otherwise manage the category terms on their site.
+Categories are the cultural categories to which digital content refers. Associating content with one or more categories facilitates browsing. Sometimes communities may need to edit, combine, or otherwise manage the category terms on their site.
+
+!!! tip
+    For more information on adding new categories, visit [Create Categories](CreateCategories.md).
+
+
+## Edit a category 
+
+1. Select **Manage Categories**. 
+2. Select the **Edit** link for the category you want to make changes to. 
+
+    ![Screenshot of the Category taxonomy page with Edit highlighted.](../_embeds/placeholderscreenshot.png)
+
+3. Edit your *Category Name*, *Description*, or **Thumbnail Image**, then select "Save".
+
+## Merge categories
+
 
 Unnecessary or unwanted categories can be merged into other categories, so that digital heritage items are reassigned from one category to the new category. Reasons to merge categories may include 
 
 - Categories that were mistakenly added through misspellings when batch importing digital heritage items can be merged into the correct category spelling.
 - Categories that were useful may need to be removed due to site restructing or digital heritage item review. 
-
-!!! tip
-    For more information on adding new categories, visit [Create and Edit Categories](CreateCategories.md).
 
 1. To manage the category taxonomy, navigate to your **Dashboard**. 
 2. Under the **Categories and taxonomies** heading select the **Manage categories link** or navigate directly to `/admin/structure/taxonomy/manage/category/overview`. From this page you can merge categories.
