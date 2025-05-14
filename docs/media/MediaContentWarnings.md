@@ -7,9 +7,22 @@ tags:
 !!! roles "User role"
     Mukurtu administrator
 
-Media content warnings are a specific type of media tag that enables Mukurtu administrators to flag potentially sensitive media assets. There are two different types of media content warnings: taxonomy triggered warnings and deceased person warnings. When a user comes to a page with a media asset that has a content warning, they are presented with a blacked-out box in place of the media asset overlaid with descriptive text. The user can choose to click through to access the media. This feature does not prevent users from accessing media assets, but it presents them the choice to access it if they want to after being made aware of its sensitive nature. 
+Media content warnings are a tool used to flag potentially sensitive or triggering media assets, and allow a user to choose whether or not to interact with them before viewing or accessing the media. They can be used with all media types, and configured to display with thumbnails, full-size media, and other display modes.
 
-Media content warnings can be applied in many different ways according to the community's needs. Some communities may decide to apply person warnings to let community members know that they may be viewing media that has images or recordings of persons who are deceased. Some ways that communities have chosen to apply taxonomy triggered media content warnings are as trigger warnings to inform users of media assets that might have violent or triggering content for some users. 
+When a user is presented with a media asset that has a content warning, it will be replaced with a blacked-out box and descriptive warning text. At that point, the user can choose to dismiss the warning and access the media, or leave the warning in place. This feature does not replace or bypass cultural protocols on media assets, rather it presents them the choice to access it if they want to after being made aware of its sensitive nature. This also does not affect the rest of the page contents, so if a digital heritage item includes a media asset with a content warning, that does not extend to the metadata or other media assets in that item.
+
+There are two types of media content warnings: taxonomy triggered warnings and deceased person warnings. Both can be active on one site, and they are configured separately.
+
+Taxonomy triggered warnings
+Taxonomy triggered warnings are the more flexible of the two types of warnings. They are dependent on the *media tags* field that is included in all media types. You can configure as many different taxonomy warnings as necessary. Each warning is composed of the trigger media tag, and a customized message.
+
+Some example uses of taxonomy triggered warnings include boarding or residential school materials, graphic or violent text or images, offensive or racist language and representation, or materials that may otherwise make users uncomfortable.
+
+Deceased person warnings
+Deceased person warnings are a more rigid warning. They are dependent on the people field that is included in all media types, and require use of the person record [add link] tool. There is only one deceased person warning available, and the message can be customized.
+
+!!! tip
+     Deceased person warnings are a response to requests from communities where there are degrees of restrictions on how individuals can or should interact with images or recordings of people who have passed away. If the choice is individual this is a useful tool, however if there is need for stricter control over access to these materials, consider managing that with cultural protocols.
 
 Creating media content warnings is a multi-step process. These parts need to be done in the order they are presented here to generate media content warnings and apply them to your media assets. 
 
@@ -17,7 +30,9 @@ Sites can have many different media content warnings configured, and media asset
 
 A completed media content warning can look like this:
 
-![Screenshot of a media content warning applied to a media asset in a digital heritage item](../_embeds/placeholderscreenshot.png)
+![Screenshot of a taxonomy triggered media content warning applied to a media asset in a digital heritage item](../_embeds/placeholderscreenshot.png)
+
+![Screenshot of a deceased person media content warning applied to a media asset in a digital heritage item](../_embeds/placeholderscreenshot.png)
 
 To begin, navigate to your dashboard. 
 
@@ -39,17 +54,14 @@ To begin, navigate to your dashboard.
 6. Select the "Save" button to save your media tag.
 7. Navigate back to your dashboard to complete creating your media content warning.
 
-### Create a content warning
+### Configure a taxonomy warning
 
 1. Under the **Media** section of the dashboard, select the **Content Warnings Settings** link or go directly to `/admin/config/mukurtu/content-warnings`
 
     ![Screenshot of where the content warnings settings link is located in the dashboard](../_embeds/placeholderscreenshot.png)
 
 2. Navigate to the **Taxonomy Triggered Warnings** section. 
-3. Select a **Term** from the dropdown menu. Terms are media tags attached to the media that will trigger the warning. They are configured in under **Taxonomy** as media tags, and are the required name of your media content warning. 
-
-    !!! requirement
-        If you have not created a term for your media content warning, navigate to the **Generate a media tag** section of this article for instructions.
+3. Select a **Term** from the dropdown menu. Terms are media tags attached to the media that will trigger the warning. They function as the name of your media content warning. 
 
     ![Screenshot of where the taxonomy triggered warnings link is located in the content warnings settings ](../_embeds/placeholderscreenshot.png)
 
@@ -64,12 +76,34 @@ To apply a taxonomy based media content warning, navigate to the [Apply a media 
 
 ## Deceased person warnings
 
-There are several steps to create a deceased person warning, including enabling the person taxonomy, creating a person record, and creating a taxonomic people term. For further information about how to create person records, visit [Create a Person Record](../person-records/PersonRecords). For further instructions on how to create deceased person media content warnings, follow the instructions below.
+There are several required steps to create a deceased person warning, including:
 
-### Create a people term
+- enabling the person taxonomy
+- creating a taxonomic people term
+- creating a person record
 
-1. Navigate to **Mukurtu Taxonomy Record Settings** from your dashboard or go directly to `/admin/config/mukurtu/taxonomy/records` to enable the person taxonomy. Select the checkbox beside the *People* field to make sure this taxonomy is enabled, then select the "Save configuration" button.
-2. Navigate to your dashboard. Under the **Additional content settings** section of the dashboard, select the **Manage Taxonomies** link or go directly to `/admin/structure/taxonomy`
+For further information about how to create person records, visit [Create a Person Record](../person-records/PersonRecords). For further instructions on how to create deceased person media content warnings, follow the instructions below.
+
+
+### Configure person warnings
+
+1. Under the **Media** section of the dashboard, select the **Content Warnings Settings** link or go directly to `/admin/config/mukurtu/content-warnings`
+
+    ![Screenshot of where the content warnings settings link is located in the dashboard](../_embeds/placeholderscreenshot.png)
+
+2. Navigate to the **People Warnings** section and select the checkbox beside **Enable People Warnings**. 
+3. In the *Warning Text: Single Person* field, enter the text to be displayed on the media overlay for a single deceased person. Use the replacement token `[name]` to automatically insert the person's name in the text. An example of warning text for a single person is `Warning: [name] is deceased. Click through to access content.`
+4. In the *Warning Text: Multiple People* field, enter the text to be displayed on the media overlay for a media asset displaying multiple deceased individuals. Use the replacement token `[names]` to automatically insert the people's names in the text. An example of warning text for multiple people is `Warning: The following people are deceased. Click through to access content. [names]`
+
+![Screenshot showing how to fill out the enable people warnings and warning text fields.](../_embeds/placeholderscreenshot.png)
+
+5. Navigate to the bottom of the page and select the "Submit" button to save your media content warnings.
+
+### Configure person record settings
+
+1. For instructions on how to enable the person taxonomy, visit [Configure Person Record Settings](../person-records/ConfigurePersonRecord.md). The person taxonomy must be enabled before you can create people terms.
+2. Once the taxonomy is enabled, people terms can be drawn from content and media as they are created. If you have not created people terms directly from content and media, follow the instructions below to add people terms directly to your taxonomy.
+3. Navigate to your dashboard. Under the **Additional content settings** section of the dashboard, select the **Manage Taxonomies** link or go directly to `/admin/structure/taxonomy`
 
     ![Screenshot of where the manage taxonomies link is located in the dashboard](../_embeds/placeholderscreenshot.png)
 
@@ -87,36 +121,6 @@ There are several steps to create a deceased person warning, including enabling 
 ### Create a person record
 
 Create a person record according to the instructions here [Create a Person Record](../person-records/PersonRecords). To apply a person warning to a media asset, the *deceased* box must be checked and the person's name must be entered as a taxonomic term in the **representative terms** section. Follow the instructions to make sure your person record is configured to apply a deceased person warning.
-
-1. Make sure the *Deceased* box is selected. In the **Mukurtu Essentials** tab, mark the checkbox by *Deceased*.
-2. Make sure the person's name has been entered in the **Representative Terms** section as a taxonomic term. 
-
-    - Navigate to the **Relations** tab.
-    - In the **Representative Terms** section, select the "Select Terms" button. Enter your search term or select the term from the list below by selecting the checkbox by the person's name.
-    - Select the "Add Terms" button to add the person's name as the representative term in the person record. More than one taxonomic term can be applied.
-
-    !!! requirement
-        If you have not enabled the person taxonomy, this field will not populate. Navigate to the **Create a people term** section of this article for instructions.
-
-        If you have not created a taxonomic people term, navigate to the **Create a people term** section of this article for instructions.
-
-    ![Screenshot showing the add terms pop-up with a person's name selected](../_embeds/placeholderscreenshot.png)
-
-3. Select the "Save" button to save your person record. 
-
-### Create a person warning
-
-1. Under the **Media** section of the dashboard, select the **Content Warnings Settings** link or go directly to `/admin/config/mukurtu/content-warnings`
-
-    ![Screenshot of where the content warnings settings link is located in the dashboard](../_embeds/placeholderscreenshot.png)
-
-2. Navigate to the **People Warnings** section and select the checkbox beside **Enable People Warnings**. 
-3. In the *Warning Text: Single Person* field, enter the text to be displayed on the media overlay for a single deceased person. Use the replacement token `[name]` to automatically insert the person's name in the text. An example of warning text for a single person is `Warning: [name] is deceased. Click through to access content.`
-4. In the *Warning Text: Multiple People* field, enter the text to be displayed on the media overlay for a media asset displaying multiple deceased individuals. Use the replacement token `[names]` to automatically insert the people's names in the text. An example of warning text for multiple people is `Warning: The following people are deceased. Click through to access content. [names]`
-
-![Screenshot showing how to fill out the enable people warnings and warning text fields.](../_embeds/placeholderscreenshot.png)
-
-5. Navigate to the bottom of the page and select the "Submit" button to save your media content warnings.
 
 ## Apply a media content warning
 
