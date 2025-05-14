@@ -8,11 +8,10 @@ tags:
 !!! roles "User role"
     Mukurtu administrator
 
-Categories are the cultural categories to which digital content refers. Associating content with one or more categories facilitates browsing. Sometimes communities may need to edit, combine, or otherwise manage the category terms on their site.
+Categories are high-level descriptive terms that help users discover digital heritage items. All communities on the site share the same set of categories. Over time categories may need to be revised, combined, or generally cleaned up. You can edit a single category, or merge multiple categories into one.
 
 !!! tip
     For more information on adding new categories, visit [Create Categories](CreateCategories.md).
-
 
 ## Edit a category 
 
@@ -23,13 +22,20 @@ Categories are the cultural categories to which digital content refers. Associat
 
 3. Edit your *Category Name*, *Description*, or **Thumbnail Image**, then select "Save".
 
+!!! tip
+    Cultural protocols are required for category thumbnails. For more information on getting started with cultural protocols, visit [Create a Community and Initial Cultural Protocol](CreateACommunityAndInitialCulturalProtocol.md).
+
 ## Merge categories
 
+Unnecessary or unwanted categories can be merged into other categories, so that digital heritage items are reassigned from one category to the new category. Reasons to merge categories may include:
 
-Unnecessary or unwanted categories can be merged into other categories, so that digital heritage items are reassigned from one category to the new category. Reasons to merge categories may include 
+   - Categories that were mistakenly added through duplicate or near-duplicate terms can be merged into the correct category.
+   - Categories that were useful may need to be removed due to site restructing or digital heritage item review. 
 
-- Categories that were mistakenly added through misspellings when batch importing digital heritage items can be merged into the correct category spelling.
-- Categories that were useful may need to be removed due to site restructing or digital heritage item review. 
+Follow the instructions to merge your categories. 
+
+!!! tip
+    For more information on taxonomies in Mukurtu, visit [Understanding Taxonomies](../taxonomies/UnderstandingTaxonomies.md). For instructions on how to manage taxonomies, visit [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md).
 
 1. To manage the category taxonomy, navigate to your **Dashboard**. 
 2. Under the **Categories and taxonomies** heading select the **Manage categories link** or navigate directly to `/admin/structure/taxonomy/manage/category/overview`. From this page you can merge categories.
