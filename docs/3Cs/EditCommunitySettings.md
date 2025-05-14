@@ -22,7 +22,7 @@ Communities can have a range of settings that can be updated once the community 
 ## Community Types
 
 !!! requirement
-	"A Mukurtu administrator must enable community types before they can be used here. See [Create and Manage Community Types](../taxonomies/ManagingTaxonomies.md) for more information."
+	"A Mukurtu administrator must enable community types before they can be used here. See [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md) for more information."
 
 Community types help to organize the communities on your Mukurtu site. For example, a site might have tribal communities, libraries, and families contributing to a site. These can all be assigned a type for streamlined display and easy browse and search. 
 
