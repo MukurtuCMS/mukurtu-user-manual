@@ -63,6 +63,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - tables
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -70,13 +71,14 @@ markdown_extensions:
 nav:
   - Style Guide: styleguide.md
   - 3Cs:
-    - 3Cs/create-a-cultural-protocol.md 
+    - 3Cs/UnderstandingCommunitiesAndCulturalProtocols.md
+    - 3Cs/CreateACommunityAndInitialCulturalProtocol.md
+    - 3Cs/CreateACulturalProtocol.md 
+    - 3Cs/UnderstandingSharingSettings.md
     - 3Cs/UnderstandingCategories.md
     - 3Cs/CreateCategories.md 
-    - 3Cs/Create-a-community-and-initial-cultural-protocol.md
-    - 3Cs/CreateACulturalProtocolFromTheDashboard.md
-    - 3Cs/SharingSettings.md
     - 3Cs/EditCommunitySettings.md
+    - 3Cs/EditCulturalProtocolSettings.md
   - Collections:
     - collections/UnderstandingCollections.md
     - collections/AddandArrangeCollections.md
@@ -118,11 +120,16 @@ nav:
     - migration/08CompleteConfiguration.md
     - migration/09ConfirmSiteOperation.md
     - migration/10DecommissionMukurtu3.md
+  - Person Records:
+    - person-records/ConfigurePersonRecord.md
   - Users:
     - users/users-intro.md
     - users/user-role-types.md 
     - users/creating-account.md 
     - users/managing-administrator-roles.md 
     - users/managing-user-roles.md 
+  - Taxonomies:
+    - taxonomies/UnderstandingTaxonomies.md
+    - taxonomies/ManagingTaxonomies.md
   - Tags: tags.md
   - Download the User Manual: DownloadManual.md
