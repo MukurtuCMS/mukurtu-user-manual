@@ -7,7 +7,7 @@ tags:
 # Configure Person Record Settings
 
 !!! roles "User role"
-   Mukurtu administrator
+    Mukurtu administrator
 
 Before you can create a person record, the relevant taxonomies must be enabled. Using established taxonomy fields allows person records to be linked to other content when the individual is listed in different fields, such as *person*, *contributor*, or *creator*. Follow the instructions to enable the taxonomies.
 
