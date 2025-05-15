@@ -1,4 +1,11 @@
+---
+tags:
+    - media
+---
 # Planning for Audio and Video Hosting
+
+!!! roles "User roles"
+    Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
 Mukurtu CMS provides two options for managing audio and video files: direct upload and hosting, or external hosting.
 
