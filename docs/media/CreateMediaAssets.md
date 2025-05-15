@@ -12,8 +12,8 @@ tags:
 Mukurtu supports many types of media assets:
 
 - Audio files
-- Embedded code, such as iframe embeds
 - Document files
+- Embedded code, such as iframe embeds
 - Image files
 - SoundCloud embeds
 - Video files
