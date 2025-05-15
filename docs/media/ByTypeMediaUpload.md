@@ -192,7 +192,11 @@ Media can be uploaded from your dashboard or when adding content. This article f
     - If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
     - This is a required field.
 
-4. The name of your image is automatically generated from your filename. You can edit the name of your image file by editing the text in the *Name* field.
+4. Enter *Alternative text* for your image. This short description of the image is used by screen readers and displayed when the image is not loaded. This is important for accessibility.
+
+    - This is a required field.
+
+5. The name of your image is automatically generated from your filename. You can edit the name of your image file by editing the text in the *Name* field.
 
     - This is a required field.
 
