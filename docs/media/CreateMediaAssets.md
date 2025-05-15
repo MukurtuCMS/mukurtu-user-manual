@@ -11,11 +11,13 @@ tags:
 
 Mukurtu supports many types of media assets:
 
-    Uploaded audio files, SoundCloud embeds;
-    Uploaded image files;
-    Uploaded document files;
-    Uploaded video files, YouTube and Vimeo embeds;
-    Embedded code, such as iframe embeds.
+- Audio files
+- Embedded code, such as iframe embeds
+- Document files
+- Image files
+- SoundCloud embeds
+- Video files
+- YouTube and Vimeo embeds
 
 The media asset workflow varies for different types of assets, but generally follows a similar workflow.
 
