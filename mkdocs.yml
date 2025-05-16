@@ -78,6 +78,7 @@ nav:
     - 3Cs/UnderstandingCategories.md
     - 3Cs/CreateCategories.md 
     - 3Cs/ManageCommunityMembershipAndRoles.md
+    - 3Cs/CategoryTaxonomy.md
     - 3Cs/EditCommunitySettings.md
     - 3Cs/EditCulturalProtocolSettings.md
   - Collections:
@@ -108,6 +109,8 @@ nav:
     - media/VimeoPrivacySettings.md 
     - media/YoutubePrivacySettings.md
     - media/SoundCloudPrivacySettings.md 
+    - media/PlanningVideoHosting.md
+    - media/MediaContentWarnings.md
   - Migration from Mukurtu 3 to Mukurtu 4: 
     - migration/00MigrationOverview.md
     - migration/01MigrationPlanning.md
