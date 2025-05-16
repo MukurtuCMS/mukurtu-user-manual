@@ -11,7 +11,7 @@ tags:
 
 Mukurtu supports different types of media, including audio files, SoundCloud links, documents, external embeds, image files, remote video, and video files. Most media types have unique metadata fields and other requirements to add them to your media library. This article provides step-by-step instructions on how to upload each media type.
 
-Media can be uploaded from your dashboard or when adding content. This article focuses on uploading media from your dashboard. Instructions on for uploading media when you create content can be found here **MAKE AN ARTICLE FOR THIS!!!**
+Media can be uploaded from your dashboard or when adding content. This article focuses on uploading media from your dashboard. Instructions on for uploading media when you create content can be found in the articles on creating content.
 
 ## Audio files
 
