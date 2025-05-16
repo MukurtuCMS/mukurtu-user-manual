@@ -4,25 +4,22 @@ tags:
 ---
 # Planning for Audio and Video Hosting
 
-!!! roles "User roles"
-    Protocol steward, contributor, community record steward, curator, language steward, language contributor 
+Mukurtu CMS provides two options for managing audio and video files: direct upload, or external hosting with a third party service.
 
-Mukurtu CMS provides two options for managing audio and video files: direct upload and hosting, or external hosting.
+While most media assets can be uploaded directly, even access copies of videos will have very large file sizes. In many cases it is more cost-effective to use an external video hosting provider than paying for additional in-site storage.
 
-Unlike images, most audio files, and documents, even access copies of videos will have very large file sizes. In many cases it is more cost-effective to use an external video hosting provider than paying for additional in-site storage. 
+You also want to ensure that your users have a good playback or streaming experience, regardless of their internet bandwidth, speed, or service.. While small uploaded video files may play fine, externally hosted videos usually load faster and play more reliably since those services are optimized for video streaming.
 
-Additionally, you will want to ensure that your users have satisfactory playback experiences regardless of hosting. While small uploaded video files may play fine, externally hosted videos usually load faster and play more reliably. This is especially true when accessing larger files or for users or hosting services with more limited bandwidth or internet speeds. 
+Some audio files are large enough that external hosting might also be worth considering.
 
-Some audio files are large enough that external hosting might also be a more cost-effective option.
+## Direct upload
 
-## Direct Upload and Hosting
-
-- If you choose to upload your video files directly to your Mukurtu CMS site, they will be stored with all your other media assets.
+- Video files uploaded directly to your Mukurtu CMS site are stored and managed the same as any other media assets.
 - Ensure that your hosting plan provides sufficient space for large video files.
-- The default maximum upload size for a single file is 128MB, but your system/server administrator should be able to configure support for larger individual uploads.
-- Mukurtu-hosted videos will use the default HTML5 video player.
+- The default maximum upload size for a single file is 128MB, but your system/server administrator should be able to configure support for larger individual uploads. For more information on site configuration, visit **ARTICLE FOR THIS**
+- Directly uploaded videos will use the default HTML5 video player.
 
-## External Hosting
+## External hosting
 
 - Mukurtu CMS supports external hosting through Vimeo and Youtube for videos and SoundCloud for audio files.
 - To use one of these providers, you need to create an account with the respective service. These services over a range of free and paid accounts, each with their own features and limitations.
