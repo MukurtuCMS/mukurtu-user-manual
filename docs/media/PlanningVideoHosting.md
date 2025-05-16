@@ -4,11 +4,11 @@ tags:
 ---
 # Planning for Audio and Video Hosting
 
-Mukurtu CMS provides two options for managing audio and video files: direct upload, or external hosting with a third party service.
+Mukurtu CMS provides two options for managing audio and video files: direct upload or external hosting with a third party service.
 
 While most media assets can be uploaded directly, even access copies of videos will have very large file sizes. In many cases it is more cost-effective to use an external video hosting provider than paying for additional in-site storage.
 
-You also want to ensure that your users have a good playback or streaming experience, regardless of their internet bandwidth, speed, or service.. While small uploaded video files may play fine, externally hosted videos usually load faster and play more reliably since those services are optimized for video streaming.
+You also want to ensure that your users have a good playback or streaming experience, regardless of their internet bandwidth, speed, or service. While small uploaded video files may play fine, externally hosted videos usually load faster and play more reliably since those services are optimized for video streaming.
 
 Some audio files are large enough that external hosting might also be worth considering.
 
