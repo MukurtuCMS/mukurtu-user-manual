@@ -9,10 +9,10 @@ tags:
 !!! roles "User roles"
     Protocol steward, contributor
 
-Person Records allow for rich biographical records to be integrated into Mukurtu CMS. Person records can include birth and death dates as well as custom text and media sections. They can also identify relationships between people, and aggregate all digital heritage items where a person is referenced. They can also be used to link all the names that a person is known to the record as taxonomic people terms. Follow the instructions below to create a person record.
+Person Records allow for rich biographical records to be integrated into Mukurtu CMS. Person records can include birth and death dates as well as custom text and media sections. They can also identify relationships between people, and aggregate all digital heritage items where a person is referenced. They can also act as authority records, referencing all the names that a person is known by. Follow the instructions below to create a person record.
 
 !!! requirement
-    If you have not enabled the person taxonomy, this field will not populate. Navigate to the [Configure Person Record Settings](person-records\ConfigurePersonRecord.md) article for instructions. 
+    You must configure the person records settings before creating new person records. Navigate to the [Configure Person Record Settings](person-records\ConfigurePersonRecord.md) article for instructions. 
 
 From your **Dashboard** or **Add Content**, select the **Person** link.
 
@@ -66,7 +66,7 @@ Add featured media to the **Media Assets** section by selecting the "Add media" 
 
 ### Keywords
 
-In the **Keywords** section, add keywords to each field to describe the person. Keywords provide an additional way to categorize your content. In general, 3-5 keywords are recommended to make it easier for users to search and retrieve content. 
+In the **Keywords** section, add keywords that would help users find the person record. This may include significant events or organizations they were a part of, or other related terms. Keywords provide an additional way to categorize your content. In general, 3-5 keywords are recommended to make it easier for users to search and retrieve content. 
    
 1. Select the "Add another item" button to add additional keyword text boxes.
 2. Select and drag the arrows by the keyword to reorder your keywords if necessary.
@@ -96,8 +96,6 @@ Use the *Local Contexts* field to apply Traditional Knowledge labels to your col
       
 ![Screenshot of the local contexts fields with information selected from the dropdown menu.](../_embeds/placeholderscreenshot.png)
 
-You can save your person record at this point, or return to the top of your page to select the **Text Sections** or **Relations** tabs to add more context to your person record.
-
 ## Text Sections
 
 This is where you can provide biographical information for your person record. 
@@ -119,10 +117,10 @@ The **Relations** tab is used to add representative terms, related content, or r
 
 ### Representative term
 
+This is the field that will identify which site content is connected to this person. This is dependant on proper person record settings configuration. If there are no terms displayed here, either you have not properly configured the person record settings, or there are no matching names in your configured fields. Review the [Configure Person Record Settings](ConfigurePersonRecord.md) article for instructions.
+
 !!! requirement
     There must be people taxonomy terms created to populate this field. To create a people term, navigate to [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md)
-
- Representative terms are existing taxonomic people terms. These should reflect the name or names of the person over the course of their life. This allows the individual to be properly identified by the name or names they are known by in their community, and can help to remove distortion caused by misnamings, misspellings, or mistaken attributions. 
 
 1. In the **Representative Term** section, select the "Select Terms" button to add an existing people term to your person record.
 2. To search for specific terms, enter the term in the *Search* field and select the "Search" button.
@@ -133,17 +131,24 @@ The **Relations** tab is used to add representative terms, related content, or r
 
 ### Related content
 
-2. In the **Related Content** section, select the "Select Content" button to add content to your person record. Related content includes anything that has a close connection to the person, including digital heritage items, dictionary words, person records, and collections. 
+!!! tip
+    If properly configured, the site will auto-aggregate content related to this person. In most cases this field will not be used.
 
-    - Select the *Type* dropdown field to filter content by type. Content can also be filtered by entering the name of the content in the *Title* field. Select the "Apply" button to apply these filters.
-    - Select the checkbox associated with the content you want to apply to your person record.
-    - Select the "Add Content" button to add your content. 
+In the **Related Content** section, select the "Select Content" button to add content to your person record. Related content includes anything that has a close connection to the person, including digital heritage items, dictionary words, person records, and collections. 
+
+1. Select the *Type* dropdown field to filter content by type. Content can also be filtered by entering the name of the content in the *Title* field. Select the "Apply" button to apply these filters.
+2. Select the checkbox associated with the content you want to apply to your person record.
+3. Select the "Add Content" button to add your content. 
 
     ![Screenshot showing the related content section with the fields filled out and content selected.](../_embeds/placeholderscreenshot.png)
 
 ### Related people
 
+!!! requirement
+    Related person records must have already been created in order to be added to the related people section. 
+
 1. In the **Related People** section, select the "Add Related Person" button to add a related individual to your person record. Related people is a broad field that can encompass many different types of interpersonal relationships. Some examples of relationships include family members, friends, community members, and other complex relationships.
+
 2. Select the "Select Content" button to add another person record.
     
     - To search for a specific person record, enter the name of an individual in the *Title* field and select the "Apply" button.
