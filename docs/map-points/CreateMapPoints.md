@@ -15,9 +15,11 @@ Mukurtu allows users to create and manage map points and areas using the embedde
 
 If you have location settings enabled in your browser, your map will automatically center on your location. If you do not have location settings enabled in your browser, the map will automatically center in the middle of the Atlantic Ocean. Zoom out by selecting the "-" icon to enlarge your map, or select and drag the map to a different location.
 
-You can easily add and label features on your map, including markers, polylines, rectangles, and polygons. 
+## Add map layers
 
-## Add a marker
+You can easily add layers to highlight features on your map, including markers, polylines, rectangles, and polygons. 
+
+### Add a marker
 
 1. To add a marker, or point, to your map, select the "Draw Marker" icon in the top right-hand corner of the map.
 
@@ -31,7 +33,9 @@ You can easily add and label features on your map, including markers, polylines,
 
     ![Screenshot of completed markers with the cancel button highlighted.](../_embeds/Mapping3.png)
 
-## Add a polyline
+4. Label your marker by selecting the marker and entering a location description in the *Map points description* field on the map.
+
+### Add a polyline
 
 Polylines are lines that consist of multiple joined points to create a path. This can be useful for highlighting significant routes or roads. Follow the directions to draw a polyline layer on your map.
 
@@ -61,9 +65,11 @@ Polylines are lines that consist of multiple joined points to create a path. Thi
 
     ![Screenshot of a completed polyline with one vertex highlighted.](../_embeds/Mapping8.png)
 
-## Add a rectangle
+7. Label your polyline by selecting the line and entering a location description in the *Map points description* field on the map.
 
-Rectangles can indicate an area. Follow the directsion to add a rectangle layer to your map.
+### Add a rectangle
+
+Rectangles can indicate an area. Follow the directions to add a rectangle layer to your map.
 
 1. To add a rectangle to your map, select the "Draw Rectangle" icon from the right-hand edge of your map.
 
@@ -80,3 +86,46 @@ Rectangles can indicate an area. Follow the directsion to add a rectangle layer 
 4. Select the location to place your final vertex to complete your rectangle.
 
     ![Screenshot of a completed rectangle.](../_embeds/Mapping14.png)
+
+7. Label your rectangle by selecting the shape and entering a location description in the *Map points description* field on the map.
+
+### Add a polygon
+
+Polygons can indicate a specific area. Follow the directions to add a polygon layer to your map.
+
+1. To add a polygon to your map, select the "Draw Polygon" icon from the right-hand edge of your map.
+
+    ![Screenshot showing the draw polygon icon.](../_embeds/Mapping15.png) 
+
+2. Select a location to place your first vertex. This is similar to the process for adding a polyline. 
+
+    ![Screenshot showing the vertex with the click to place first vertex marker.](../_embeds/Mapping16.png) 
+
+3. Continue your polygon by placing another vertex. Continue placing vertices until you have drawn your polygon.
+    
+    ![Screenshot of a marker with a line connecting a placed vertex and an unplaced vertex with a dotted line between the two.](../_embeds/Mapping17.png) 
+
+4. Select the first marker to finish drawing your polygon. 
+
+    ![Screenshot of a polygon with the icon hovering over the first marker.](../_embeds/Mapping18.png) 
+
+    ![Screenshot of a completed polygon.](../_embeds/Mapping19.png) 
+
+5. To edit your polygon while you are drawing it, select the "Remove last vertex" button.
+
+    ![Screenshot of a completed polygon with one vertex highlighted and moved slightly.](../_embeds/Mapping20.png)
+
+6. Label your marker by selecting the marker and entering a location description in the *Map points description* field on the map.
+
+## Edit map layers
+
+To edit the objects on your map, you can use the three editing icons on the right-hand side of the map. 
+
+8. To edit individual vectors, select the "Edit layers" icon. This icon highlights all of the vertices on your map. 
+    
+    - Move the vertex or vertices by selecting one at a time dragging it to a new location. 
+
+        !!! tip
+            If you are trying to draw an amorphous shape, you can outline it by selecting and moving vertices. Each vertex you move generates an inactive vertex to either side. These vertices can be activated by selecting them. This allows you more flexibility to outline lines or shapes.
+    
+    
