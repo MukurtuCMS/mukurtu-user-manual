@@ -33,7 +33,8 @@ You can easily add layers to highlight features on your map, including markers, 
 
     ![Screenshot of completed markers with the cancel button highlighted.](../_embeds/Mapping3.png)
 
-4. Label your marker by selecting the marker and entering a location description in the *Map points description* field on the map.
+4. Label your marker by selecting the marker and entering a location description in the *Map points description* field on the map. If you do not label your marker, the label will default to the name of your content.
+
 
 ### Add a polyline
 
@@ -65,7 +66,8 @@ Polylines are lines that consist of multiple joined points to create a path. Thi
 
     ![Screenshot of a completed polyline with one vertex highlighted.](../_embeds/Mapping8.png)
 
-7. Label your polyline by selecting the line and entering a location description in the *Map points description* field on the map.
+7. Label your polyline by selecting the line and entering a location description in the *Map points description* field on the map. If you do not label your polyline, the label will default to the name of your content.
+
 
 ### Add a rectangle
 
@@ -87,7 +89,8 @@ Rectangles can indicate an area. Follow the directions to add a rectangle layer 
 
     ![Screenshot of a completed rectangle.](../_embeds/Mapping14.png)
 
-7. Label your rectangle by selecting the shape and entering a location description in the *Map points description* field on the map.
+7. Label your rectangle by selecting the shape and entering a location description in the *Map points description* field on the map. If you do not label your rectangle, the label will default to the name of your content.
+
 
 ### Add a polygon
 
@@ -115,17 +118,27 @@ Polygons can indicate a specific area. Follow the directions to add a polygon la
 
     ![Screenshot of a completed polygon with one vertex highlighted and moved slightly.](../_embeds/Mapping20.png)
 
-6. Label your marker by selecting the marker and entering a location description in the *Map points description* field on the map.
+6. Label your polygon by selecting the polygon and entering a location description in the *Map points description* field on the map. If you do not label your polygon, the label will default to the name of your content.
 
 ## Edit map layers
 
 To edit the objects on your map, you can use the three editing icons on the right-hand side of the map. 
 
-8. To edit individual vectors, select the "Edit layers" icon. This icon highlights all of the vertices on your map. 
+1. To edit individual vectors, select the "Edit layers" icon. This icon highlights all of the vertices on your map. 
     
     - Move the vertex or vertices by selecting one at a time dragging it to a new location. 
 
         !!! tip
             If you are trying to draw an amorphous shape, you can outline it by selecting and moving vertices. Each vertex you move generates an inactive vertex to either side. These vertices can be activated by selecting them. This allows you more flexibility to outline lines or shapes.
+    
+    ![Screenshot of the edit layers icon.](../_embeds/Mapping26.png)
+
+2. To move objects or layers, select the "Drag layers" icon. You can then select and drag your objects to a new location.
+
+    ![Screenshot of the drag layers icon](../_embeds/Mapping27.png)
+
+3. To remove objects or layers, select the "Remove layers" icon. Select the objects you want to remove, then select "Finish" when done.
+
+    ![Screenshot of the remove layers icon](../_embeds/Mapping28.png)
     
     
