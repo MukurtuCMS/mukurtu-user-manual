@@ -108,3 +108,14 @@ Use the *Contributor* field to enter the name of the contributor of the digital 
 ### Date
 
 In the **Original Date** section enter the date associated with the digital heritage item, if known. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
+
+Use the *Date Description* field to add a less specific date such as `Summer YYYY` or `circa 1800s` to your digital heritage item. This can refer to the date the media asset was made, written, recorded, or filmed. This field is limited to 255 characters.
+
+## Mukurtu Core
+
+### Cultural narrative
+
+Enter text or media assets in the *Cultural narrative* field. This is a full text HTML field that can support images, documents, audio, or video recordings. 
+
+!!! tip
+    The Cultural Narrative field is used to add historical or social context, expert community knowledge, community stories, and other relevant context to the Digital Heritage Item. This is generally information that is community specific.
