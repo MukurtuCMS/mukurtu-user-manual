@@ -98,7 +98,7 @@ nav:
     - localization-translation/RequiredModules.md
   - Map Points:
     - map-points/mapping-test.md
-    - map-points/UnderstandingMapPoints.md
+    - map-points/UnderstandingLocationFields.md
     - map-points/CreateMapPoints.md
   - Media:
     - media/UnderstandingMediaAssets.md 
