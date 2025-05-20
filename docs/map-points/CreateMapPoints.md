@@ -9,11 +9,13 @@ tags:
 !!! roles "User roles"
     Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
-Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. Mukurtu users can use the map functions to visually mark the physical location of content. **MAYBE COMBINE THESE SENTENCES**
+Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. 
 
 ## Configuring your map
 
 If you have location settings enabled in your browser, your map will automatically center on your location. If you do not have location settings enabled in your browser, the map will automatically center in the middle of the Atlantic Ocean. Zoom out by selecting the "-" icon to enlarge your map, or select and drag the map to a different location.
+
+![Screenshot of the map points field with no location settings enabled. It is zoomed in on the middle of the Atlantic Ocean and the - or zoom out icon on the left-hand side of the screen is highlighted.](../_embeds/Mapping29.png)
 
 ## Add map layers
 
@@ -119,6 +121,32 @@ Polygons can indicate a specific area. Follow the directions to add a polygon la
     ![Screenshot of a completed polygon with one vertex highlighted and moved slightly.](../_embeds/Mapping20.png)
 
 6. Label your polygon by selecting the polygon and entering a location description in the *Map points description* field on the map. If you do not label your polygon, the label will default to the name of your content.
+
+### Add a circle
+
+Circles can indicate a specific area. Follow the directions to add a circle layer to your map.
+
+1. To add a circle to your map, select the "Draw Circle" icon from the right-hand edge of your map.
+
+    ![Screenshot showing the draw circle icon.](../_embeds/placeholderscreenshot.png) 
+
+2. Select a location to place the center of your circle. 
+
+    ![Screenshot showing the vertex with the click to place circle marker.](../_embeds/placeholderscreenshot.png)
+
+3. Move your cursor away from the center to set the boundaries of your circle.
+    
+    ![Screenshot of a marker with a line connecting a placed vertex and an unplaced vertex with a dotted line between the two and a label saying click to finish circle.](../_embeds/placeholderscreenshot.png)
+
+4. Select a location on your map at the outer limits of your circle to finish drawing your circle. 
+
+    ![Screenshot of a completed circle.](../_embeds/placeholderscreenshot.png)
+
+5. To edit your circle while you are drawing it, select and drag either vertex.
+
+    ![Screenshot of a completed polygon with one vertex highlighted and moved slightly.](../_embeds/placeholderscreenshot.png)
+
+6. Label your circle by selecting the circle and entering a location description in the *Map points description* field on the map. If you do not label your circle, the label will default to the name of your content.
 
 ## Edit map layers
 
