@@ -93,6 +93,9 @@ nav:
     - dictionary/AddLanguage.md
   - FAQs:
     - faqs/DatabasePrivacy.md
+  - Local Contexts:
+    - local-contexts/LevelsOfLocalContextsProjects.md
+    - local-contexts/ManageLocalContextsProjects.md
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
