@@ -14,13 +14,25 @@ Mukurtu Core metadata schema is an extension of Dublin Core.
 
 Follow the instructions to create a digital heritage item.
 
-## Mukurtu Essentials
+## Mukurtu essentials
 
 ### Title
 
 Use the *Title* field to provide a title for your digital heritage item. The title should give users useful information about the item when browsing or searching.
 
 - This is a required field.
+
+### Cultural protocols
+
+1. Use the checkboxes to apply cultural protocols to your digital heritage item. 
+
+    - This is a required field.
+
+2. Use the checkboxes to select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
+
+    - Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
+    - All is more restrictive as users must belong to all the selected protocols to view the digital heritage item. 
+    - This is a required field.
 
 ### Summary
 
@@ -64,18 +76,6 @@ Fill out the metadata according to the [Media Upload Instructions by Media Type]
 
 Fill out the metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
 
-### Cultural protocols
-
-1. Use the checkboxes to apply cultural protocols to your digital heritage item. 
-
-    - This is a required field.
-
-2. Use the checkboxes to select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
-
-    - Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
-    - All is more restrictive as users must belong to all the selected protocols to view the digital heritage item. 
-    - This is a required field.
-
 ### Category
 
 Categories are high-level descriptive terms that group digital heritage items together and help users browse and discover digital heritage items. Categories are unique to each site and reflect the scope of the items included. One set of Categories is used to describe all digital heritage items within the site. 
@@ -109,13 +109,116 @@ Use the *Contributor* field to enter the name of the contributor of the digital 
 
 In the **Original Date** section enter the date associated with the digital heritage item, if known. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
 
-Use the *Date Description* field to add a less specific date such as `Summer YYYY` or `circa 1800s` to your digital heritage item. This can refer to the date the media asset was made, written, recorded, or filmed. This field is limited to 255 characters.
+Use the *Date Description* field when a strictly formatted date is not appropriate. Some examples of approximate timeframes or circa dates can include `Summer YYYY` or `circa 1800s`. This can refer to the date the media asset was made, written, recorded, or filmed. This field is limited to 255 characters.
 
-## Mukurtu Core
+## Mukurtu core
 
 ### Cultural narrative
 
-Enter text or media assets in the *Cultural narrative* field. This is a full text HTML field that can support images, documents, audio, or video recordings. 
+Enter text or media assets to the *Cultural narrative* field. This is a full text HTML field that can support images, documents, audio, or video recordings. 
 
+To add media, select the "Insert Media" icon from the field's toolbar. Follow the steps in the [Media Assets](#media-assets) section of this article to select media assets or to add new media assets to your library.
+
+The *cultural narrative* field is used to add historical or social context, expert community knowledge, community stories, and other relevant context to the digital heritage item. This is generally information that is community specific.
+
+### Traditional knowledge
+
+Enter text or media assets to the *Traditional knowledge* field. This is a full text HTML field that can support images, documents, audio, or video recordings. 
+
+To add media, select the "Insert Media" icon from the field's toolbar. Follow the steps in the [Media Assets](#media-assets) section of this article to select media assets or to add new media assets to your library.
+
+The *traditional knowledge* field is used to add in-­depth community-specific knowledge about the digital heritage item, and is often used to provide information of social, spiritual, or esoteric significance. 
+
+### Description
+
+Enter text or media assets to the *Description* field. This is a full text HTML field that can support images, documents, audio, or video recordings. 
+
+To add media, select the "Insert Media" icon from the field's toolbar. Follow the steps in the [Media Assets](#media-assets) section of this article to select media assets or to add new media assets to your library.
+
+The *description* field can include physical characteristics (i.e. photograph, manuscript, newspaper clipping), content information (i.e. what is depicted, content of text), and any other general relevant information. 
+
+## Permissions and rights
+
+### Local Contexts
+
+Use the *Local Contexts* field to apply Traditional Knowledge labels to your collection. 
+    
 !!! tip
-    The Cultural Narrative field is used to add historical or social context, expert community knowledge, community stories, and other relevant context to the Digital Heritage Item. This is generally information that is community specific.
+    To start a project or for more information on Local Contexts projects, labels, and notices, visit [Local Contexts](https://localcontexts.org/).
+
+- Select your Local Contexts project from the dropdown. 
+- Select Local Contexts labels and notices to assign to the collection.  
+
+### Citing Indigenous Elders and Knowledge Keepers
+
+These fields enable Mukurtu users to create a citation from the Elders and Knowledge Keepers who gave context to the digital heritage item. Fill in as many of the fields as possible to generate a citation.
+
+1. Use the *Name of the Elder or Knowledge Keeper* field to enter the individual's name. Users should ensure that the name appears according to the Knowledge Keeper's or community's preferences and includes their appropriate title or status. 
+2. Enter the name of their *Nation or Community*. This refers to the Indigenous nation/community that holds this knowledge and connects the Knowledge Keeper to their nation/community. Be as specific as possible.
+3. Enter the name of the *Treaty terrority*. This refers to the territories that that hold treaties with the Knowledge Keeper's nation or community. Use only if applicable, such as for oral histories regarding treaties and land rights. 
+4. Enter the name of the *City or community they live in*. Knowledge Keepers may live in a place other than where their knowledge originated. Use this field if they would like to acknowledge the place, nation, or community where they reside.
+5. Enter *A brief description or title of the teaching*. This field may be used to describe the knowledge and its provenance, such as `Creation Story as told to me by my grandfather who heard it from his father` or any other description or classification the Knowledge Keeper would like to include. 
+6. Enter the date the communication took place. Be as specific as possible. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`. 
+
+### Rights
+
+- Rights and usage
+
+    Enter a statement in the *Rights and Usage* field about who holds the legal rights to the digital heritage item, media asset, or presented knowledge. Consider adding contact information if the rights holder should be contacted for permission to use, reproduce, circulate, reference, or cite the digital heritage item.
+
+- Rights Statements
+
+    Select a rights statement from the dropdown menu. For more information on rights statements, visit [rightsstatement.org](https://rightsstatements.org/en/).
+
+### Licensing options
+
+Select a creative commons license from the dropdown. Creative Commons licenses are an extension of copyright that allow a copyright holder to specify the ways in which their work may be altered, shared, and used. For more information on Creative Commons licensing, visit [creativecommons.org](https://creativecommons.org/).
+
+## Additional fields
+
+### Format
+
+Use the *Format* field to enter the format of the digital heritage item. Format is the specific physical or digital manifestation of the digital heritage item, including physical format `pamphlet`, `glass slide`, `open reel`, duration or extent ``90 minutes`, `20 pages`, dimensions `4x6"`, `12x6x8cm`, digital filetype `PDF`, `JPG`, `MP3`, `MP4`, or other details as needed.
+
+To add more than one format type, select the "Add another item" button and enter the required format description. This can be useful if you want to detail both the physical and digital formats of a digital heritage item or media asset.
+
+### Type
+
+Use the *Type* field to describe the nature, genre, or function of the media asset or digital heritage item. Examples include `Image`, `Text`, `Sound`, or `Video`.
+
+To add more than one format type, select the "Add another item" button and enter the type description. This can be useful if you want to detail both the physical and digital types of a digital heritage item or media asset.
+
+### Identifier
+
+Use the *Identifier* field to provide a unique, unambiguous reference to your digital heritage item or media asset. Identifiers are often provided by the contributing institution or organization so the original item can be located. Examples can include call numbers or accession numbers. 
+
+### Keywords
+
+Use the *Keywords* field to add any keywords to your collection. Keywords are terms used to describe content to ensure that the item will be discoverable when searching or browsing. They are more flexible and specific than categories. Consider adding 3-5 keywords to your collection by selecting the "Add another item" button to add additional keywords fields. This field feeds into the keywords taxonomy.
+
+### Language
+
+Use the *Language* field to enter the language or languages used in the digital heritage item or media asset. This includes text, audio, video. This field feeds into the language taxonomy.
+
+### Locations
+
+- Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. For detailed instructions on how to include *Map Points*, visit [Create Map Points](../map-points).
+
+- Use the *Location description* to provide a text or media reference to a geographical location that is impossible or inadvisable to pinpoint on a map. This can be useful if the location should remain private, if the location no longer exists, or if the location was described in a way that makes rendering it on a modern map challenging. Location description can be used independently of other location fields, and is a full HTML field that supports text, audio, images, and video.
+
+- Enter a *Location*. This is a taxonomic field that feeds into the location taxonomy. Multiple location terms can be applied to any one content item by selecting the "Add another item" button. This can help to more clearly identify a location that has been known by different names. 
+
+### Source
+
+Enter a *Source* in the field. Source can a reference to a resource, collection, or institution the digital heritage item or media asset was contributed or originated from. Examples include collections such as the `McWhorter Collection`, institutions such as the `Library of Congress`, `American Folklife Center`, or donors such as `Donated by John Smith`. 
+
+### Publisher
+
+Enter a *Publisher* in the field. A publisher cna be a person, organization, or service responsible for publishing the digital heritage item or media asset.
+
+Multiple publishers can be added by selecting the "Add another item" button. 
+
+### External links
+
+
+
