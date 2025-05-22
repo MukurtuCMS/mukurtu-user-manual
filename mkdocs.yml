@@ -98,10 +98,10 @@ nav:
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
-  - Map Points:
-    - map-points/mapping-test.md
-    - map-points/UnderstandingLocationFields.md
-    - map-points/CreateMapPoints.md
+  - Location Data:
+    - location-data/mapping-test.md
+    - location-data/UnderstandingLocationFields.md
+    - location-data/CreateMapPoints.md
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 

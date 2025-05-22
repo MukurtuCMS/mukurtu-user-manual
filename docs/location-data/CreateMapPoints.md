@@ -11,7 +11,7 @@ tags:
 
 Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. 
 
-## Configuring your map
+## Location settings
 
 If you have location settings enabled in your browser, your map will automatically center on your location. If you do not have location settings enabled in your browser, the map will automatically center in the middle of the Atlantic Ocean. Zoom out by selecting the "-" icon to enlarge your map, or select and drag the map to a different location.
 
