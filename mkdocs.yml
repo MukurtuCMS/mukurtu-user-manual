@@ -96,6 +96,9 @@ nav:
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
+  - Local Contexts:
+    - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
+    - local-contexts/ViewAndManageDirectoryPages.md
   - Location:
     - location/mapping-test.md
   - Media:
