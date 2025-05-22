@@ -103,13 +103,13 @@ Use the *Contributor* field to enter the name of the contributor of the digital 
 - To remove a contributor, select the "Remove" button.
 
 !!! tip
-    A Contributor can be a person, people, clan, tribal nation, community group or, organization who aided in making the content of a digital heritage item or media asset. This could be the person who wrote, compiled, or illustrated a book or recorded a song, the people who edited or produced a film, or who collaborated or consulted on a project. 
+    A Contributor can be a person, people, clan, tribal nation, community group or organization who aided in making the content of a digital heritage item or media asset. This could be the person who wrote, compiled, or illustrated a book or recorded a song, the people who edited or produced a film, or who collaborated or consulted on a project. 
 
 ### Date
 
 In the **Original Date** section enter the date associated with the digital heritage item, if known. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
 
-Use the *Date Description* field when a strictly formatted date is not appropriate. Some examples of approximate timeframes or circa dates can include `Summer YYYY` or `circa 1800s`. This can refer to the date the media asset was made, written, recorded, or filmed. This field is limited to 255 characters.
+Use the *Date Description* field when a strictly formatted date is not known appropriate. Some examples of approximate timeframes or circa dates can include `Summer YYYY` or `circa 1800s`. This can refer to the date the media asset was made, written, recorded, or filmed. This field is limited to 255 characters.
 
 ## Mukurtu core
 
@@ -135,13 +135,13 @@ Enter text or media assets to the *Description* field. This is a full text HTML 
 
 To add media, select the "Insert Media" icon from the field's toolbar. Follow the steps in the [Media Assets](#media-assets) section of this article to select media assets or to add new media assets to your library.
 
-The *description* field can include physical characteristics (i.e. photograph, manuscript, newspaper clipping), content information (i.e. what is depicted, content of text), and any other general relevant information. 
+The *description* field can include physical characteristics (i.e. photograph, manuscript, newspaper clipping), content information (i.e. what is depicted, content of text), and any other generally relevant information. 
 
 ## Permissions and rights
 
 ### Local Contexts
 
-Use the *Local Contexts* field to apply Traditional Knowledge labels to your collection. 
+Use the **Local Contexts** field to apply Traditional Knowledge labels to your collection. 
     
 !!! tip
     To start a project or for more information on Local Contexts projects, labels, and notices, visit [Local Contexts](https://localcontexts.org/).
@@ -220,5 +220,44 @@ Multiple publishers can be added by selecting the "Add another item" button.
 
 ### External links
 
+Additional links can be added to a digital heritage item. This is most commonly used if the item is available elsewhere online and you want to direct users to that record or website. 
+- Enter the *URL*. This must be an external link such as `https://www.example.com/`. 
+- Enter the *Link text*. This is the text that will display on your page as the link.
+- To add additional links, select "Add another Item" and repeat with a new URL and link text.
 
+### Subject
 
+Use the *Subject* field to provide a subject for your digital heritage item. The subject is the main topic or topics of the digital heritage item. They can be tailored to meet the needs of your site or derived from existing controlled vocabularies such as Library of Congress Subject Headings or Getty Art and Architecture Thesaurus. 
+
+- If more than one subject should be applied, use the "Add another item" button to add additional subject text boxes. 
+- Select and drag the arrows by the subject to reorder them if necessary. 
+- To remove a subject, select the "Remove" button.
+
+### Transcription
+
+Use the *Transcription* field to provide a text transcription of an audio or video recording or of the text in an image or document. Including a transcription allows the text to be discoverable when searching for Digital Heritage Items. This is a plain text field with no character limit.
+
+### People
+
+Use the *People* field to enter the name of any people represented or referenced in your digital heritage item or media asset. This field can be formatted as `Last, First`, `First Last`, `Last, "Nickname" First` or any other format that makes sense for your organization. 
+
+- If more than one person should be listed, use the "Add another item" button to add additional people text boxes. 
+- Select and drag the arrows by the people field to reorder your people if necessary. 
+- To remove a person field, select the "Remove" button.
+- This field feeds into the People taxonomy.
+
+    !!! tip
+        The people field may be used to identify people identifiable in a photograph, people speaking in an audio recording, present in a video, or referenced in a document. The People field is a way to identify people that may have been left out of the record because they were not a Creator or Contributor.
+
+## Related content
+
+### Related content
+
+The **related content** field can help provide connections between your digital heritage item and other site content or to help guide users when browsing content. 
+
+- Select the "Select content" button. Additional digital heritage items, person records, dictionary words, and other content can be included as related content. 
+
+    !!! tip 
+        You can filter content by type or search by title.
+
+- Select the checkbox beside all the content you wish to include as related content, then scroll down and select "Add Content".
