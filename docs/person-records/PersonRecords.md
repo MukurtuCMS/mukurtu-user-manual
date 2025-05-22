@@ -159,9 +159,9 @@ Use the *Local Contexts* field to apply Traditional Knowledge labels to your col
 
 Select the "Save" button to save your person record.
 
-## Relations
+## Related content
 
-The **Relations** tab is used to add related content to your person record. 
+The **Related content** tab is used to add related content to your person record. 
 
 ### Related content
 
