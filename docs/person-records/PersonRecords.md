@@ -24,24 +24,6 @@ Enter the preferred name of the person in the *Name* field. Names can be formatt
 
 - This is a required field.
 
-### Media assets
-
-Add featured media to the **Media Assets** section by selecting the "Add media" button. This can be unique or can reuse media from other content. There is no limit on the number of media assets you can add.
-
-1. To upload a media asset, navigate to the Media Assets section.
-2. Select the "Add Media" button.
-3. Select the type of content you want to add. You can upload an audio file, document, image, or video file.
-4. Select the "Choose File" or "Browse" button to upload a file.
-        
-    !!! Tip
-        The text of the upload button depends on your browser.
-
-5. Select an file from your file explorer.
-6. If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
-7. Fill out the remaining metadata according to the [Media Upload Instructions by Media Type](../media/ByTypeMediaUpload.md) article.
-
-![Screenshot with a media asset applied.](../_embeds/placeholderscreenshot.png)
-
 ### Cultural Protocols - required
 
 1. Navigate to the **Select cultural protocols to apply to the item** section and select the checkboxes to apply cultural protocols to the media asset.
@@ -70,6 +52,24 @@ This is the field that will identify which site content is connected to this per
 
 ![Screenshot showing the representative term section with the fields filled out and content selected.](../_embeds/placeholderscreenshot.png)
 
+### Media assets
+
+Add featured media to the **Media Assets** section by selecting the "Add media" button. This can be unique or can reuse media from other content. There is no limit on the number of media assets you can add.
+
+1. To upload a media asset, navigate to the Media Assets section.
+2. Select the "Add Media" button.
+3. Select the type of content you want to add. You can upload an audio file, document, image, or video file.
+4. Select the "Choose File" or "Browse" button to upload a file.
+        
+    !!! Tip
+        The text of the upload button depends on your browser.
+
+5. Select an file from your file explorer.
+6. If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
+7. Fill out the remaining metadata according to the [Media Upload Instructions by Media Type](../media/ByTypeMediaUpload.md) article.
+
+![Screenshot with a media asset applied.](../_embeds/placeholderscreenshot.png)
+
 ### Date fields
 
 1.  In the **Date Born** section enter the date the person was born. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
@@ -80,22 +80,7 @@ This is the field that will identify which site content is connected to this per
 
 ## Biography
 
-This is where you can provide biographical information for your person record. 
-
-1. Under the **Biography Sections**, enter the title of the biographical information in the *Title* field. 
-2. Use the *Body* field to provide a longer biographical sketch for your person record. This field enables a broader narrative that can include a written biography, audio recordings, video recordings, images, or any other supportive information for your person record. This is a full HTML field that supports text, audio, images, and video media assets.
-3. Select the "Add Formatted Text with Title" button to add an additional biography section. 
-
-    !!! tip
-        Adding multiple biography sections allows users a more clearly delineated way to provide multiple people's perspectives on the individual's life or separate different aspects of their life, activities, or work.
-
-![Screenshot with the text sections and biographical information sections filled in with example text.](../_embeds/placeholderscreenshot.png)
-
-You can save your person record at this point, or return to the top of your page to select the **Mukurtu Essentials**, **Relations**, or **Additional Fields** tabs to add more context to your person record.
-
-## Relations
-
-The **Relations** tab is used to add related people or related content to your person record. 
+This is where you can provide interpersonal relationships and biographical information for your person record. 
 
 ### Related people
 
@@ -123,18 +108,18 @@ The **Relations** tab is used to add related people or related content to your p
     - Select and drag the arrows by the location to reorder your related people if necessary.
     - To remove a related person, select the "Remove" button.
 
-### Related content
+### Biography sections
 
-!!! tip
-    If properly configured, the site will auto-aggregate content related to this person. In most cases this field will not be used.
+1. Under the **Biography Sections**, enter the title of the biographical information in the *Title* field. 
+2. Use the *Body* field to provide a longer biographical sketch for your person record. This field enables a broader narrative that can include a written biography, audio recordings, video recordings, images, or any other supportive information for your person record. This is a full HTML field that supports text, audio, images, and video media assets.
+3. Select the "Add Formatted Text with Title" button to add an additional biography section. 
 
-In the **Related Content** section, select the "Select Content" button to add content to your person record. Related content includes anything that has a close connection to the person, including digital heritage items, dictionary words, person records, and collections. 
+    !!! tip
+        Adding multiple biography sections allows users a more clearly delineated way to provide multiple people's perspectives on the individual's life or separate different aspects of their life, activities, or work.
 
-1. Select the *Type* dropdown field to filter content by type. Content can also be filtered by entering the name of the content in the *Title* field. Select the "Apply" button to apply these filters.
-2. Select the checkbox associated with the content you want to apply to your person record.
-3. Select the "Add Content" button to add your content. 
+![Screenshot with the text sections and biographical information sections filled in with example text.](../_embeds/placeholderscreenshot.png)
 
-    ![Screenshot showing the related content section with the fields filled out and content selected.](../_embeds/placeholderscreenshot.png)
+You can save your person record at this point, or return to the top of your page to select the **Mukurtu Essentials**, **Relations**, or **Additional Fields** tabs to add more context to your person record.
 
 ## Additional Fields
 
@@ -148,7 +133,7 @@ In the **Keywords** section, add keywords that would help users find the person 
 2. Select and drag the arrows by the keyword to reorder your keywords if necessary.
 3. To remove a keyword, select the "Remove" button.
 
-### Mapping and location
+### Locations
 
 1. Use the **Map Points** Leaflet map to enter one or more geographic locations for your person record. This can be an area that the person lived in, that they were associated with, or any other geographic location. Use the buttons on the right to enter points, paths, rectangles, or polyons to your map. You can also add markers to your map by uploading GeoJSON shapes. For more information on how to use the **Map Points** Leaflet map, visit [Create Map Points](../map-points/CreateMapPoints.md)
 2. Add a *Location Description*. If a location has identifying characteristics but is not able to be pinpointed on a map this field can be used instead of the mapped location. It can also be used to add additional context to the map points. This is a full HTML field that also supports additional media.
@@ -173,6 +158,23 @@ Use the *Local Contexts* field to apply Traditional Knowledge labels to your col
 ![Screenshot of the local contexts fields with information selected from the dropdown menu.](../_embeds/placeholderscreenshot.png)
 
 Select the "Save" button to save your person record.
+
+## Relations
+
+The **Relations** tab is used to add related content to your person record. 
+
+### Related content
+
+!!! tip
+    If properly configured, the site will auto-aggregate content related to this person. In most cases this field will not be used.
+
+In the **Related Content** section, select the "Select Content" button to add content to your person record. Related content includes anything that has a close connection to the person, including digital heritage items, dictionary words, person records, and collections. 
+
+1. Select the *Type* dropdown field to filter content by type. Content can also be filtered by entering the name of the content in the *Title* field. Select the "Apply" button to apply these filters.
+2. Select the checkbox associated with the content you want to apply to your person record.
+3. Select the "Add Content" button to add your content. 
+
+    ![Screenshot showing the related content section with the fields filled out and content selected.](../_embeds/placeholderscreenshot.png)
 
 ## Browse person records
 
