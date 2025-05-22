@@ -214,7 +214,7 @@ Enter a *Source* in the field. Source can a reference to a resource, collection,
 
 ### Publisher
 
-Enter a *Publisher* in the field. A publisher cna be a person, organization, or service responsible for publishing the digital heritage item or media asset.
+Enter a *Publisher* in the field. A publisher can be a person, organization, or service responsible for publishing the digital heritage item or media asset.
 
 Multiple publishers can be added by selecting the "Add another item" button. 
 
