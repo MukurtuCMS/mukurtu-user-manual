@@ -1,3 +1,10 @@
+---
+tags:
+  - content
+  - digital heritage items
+  - metadata
+---
+
 # Digital Heritage Item Metadata Fields
 
 This article provides detail for each of the Digital Heritage Item metadata fields. All the information here is presented in the helper text within the Digital Heritage Item edit/creation screen. 
