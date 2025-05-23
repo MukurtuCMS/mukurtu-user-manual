@@ -35,11 +35,7 @@ You can easily add map points and objects, which are referred to as "markers" an
 
     ![Screenshot of completed markers with the cancel button highlighted.](../_embeds/Mapping3.png)
 
-4. Label your marker by selecting the marker and entering a location description in the *Map points description* field on the map. You must select the field to enter your text. If you do not label your marker, the label will default to the name of your content on the **Browse** pages.
-
-    ![Screenshot of selecting a marker to add a label.](../_embeds/Mapping31.png) 
-    
-    ![Screenshot of adding a label to a marker. The label says Point 1.](../_embeds/Mapping32.png)
+4. For instructions on labeling your markers, see the [Label map layers](#label-map-layers) section of this article. 
 
 ### Add a polyline
 
@@ -71,11 +67,10 @@ Polylines are lines that consist of multiple joined points to create a path. Thi
 
     ![Screenshot of a completed polyline with one vertex highlighted.](../_embeds/Mapping8.png)
 
-7. Label your polyline by selecting the line and entering a location description in the *Map points description* field on the map. Select the line itself; you cannot add a label from a vertex. You must select the field to enter your text. If you do not label your polyline, the label will default to the name of your content on the **Browse** pages.
+7. For instructions on labeling your polyline, see the [Label map layers](#label-map-layers) section of this article. 
 
-    ![Screenshot of selecting a polyline to add a label.](../_embeds/Mapping33.png) 
-    
-    ![Screenshot of adding a label to a polyline. The label says Path 1.](../_embeds/Mapping34.png)
+    !!! tip
+        Label your layers as you go. You cannot select a map layer to label if it is underneath another layer. 
 
 ### Add a rectangle
 
@@ -97,12 +92,10 @@ Rectangles can indicate an area. Follow the directions to add a rectangle layer 
 
     ![Screenshot of a completed rectangle.](../_embeds/Mapping14.png)
 
-7. Label your rectangle by selecting the shape and entering a location description in the *Map points description* field on the map. You must select the field to enter your text. If you do not label your rectangle, the label will default to the name of your content on the **Browse** pages.
+7. For instructions on labeling your rectangle, see the [Label map layers](#label-map-layers) section of this article. 
 
-    ![Screenshot of selecting a rectangle to add a label.](../_embeds/Mapping35.png) 
-    
-    ![Screenshot of adding a label to a rectangle. The label says Rectangle 1.](../_embeds/Mapping36.png)
-
+    !!! tip
+        Label your layers as you go. You cannot select a map layer to label if it is underneath another layer. 
 
 ### Add a polygon
 
@@ -130,11 +123,18 @@ Polygons can indicate a specific area. Follow the directions to add a polygon la
 
     ![Screenshot of a completed polygon with one vertex highlighted and moved slightly.](../_embeds/Mapping20.png)
 
-6. Label your polygon by selecting the polygon and entering a location description in the *Map points description* field on the map. You must select the field to enter your text. If you do not label your polygon, the label will default to the name of your content on the **Browse** pages.
+6. For instructions on labeling your polygon, see the [Label map layers](#label-map-layers) section of this article. 
 
-    ![Screenshot of selecting a polygon to add a label.](../_embeds/Mapping37.png) 
+    !!! tip
+        Label your layers as you go. You cannot select a map layer to label if it is underneath another layer. 
+
+## Label map layers
+
+Label your polygon by selecting the polygon and entering a location description in the *Map points description* field on the map. You must select the field to enter your text. If you do not label your polygon, the label will default to the name of your content on the **Browse** pages.
+
+![Screenshot of selecting a polygon to add a label.](../_embeds/Mapping37.png) 
     
-    ![Screenshot of adding a label to a polygon. The label says Path 1.](../_embeds/Mapping38.png)
+![Screenshot of adding a label to a polygon. The label says Path 1.](../_embeds/Mapping38.png)
 
 ## Edit and remove map layers
 
