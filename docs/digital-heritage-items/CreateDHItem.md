@@ -22,6 +22,8 @@ Use the *Title* field to provide a title for your digital heritage item. The tit
 
 - This is a required field.
 
+![Screenshot of the title field filled out with the term "title".](../_embeds/DH1.png)
+
 ### Cultural protocols
 
 1. Use the checkboxes to apply cultural protocols to your digital heritage item. 
@@ -33,6 +35,14 @@ Use the *Title* field to provide a title for your digital heritage item. The tit
     - Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
     - All is more restrictive as users must belong to all the selected protocols to view the digital heritage item. 
     - This is a required field.
+
+### Category
+
+Categories are high-level descriptive terms that group digital heritage items together and help users browse and discover digital heritage items. Categories are unique to each site and reflect the scope of the items included. One set of Categories is used to describe all digital heritage items within the site. 
+
+- Check the box beside each relevant category.
+- Each Digital Heritage Item must belong to at least one category. 
+![Screenshot of how to fill out cultural protocols, sharing settings, and categories.](../_embeds/DH2.png)
 
 ### Summary
 
@@ -49,6 +59,9 @@ Media assets are the core element of Digital Heritage Items and can be images, d
 
 1. Navigate to the **Media Assets** section.
 2. Select the "Add Media" button. 
+
+    ![Screenshot of the add media button highlighted to indicate where to select to add media.](../_embeds/DH3.png)
+
 3. Select the type of content you want to add. You can upload an audio file, document, image, or video file.
 4. Select the "Choose File" or "Browse" button to upload a file. 
 
@@ -76,13 +89,6 @@ Fill out the metadata according to the [Media Upload Instructions by Media Type]
 
 Fill out the metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
 
-### Category
-
-Categories are high-level descriptive terms that group digital heritage items together and help users browse and discover digital heritage items. Categories are unique to each site and reflect the scope of the items included. One set of Categories is used to describe all digital heritage items within the site. 
-
-- Check the box beside each relevant category.
-- Each Digital Heritage Item must belong to at least one category. 
-
 ### Creator
 
 Use the *Creator* field to enter the name of the creator of the digital heritage item. This field can be formatted as `Last, First`, `First Last`, `Last, "Nickname" First` or any other format that makes sense for your organization. 
@@ -93,6 +99,8 @@ Use the *Creator* field to enter the name of the creator of the digital heritage
 
 !!! tip
     A creator can be a person or people, a clan, tribe, or cultural group, an organization that is primarily responsible for providing the essential knowledge or labor that goes into making a digital heritage item or media asset. For example, the Creator field could list who designed or made a basket, the knowledge holders who provided the information for a book or the book’s author or illustrator, or the singers, songwriters, dancers, or performers who bring to life cultural materials.
+
+![Screenshot of the creator field with the text field, arrow icon, and add another buttons all highlighted.](../_embeds/DH4.png)
 
 ### Contributor
 
@@ -105,11 +113,15 @@ Use the *Contributor* field to enter the name of the contributor of the digital 
 !!! tip
     A Contributor can be a person, people, clan, tribal nation, community group or organization who aided in making the content of a digital heritage item or media asset. This could be the person who wrote, compiled, or illustrated a book or recorded a song, the people who edited or produced a film, or who collaborated or consulted on a project. 
 
+![Screenshot of the contributor field with the text field, arrow icon, and add another buttons all highlighted.](../_embeds/DH5.png)
+
 ### Date
+
+Use the *Date Description* field when a strictly formatted date is not known appropriate. Some examples of approximate timeframes or circa dates can include `Summer YYYY` or `circa 1800s`. This can refer to the date the media asset was made, written, recorded, or filmed. This field is limited to 255 characters.
 
 In the **Original Date** section enter the date associated with the digital heritage item, if known. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
 
-Use the *Date Description* field when a strictly formatted date is not known appropriate. Some examples of approximate timeframes or circa dates can include `Summer YYYY` or `circa 1800s`. This can refer to the date the media asset was made, written, recorded, or filmed. This field is limited to 255 characters.
+![Screenshot of the date fields with the date description filled in to show "circa 1880" and the original date with 1933 Jun 23 entered.](../_embeds/DH6.png)
 
 ## Mukurtu core
 
@@ -121,6 +133,8 @@ To add media, select the "Insert Media" icon from the field's toolbar. Follow th
 
 The *cultural narrative* field is used to add historical or social context, expert community knowledge, community stories, and other relevant context to the digital heritage item. This is generally information that is community specific.
 
+![Screenshot of the cultural narrative field with sample text filled in and the insert media icon highlighted.](../_embeds/DH7.png)
+
 ### Traditional knowledge
 
 Enter text or media assets to the *Traditional knowledge* field. This is a full text HTML field that can support images, documents, audio, or video recordings. 
@@ -129,6 +143,8 @@ To add media, select the "Insert Media" icon from the field's toolbar. Follow th
 
 The *traditional knowledge* field is used to add in-­depth community-specific knowledge about the digital heritage item, and is often used to provide information of social, spiritual, or esoteric significance. 
 
+![Screenshot of the traditional knowledge field with sample text filled in and the insert media icon highlighted.](../_embeds/DH8.png)
+
 ### Description
 
 Enter text or media assets to the *Description* field. This is a full text HTML field that can support images, documents, audio, or video recordings. 
@@ -136,6 +152,8 @@ Enter text or media assets to the *Description* field. This is a full text HTML 
 To add media, select the "Insert Media" icon from the field's toolbar. Follow the steps in the [Media Assets](#media-assets) section of this article to select media assets or to add new media assets to your library.
 
 The *description* field can include physical characteristics (i.e. photograph, manuscript, newspaper clipping), content information (i.e. what is depicted, content of text), and any other generally relevant information. 
+
+![Screenshot of the description field with sample text filled in and the insert media icon highlighted.](../_embeds/DH9.png)
 
 ## Permissions and rights
 
