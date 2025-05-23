@@ -158,5 +158,3 @@ To edit the map points on your map, you can use the three editing icons on the r
 3. To remove objects or layers, select the "Remove layers" icon. Select the objects you want to remove, then select "Finish" when done.
 
     ![Screenshot of the remove layers icon](../_embeds/Mapping28.png)
-    
-    
