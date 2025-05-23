@@ -167,6 +167,8 @@ Use the **Local Contexts** field to apply Traditional Knowledge labels to your c
 - Select your Local Contexts project from the dropdown. 
 - Select Local Contexts labels and notices to assign to the collection.  
 
+![Screenshot of Local Contexts project and labels fields highlighted to indicate the dropdown](../_embeds/placeholderscreenshot.png)
+
 ### Citing Indigenous Elders and Knowledge Keepers
 
 These fields enable Mukurtu users to create a citation from the Elders and Knowledge Keepers who gave context to the digital heritage item. Fill in as many of the fields as possible to generate a citation.
@@ -178,6 +180,8 @@ These fields enable Mukurtu users to create a citation from the Elders and Knowl
 5. Enter *A brief description or title of the teaching*. This field may be used to describe the knowledge and its provenance, such as `Creation Story as told to me by my grandfather who heard it from his father` or any other description or classification the Knowledge Keeper would like to include. 
 6. Enter the date the communication took place. Be as specific as possible. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`. 
 
+![Screenshot of citing Indigenous Elders and Knowledge Keepers with examples in the fields.](../_embeds/placeholderscreenshot.png)
+
 ### Rights
 
 - Rights and usage
@@ -187,6 +191,8 @@ These fields enable Mukurtu users to create a citation from the Elders and Knowl
 - Rights Statements
 
     Select a rights statement from the dropdown menu. For more information on rights statements, visit [rightsstatement.org](https://rightsstatements.org/en/).
+
+![Screenshot of the rights fields with example text in the rights and usage field and a dropdown selected from the rights statements.](../_embeds/DH10.png)
 
 ### Licensing options
 
