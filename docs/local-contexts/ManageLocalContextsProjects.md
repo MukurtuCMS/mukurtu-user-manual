@@ -7,25 +7,28 @@ tags:
 
 !!! roles "User roles"
     
-    Mukurtu Administrator, Community Manager, Protocol Steward
+    Mukurtu administrator, Community manager, Protocol steward
 
-Local Contexts projects can be applied at the site-wide, community, and protocol levels. This article shows you how to apply a project to a Mukurtu site at each of these levels. To understand how a project works at when applied to any given level, see [Levels of Local Contexts Projects](./LevelsOfLocalContextsProjects.md).
+Local Contexts projects can be managed at three different levels: site-wide, per community, and per protocol. This article provides instructions for adding and managing projects at each level. For more about how projects work in Mukurtu, see [Levels of Local Contexts Projects](./LevelsOfLocalContextsProjects.md).
 
 To learn more about Local Contexts, and the Local Contexts Hub see [Understanding the Local Contexts Hub](./UnderstandingTheLocalContextsHub.md)
 
-The following steps can only be applied after you've created a Local Contexts profile and account, configured your labels within projects, and generated a unique project ID. To learn more about this process, and configure your labels, visit [Getting Started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/)
+!!! Requirement
+    The following steps can only be applied after you've created a Local Contexts profile and account, configured your labels within projects, and generated a unique project ID. To learn more about this process, and configure your labels, visit [Getting Started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/)
 
 ## Get your project ID
 
-Before you begin to add projects to your site, you will need your project ID number. In your Local Contexts project, scroll down to the "Identifiers" section and find the project ID number. To apply the project's labels and notices to your site, copy the number, and paste it into your site at the appropriate level. Continue reading for instructions on how to do this at each level: site, community and protocol.
+To add a project to your site, you will first need your project ID number. In your Local Contexts project, scroll down to the "Identifiers" section. Find and copy the project ID number. You will be pasting it into your Mukurtu site. 
+
+Follow the steps below to add the project ID to the entire site, or to individual communities or protocols.
 
 ![Screenshot of LC project ID](../_embeds/local-contexts-manage-projects-01.png)
 
-## Manage projects at the site level
+## Manage site-wide projects
 
 !!! roles "User roles"
 
-    Mukurtu Administrator
+    Mukurtu administrator
 
 1. Navigate to the Mukurtu dashboard, and select **Manage Local Contexts Projects**
 ![Screenshot of Dashboard with Manage Local Contexts link highlighted](../_embeds/placeholderscreenshot.png)
@@ -39,11 +42,11 @@ Before you begin to add projects to your site, you will need your project ID num
 ![Screenshot of success message](../_embeds/placeholderscreenshot.png)
 8. To remove a project, select the box next to the project name and select Remove Selected Projects. Note that only projects with labels that are not in use can be deleted.
 
-## Manage projects at the community level
+## Manage community-based projects
 
 !!! roles "User roles"
 
-    Community Manager
+    Community manager
 
 1. Navigate to the community you wish to manage.
 2. Select "Manage."
@@ -56,11 +59,11 @@ Before you begin to add projects to your site, you will need your project ID num
 ![Screenshot of success message](../_embeds/placeholderscreenshot.png)
 8. To remove a project, select the box next to the project name and select Remove Selected Projects. Note that only projects with labels that are not in use can be deleted.
 
-## Manage projects at the protocol level
+## Manage protocol-based projects
 
 !!! roles "User roles"
 
-    Protocol Steward
+    Protocol steward
 
 1. Navigate to the protocol you wish to manage.
 2. Select "Manage."

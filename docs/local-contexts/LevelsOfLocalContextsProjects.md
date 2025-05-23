@@ -7,30 +7,31 @@ tags:
 
 ## Levels of Local Contexts Projects
 
-Local Context projects can be applied at three different levels: site, community and protocol. This allows for more granular control over who can apply the labels and notices within a project. See [Understanding the Local Contexts Hub](./UnderstandingTheLocalContextsHub.md) for more information on Local Contexts labels and notices.
+Local Context projects can be added at three different levels: site-wide, per community, and per protocol. This helps determine who can apply the labels and notices in the project. Users who can create and edit content will be able to apply labels and notices, provided they are in a community or protocol that has projects added.
 
-The ability to use labels and notices in content depends on community and protocol membership, and user role. Users who can create and edit content will be able to apply labels and notices, provided they are in a community or protocol that has projects applied.
+See [Understanding the Local Contexts Hub](./UnderstandingTheLocalContextsHub.md) for more information on Local Contexts labels and notices.
 
-## Applying projects at the protocol level
+## Site-wide projects
 
-When applied at the protocol level, the labels and notices in the project can be used by members of that protocol with a content creating role.
+When a project is added to the entire site, all users with a content creating role have access to the labels and notices in the project. The project does not need to be added to any community or protocol.
 
-For example, Community 1 has two protocols, Protocol A and Protocol B. A Local Contexts project was applied to Protocol A. This means that the projects' labels and notices would be available to members of Protocol A. Members of Protocol B would not be able to use them.
 
-The same project could also be applied to Protocol B to give members of that protocol access to the labels and notices. 
+## Community-based projects
 
-To learn about managing a Local Contexts project at the protocol level, see [Manage protocol based Local Contexts projects](./ManageProtocolBasedLocalContextsProjects.md)
+When a project is added to a community, all community members with a content creating role have access to the labels and notices in the project. If another community needs to use those labels and notices, the project must be added to that community. 
 
-## Applying projects at the community level
 
-When a project is applied to a community, all members with a content creating role, regardless of protocol membership, have access to the labels and notices in the project.
+For example, Community 1 has two protocols, Protocol A and Protocol B. A Local Contexts project was added to the community. This means that members of both protocols can use the project's labels and notices. The project does not need to be added to either protocol.
 
-Using our previous example, if the project above were applied to Community 1, the labels and notices would be available to both Protocols A and B, and it would be unecessary to apply that same project at the protocol level.
+Community 2 also needs to use the project's labels and notices. The project must be added to Community 2. 
 
-To learn about managing a Local Contexts project at the community level, see [Manage community based Local Contexts projects](./ManageCommunityBasedLocalCOntexxtsProjects)
 
-## Applying projects at the site level
+## Protocol-based projects
 
-Projects applied at the site level provide access to labels and notices for ALL site users with content creating roles and do not need to be applied at the community or protocol levels for users to be able to apply them to content.
+When a project is added to a protocol, the labels and notices in the project can be used by members of that protocol with a content creating role. It cannot be used by the rest of the community.
 
-To learn about managing a Local Contexts project at the site level, see [Manage Site-Wide Local Contexts Projects](./ManageSiteWideLocalContextsProjects)
+Continuing with our example, another project was added to Protocol A. This means that the project's labels and notices can only be used by members of Protocol A. Members of Protocol B cannot use them.
+
+The same project could then be added to Protocol B to give members of that protocol access to the project's labels and notices. 
+
+To learn more about adding and managing projects, see [Manage Local Contexts Projects](./ManageLocalContextsProjects.md)
