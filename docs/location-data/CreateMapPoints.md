@@ -15,11 +15,11 @@ Mukurtu allows users to create and manage map points and areas using the embedde
 
 If you have location settings enabled in your browser, your map will automatically center on your location. If you do not have location settings enabled in your browser, the map will automatically center in the middle of the Atlantic Ocean. Zoom out by selecting the "-" icon to enlarge your map, or select and drag the map to a different location.
 
-![Screenshot of the map points field with no location settings enabled. It is zoomed in on the middle of the Atlantic Ocean and the - or zoom out icon on the left-hand side of the screen is highlighted.](../_embeds/Mapping29.png)
+![Screenshot of the map points field with location settings enabled. ](../_embeds/Mapping30.png)
 
 ## Add map layers
 
-You can easily add layers to highlight features on your map, including markers, polylines, rectangles, and polygons. 
+You can easily add map points and objects, which are referred to as "markers" and "layers" in Leaflet, to highlight features on your map, including markers, polylines, rectangles, and polygons. 
 
 ### Add a marker
 
@@ -35,8 +35,11 @@ You can easily add layers to highlight features on your map, including markers, 
 
     ![Screenshot of completed markers with the cancel button highlighted.](../_embeds/Mapping3.png)
 
-4. Label your marker by selecting the marker and entering a location description in the *Map points description* field on the map. If you do not label your marker, the label will default to the name of your content.
+4. Label your marker by selecting the marker and entering a location description in the *Map points description* field on the map. You must select the field to enter your text. If you do not label your marker, the label will default to the name of your content on the **Browse** pages.
 
+    ![Screenshot of selecting a marker to add a label.](../_embeds/Mapping31.png) 
+    
+    ![Screenshot of adding a label to a marker. The label says Point 1.](../_embeds/Mapping32.png)
 
 ### Add a polyline
 
@@ -68,8 +71,11 @@ Polylines are lines that consist of multiple joined points to create a path. Thi
 
     ![Screenshot of a completed polyline with one vertex highlighted.](../_embeds/Mapping8.png)
 
-7. Label your polyline by selecting the line and entering a location description in the *Map points description* field on the map. If you do not label your polyline, the label will default to the name of your content.
+7. Label your polyline by selecting the line and entering a location description in the *Map points description* field on the map. Select the line itself; you cannot add a label from a vertex. You must select the field to enter your text. If you do not label your polyline, the label will default to the name of your content on the **Browse** pages.
 
+    ![Screenshot of selecting a polyline to add a label.](../_embeds/Mapping33.png) 
+    
+    ![Screenshot of adding a label to a polyline. The label says Path 1.](../_embeds/Mapping34.png)
 
 ### Add a rectangle
 
@@ -91,7 +97,11 @@ Rectangles can indicate an area. Follow the directions to add a rectangle layer 
 
     ![Screenshot of a completed rectangle.](../_embeds/Mapping14.png)
 
-7. Label your rectangle by selecting the shape and entering a location description in the *Map points description* field on the map. If you do not label your rectangle, the label will default to the name of your content.
+7. Label your rectangle by selecting the shape and entering a location description in the *Map points description* field on the map. You must select the field to enter your text. If you do not label your rectangle, the label will default to the name of your content on the **Browse** pages.
+
+    ![Screenshot of selecting a rectangle to add a label.](../_embeds/Mapping35.png) 
+    
+    ![Screenshot of adding a label to a rectangle. The label says Rectangle 1.](../_embeds/Mapping36.png)
 
 
 ### Add a polygon
@@ -120,11 +130,15 @@ Polygons can indicate a specific area. Follow the directions to add a polygon la
 
     ![Screenshot of a completed polygon with one vertex highlighted and moved slightly.](../_embeds/Mapping20.png)
 
-6. Label your polygon by selecting the polygon and entering a location description in the *Map points description* field on the map. If you do not label your polygon, the label will default to the name of your content.
+6. Label your polygon by selecting the polygon and entering a location description in the *Map points description* field on the map. You must select the field to enter your text. If you do not label your polygon, the label will default to the name of your content on the **Browse** pages.
+
+    ![Screenshot of selecting a polygon to add a label.](../_embeds/Mapping37.png) 
+    
+    ![Screenshot of adding a label to a polygon. The label says Path 1.](../_embeds/Mapping38.png)
 
 ## Edit and remove map layers
 
-To edit the objects on your map, you can use the three editing icons on the right-hand side of the map. 
+To edit the map points on your map, you can use the three editing icons on the right-hand side of the map. 
 
 1. To edit individual vectors, select the "Edit layers" icon. This icon highlights all of the vertices on your map. 
     
@@ -138,6 +152,8 @@ To edit the objects on your map, you can use the three editing icons on the righ
 2. To move objects or layers, select the "Drag layers" icon. You can then select and drag your objects to a new location.
 
     ![Screenshot of the drag layers icon](../_embeds/Mapping27.png)
+
+3. To rename map points, 
 
 3. To remove objects or layers, select the "Remove layers" icon. Select the objects you want to remove, then select "Finish" when done.
 
