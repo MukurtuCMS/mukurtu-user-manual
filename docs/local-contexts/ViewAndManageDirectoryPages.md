@@ -7,7 +7,7 @@ tags:
 
 !!! roles "User roles"
     
-    Mukurtu Administrator, Community manager, Protocol steward
+    Mukurtu administrator, Community manager, Protocol steward
 
 ## View project directories
 
