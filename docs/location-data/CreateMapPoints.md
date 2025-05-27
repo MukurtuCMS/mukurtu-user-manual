@@ -70,7 +70,7 @@ Polylines are lines that consist of multiple joined points to create a path. Thi
 7. For instructions on labeling your polyline, see the [Label map layers](#label-map-layers) section of this article. 
 
     !!! tip
-        Label your layers as you go. You cannot select a map layer to label if it is underneath another layer. 
+        Label your layers as you go. You cannot select an object to label if it is underneath another layer. 
 
 ### Add a rectangle
 
@@ -95,7 +95,7 @@ Rectangles can indicate an area. Follow the directions to add a rectangle layer 
 7. For instructions on labeling your rectangle, see the [Label map layers](#label-map-layers) section of this article. 
 
     !!! tip
-        Label your layers as you go. You cannot select a map layer to label if it is underneath another layer. 
+        Label your layers as you go. You cannot select an object to label if it is underneath another layer. 
 
 ### Add a polygon
 
@@ -126,7 +126,7 @@ Polygons can indicate a specific area. Follow the directions to add a polygon la
 6. For instructions on labeling your polygon, see the [Label map layers](#label-map-layers) section of this article. 
 
     !!! tip
-        Label your layers as you go. You cannot select a map layer to label if it is underneath another layer. 
+        Label your layers as you go. You cannot select an object to label if it is underneath another layer. 
 
 ## Label map layers
 
