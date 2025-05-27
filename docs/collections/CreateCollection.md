@@ -30,16 +30,16 @@ The remaining steps to create a collection are the same.
 
     - This is a required field.
 
-2. Use the checkboxes to select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
+2. Use the checkboxes to apply cultural protocols to your collection. 
+
+    - This is a required field.
+
+3. Use the checkboxes to select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
 
     - Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
     - All is more restrictive as users must belong to all the selected protocols to view the collection. 
     - This is a required field.
-
-3. Use the checkboxes to apply cultural protocols to your collection. 
-
-    - This is a required field.
-    
+  
     ![Screenshot of collection cultural protocols fields below the Mukurtu Essentials and Relations tabs with a collection name, sharing settings, and cultural protocols filled in.](../_embeds/placeholderscreenshot.png)
 
     !!! tip
