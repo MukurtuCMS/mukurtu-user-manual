@@ -53,7 +53,7 @@ Use the *Summary* field to provide a brief description of your digital heritage 
 
 ### Media Assets
 
-Media assets are the core element of Digital Heritage Items and can be images, documents, video, or audio files. Digital heritage items can include more than one media asset. Media assets are not required for digital heritage items. To add a media asset, follow the instructions below.
+Media assets are the core element of Digital Heritage Items and can be images, documents, video, embeds, or audio files. Digital heritage items can include more than one media asset. Media assets are not required for digital heritage items. To add a media asset, follow the instructions below.
 
 #### Upload a file
 
@@ -196,7 +196,7 @@ These fields enable Mukurtu users to create a citation from the Elders and Knowl
 
 ### Licensing options
 
-Select a creative commons license from the dropdown. Creative Commons licenses are an extension of copyright that allow a copyright holder to specify the ways in which their work may be altered, shared, and used. For more information on Creative Commons licensing, visit [creativecommons.org](https://creativecommons.org/).
+Select a creative commons license from the dropdown menu. Creative Commons licenses are an extension of copyright that allow a copyright holder to specify the ways in which their work may be altered, shared, and used. For more information on Creative Commons licensing, visit [creativecommons.org](https://creativecommons.org/).
 
 ## Additional fields
 
@@ -232,9 +232,9 @@ Use the *Language* field to enter the language or languages used in the digital 
 
 - Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. For detailed instructions on how to include *Map Points*, visit [Create Map Points](../map-points).
 
-- Use the *Location description* to provide a text or media reference to a geographical location that is impossible or inadvisable to pinpoint on a map. This can be useful if the location should remain private, if the location no longer exists, or if the location was described in a way that makes rendering it on a modern map challenging. Location description can be used independently of other location fields, and is a full HTML field that supports text, audio, images, and video.
+- Use the *Location description* to provide a text or media reference to a geographical location. Location description is a rich text field that allows for longer descriptions or more information about the place(s) referenced in the content. It may be useful in cases where a general description of the places are provided, or more context is necessary. Location description can be used independently of other location fields and is a full HTML field that supports text, audio, images, and video.
 
-- Enter a *Location*. This is a taxonomic field that feeds into the location taxonomy. Multiple location terms can be applied to any one content item by selecting the "Add another item" button. This can help to more clearly identify a location that has been known by different names. 
+- Enter a *Location*. Location is a taxonomy field which can be useful to label and connect content using the same term. Content can list multiple location terms, for example if multiple locations are mentioned, or a place is identified by multiple names.
 
 ![Screenshot of the locations fields with map points, a location description, and a location taxonomy term entered.](../_embeds/DH14.png)
 
