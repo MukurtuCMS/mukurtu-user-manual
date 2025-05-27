@@ -180,7 +180,7 @@ These fields enable Mukurtu users to create a citation from the Elders and Knowl
 5. Enter *A brief description or title of the teaching*. This field may be used to describe the knowledge and its provenance, such as `Creation Story as told to me by my grandfather who heard it from his father` or any other description or classification the Knowledge Keeper would like to include. 
 6. Enter the date the communication took place. Be as specific as possible. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`. 
 
-![Screenshot of citing Indigenous Elders and Knowledge Keepers with examples in the fields.](../_embeds/placeholderscreenshot.png)
+![Screenshot of citing Indigenous Elders and Knowledge Keepers with examples in the fields.](../_embeds/DH11.png)
 
 ### Rights
 
@@ -216,9 +216,13 @@ To add more than one format type, select the "Add another item" button and enter
 
 Use the *Identifier* field to provide a unique, unambiguous reference to your digital heritage item or media asset. Identifiers are often provided by the contributing institution or organization so the original item can be located. Examples can include call numbers or accession numbers. 
 
+![Screenshot of the format, type, and identifier fields with example text.](../_embeds/DH12.png)
+
 ### Keywords
 
 Use the *Keywords* field to add any keywords to your collection. Keywords are terms used to describe content to ensure that the item will be discoverable when searching or browsing. They are more flexible and specific than categories. Consider adding 3-5 keywords to your collection by selecting the "Add another item" button to add additional keywords fields. This field feeds into the keywords taxonomy.
+
+![Screenshot of the keywords fields with example text.](../_embeds/DH13.png)
 
 ### Language
 
@@ -231,6 +235,8 @@ Use the *Language* field to enter the language or languages used in the digital 
 - Use the *Location description* to provide a text or media reference to a geographical location that is impossible or inadvisable to pinpoint on a map. This can be useful if the location should remain private, if the location no longer exists, or if the location was described in a way that makes rendering it on a modern map challenging. Location description can be used independently of other location fields, and is a full HTML field that supports text, audio, images, and video.
 
 - Enter a *Location*. This is a taxonomic field that feeds into the location taxonomy. Multiple location terms can be applied to any one content item by selecting the "Add another item" button. This can help to more clearly identify a location that has been known by different names. 
+
+![Screenshot of the locations fields with map points, a location description, and a location taxonomy term entered.](../_embeds/DH14.png)
 
 ### Source
 
@@ -248,6 +254,8 @@ Additional links can be added to a digital heritage item. This is most commonly 
 - Enter the *URL*. This must be an external link such as `https://www.example.com/`. 
 - Enter the *Link text*. This is the text that will display on your page as the link.
 - To add additional links, select "Add another Item" and repeat with a new URL and link text.
+
+![Screenshot of the source, publisher, and external links fields filled in with appropriate text.](../_embeds/DH15.png)
 
 ### Subject
 
@@ -285,3 +293,5 @@ The **related content** field can help provide connections between your digital 
         You can filter content by type or search by title.
 
 - Select the checkbox beside all the content you wish to include as related content, then scroll down and select "Add Content".
+
+![Screenshot of the related content pop-up with options for related content to add to your digital heritage item and the type and title options highlighted.](../_embeds/personalcollectiondashboard5.png)
