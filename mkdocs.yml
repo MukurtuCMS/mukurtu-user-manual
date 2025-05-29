@@ -100,8 +100,10 @@ nav:
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
-  - Location:
-    - location/mapping-test.md
+  - Location Data:
+    - location-data/mapping-test.md
+    - location-data/UnderstandingLocationFields.md
+    - location-data/CreateMapPoints.md
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
