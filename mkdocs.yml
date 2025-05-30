@@ -89,6 +89,7 @@ nav:
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
     - digital-heritage-items/CreateDHItem.md
+    - digital-heritage-items/MultipageItems.md
   - Dictionary:
     - dictionary/AddLanguage.md
   - FAQs:
