@@ -1,9 +1,10 @@
 ---
 tags:
+    - collections
     - content
     - digital heritage items
+    - metadata
     - person records
-    - collections
     - taxonomies
 ---
 # Manage Keywords
