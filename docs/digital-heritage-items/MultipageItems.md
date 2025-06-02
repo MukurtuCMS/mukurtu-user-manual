@@ -6,7 +6,7 @@ tags:
 # Multipage Items
 
 !!! roles "User roles" 
-    Protocol steward, community record steward
+    Protocol steward, contributor
 
 Multipage items are additions to digital heritage items that allow multiple pages with unique metadata to be added to an item and allow person records to be included as pages. The pages can be navigated and browsed within the same digital heritage item or person record page. Each page must share the same community and protocol to be part of the same item, but otherwise has completely unique metadata. This allows for granular page-level description, which makes information within an item more discoverable during search.  
 
