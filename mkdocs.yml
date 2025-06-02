@@ -91,6 +91,7 @@ nav:
     - digital-heritage-items/CreateDHItem.md
   - Dictionary:
     - dictionary/AddLanguage.md
+    - dictionary/DictonaryRoles.md
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Local Contexts:
