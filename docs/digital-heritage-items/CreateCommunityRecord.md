@@ -12,6 +12,9 @@ Community records allow a broader range of information to be shared about a digi
 
 When a community record is created from a digital heritage item, they are displayed together and share the same media asset. The rest of the metadata is completely independent. Community records can have different sets of cultural protocols from the initial digital heritage item, which can be an effective tool for ensuring select metadata fields are shared with the right people.
 
+!!! tip
+    The "community" in community record refers to any Mukurtu communities. 
+
 In the example below, the first image shows the some of the metadata from a digital heritage item. 
 
 ![Screenshot of a digital heritage item with an associated community record. The first community tab is selected, so the record shows the metadata from that community.](../_embeds/CommunityRecord2.png)
