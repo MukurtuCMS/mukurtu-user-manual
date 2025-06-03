@@ -8,13 +8,13 @@ tags:
 !!! roles "User roles" 
     Protocol steward, contributor
 
-Multipage items are additions to digital heritage items that allow multiple pages with unique metadata to be added to an item and allow person records to be included as pages. The pages can be navigated and browsed within the same digital heritage item or person record page. Each page must share the same community and protocol to be part of the same item, but otherwise has completely unique metadata. This allows for granular page-level description, which makes information within an item more discoverable during search.  
+Multipage items are additions to digital heritage items that allow multiple pages with unique metadata to be added to an item and allow person records to be included as pages. The pages can be navigated and browsed within the same digital heritage item or person record page. This allows for granular page-level description, which makes individual pages discoverable in site-wide search.  
 
 One important note is that at this time all pages appear individually on the digital heritage browse page. While there are ways to work with this, some users find the display of multiple pages to add unwanted visual bulk to the browse pages. If you do not need unique page-level meatadata and prefer to avoid visual clutter on your browse pages, consider adding each page as a separate media asset within a single digital heritage item instead.
 
 ## Create a multipage item
 
-1. From an existing digital heritage item or person record, select the "Create Multipage Item" button in the toolbar below the item or record's title. For more information on creating digital heritage items, visit [Create Digital Heritage Items](CreateDHItem.md) or [Create Person Records](../person-records/CreatePersonRecords.md).
+1. From an existing digital heritage item or person record, select the "Create Multipage Item" button in the toolbar below the item or record's title. 
 
     ![Screenshot of a digital heritage item with the create multipage item button highlighted.](../_embeds/multipage1.png)
 
@@ -25,7 +25,7 @@ One important note is that at this time all pages appear individually on the dig
 
     ![Screenshot of the multipage item edit page with the title of the multipage item typed in the title field.](../_embeds/multipage2.png)
 
-3. Select the checkbox by the digital heritage item(s) or person record(s) you want to include in your multipage item. Select the "Add content" button.
+3. Select the checkbox by your current digital heritage item(s) or person record(s). Select the "Add content" button. 
 
     ![Screenshot of the pop-up modal for adding digital heritage items or person records with some pages checked.](../_embeds/multipage3.png)
 
@@ -33,9 +33,9 @@ One important note is that at this time all pages appear individually on the dig
 
 ## Add new pages
 
-There are two different ways to add new pages to your multipage item. For both methods navigate to Browse or Browse Digital Heritage and select your multipage item.
+There are two different ways to add new pages to your multipage item: by adding existing digital heritage items into the multipage item or by creating new pages from the initial digital heritage item page. For both methods navigate to Browse or Browse Digital Heritage and select your multipage item.
 
-### From the "Edit" button
+### Add existing content to a multipage item
 
 You can add existing digital heritage items or person records to multipage items.
 
@@ -53,7 +53,7 @@ You can add existing digital heritage items or person records to multipage items
 
 4. Select the "Save" button to save your multipage item.
 
-### From the "Add New Page" button 
+### Create a new page in a multipage item
 
 You can add new digital heritage items or person records to multipage items.
 
@@ -67,7 +67,7 @@ You can add new digital heritage items or person records to multipage items.
 
 ## Edit your multipage item
 
-Edit your multipage item by selecting it from Browse or Browse Digital Heritage. 
+Edit your multipage item by selecting any page from Browse or Browse Digital Heritage. 
 
 - Reorder the pages in your multipage item by selecting and dragging individual pages.
 
@@ -76,5 +76,7 @@ Edit your multipage item by selecting it from Browse or Browse Digital Heritage.
 - Remove a page by selecting the "Remove page" button below the page you want to remove.
 
     ![Screenshot of the edit page for a multipage item with the remove button under a page highlighted.](../_embeds/placeholderscreenshot.png)
+
+- To edit individual pages, select the **Edit** icon by hovering over the digital heritage item and selecting the "Edit" button from the menu.
 
 ## Browse multipage item CAN'T WRITE THIS YET BECAUSE IT ISN'T THEMED
