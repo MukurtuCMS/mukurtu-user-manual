@@ -10,7 +10,7 @@ tags:
 
 Multipage items are additions to digital heritage items that allow multiple pages with unique metadata to be added to an item. The pages can be navigated and browsed within the same digital heritage item. This allows for granular page-level description, which makes individual pages discoverable in site-wide search.  
 
-One important note is that at this time all pages appear individually on the digital heritage browse page. While there are ways to work with this, some users find the display of multiple pages to add unwanted visual bulk to the browse pages. If you do not need unique page-level meatadata and prefer to avoid visual clutter on your browse pages, consider adding each page as a separate media asset within a single digital heritage item instead.
+Please note that all pages appear individually on the digital heritage browse page. While there are ways to work with this, some users find the display of multiple pages to add unwanted visual bulk to the browse pages. If you do not need unique page-level meatadata and prefer to avoid visual clutter on your browse pages, consider adding each page as a separate media asset within a single digital heritage item instead.
 
 ## Create a multipage item
 
@@ -25,15 +25,18 @@ One important note is that at this time all pages appear individually on the dig
 
     ![Screenshot of the multipage item edit page with the title of the multipage item typed in the title field.](../_embeds/multipage2.png)
 
-3. Select the checkbox by your current digital heritage item(s). Select the "Add content" button. 
+3. Your current digital heritage item should be selected. If you need to add additional existing pages, those can be selected at this time. 
+4. Select the "Add content" button. 
 
     ![Screenshot of the pop-up modal for adding digital heritage items or person records with some pages checked.](../_embeds/multipage3.png)
 
-4. Select the "Save" button.
+5. Select the "Save" button.
 
 ## Add new pages
 
-There are two different ways to add new pages to your multipage item: by adding existing digital heritage items into the multipage item or by creating new pages from the initial digital heritage item page. For both methods navigate to Browse or Browse Digital Heritage and select your multipage item.
+There are two different ways to add new pages to your multipage item: by adding existing digital heritage items into the multipage item or by creating new pages from the initial digital heritage item page. Combining existing digital heritage items into one multipage item can be useful if you have a series of digital heritage items you have created over time, such as recipes to create a cookbook or quilt patterns to create a pattern book. Creating additional pages from the first page can be helpful if you are trying to provide access to something with multiple pages already, like a newspaper or yearbook. 
+
+To begin adding new pages, select your multipage item.
 
 ### Add existing content to a multipage item
 
@@ -65,7 +68,7 @@ You can add new digital heritage items to multipage items.
 3. When your new item or record is complete, select the "Save" button. 
 4. Select the "Save" button to save your multipage item.
 
-## Edit your multipage item
+## Edit a multipage item
 
 Edit your multipage item by selecting any page from Browse or Browse Digital Heritage. 
 
