@@ -91,6 +91,7 @@ nav:
     - digital-heritage-items/CreateDHItem.md
   - Dictionary:
     - dictionary/AddLanguage.md
+    - dictionary/DictonaryRoles.md
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Local Contexts:
@@ -103,6 +104,10 @@ nav:
     - local-contexts/ViewAndManageDirectoryPages.md
   - Location:
     - location/mapping-test.md
+  - Location Data:
+    - location-data/mapping-test.md
+    - location-data/UnderstandingLocationFields.md
+    - location-data/CreateMapPoints.md
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
@@ -128,6 +133,7 @@ nav:
     - migration/09ConfirmSiteOperation.md
     - migration/10DecommissionMukurtu3.md
   - Person Records:
+    - person-records/PersonRecords.md
     - person-records/ConfigurePersonRecord.md
   - Users:
     - users/users-intro.md
