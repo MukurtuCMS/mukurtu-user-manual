@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles" 
     Protocol steward, contributor
 
-Multipage items are additions to digital heritage items that allow multiple pages with unique metadata to be added to an item and allow person records to be included as pages. The pages can be navigated and browsed within the same digital heritage item or person record page. This allows for granular page-level description, which makes individual pages discoverable in site-wide search.  
+Multipage items are additions to digital heritage items that allow multiple pages with unique metadata to be added to an item. The pages can be navigated and browsed within the same digital heritage item or person record page. This allows for granular page-level description, which makes individual pages discoverable in site-wide search.  
 
 One important note is that at this time all pages appear individually on the digital heritage browse page. While there are ways to work with this, some users find the display of multiple pages to add unwanted visual bulk to the browse pages. If you do not need unique page-level meatadata and prefer to avoid visual clutter on your browse pages, consider adding each page as a separate media asset within a single digital heritage item instead.
 
