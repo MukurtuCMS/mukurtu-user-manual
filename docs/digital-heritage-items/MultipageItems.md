@@ -79,4 +79,6 @@ Edit your multipage item by selecting any page from Browse or Browse Digital Her
 
 - To edit individual pages, select the **Edit** icon by hovering over the digital heritage item and selecting the "Edit" button from the menu.
 
+    ![Screenshot of the Browse page with the edit icon showing the options to edit and delete the digital heritage item.](../_embeds/placeholderscreenshot.png)
+
 ## Browse multipage item CAN'T WRITE THIS YET BECAUSE IT ISN'T THEMED
