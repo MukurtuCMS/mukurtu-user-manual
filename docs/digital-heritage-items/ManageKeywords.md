@@ -22,13 +22,15 @@ To manage keywords navigate to your **Dashboard** and select **Manage taxonomies
 
 Navigate to **Keywords** and select **List Terms** from the dropdown menu.
 
+![Screenshot of the manage taxonomies page with the keywords and list terms sections highlighted.](../_embeds/managekeywords1.png)
+
 ## Edit a keyword
 
 1. To edit a keyword, select the "Edit" button from the dropdown beside the keyword. 
 2. Enter your preferred edits in the *Name* field. You can choose to enter a description in the *Description* field at this point. 
 
     !!! tip
-        A description might be helpful if you have two terms that are similar or that need further definition.
+        Descriptions can be helpful if you have two terms that are similar or that need further definition.
 
 3. Select the "Save" button to save your keyword.
 
@@ -36,20 +38,46 @@ Navigate to **Keywords** and select **List Terms** from the dropdown menu.
 
 If you have two similar keywords, you can merge them into one term. This is helpful if you need to merge pluralized terms or other duplicate entries.
 
-1. Select the **Merge** tab.
-2. You can merge terms into a new term or an existing term. 
+Select the **Merge** tab. You can merge terms into a new term or an existing term. 
 
-    - To merge multiple terms into a new target term, select all terms to merge here. The new target term will be created on the next page. 
-    - To merge one or more terms into another existing target term, select them here. Select "Next".
+![Screenshot of the keywords edit tabs with the merge tab highlighted. ](../_embeds/managekeywords4.png)
+
+### New term
+
+1. To merge multiple terms into a new target term, select all terms to merge here. The new target term will be created on the next page. 
+
+
+
+
+### Existing term
+
+1. To merge one or more terms into another existing target term, select them here. Select "Next".
 
     !!! warning
         If you are merging terms into another existing term, the target term will be selected on the next page. Do not select it now. 
 
-3. 
+    ![Screenshot of the merge terms page with Rabbit and Rabits selected, but not Rabbits.](../_embeds/managekeywords5.png)
+
+2. From the *Existing term* dropdown menu, select the keyword term you want to merge your other terms into. 
+
+    ![Screenshot of the select target term page with Rabbits selected from the dropdown menu and the dropdown menu highlighted.](../_embeds/managekeywords6.png)
+
+3. Select the "Merge terms" button.
+
+    ![Screenshot of the merge terms page with Rabbits selected and the Merge terms button highlighted.](../_embeds/managekeywords7.png)
+
+4. You will be redirected to a confirmation page. If you do want to merge your terms, select the "Confirm merge" button. 
+
+    ![Screenshot of the merge terms confirmation page with the Confirm merge button highlighted.](../_embeds/managekeywords8.png)
+
+    !!! warning
+        Merging keywords cannot be undone.
 
 ## Delete a keyword
 
 To delete a keyword, select the "Delete" button from the dropdown. A pop-up will ask you to confirm that you want to delete your keyword. If you want to delete your keyword, select "Delete".
+
+![Screenshot of the delete keyword confirmation pop-up modal.](../_embeds/managekeywords2.png)
 
 
 
