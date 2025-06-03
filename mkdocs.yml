@@ -99,6 +99,8 @@ nav:
     - local-contexts/LevelsOfLocalContextsProjects.md
     - local-contexts/ManageLocalContextsProjects.md
     - local-contexts/UnderstandingTheLocalContextsHub.md
+    - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
+    - local-contexts/ViewAndManageDirectoryPages.md
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
