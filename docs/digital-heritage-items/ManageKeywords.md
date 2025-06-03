@@ -44,10 +44,26 @@ Select the **Merge** tab. You can merge terms into a new term or an existing ter
 
 ### New term
 
-1. To merge multiple terms into a new target term, select all terms to merge here. The new target term will be created on the next page. 
+1. To merge multiple terms into a new target term, select all terms to merge here. Select the "Next" button.
 
+    ![Screenshot of the merge terms page with Canon law and Civil law selected.](../_embeds/managekeywords10.png)
 
+2. Enter the name of your new term into the *New Term* field. 
 
+    ![Screenshot of the select target term page with Justice filled in to the new term field. The new term field and the merge terms button are both highlighted.](../_embeds/managekeywords11.png)
+
+3. Select the "Merge terms" button.
+
+4. You will be redirected to a page asking if you are sure you want to merge your terms. If you do want to merge your terms, select the "Confirm merge" button. 
+
+    ![Screenshot of the terms to be merged page with the Confirm merge button highlighted.](../_embeds/managekeywords12.png)
+
+    !!! warning
+        Merging keywords cannot be undone.
+
+5. Once your terms are merged, you will be redirected to a confirmation page.
+
+    ![Screenshot of the confirmation page showing which terms were merged into the new term.](../_embeds/managekeywords13.png)
 
 ### Existing term
 
@@ -66,13 +82,17 @@ Select the **Merge** tab. You can merge terms into a new term or an existing ter
 
     ![Screenshot of the merge terms page with Rabbits selected and the Merge terms button highlighted.](../_embeds/managekeywords7.png)
 
-4. You will be redirected to a confirmation page. If you do want to merge your terms, select the "Confirm merge" button. 
+4. You will be redirected to a page asking if you are sure you want to merge your terms. If you do want to merge your terms, select the "Confirm merge" button. 
 
-    ![Screenshot of the merge terms confirmation page with the Confirm merge button highlighted.](../_embeds/managekeywords8.png)
+    ![Screenshot of the merge terms page with the Confirm merge button highlighted.](../_embeds/managekeywords8.png)
 
     !!! warning
         Merging keywords cannot be undone.
 
+5. Once your terms are merged, you will be redirected to a confirmation page.
+
+    ![Screenshot of the confirmation page showing which terms were merged into the new term.](../_embeds/managekeywords9.png)
+    
 ## Delete a keyword
 
 To delete a keyword, select the "Delete" button from the dropdown. A pop-up will ask you to confirm that you want to delete your keyword. If you want to delete your keyword, select "Delete".
