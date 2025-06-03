@@ -77,6 +77,8 @@ nav:
     - 3Cs/UnderstandingSharingSettings.md
     - 3Cs/UnderstandingCategories.md
     - 3Cs/CreateCategories.md 
+    - 3Cs/EditCommunitySettings.md
+    - 3Cs/EditCulturalProtocolSettings.md
   - Collections:
     - collections/UnderstandingCollections.md
     - collections/AddandArrangeCollections.md
@@ -117,6 +119,8 @@ nav:
     - migration/08CompleteConfiguration.md
     - migration/09ConfirmSiteOperation.md
     - migration/10DecommissionMukurtu3.md
+  - Person Records:
+    - person-records/ConfigurePersonRecord.md
   - Users:
     - users/users-intro.md
     - users/user-role-types.md 
