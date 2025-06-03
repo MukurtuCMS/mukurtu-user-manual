@@ -8,13 +8,13 @@ tags:
 !!! roles "User roles" 
     Protocol steward, contributor
 
-Multipage items are additions to digital heritage items that allow multiple pages with unique metadata to be added to an item. The pages can be navigated and browsed within the same digital heritage item or person record page. This allows for granular page-level description, which makes individual pages discoverable in site-wide search.  
+Multipage items are additions to digital heritage items that allow multiple pages with unique metadata to be added to an item. The pages can be navigated and browsed within the same digital heritage item. This allows for granular page-level description, which makes individual pages discoverable in site-wide search.  
 
 One important note is that at this time all pages appear individually on the digital heritage browse page. While there are ways to work with this, some users find the display of multiple pages to add unwanted visual bulk to the browse pages. If you do not need unique page-level meatadata and prefer to avoid visual clutter on your browse pages, consider adding each page as a separate media asset within a single digital heritage item instead.
 
 ## Create a multipage item
 
-1. From an existing digital heritage item or person record, select the "Create Multipage Item" button in the toolbar below the item or record's title. 
+1. From an existing digital heritage item, select the "Create Multipage Item" button in the toolbar below the item or record's title. 
 
     ![Screenshot of a digital heritage item with the create multipage item button highlighted.](../_embeds/multipage1.png)
 
@@ -25,7 +25,7 @@ One important note is that at this time all pages appear individually on the dig
 
     ![Screenshot of the multipage item edit page with the title of the multipage item typed in the title field.](../_embeds/multipage2.png)
 
-3. Select the checkbox by your current digital heritage item(s) or person record(s). Select the "Add content" button. 
+3. Select the checkbox by your current digital heritage item(s). Select the "Add content" button. 
 
     ![Screenshot of the pop-up modal for adding digital heritage items or person records with some pages checked.](../_embeds/multipage3.png)
 
@@ -37,13 +37,13 @@ There are two different ways to add new pages to your multipage item: by adding 
 
 ### Add existing content to a multipage item
 
-You can add existing digital heritage items or person records to multipage items.
+You can add existing digital heritage items to multipage items.
 
 1. Select the "Edit" button. 
 
     ![Screenshot of a page of the multipage item with the edit button highlighted.](../_embeds/placeholderscreenshot.png)
 
-2. Select the "Select Content" button to add additional digital heritage items or person records to add to your multipage item.
+2. Select the "Select Content" button to add additional digital heritage items to add to your multipage item.
 
     ![Screenshot of a page of the multipage item with the select content button highlighted.](../_embeds/placeholderscreenshot.png)
 
@@ -55,13 +55,13 @@ You can add existing digital heritage items or person records to multipage items
 
 ### Create a new page in a multipage item
 
-You can add new digital heritage items or person records to multipage items.
+You can add new digital heritage items to multipage items.
 
 1. Select the "Add new page" button.
 
     ![Screenshot of a page of the multipage item with the edit button highlighted.](../_embeds/placeholderscreenshot.png)
 
-2. New pages are created as additional digital heritage items or person records. For more information on creating digital heritage items or person records, visit [Create Digital Heritage Items](CreateDHItem.md) or [Create Person Records](../person-records/CreatePersonRecords.md).
+2. New pages are created as additional digital heritage items. For more information on creating digital heritage items, visit [Create Digital Heritage Items](CreateDHItem.md).
 3. When your new item or record is complete, select the "Save" button. 
 4. Select the "Save" button to save your multipage item.
 
