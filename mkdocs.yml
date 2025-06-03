@@ -95,6 +95,8 @@ nav:
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Local Contexts:
+    - local-contexts/LevelsOfLocalContextsProjects.md
+    - local-contexts/ManageLocalContextsProjects.md
     - local-contexts/UnderstandingTheLocalContextsHub.md
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
