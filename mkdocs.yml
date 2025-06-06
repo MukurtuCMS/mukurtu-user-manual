@@ -77,6 +77,9 @@ nav:
     - 3Cs/UnderstandingSharingSettings.md
     - 3Cs/UnderstandingCategories.md
     - 3Cs/CreateCategories.md 
+    - 3Cs/CategoryTaxonomy.md
+    - 3Cs/EditCommunitySettings.md
+    - 3Cs/EditCulturalProtocolSettings.md
   - Collections:
     - collections/UnderstandingCollections.md
     - collections/AddandArrangeCollections.md
@@ -86,15 +89,25 @@ nav:
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
     - digital-heritage-items/CreateDHItem.md
+    - digital-heritage-items/MultipageItems.md
   - Dictionary:
     - dictionary/AddLanguage.md
+    - dictionary/DictonaryRoles.md
   - FAQs:
     - faqs/DatabasePrivacy.md
+  - Local Contexts:
+    - local-contexts/LevelsOfLocalContextsProjects.md
+    - local-contexts/ManageLocalContextsProjects.md
+    - local-contexts/UnderstandingTheLocalContextsHub.md
+    - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
+    - local-contexts/ViewAndManageDirectoryPages.md
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
-  - Location:
-    - location/mapping-test.md
+  - Location Data:
+    - location-data/mapping-test.md
+    - location-data/UnderstandingLocationFields.md
+    - location-data/CreateMapPoints.md
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
@@ -105,6 +118,8 @@ nav:
     - media/VimeoPrivacySettings.md 
     - media/YoutubePrivacySettings.md
     - media/SoundCloudPrivacySettings.md 
+    - media/PlanningVideoHosting.md
+    - media/MediaContentWarnings.md
   - Migration from Mukurtu 3 to Mukurtu 4: 
     - migration/00MigrationOverview.md
     - migration/01MigrationPlanning.md
@@ -117,6 +132,10 @@ nav:
     - migration/08CompleteConfiguration.md
     - migration/09ConfirmSiteOperation.md
     - migration/10DecommissionMukurtu3.md
+  - Person Records:
+    - person-records/UnderstandingPersonRecords.md
+    - person-records/PersonRecords.md
+    - person-records/ConfigurePersonRecord.md
   - Users:
     - users/users-intro.md
     - users/user-role-types.md 
