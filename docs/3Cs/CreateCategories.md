@@ -4,14 +4,14 @@ tags:
     - taxonomy
     - getting started
 ---
-# Create and Edit Categories
+# Create Categories
 
 !!! roles "User role"
     Mukurtu administrators
 
-Categories are high-level descriptive terms that help Mukurtu users discover digital heritage items. For more information about how to plan categories see [Understanding Categories](UnderstandingCategories.md).
+Categories are high-level descriptive terms that help Mukurtu users discover digital heritage items. For more information about how to plan categories see [Understanding Categories](UnderstandingCategories.md). For more information on managing categories visit [Manage Categories](CategoryTaxonomy.md).
 
-## Create a category 
+Follow the instructions below to create a category.
 
 1. Navigate to your dashboard and select **Manage Categories**. 
 
@@ -34,12 +34,3 @@ Categories are high-level descriptive terms that help Mukurtu users discover dig
     - Select **Insert selected** to apply the image to your category as a thumbnail. 
 
 4. Select the "Save" button to save your category.
-
-## Edit a category 
-
-1. Select **Manage Categories**. 
-2. Select the **Edit** link for the category you want to make changes to. 
-
-    ![Screenshot of the Category taxonomy page with Edit highlighted.](../_embeds/placeholderscreenshot.png)
-
-3. Edit your *Category Name*, *Description*, or **Thumbnail Image**, then select "Save".
