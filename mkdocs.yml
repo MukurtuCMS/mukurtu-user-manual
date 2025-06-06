@@ -90,15 +90,25 @@ nav:
   - DH Items:
     - digital-heritage-items/DHMetadataFields.md
     - digital-heritage-items/CreateDHItem.md
+    - digital-heritage-items/MultipageItems.md
   - Dictionary:
     - dictionary/AddLanguage.md
+    - dictionary/DictonaryRoles.md
   - FAQs:
     - faqs/DatabasePrivacy.md
+  - Local Contexts:
+    - local-contexts/LevelsOfLocalContextsProjects.md
+    - local-contexts/ManageLocalContextsProjects.md
+    - local-contexts/UnderstandingTheLocalContextsHub.md
+    - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
+    - local-contexts/ViewAndManageDirectoryPages.md
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
-  - Location:
-    - location/mapping-test.md
+  - Location Data:
+    - location-data/mapping-test.md
+    - location-data/UnderstandingLocationFields.md
+    - location-data/CreateMapPoints.md
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
@@ -124,6 +134,8 @@ nav:
     - migration/09ConfirmSiteOperation.md
     - migration/10DecommissionMukurtu3.md
   - Person Records:
+    - person-records/UnderstandingPersonRecords.md
+    - person-records/PersonRecords.md
     - person-records/ConfigurePersonRecord.md
   - Users:
     - users/users-intro.md

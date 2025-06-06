@@ -19,11 +19,7 @@ Protocol stewards and curators can curate the content within the collections the
 
     ![Screenshot of the edit link](../_embeds/placeholderscreenshot.png)
 
-2. Select the **Relations** tab.
-
-    ![Screenshot of the relations tab](../_embeds/placeholderscreenshot.png)
-
-3. In the **Items in Collection** field, select the "Select Content" button.
+2. In the **Mukurtu Essentials** tab, navigate to the **Items in Collection** field and select the "Select Content" button.
 
     ![Screenshot of the select content button](../_embeds/placeholderscreenshot.png)
 
@@ -44,7 +40,7 @@ Protocol stewards and curators can curate the content within the collections the
 
 1. Navigate to the collection you want to rearrange, and select the **Edit** button from the menu below the collection title.
 
-2. Select the **Relations** tab. In the **Items in the Collection** field, select and drag the content into the preferred order. 
+2. In the **Mukurtu Essentials** tab, navigate to the **Items in the Collection** field. Select and drag the content into the preferred order. 
 
     To remove content from the collection, select the "Remove" button.
 
