@@ -3,23 +3,29 @@ tags:
     - communities, cultural protocols, and categories
 ---
 
-# Manage Community Organization
+# Manage community organization
 
 !!! roles "User roles"
-    Mukurtu Administrator
+    Mukurtu administrator
 
 1) From the dashboard, under communities, select **community organization**.
 
 SCREENSHOT SHOWING WHERE TO FIND COMMUNITY ORGANIZATION LINK
 ![Screenshot of the community organization link](../_embeds/placeholderscreenshot.png)
 
-2) Select the handle next to a community name and drag it up and down to change the order of the community list.
+2) You will see a list of all communities on the site. Select the handle next to a community you wish to move and drag it to your desired location.
 
-3) Drag the community name to the right to create a sub-community, or to the left to make it a higher-level community.
+![Screenshot of communities list with handles to the left of each community name. Communities 1, 2 and 3 are listed in order. A red box highlights the handle of community 3.](../_embeds/community-organization1.png)
+
+3) Drag the community up and down to re-order, to the right to create sub-communities, and to the left to create a higher-level community.
+
+![Screenshot of the communities list with the communities rearranged. The save button is highlighted with a red box.](../_embeds/community-organization2.png)
 
 4) When you are satisfied with your arrangement, select Save.
 
-SCREENSHOT OF COMMUNITY LIST
-![Screenshot of community list](../_embeds/placeholderscreenshot.png)
-
 The community organization page will reload with the new community arrangement.
+
+![Screenshot of community list in their new order, Community 3, 1, and 2 as a child community of 1.](../_embeds/community-organization3.png)
+
+
+
