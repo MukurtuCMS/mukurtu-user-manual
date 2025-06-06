@@ -1,6 +1,6 @@
 ---
 tags:
-    - User roles
+    - user roles and responsibilities
 ---
 
 # User Roles
