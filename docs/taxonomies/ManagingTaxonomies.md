@@ -21,27 +21,25 @@ All taxonomies can be accessed at `/admin/structure/taxonomy`
 
     SCREENSHOT
 
-3. To view a taxonomy, on the far right of the its row, select "List terms".
+3. To view the terms in a taxonomy, from the far right of the row select "List terms". From here, you can edit individual terms, or merge terms to together.
 
     SCREENSHOT
-
-4. From here, you can edit individual terms, or merge terms to together.
 
     SCREENSHOT
 
 ## Editing taxonomy terms
 
-You may want to edit a taxonomy term. For example, you notice a spelling error.
+There are several reasons you may want to edit a taxonomy term. Eg: spelling errors, updating terms.
 
 !!! tip
 
-    When a taxonomy term is edited, those edits appear across all site content using the term. No need to manually edit each piece of content.
+    When a taxonomy term is edited, those edits apply to all content using the term. There is no need to manually edit each piece of content.
 
-1. From the appropriate taxonomy list, identify the relevant term, and on the far right of its row, select "Edit".
+1. Identify the relevant term from the appropriate taxonomy list. From the far right of its row select "Edit".
 
     SCREENSHOT
 
-2. From here you can edit the term name, and any other fields as necessary. See INSERT LINK TO "ADDING TAXONOMY TERMS" for more information on available fields.
+2. From here you can edit the term name, and any other fields as necessary. 
 
     SCREENSHOT
 
@@ -56,13 +54,13 @@ You may want to edit a taxonomy term. For example, you notice a spelling error.
 
 ## Deleting taxonomy terms
 
-You may want to delete a taxonomy term. For example, you entered a term in the wrong field, or simply choose to no longer use that term.
+There are several reasons you may want to delete a taxonomy term. For example, you entered a term in the wrong field, or simply choose to no longer use that term, or the term.
 
 !!! warning
 
     If you delete a term, it will be removed from all content where it is used.
 
-1. From the appropriate taxonomy list, identify the relevant term, and on the far right of its row, select "Delete".
+1. Identify the relevant term from the appropriate taxonomy list. From the far right of its row, select "Delete".
 
     SCREENSHOT
 
@@ -80,19 +78,19 @@ You may want to merge multiple taxonomy terms together. For example, different u
 
 !!! tip
 
-    When a taxonomy term is edited, those edits appear across all site content using the term. No need to manually edit each piece of content.
+    When a taxonomy term is edited, those edits apply to all content using the term. There is no need to manually edit each piece of content.
 
 1. From the appropriate taxonomy list, below the taxonomy name, select "Merge".
 
     SCREENSHOT
 
-2. To choose the terms you want to merge together, select them with the available checkboxes, then select "Save" at the bottom of the page.
+2. To choose the terms you want to merge together, use the checkboxes select them. Select "Save" at the bottom of the page.
     - To merge multiple terms into a new target term, select all terms to merge here. The new target term will be created on the next page.
     - To merge one or more terms into another existing target term, select them here. The target term will be selected on the next page, do not select it now.
 
     SCREENSHOT
 
-3. Either enter a new target term, or select an existing target term, then select "Merge terms" at the bottom of the page.
+3. Either enter a new target term or select an existing target term. Select "Merge terms" at the bottom of the page.
     - To merge the selected terms into a new target term, enter it in the "New term" field.
     - To merge the selected term(s) into an existing target term, select it from the "Existing term" list.   
 
@@ -102,7 +100,7 @@ You may want to merge multiple taxonomy terms together. For example, different u
 
     SCREENSHOT
 
-5. The page will reload and a confirmation is displayed.
+5. The page will reload and a confirmation message will display.
 
     SCREENSHOT
 
