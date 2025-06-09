@@ -8,7 +8,9 @@ tags:
 !!! roles "User roles"
     Mukurtu administrator
 
-You can customize the order in which communities display on the community page, whether you're rearranging the order, creating parent-child hierarchies, or both.
+You can organize communities into top-level and sub-communities. This is most commonly used in particularly large sites to indicate the organizational structure of a complex group of communities. For example, in a site where there is an organization that has independent departments set up as communities (eg: a national museum with their archives department, and collections department as communities), this would allow you to indicate a hierarchical connection between these communities.
+
+The result of this is that only the top-level community will be displayed on the home page and communities browse page. The sub-communities will be listed on the top-level community's page. All communities in this arrangement retain their independent protocols and membership, this only affects the visual arrangement of the communities.
 
 1) From the dashboard, under communities, select **community organization**.
 
@@ -29,7 +31,7 @@ The community organization page will reload with the new community arrangement.
 
 ![Screenshot of community list in their new order, Community 3, 1, and 2 as a child community of 1.](../_embeds/community-organization3.png)
 
-You can view the communities in their new order on the Community page. Note that any sub-communities will be shown in the right side-bar of the parent community page.
+Top level communities will be visible on the Community page, with sub-communities in the sidebar of their parent community.
 
 ![Screenshot of community page with new order](../_embeds/community-organizaton4.png)
 ![Screenshot of parent community page with child community in sidebar](../_embeds/placeholderscreenshot.png)
