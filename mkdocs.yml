@@ -91,6 +91,7 @@ nav:
     - digital-heritage-items/CreateDHItem.md
     - digital-heritage-items/MultipageItems.md
   - Dictionary:
+    - dictionary/UnderstandingTheMukurtuDictionary.md
     - dictionary/AddLanguage.md
     - dictionary/DictonaryRoles.md
   - FAQs:
