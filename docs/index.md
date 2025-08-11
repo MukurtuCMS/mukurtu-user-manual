@@ -29,5 +29,5 @@ Mukurtu CMS, Mukurtu Support resources, and all materials on [mukurtu.org](https
 When the manual states that you can go directly to a page and provides a partial path, you can append that path to your site's base URL to go there. Eg:
 
 - If your site is `https://my-mukurtu-site.com`
-- And the manual says you can "[....] go directly to the dashboard at `/admin/dashboard`"
-- You can go to that page at `https://my-mukurtu-site.com/admin/dashboard`
+- And the manual says you can "[....] go directly to the dashboard at `/dashboard`"
+- You can go to that page at `https://my-mukurtu-site.com/dashboard`

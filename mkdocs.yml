@@ -80,6 +80,7 @@ nav:
     - 3Cs/CategoryTaxonomy.md
     - 3Cs/EditCommunitySettings.md
     - 3Cs/EditCulturalProtocolSettings.md
+    - 3Cs/ManageCommunityOrganization.md
   - Collections:
     - collections/UnderstandingCollections.md
     - collections/AddandArrangeCollections.md
@@ -90,13 +91,18 @@ nav:
     - digital-heritage-items/DHMetadataFields.md
     - digital-heritage-items/CreateDHItem.md
     - digital-heritage-items/CreateCommunityRecord.md
+    - digital-heritage-items/MultipageItems.md
   - Dictionary:
     - dictionary/AddLanguage.md
     - dictionary/DictonaryRoles.md
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Local Contexts:
+    - local-contexts/LevelsOfLocalContextsProjects.md
+    - local-contexts/ManageLocalContextsProjects.md
     - local-contexts/UnderstandingTheLocalContextsHub.md
+    - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
+    - local-contexts/ViewAndManageDirectoryPages.md
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
@@ -129,6 +135,7 @@ nav:
     - migration/09ConfirmSiteOperation.md
     - migration/10DecommissionMukurtu3.md
   - Person Records:
+    - person-records/UnderstandingPersonRecords.md
     - person-records/PersonRecords.md
     - person-records/ConfigurePersonRecord.md
   - Users:
