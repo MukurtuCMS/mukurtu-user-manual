@@ -33,7 +33,7 @@ You can get to the Create Categories through the top-level Add Component menu or
 
     ![Screenshot of the Add a New Category dropdown menu highlighted for selection.](../_embeds/Categoryupdate4.PNG)
 
-## Category form
+## Create a category
 
 1. Enter the name of your category in the **Category Name** field.
 2. Enter any descriptive information in the **Description** field. This is a rich text field that can support text, links, media items, and other formats. 
