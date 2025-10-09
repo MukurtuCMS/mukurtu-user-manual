@@ -2,8 +2,8 @@
 
 Data, media, and content privacy is incredibly important. It is a complex subject, but for the focus of this FAQ, there are two areas to consider:
 
-1) Access to content within the site by users and visitors.
-2) Access to content through the server or hosting environment itself.
+1. Access to content within the site by users and visitors.
+2. Access to content through the server or hosting environment itself.
 
 ## Access to content within the site
 
