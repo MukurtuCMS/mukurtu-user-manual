@@ -1,27 +1,25 @@
 ---
 tags: 
     - communities, cultural protocols, and categories
+    - categories
     - taxonomy
     - getting started
 ---
 # Create Categories
 
 !!! roles "User role"
-    Mukurtu administrators
+    Mukurtu manager
 
-Categories are high-level descriptive terms that help Mukurtu users discover digital heritage items. For more information about how to plan categories see [Understanding Categories](UnderstandingCategories.md). For more information on managing categories visit [Manage Categories](CategoryTaxonomy.md).
+Categories are high-level descriptive terms that help Mukurtu users browse and discover digital heritage items. For more information about how to plan categories see [Understanding Categories](UnderstandingCategories.md). For more information on managing categories visit [Manage Categories](CategoryTaxonomy.md).
 
 You can get to the Create Categories through the top-level Add Component menu or through the Dashboard. Follow the instructions below to create a category.
 
 ## From the Add Component menu
 
 1. Hover over the **Add Component** menu. 
-
-    ![Screenshot of the Add Component dropdown menu highlighted](../_embeds/Categoryupdate1.png)
-
 2. Select the **+Category** link. 
 
-    ![Screenshot of the +Category menu option highlighted](../_embeds/Categoryupdate2.png)
+    ![Screenshot of the +Category menu option highlighted](../_embeds/Categoryupdate1.PNG)
 
 ## From the Dashboard
 
@@ -42,7 +40,7 @@ You can get to the Create Categories through the top-level Add Component menu or
 
     !!! requirement "Allowed file types are .png, .gif, .jpg, or .jpeg."
 
-    ![Screenshot of the Add or select media pop-up menu.](../_embeds/Categoryupdate8.PNG)
+    ![Screenshot of the Add or select media pop-up menu.](../_embeds/Categorythumbnail.png)
 
     - Select **Insert selected** to apply the image to your category as a thumbnail. 
 
