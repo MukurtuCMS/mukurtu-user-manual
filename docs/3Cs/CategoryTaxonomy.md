@@ -6,16 +6,16 @@ tags:
 # Manage Categories
 
 !!! roles "User role"
-    Mukurtu administrator
+    Mukurtu manager
 
-Categories are high-level descriptive terms that help users discover digital heritage items. All communities on the site share the same set of categories. Over time categories may need to be revised, combined, or generally cleaned up. You can edit a single category, or merge multiple categories into one.
+Categories are high-level descriptive terms that help users browse and discover digital heritage items. Each site defines their own set of categories to reflect the scope of their items, and all communities on the site share the same set of categories. Over time categories may need to be revised, combined, or generally cleaned up. You can edit a single category, or merge multiple categories into one.
 
 !!! tip
     For more information on adding new categories, visit [Create Categories](CreateCategories.md).
 
 ## Edit a category 
 
-1. Select **Manage Categories**. 
+1. From your dashboard, select **Manage Categories**. 
 2. Select the **Edit** link for the category you want to make changes to. 
 
     ![Screenshot of the Category taxonomy page with Edit highlighted.](../_embeds/placeholderscreenshot.png)
