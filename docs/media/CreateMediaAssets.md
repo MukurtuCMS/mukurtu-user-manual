@@ -19,26 +19,34 @@ Mukurtu supports many types of media assets:
 - Video files
 - YouTube and Vimeo embeds
 
-The media asset workflow varies for different types of assets, but generally follows a similar workflow.
+The media asset workflow varies for different types of assets, but is generally consistent across media asset types.
 
 This article provides a basic overview of how to create media assets, including format-specific notes. For detailed instructions on creating each type of media asset, see [Media Upload Instructions by Media Type](ByTypeMediaUpload.md).
 
 ## Overview 
 
-There are two ways to create a media asset: from your dashboard or while creating content. Some elements will look different depending on whether you are adding media from your dashboard or while creating content, but the workflow for both are the same.
+There are multiple ways to start creating a media asset: from your dashboard, from the top Create Content menu, from the left-hand sidebar Media or Create menus, or while creating content. Some elements will look different depending on where you are starting from, but the workflow is the same.
 
-- When adding media from your dashboard, select "Add Media". When adding media from content, selecting "Add Media" in the **Media Assets** field allows you to add different media types. 
+To start adding media:
+
+- When adding media from your dashboard, select "Add Media". 
+- When adding media from your top Create Content menu, select **+ Media**. 
+- When adding media from your left-hand sidebar, you can use either the **Media** icon or the Create menu, represented by the **+** icon.  
+- When adding media from content, selecting "Add Media" in the *Media Assets* field allows you to add different media types. 
 	- When adding media from content, the media type may be restricted by the type of content that is being created.
+
+To add media:
+
 - To upload audio, document, image, or video files, select the "Choose File" or "Browse" button. 
 
 !!! tip
-	Depending on your browser, the text on the button may vary.
+	Depending on your browser, the text of the button may vary.
 
 - To insert remote video, SoundCloud, or external embeds, copy and paste the URL or embed code.
-- Media asset metadata for is briefly described below. For more details, visit the [Media Asset Metadata](MediaAssetMetadata.md) or the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md)support documents.
+- Media asset metadata for is briefly described below. For more details, visit the [Media Asset Metadata](MediaAssetMetadata.md) or the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) support documents.
 - Once your media assets are part of your media library, they can easily be added to your content.
 
-	![Screenshot of media library.](../_embeds/placeholderscreenshot.png)
+	![Screenshot of media library.](../_embeds/Media-Mukurtu.png)
 
 !!! warning 
 	Note that externally hosted resources cannot be protected by cultural protocols. 
@@ -82,4 +90,4 @@ Audio files have the following optional metadata fields
 
 Image files have the following required metadata field.
 
-- Alternative Text - this is a required field for images, including thumbnails
+- Alternative Text - this is a required field for all images, including thumbnails

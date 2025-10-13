@@ -14,31 +14,23 @@ tags:
 Supported audio file types: 
 
 - MP3
+- M4A
 - WAV
+- OGG
 - AAC 
 
 ## Documents 
 
 Supported document file types: 
 
-- TXT
-- RTF
-- DOC, DOCS
-- PPT, PPTX
-- XLS, XLSX
-- PDF
-- ODF
-- ODG
-- ODP
-- ODS
-- ODT
-- FODT
-- FODS
-- FODP
-- FODG
-- KEY
-- NUMBERS
-- PAGES
+| Text Formats | Spreadsheet Formats | Compression | Slide Formats | Other | 
+| ------------ | ------------ | ------------ | ------------ | ----------- |
+| TXT | CSV | ZIP  | | PDF |
+| DOC, DOCX | XLS, XLSX | 7Z | PPT, PPTX | | 
+| PAGES | NUMBERS | TAR | KEY | |
+| RTF | | RAR | | |
+| SXW | | GZ | | |
+|ODT, FODT | ODS, FODS | | ODP, FODP | ODG, FODG, ODF | 
 
 ## External Embeds 
 
@@ -51,6 +43,7 @@ Supported image file types: 
 - JPG, JPEG
 - PNG
 - GIF
+- WEBP
 
 ## Remote Video 
 
@@ -68,3 +61,5 @@ Supported image file types: 
 Supported video file types: 
 
 - MP4
+- WEBM
+- OGV

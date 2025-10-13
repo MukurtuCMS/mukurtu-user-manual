@@ -39,6 +39,6 @@ Mukurtu cannot display Vimeo media assets if **Embed privacy** is set to **Nowhe
 
      ![Screenshot of the Vimeo menu with the dropdown menu that says Anywhere highlighted.](../_embeds/Vimeo3.png)
 
-4. You do not have to do anything to save your changes. A pop-up appears in the center bottom of the screen notifying you that your changes have been saved.
+4. You do not have to do anything to save your changes. A pop-up appears in the bottom center of the screen notifying you that your changes have been saved.
 
       ![Screenshot of the Vimeo menu with the saved changes note highlighted.](../_embeds/Vimeo4.png)
