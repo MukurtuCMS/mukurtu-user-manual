@@ -7,7 +7,6 @@ tags:
 !!! roles "User roles"
     Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
-
 Media assets are the core element of digital heritage items and other content. Mukurtu provides wide support for many different media types, including images, documents, video, audio files, or embedded media. Media can be uploaded or hosted from an external site such as Vimeo or YouTube. 
 
 Mukurtu supports several different types of media assets. These include:
