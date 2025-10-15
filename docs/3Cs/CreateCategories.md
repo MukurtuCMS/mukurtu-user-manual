@@ -10,7 +10,7 @@ tags:
 !!! roles "User role"
     Mukurtu manager
 
-Categories are high-level descriptive terms that help Mukurtu users browse and discover digital heritage items. For more information about how to plan categories see [Understanding Categories](UnderstandingCategories.md). For more information on managing categories visit [Manage Categories](CategoryTaxonomy.md).
+Categories are high-level descriptive terms that help Mukurtu users browse and discover digital heritage items. For more information about how to plan categories see [Understanding Categories](UnderstandingCategories.md). For more information on managing categories refer to [Manage Categories](CategoryTaxonomy.md).
 
 You can create categories through the top-level Add Component menu or through the Dashboard. Follow the instructions below to create a category.
 
