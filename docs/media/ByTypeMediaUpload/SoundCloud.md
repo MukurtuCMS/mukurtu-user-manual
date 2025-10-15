@@ -4,7 +4,7 @@ tags:
     - metadata
     - getting started
 ---
-# SoundCloud
+# SoundCloud Assets
 
 !!! roles "User roles"
     Protocol steward, contributor, community record steward, curator, language steward, language contributor 

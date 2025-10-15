@@ -4,7 +4,7 @@ tags:
     - metadata
     - getting started
 ---
-# Remote Video
+# Remote Videos
 
 !!! roles "User roles"
     Protocol steward, contributor, community record steward, curator, language steward, language contributor 

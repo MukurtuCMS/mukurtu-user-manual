@@ -110,8 +110,9 @@ nav:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
   - Media:
-    - Media Upload Instructions by Media Type:
-      - media/ByTypeMediaUpload/Introduction.md
+    - media/UnderstandingMediaAssets.md 
+    - media/CreateMediaAssets.md 
+    - Upload Media Assets:
       - media/ByTypeMediaUpload/Audio.md
       - media/ByTypeMediaUpload/Document.md
       - media/ByTypeMediaUpload/ExternalEmbed.md
@@ -119,8 +120,6 @@ nav:
       - media/ByTypeMediaUpload/RemoteVideo.md
       - media/ByTypeMediaUpload/SoundCloud.md
       - media/ByTypeMediaUpload/Video.md
-    - media/UnderstandingMediaAssets.md 
-    - media/CreateMediaAssets.md 
     - media/MediaAssetMetadata.md
     - media/MediaAssetFileFormats.md 
     - media/ManageMediaAccessWithProtocols.md 
