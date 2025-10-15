@@ -33,9 +33,9 @@ You can create categories through the top-level Add Component menu or through th
 
 ## Create a category
 
-1. Enter the name of your category in the **Category Name** field. This is the only field that is required to create a category.
-2. You may choose to enter any descriptive information in the **Description** field. This is a rich text field that can support text, links, media items, and other formats. The description field can be helpful for clarifying the type of content that should be included in a particular category or anything else relevant to the category and its use.
-3. You may choose to apply a thumbnail image to your category. The thumbnail image appears on your "browse by category" page. Thumbnails can help further clarify your category for users. 
+1. A category name is required. Enter the name of your category as you want it to appear to users in the **Category name** field. 
+2. The description is not normally shown to end users. It may be used for internal documentation to clarify or define the content that should be included in the category, or to provide additional details about the category.
+3. The thumbnail image is used in the "browse by category" page and landing page block. A thumbnail could be a photograph, graphic, or other image that represents the content or concept of the category. If a thumbnail image is not provided, a placeholder graphic will be displayed instead.
     - Select **Add media**. Select **Choose file** to upload a file or scroll down to select images that have already been uploaded.  
 
     !!! requirement "Allowed file types are .png, .gif, .jpg, or .jpeg."
