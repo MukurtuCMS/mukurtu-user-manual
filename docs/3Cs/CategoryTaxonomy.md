@@ -8,7 +8,7 @@ tags:
 !!! roles "User role"
     Mukurtu manager
 
-Categories are high-level descriptive terms that help users browse and discover digital heritage items. Each site defines their own set of categories to reflect the scope of their items, and all communities on the site share the same set of categories. Over time categories may need to be revised, combined, or generally cleaned up. You can edit a single category, or merge multiple categories into one.
+Over time categories may need to be revised, combined, or generally cleaned up. You can edit a single category, or merge multiple categories into one.
 
 !!! tip
     For more information on adding new categories, visit [Create Categories](CreateCategories.md).
@@ -23,7 +23,7 @@ Categories are high-level descriptive terms that help users browse and discover 
 3. Edit your *Category Name*, *Description*, or **Thumbnail Image**, then select "Save".
 
     !!! tip
-        Cultural protocols are required for category thumbnails. For more information on getting started with cultural protocols, visit [Create a Community and Initial Cultural Protocol](CreateACommunityAndInitialCulturalProtocol.md).
+        Cultural protocols are required for category thumbnails. For more information on getting started with cultural protocols, refer to [Create a Community and Initial Cultural Protocol](CreateACommunityAndInitialCulturalProtocol.md).
 
 ## Merge categories
 
