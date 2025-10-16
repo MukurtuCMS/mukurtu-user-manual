@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles"
     Protocol steward, contributor
 
-Digital heritage items are one of the main content types of Mukurtu. At their core they offer a combination of media and metadata to tell a story and move beyond the notion of isolated items or records to allow for more context and relationships. Terminology at cultural heritage institutions may vary, so digital heritage items may represent items, records, content, belongings, objects, songs, stories, or other similar concepts. Digital heritage items can incorporate a range of media types, including images, documents, audio and video recordings, and embedded items. 
+Digital heritage items are one of the main content types of Mukurtu. At their core they offer a combination of media and metadata to tell a story and move beyond the notion of isolated items or records, which allows for more context and relationships. Terminology at cultural heritage institutions may vary, so digital heritage items may represent items, records, content, belongings, objects, songs, stories, or other similar concepts. Digital heritage items can incorporate a range of media types, including images, documents, audio and video recordings, and embedded items. 
 
 Mukurtu Core metadata schema is an extension of Dublin Core.
 
@@ -22,7 +22,7 @@ Use the *Title* field to provide a title for your digital heritage item. The tit
 
 - This is a required field.
 
-![Screenshot of the title field filled out with the term "title".](../_embeds/DH1.png)
+![Screenshot of the title field filled out with the term "title".](../_embeds/dh1.png)
 
 ### Cultural protocols
 
@@ -42,14 +42,7 @@ Categories are high-level descriptive terms that group digital heritage items to
 
 - Check the box beside each relevant category.
 - Each Digital Heritage Item must belong to at least one category. 
-![Screenshot of how to fill out cultural protocols, sharing settings, and categories.](../_embeds/DH2.png)
-
-### Summary
-
-Use the *Summary* field to provide a brief description of your digital heritage item. 
-
-- The summary is displayed with the digital heritage item teaser when browsing, and can help distinguish between items with similar or identical titles. 
-- This field is limited to 255 characters. Other fields allow for longer, more in-depth description. 
+![Screenshot of how to fill out cultural protocols, sharing settings, and categories.](../_embeds/dh2.png)
 
 ### Media Assets
 
@@ -60,7 +53,7 @@ Media assets are the core element of Digital Heritage Items and can be images, d
 1. Navigate to the **Media Assets** section.
 2. Select the "Add Media" button. 
 
-    ![Screenshot of the add media button highlighted to indicate where to select to add media.](../_embeds/DH3.png)
+    ![Screenshot of the add media button highlighted to indicate where to select to add media.](../_embeds/dh3.png)
 
 3. Select the type of content you want to add. You can upload an audio file, document, image, or video file.
 4. Select the "Choose File" or "Browse" button to upload a file. 
@@ -71,7 +64,7 @@ Media assets are the core element of Digital Heritage Items and can be images, d
     - Select an file from your file explorer.        
     - If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
 
-Fill out the remaining metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
+Fill out the remaining metadata according to the [Upload Media Assets](ByTypeMediaUpload.md) articles.
 
 #### Insert a remote asset
 
@@ -88,6 +81,13 @@ Fill out the metadata according to the [Media Upload Instructions by Media Type]
 3. Select the external embed option. 
 
 Fill out the metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
+
+### Summary
+
+Use the *Summary* field to provide a brief description of your digital heritage item. 
+
+- The summary is displayed with the digital heritage item teaser when browsing, and can help distinguish between items with similar or identical titles. 
+- This field is limited to 255 characters. Other fields allow for longer, more in-depth description. 
 
 ### Creator
 
