@@ -10,7 +10,7 @@ tags:
 
 Digital heritage items are one of the main content types of Mukurtu. At their core they offer a combination of media and metadata to tell a story and move beyond the notion of isolated items or records, which allows for more context and relationships. Terminology at cultural heritage institutions may vary, so digital heritage items may represent items, records, content, belongings, objects, songs, stories, or other similar concepts. Digital heritage items can incorporate a range of media types, including images, documents, audio and video recordings, and embedded items. 
 
-Mukurtu Core metadata schema is an extension of Dublin Core.
+Mukurtu Core metadata schema is an extension of Dublin Core. For more information on digital heritage metadata fields, refer to the [Digital Heritage Item Metadata Fields](DHMetadataFields.md) article.
 
 Follow the instructions to create a digital heritage item.
 
@@ -38,7 +38,7 @@ Use the *Title* field to provide a title for your digital heritage item. The tit
 
 ### Category
 
-Categories are high-level descriptive terms that group digital heritage items together and help users browse and discover digital heritage items. Categories are unique to each site and reflect the scope of the items included. One set of Categories is used to describe all digital heritage items within the site. 
+Categories are high-level descriptive terms that group digital heritage items together and help users browse and discover digital heritage items. 
 
 - Check the box beside each relevant category.
 - Each Digital Heritage Item must belong to at least one category. 
@@ -64,7 +64,7 @@ Media assets are the core element of Digital Heritage Items and can be images, d
     - Select an file from your file explorer.        
     - If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
 
-Fill out the remaining metadata according to the [Upload Media Assets](ByTypeMediaUpload.md) articles.
+Fill out the remaining metadata according to the Upload Media Assets [Audio files](Audio.md), [Documents](Document.md), [Images](Image.md), or [Video files](Video.md) articles.
 
 #### Insert a remote asset
 
@@ -72,7 +72,7 @@ Fill out the remaining metadata according to the [Upload Media Assets](ByTypeMed
 2. Select the "Add Media" button. 
 3. Select the type of content you want to add. Insert the link for a remote video or SoundCloud asset.
 
-Fill out the metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
+Fill out the metadata according to the [Remote Video](RemoteVideo.md) or [SoundCloud](SoundCloud.md) articles.
 
 #### Insert an external embed
 
@@ -80,7 +80,7 @@ Fill out the metadata according to the [Media Upload Instructions by Media Type]
 2. Select the "Add Media" button. 
 3. Select the external embed option. 
 
-Fill out the metadata according to the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
+Fill out the metadata according to the [External embeds](ExternalEmbed.md) article.
 
 ### Summary
 
@@ -91,96 +91,111 @@ Use the *Summary* field to provide a brief description of your digital heritage 
 
 ### Creator
 
-Use the *Creator* field to enter the name of the creator of the digital heritage item. This field can be formatted as `Last, First`, `First Last`, `Last, "Nickname" First` or any other format that makes sense for your organization. 
+Use the *Creator* field to enter the name of the creator of the digital heritage item.  Names can be in any format that is appropriate for the content, eg: `John Smith` or `Smith, John`. 
 
 - If more than one person should be listed as a creator, use the "Add another item" button to add additional creator text boxes. 
-- Select and drag the arrows by the creator's name to reorder your creators if necessary. 
+- Select and drag the arrows to the left the creator text box to reorder your creators if necessary. 
 - To remove a creator, select the "Remove" button.
 
 !!! tip
     A creator can be a person or people, a clan, tribe, or cultural group, an organization that is primarily responsible for providing the essential knowledge or labor that goes into making a digital heritage item or media asset. For example, the Creator field could list who designed or made a basket, the knowledge holders who provided the information for a book or the book’s author or illustrator, or the singers, songwriters, dancers, or performers who bring to life cultural materials.
 
-![Screenshot of the creator field with the text field, arrow icon, and add another buttons all highlighted.](../_embeds/DH4.png)
+![Screenshot of the creator field with the arrow icon, remove, and add another buttons all highlighted.](../_embeds/dh4.png)
 
 ### Contributor
 
-Use the *Contributor* field to enter the name of the contributor of the digital heritage item. This field can be formatted as `Last, First`, `First Last`, `Last, "Nickname" First` or any other format that makes sense for your organization. 
+Use the *Contributor* field to enter the name of the contributor of the digital heritage item.  Names can be in any format that is appropriate for the content, eg: `John Smith` or `Smith, John`. 
 
 - If more than one person should be listed as a contributor, use the "Add another item" button to add additional contributor text boxes. 
-- Select and drag the arrows by the contributor's name to reorder your contributors if necessary. 
+- Select and drag the arrows by the contributor text box to reorder your contributors if necessary. 
 - To remove a contributor, select the "Remove" button.
 
 !!! tip
     A Contributor can be a person, people, clan, tribal nation, community group or organization who aided in making the content of a digital heritage item or media asset. This could be the person who wrote, compiled, or illustrated a book or recorded a song, the people who edited or produced a film, or who collaborated or consulted on a project. 
 
-![Screenshot of the contributor field with the text field, arrow icon, and add another buttons all highlighted.](../_embeds/DH5.png)
+![Screenshot of the contributor field with the text field, arrow icon, and add another buttons all highlighted.](../_embeds/dh5.png)
 
 ### Date
 
-Use the *Date Description* field when a strictly formatted date is not known appropriate. Some examples of approximate timeframes or circa dates can include `Summer YYYY` or `circa 1800s`. This can refer to the date the media asset was made, written, recorded, or filmed. This field is limited to 255 characters.
+In the **Original Date** section enter the creation date of the media asset or information represented in the digital heritage item. The date should be as precise as possible, and either the year, year-month, or year-month-day can be entered.
 
-In the **Original Date** section enter the date associated with the digital heritage item, if known. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
+Use the *Date Description* field when a strictly formatted date is not known appropriate. This can refer to the date the media asset was made, written, recorded, or filmed. 
 
-![Screenshot of the date fields with the date description filled in to show "circa 1880" and the original date with 1933 Jun 23 entered.](../_embeds/DH6.png)
+- Some examples of approximate timeframes or circa dates can include `Summer YYYY` or `circa 1800s`.
+- This field is limited to 255 characters.
+
+![Screenshot of the date fields with the original date of 1106 June 23 entered and the date description filled in to show "1100-1199" .](../_embeds/dh6.png)
 
 ## Mukurtu core
 
 ### Cultural narrative
 
-Enter text or media assets to the *Cultural narrative* field. This is a full text HTML field that can support images, documents, audio, or video recordings. 
+Enter text or media assets in the *Cultural narrative* field. This is a full text HTML field that can support images, documents, audio or video recordings, or embeds. 
 
 To add media, select the "Insert Media" icon from the field's toolbar. Follow the steps in the [Media Assets](#media-assets) section of this article to select media assets or to add new media assets to your library.
 
-The *cultural narrative* field is used to add historical or social context, expert community knowledge, community stories, and other relevant context to the digital heritage item. This is generally information that is community specific.
+The *Cultural narrative* field is used to add historical or social context, expert community knowledge, community stories, and other relevant context to the digital heritage item. This is generally information that is community specific.
 
-![Screenshot of the cultural narrative field with sample text filled in and the insert media icon highlighted.](../_embeds/DH7.png)
+![Screenshot of the cultural narrative field with sample text filled in and the insert media icon highlighted.](../_embeds/dh7.png)
 
 ### Traditional knowledge
 
-Enter text or media assets to the *Traditional knowledge* field. This is a full text HTML field that can support images, documents, audio, or video recordings. 
+Enter text or media assets in the *Traditional knowledge* field. This is a full text HTML field that can support images, documents, audio or video recordings, or embeds. 
 
 To add media, select the "Insert Media" icon from the field's toolbar. Follow the steps in the [Media Assets](#media-assets) section of this article to select media assets or to add new media assets to your library.
 
-The *traditional knowledge* field is used to add in-­depth community-specific knowledge about the digital heritage item, and is often used to provide information of social, spiritual, or esoteric significance. 
+The *Traditional knowledge* field is used to add in-­depth community-specific knowledge about the digital heritage item, and is often used to provide information of social, spiritual, or esoteric significance. 
 
-![Screenshot of the traditional knowledge field with sample text filled in and the insert media icon highlighted.](../_embeds/DH8.png)
+![Screenshot of the traditional knowledge field with sample text filled in and the insert media icon highlighted.](../_embeds/dh8.png)
 
 ### Description
 
-Enter text or media assets to the *Description* field. This is a full text HTML field that can support images, documents, audio, or video recordings. 
+Enter text or media assets in the *Description* field. This is a full text HTML field that can support images, documents, audio or video recordings, or embeds. 
 
 To add media, select the "Insert Media" icon from the field's toolbar. Follow the steps in the [Media Assets](#media-assets) section of this article to select media assets or to add new media assets to your library.
 
-The *description* field can include physical characteristics (i.e. photograph, manuscript, newspaper clipping), content information (i.e. what is depicted, content of text), and any other generally relevant information. 
+The *Description* field can include physical characteristics (i.e. photograph, manuscript, newspaper clipping), content information (i.e. what is depicted, content of text), and any other generally relevant information. 
 
-![Screenshot of the description field with sample text filled in and the insert media icon highlighted.](../_embeds/DH9.png)
+![Screenshot of the description field with sample text filled in and the insert media icon highlighted.](../_embeds/dh9.png)
 
 ## Permissions and rights
 
 ### Local Contexts
 
-Use the **Local Contexts** field to apply Traditional Knowledge labels to your collection. 
-    
+Use the **Local Contexts** field to apply Traditional Knowledge labels to your collection. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
+
+- Select your Local Contexts project from the list. This field will apply all of the Labels from the selected Local Contexts Project(s) to the digital heritage item.
+- Select one or more Labels from the appropriate Local Contexts Project. 
+
 !!! tip
-    To start a project or for more information on Local Contexts projects, labels, and notices, visit [Local Contexts](https://localcontexts.org/).
+    If a complete project has already been selected, do not also select individual Labels from the same project. 
 
-- Select your Local Contexts project from the dropdown. 
-- Select Local Contexts labels and notices to assign to the collection.  
-
-![Screenshot of Local Contexts project and labels fields highlighted to indicate the dropdown](../_embeds/placeholderscreenshot.png)
+![Screenshot of Local Contexts project and labels fields highlighted](../_embeds/dh10.png)
 
 ### Citing Indigenous Elders and Knowledge Keepers
 
 These fields enable Mukurtu users to create a citation from the Elders and Knowledge Keepers who gave context to the digital heritage item. Fill in as many of the fields as possible to generate a citation.
 
 1. Use the *Name of the Elder or Knowledge Keeper* field to enter the individual's name. Users should ensure that the name appears according to the Knowledge Keeper's or community's preferences and includes their appropriate title or status. 
-2. Enter the name of their *Nation or Community*. This refers to the Indigenous nation/community that holds this knowledge and connects the Knowledge Keeper to their nation/community. Be as specific as possible.
-3. Enter the name of the *Treaty terrority*. This refers to the territories that that hold treaties with the Knowledge Keeper's nation or community. Use only if applicable, such as for oral histories regarding treaties and land rights. 
-4. Enter the name of the *City or community they live in*. Knowledge Keepers may live in a place other than where their knowledge originated. Use this field if they would like to acknowledge the place, nation, or community where they reside.
-5. Enter *A brief description or title of the teaching*. This field may be used to describe the knowledge and its provenance, such as `Creation Story as told to me by my grandfather who heard it from his father` or any other description or classification the Knowledge Keeper would like to include. 
-6. Enter the date the communication took place. Be as specific as possible. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`. 
+2. Enter the name of their *Nation or Community*. Including the Knowledge Keeper's Nation or community foregrounds the importance of relationships when it comes to Indigenous knowledges and recognizes which nations hold which teachings. 
+3. Enter the name of the *Treaty terrority*. Only used if applicable and indicated by the Knowledge Keeper.
+4. Enter the name of the *City or community they live in*. 
 
-![Screenshot of citing Indigenous Elders and Knowledge Keepers with examples in the fields.](../_embeds/DH11.png)
+    - Knowledge Keepers may live in places that differ from the origins of their knowledge, nation, or birthplace, and, in some cases, this may be an important relationship they want to recognize. 
+    - Only used if applicable and indicated by the Knowledge Keeper.
+
+5. Enter *A brief description or title of the teaching*. 
+
+    - Information such as the familial provenance of the teaching could be included here. 
+    - For example, the citation might read: `Story about the sisters of the river as told to [Name of story keeper] by their grandmother [or the grandmother’s name].` 
+    - This element should be discussed with the Knowledge Keeper, to properly describe or classify the knowledge they are sharing.
+
+6. Enter the date the communication took place.
+
+    - This should be formatted in the year, year-month, or year-month-day format. 
+    - As precise a date as possible is preferred.
+
+![Screenshot of citing Indigenous Elders and Knowledge Keepers with examples in the fields.](../_embeds/dh11.png)
 
 ### Rights
 
@@ -192,55 +207,84 @@ These fields enable Mukurtu users to create a citation from the Elders and Knowl
 
     Select a rights statement from the dropdown menu. For more information on rights statements, visit [rightsstatement.org](https://rightsstatements.org/en/).
 
-![Screenshot of the rights fields with example text in the rights and usage field and a dropdown selected from the rights statements.](../_embeds/DH10.png)
+![Screenshot of the rights fields with example text in the rights and usage field and a dropdown selected from the rights statements.](../_embeds/dh12.png)
 
 ### Licensing options
 
-Select a creative commons license from the dropdown menu. Creative Commons licenses are an extension of copyright that allow a copyright holder to specify the ways in which their work may be altered, shared, and used. For more information on Creative Commons licensing, visit [creativecommons.org](https://creativecommons.org/).
+Select a creative commons license from the dropdown menu. 
+
+   - Creative Commons licenses are an extension of copyright that allow a copyright holder to specify the ways in which their work may be altered, shared, and used. 
+   - For more information on Creative Commons licensing, visit [creativecommons.org](https://creativecommons.org/).
 
 ## Additional fields
 
-### Format
-
-Use the *Format* field to enter the format of the digital heritage item. Format is the specific physical or digital manifestation of the digital heritage item, including physical format `pamphlet`, `glass slide`, `open reel`, duration or extent ``90 minutes`, `20 pages`, dimensions `4x6"`, `12x6x8cm`, digital filetype `PDF`, `JPG`, `MP3`, `MP4`, or other details as needed.
-
-To add more than one format type, select the "Add another item" button and enter the required format description. This can be useful if you want to detail both the physical and digital formats of a digital heritage item or media asset.
-
 ### Type
 
-Use the *Type* field to describe the nature, genre, or function of the media asset or digital heritage item. Examples include `Image`, `Text`, `Sound`, or `Video`.
+Use the *Type* field to describe the nature, genre, or function of the media asset or digital heritage item. Examples include `Image`, `Text`, `Sound`, `Video`, or `Physical object`.
 
-To add more than one format type, select the "Add another item" button and enter the type description. This can be useful if you want to detail both the physical and digital types of a digital heritage item or media asset.
+- To add more than one format type, select the "Add another item" button and enter the type description. 
+- This can be useful if you want to detail both the physical and digital types of a digital heritage item or media asset.
+
+### Format
+
+Use the *Format* field to enter the format of the digital heritage item. 
+
+- Format is the specific physical or digital manifestation of the digital heritage item, including physical format (`pamphlet`, `glass slide`, `open reel`), duration (`90 minutes`), extent (`20 pages`, `11 sheets`), dimensions (`4x6"`, `12x6x8cm`), file format (`PDF`, `JPG`, `MP3`, `MP4`), or other additional information as needed.
+- To add more than one format type, select the "Add another item" button and enter the required format description. 
+- This can be useful if you want to detail both the physical and digital formats of a digital heritage item or media asset.
+
+![Screenshot of the format field with different digital and physical manifestations of the item included, including physical and file format, extent, and dimensions.](../_embeds/dh13.png)
 
 ### Identifier
 
-Use the *Identifier* field to provide a unique, unambiguous reference to your digital heritage item or media asset. Identifiers are often provided by the contributing institution or organization so the original item can be located. Examples can include call numbers or accession numbers. 
+Use the *Identifier* field to provide a unique, unambiguous reference to your digital heritage item or media asset. 
 
-![Screenshot of the format, type, and identifier fields with example text.](../_embeds/DH12.png)
+- Identifiers are often provided by the contributing institution or organization so the original item can be located. 
+- Examples can include call numbers or accession numbers. 
 
 ### Keywords
 
-Use the *Keywords* field to add any keywords to your collection. Keywords are terms used to describe content to ensure that the item will be discoverable when searching or browsing. They are more flexible and specific than categories. Consider adding 3-5 keywords to your collection by selecting the "Add another item" button to add additional keywords fields. This field feeds into the keywords taxonomy.
+Use the *Keywords* field to add any keywords to your collection. 
 
-![Screenshot of the keywords fields with example text.](../_embeds/DH13.png)
+- Keywords are terms used to describe content to ensure that the item will be discoverable when searching or browsing. 
+- They are more flexible and specific than categories. 
+- Consider adding 3-5 keywords to your collection by selecting the "Add another item" button to add additional keywords fields. 
+- This field feeds into the keywords taxonomy.
 
 ### Language
 
-Use the *Language* field to enter the language or languages used in the digital heritage item or media asset. This includes text, audio, video. This field feeds into the language taxonomy.
+Use the *Language* field to enter the language or languages used in the digital heritage item or media asset. 
+
+- This includes text, audio, video. 
+- This field feeds into the language taxonomy.
 
 ### Locations
 
 - Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. For detailed instructions on how to include *Map Points*, visit [Create Map Points](../map-points).
 
-- Use the *Location description* to provide a text or media reference to a geographical location. Location description is a rich text field that allows for longer descriptions or more information about the place(s) referenced in the content. It may be useful in cases where a general description of the places are provided, or more context is necessary. Location description can be used independently of other location fields and is a full HTML field that supports text, audio, images, and video.
+![Screenshot of the map points field featuring a polygon](../_embeds/dh14.png)
 
-- Enter a *Location*. Location is a taxonomy field which can be useful to label and connect content using the same term. Content can list multiple location terms, for example if multiple locations are mentioned, or a place is identified by multiple names.
+- Use the *Location description* to provide a text or media reference to a geographical location. 
 
-![Screenshot of the locations fields with map points, a location description, and a location taxonomy term entered.](../_embeds/DH14.png)
+    - Location description is a rich text field that allows for longer descriptions or more information about the place(s) referenced in the content. 
+    - It may be useful in cases where a general description of the places are provided, or more context is necessary. 
+    - Location description can be used independently of other location fields and is a full HTML field that supports text, audio, images, and video.
+
+![Screenshot of the location description field with a description entered.](../_embeds/dh15.png)
+
+- Enter a *Location*. 
+
+    - Location is a taxonomy field which can be useful to label and connect content using the same term. 
+    - Content can list multiple location terms, for example if multiple locations are mentioned, or a place is identified by multiple names.
+
+![Screenshot of the locations taxonomy field with terms entered.](../_embeds/dh16.png)
 
 ### Source
 
-Enter a *Source* in the field. Source can a reference to a resource, collection, or institution the digital heritage item or media asset was contributed or originated from. Examples include collections such as the `McWhorter Collection`, institutions such as the `Library of Congress`, `American Folklife Center`, or donors such as `Donated by John Smith`. 
+Enter a *Source* in the field. 
+
+- Source can a reference to a resource, collection, or institution the digital heritage item or media asset was contributed or originated from. 
+- Examples include collections such as the `McWhorter Collection`, institutions such as the `Library of Congress`, `American Folklife Center`, or donors such as `Donated by John Smith`. 
 
 ### Publisher
 
@@ -251,27 +295,27 @@ Multiple publishers can be added by selecting the "Add another item" button.
 ### External links
 
 Additional links can be added to a digital heritage item. This is most commonly used if the item is available elsewhere online and you want to direct users to that record or website. 
+
 - Enter the *URL*. This must be an external link such as `https://www.example.com/`. 
 - Enter the *Link text*. This is the text that will display on your page as the link.
 - To add additional links, select "Add another Item" and repeat with a new URL and link text.
 
-![Screenshot of the source, publisher, and external links fields filled in with appropriate text.](../_embeds/DH15.png)
-
 ### Subject
 
-Use the *Subject* field to provide a subject for your digital heritage item. The subject is the main topic or topics of the digital heritage item. They can be tailored to meet the needs of your site or derived from existing controlled vocabularies such as Library of Congress Subject Headings or Getty Art and Architecture Thesaurus. 
+Use the *Subject* field to provide a subject for your digital heritage item. 
 
+- The subject is the main topic or topics of the digital heritage item. They can be tailored to meet the needs of your site or derived from existing controlled vocabularies such as Library of Congress Subject Headings or Getty Art and Architecture Thesaurus. 
 - If more than one subject should be applied, use the "Add another item" button to add additional subject text boxes. 
 - Select and drag the arrows by the subject to reorder them if necessary. 
 - To remove a subject, select the "Remove" button.
 
 ### Transcription
 
-Use the *Transcription* field to provide a text transcription of an audio or video recording or of the text in an image or document. Including a transcription allows the text to be discoverable when searching for Digital Heritage Items. This is a plain text field with no character limit.
+Use the *Transcription* field to provide a text transcription of an audio or video recording or of the text in an image or document. This HTML field can support rich text and embedded media assets using the editing toolbar.
 
 ### People
 
-Use the *People* field to enter the name of any people represented or referenced in your digital heritage item or media asset. This field can be formatted as `Last, First`, `First Last`, `Last, "Nickname" First` or any other format that makes sense for your organization. 
+Use the *People* field to enter the name of any people represented or referenced in your digital heritage item or media asset. Names can be in any format that is appropriate for the content, eg: `John Smith` or `Smith, John`. 
 
 - If more than one person should be listed, use the "Add another item" button to add additional people text boxes. 
 - Select and drag the arrows by the people field to reorder your people if necessary. 
@@ -285,7 +329,7 @@ Use the *People* field to enter the name of any people represented or referenced
 
 ### Related content
 
-The **related content** field can help provide connections between your digital heritage item and other site content or to help guide users when browsing content. 
+The **related content** field can help provide connections between your digital heritage item and other site content or to help guide users when browsing content. Examples include multiple photos of a place, objects discussed in an oral history, or dictionary words that appear in a digital heritage item. 
 
 - Select the "Select content" button. Additional digital heritage items, person records, dictionary words, and other content can be included as related content. 
 
@@ -294,4 +338,4 @@ The **related content** field can help provide connections between your digital 
 
 - Select the checkbox beside all the content you wish to include as related content, then scroll down and select "Add Content".
 
-![Screenshot of the related content pop-up with options for related content to add to your digital heritage item and the type and title options highlighted.](../_embeds/personalcollectiondashboard5.png)
+![Screenshot of the related content pop-up with options for related content to add to your digital heritage item and the type and title options highlighted.](../_embeds/dh17.png)
