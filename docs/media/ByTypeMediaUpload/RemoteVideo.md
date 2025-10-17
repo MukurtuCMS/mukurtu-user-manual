@@ -20,6 +20,8 @@ tags:
 
     - This is a required field.
 
+    ![Screenshot of the remote video URL and name field.](../../_embeds/remotevideo1.png)
+
 5. Use the checkboxes to apply cultural protocols to the media asset.
 
     - This is a required field.
@@ -32,6 +34,8 @@ tags:
 
     !!! tip
         All is the default setting.
+
+    ![Screenshot of the cultural protocols and sharing settings fields](../../_embeds/mediaprotocols.png)
 
 7. Remote video assets are represented by an interactive media player instead of a thumbnail image by default. You may choose to add a thumbnail to your remote video asset.
 
@@ -56,5 +60,7 @@ tags:
     - If more than one media tag should be included, use the "Add another item" button to add additional media tag text boxes. 
     - Select and drag the arrows by the media tag's name to reorder it if necessary. 
     - To remove a media tag, select the "Remove" button.
+
+    ![Screenshot of the people and media tag fields, with the appropriate information filled in.](../../_embeds/remotevideo2.png)
 
 11. Select the "Save" button to save your media asset.

@@ -22,6 +22,8 @@ tags:
 
     - This is a required field.
 
+    ![Screenshot of the SoundCloud URL and name field.](../../_embeds/soundcloud1.png)   
+
 5. Use the checkboxes to apply cultural protocols to the media asset.
 
     - This is a required field.
@@ -34,6 +36,8 @@ tags:
 
     !!! tip
         All is the default setting.
+
+    ![Screenshot of the cultural protocols and sharing settings fields](../../_embeds/mediaprotocols.png)
 
 7. SoundCloud assets are represented by an interactive media player instead of a thumbnail image by default. You may choose to add a thumbnail to your SoundCloud asset.
 
@@ -59,10 +63,14 @@ tags:
     - Select and drag the arrows by the media tag's name to reorder it if necessary. 
     - To remove a media tag, select the "Remove" button.
 
+    ![Screenshot of the people and media tag fields, with the appropriate information filled in.](../../_embeds/soundcloud2.png) 
+
 11. Use the *Contributor* field to enter the name of the speaker or singer of the recording. 
 
     - If more than one person should be listed as a contributor, use the "Add another item" button to add additional contributor text boxes. 
     - Select and drag the arrows by the contributor's name to reorder your contributors if necessary. 
     - To remove a contributor, select the "Remove" button.
+
+    ![Screenshot of the contributor field with the contributor's name included](../../_embeds/soundcloud3.png)
 
 12. Select the "Save" button to save your media asset.

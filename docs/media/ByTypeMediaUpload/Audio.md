@@ -41,6 +41,8 @@ tags:
     !!! tip
         All is the default setting.
 
+    ![Screenshot of the cultural protocols and sharing settings fields](../../_embeds/mediaprotocols.png)
+
 7. Audio files are represented by an interactive media player instead of a thumbnail image by default. You may choose to add a thumbnail to your audio file.
 
     - Select "Choose file" to upload an image.
@@ -68,7 +70,7 @@ tags:
     - Select and drag the arrows by the media tag's name to reorder it if necessary. 
     - To remove a media tag, select the "Remove" button.
 
-    ![Screenshot of the people and thumbnail fields, with the people field filled in with the name Sedulius Scottus.](../../_embeds/audiofiles4.png)
+    ![Screenshot of the people and media tag fields, with the people field filled in.](../../_embeds/audiofiles4.png)
 
 11. Use the *Contributor* field to enter the name of the speaker or singer of the recording. 
 
@@ -77,5 +79,7 @@ tags:
     - To remove a contributor, select the "Remove" button.
 
 12. Use the *Transcription* field to include a transcription of the content of your audio file. This field is character unlimited. A transcription can make your audio file more accessible to users.
+
+    ![Screenshot of the contributor and transcription fields, filled in with a name and sample sentence.](../../_embeds/audiofiles5.png)
 
 13. Select the "Save" button to save your media asset.

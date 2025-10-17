@@ -22,6 +22,8 @@ tags:
 
     - This is a required field.
 
+    ![Screenshot of the external embed field and name field with text filled in.](../../_embeds/embed1.png)
+
 4. Use the checkboxes to apply cultural protocols to the media asset.
 
     - This is a required field.
@@ -38,11 +40,18 @@ tags:
     !!! tip
         All is the default setting.
 
+    ![Screenshot of the cultural protocols and sharing settings fields](../../_embeds/mediaprotocols.png)        
+
 6. External embeds are represented by a thumbnail image. This must be added manually as it is not automatically generated, and are often a screenshot of the embedded content.
 
     - Select "Choose file" to upload an image.
     - Provide alternative text for your thumbnail. This is required for all thumbnail images. 
     - This is a required field.
+
+    ![Screenshot of the thumbnail field with the browse button highlighted](../../_embeds/embed2.png)
+
+    ![Screenshot of the thumbnail with alternative text filled in.](../../_embeds/embed3.png)
+    
 
 7. In the *Identifier* field, provide a unique identifier for the external embed. This identifier is usually an accession number, catalogue number, or other unique identifier.
 8. Use the *People* field to enter the name of anyone present, named, or referenced in the media asset. 
@@ -62,5 +71,7 @@ tags:
     - If more than one media tag should be included, use the "Add another item" button to add additional media tag text boxes. 
     - Select and drag the arrows by the media tag's name to reorder it if necessary. 
     - To remove a media tag, select the "Remove" button.
+
+    ![Screenshot of the people and media tag fields, with the appropriate information filled in.](../../_embeds/embed4.png)
 
 10. Select the "Save" button to save your media asset.
