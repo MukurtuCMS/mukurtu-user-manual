@@ -46,41 +46,10 @@ Categories are high-level descriptive terms that group digital heritage items to
 
 ### Media Assets
 
-Media assets are the core element of Digital Heritage Items and can be images, documents, video, embeds, or audio files. Digital heritage items can include more than one media asset. Media assets are not required for digital heritage items. To add a media asset, follow the instructions below.
+Media assets are the core element of Digital Heritage Items and can be images, documents, video, embeds, or audio files. Digital heritage items can include more than one media asset. Media assets are not required for digital heritage items. For instructions on how to add a media asset, refer to the [Create Media Assets](/docs/media/CreateMediaAssets.md) article.
 
-#### Upload a file
-
-1. Navigate to the **Media Assets** section.
-2. Select the "Add Media" button. 
-
-    ![Screenshot of the add media button highlighted to indicate where to select to add media.](../_embeds/dh3.png)
-
-3. Select the type of content you want to add. You can upload an audio file, document, image, or video file.
-4. Select the "Choose File" or "Browse" button to upload a file. 
-
-    !!! tip
-        The text of the upload button depends on your browser. 
-
-    - Select an file from your file explorer.        
-    - If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
-
-Fill out the remaining metadata according to the Upload Media Assets [Audio files](Audio.md), [Documents](Document.md), [Images](Image.md), or [Video files](Video.md) articles.
-
-#### Insert a remote asset
-
-1. Navigate to the **Media Assets** section.
-2. Select the "Add Media" button. 
-3. Select the type of content you want to add. Insert the link for a remote video or SoundCloud asset.
-
-Fill out the metadata according to the [Remote Video](RemoteVideo.md) or [SoundCloud](SoundCloud.md) articles.
-
-#### Insert an external embed
-
-1. Navigate to the **Media Assets** section.
-2. Select the "Add Media" button. 
-3. Select the external embed option. 
-
-Fill out the metadata according to the [External embeds](ExternalEmbed.md) article.
+- You can add multiple media assets by selecting more than one media asset from the media modal. 
+- To reorder your media assets, select your media assets and drag them into the order you prefer.
 
 ### Summary
 
@@ -91,27 +60,21 @@ Use the *Summary* field to provide a brief description of your digital heritage 
 
 ### Creator
 
-Use the *Creator* field to enter the name of the creator of the digital heritage item.  Names can be in any format that is appropriate for the content, eg: `John Smith` or `Smith, John`. 
+Use the *Creator* field to enter the name of the creator of the digital heritage item.  Names can be in any format that is appropriate for the content, eg: `John Smith` or `Smith, John`. For more information on who should be included as a Creator, refer to the [Digital Heritage Item Metadata Fields](DHMetadataFields.md) article.
 
 - If more than one person should be listed as a creator, use the "Add another item" button to add additional creator text boxes. 
 - Select and drag the arrows to the left the creator text box to reorder your creators if necessary. 
 - To remove a creator, select the "Remove" button.
 
-!!! tip
-    A creator can be a person or people, a clan, tribe, or cultural group, an organization that is primarily responsible for providing the essential knowledge or labor that goes into making a digital heritage item or media asset. For example, the Creator field could list who designed or made a basket, the knowledge holders who provided the information for a book or the book’s author or illustrator, or the singers, songwriters, dancers, or performers who bring to life cultural materials.
-
 ![Screenshot of the creator field with the arrow icon, remove, and add another buttons all highlighted.](../_embeds/dh4.png)
 
 ### Contributor
 
-Use the *Contributor* field to enter the name of the contributor of the digital heritage item.  Names can be in any format that is appropriate for the content, eg: `John Smith` or `Smith, John`. 
+Use the *Contributor* field to enter the name of the contributor of the digital heritage item.  Names can be in any format that is appropriate for the content, eg: `John Smith` or `Smith, John`. For more information on who should be included as a Contributor, refer to the [Digital Heritage Item Metadata Fields](DHMetadataFields.md) article.
 
 - If more than one person should be listed as a contributor, use the "Add another item" button to add additional contributor text boxes. 
 - Select and drag the arrows by the contributor text box to reorder your contributors if necessary. 
 - To remove a contributor, select the "Remove" button.
-
-!!! tip
-    A Contributor can be a person, people, clan, tribal nation, community group or organization who aided in making the content of a digital heritage item or media asset. This could be the person who wrote, compiled, or illustrated a book or recorded a song, the people who edited or produced a film, or who collaborated or consulted on a project. 
 
 ![Screenshot of the contributor field with the text field, arrow icon, and add another buttons all highlighted.](../_embeds/dh5.png)
 
@@ -179,21 +142,10 @@ These fields enable Mukurtu users to create a citation from the Elders and Knowl
 1. Use the *Name of the Elder or Knowledge Keeper* field to enter the individual's name. Users should ensure that the name appears according to the Knowledge Keeper's or community's preferences and includes their appropriate title or status. 
 2. Enter the name of their *Nation or Community*. Including the Knowledge Keeper's Nation or community foregrounds the importance of relationships when it comes to Indigenous knowledges and recognizes which nations hold which teachings. 
 3. Enter the name of the *Treaty terrority*. Only used if applicable and indicated by the Knowledge Keeper.
-4. Enter the name of the *City or community they live in*. 
+4. Enter the name of the *City or community they live in*. Knowledge Keepers may live in places that differ from the origins of their knowledge, nation, or birthplace, and, in some cases, this may be an important relationship they want to recognize. Only used if applicable and indicated by the Knowledge Keeper.
+5. Enter *A brief description or title of the teaching*. Information such as the familial provenance of the teaching could be included here. For example, the citation might read: `Story about the sisters of the river as told to [Name of story keeper] by their grandmother [or the grandmother’s name].` This element should be discussed with the Knowledge Keeper, to properly describe or classify the knowledge they are sharing.
 
-    - Knowledge Keepers may live in places that differ from the origins of their knowledge, nation, or birthplace, and, in some cases, this may be an important relationship they want to recognize. 
-    - Only used if applicable and indicated by the Knowledge Keeper.
-
-5. Enter *A brief description or title of the teaching*. 
-
-    - Information such as the familial provenance of the teaching could be included here. 
-    - For example, the citation might read: `Story about the sisters of the river as told to [Name of story keeper] by their grandmother [or the grandmother’s name].` 
-    - This element should be discussed with the Knowledge Keeper, to properly describe or classify the knowledge they are sharing.
-
-6. Enter the date the communication took place.
-
-    - This should be formatted in the year, year-month, or year-month-day format. 
-    - As precise a date as possible is preferred.
+6. Enter the date the communication took place. This should be formatted in the year, year-month, or year-month-day format. As precise a date as possible is preferred.
 
 ![Screenshot of citing Indigenous Elders and Knowledge Keepers with examples in the fields.](../_embeds/dh11.png)
 
