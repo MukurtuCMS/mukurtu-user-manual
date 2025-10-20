@@ -15,7 +15,7 @@ A Mukurtu site can have as many communities as needed, and users can be members 
 
 ## How are communities managed?
 
-Communities are managed through a community manager. The community manager can add and remove members, and create new protocols. For more information on user roles, see User roles --LINK--
+Communities are managed through a community manager. The community manager can add and remove members, and create new protocols. For more information on user roles, see [User role Types](../users/user-role-types.md)
 
 ### Community Types
 
@@ -59,11 +59,13 @@ One caveat to this rule is the use of multiple protocols: if two or more protoco
 Protocols allow for members to take an active role in managing the content within a protocol:
 
 - protocol member - views content but cannot add or edit.
-- protocol affiliate - ???
-- language steward - can add, edit and delete dictionary words and create language lists
-- language contributor - can add dictionary words and create language lists
-- contributor - can create new digital heritage items (only? or other pieces of content as well?)
-- community record steward - can add, edit and delete community records
+- protocol affiliate - views content but cannot add or edit. This is a communit partner designation.
+- contributor - can create, edit and delete their own digital heritage items, person records and media assets.
+- curator - can create, edit and delete their own collections and upload media assets. 
+- community record steward - can add, edit and delete their own community records.
+- language contributor - can add, edit and delete their own dictionary words and word lists.
+- language steward - can add, edit and delete ALL dictonary words and word lists and add media assets.
+- protocol steward - manages protocol membership, can add edit and delete all content and media assets, manages the look and feel of the protocol and Local Contexts labels and notices.
 
 To read more about user roles and responsibilities, visit [User Roles Types](../users/user-role-types.md) 
 
