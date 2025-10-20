@@ -28,17 +28,19 @@ Media assets are the core element of digital heritage items and other content. T
 
 #### Cultural Protocol 
 
-- Select the checkbox beside the cultural protocol to apply it to the asset. 
+- Select the checkbox beside the cultural protocol to apply it to the asset. This will automatically select the community as well.
 
 #### Sharing Setting 
 
-- Select All or Any. 
-- All means that the item may only be shared with members belonging to ALL the protocols listed. This is the more restrictive setting. 
+- Sharing setting determines which users can access this content when multiple cultural protocols are selected. The more restrictive "all cultural protocols" is the default setting, and can be used when only one cultural protocol is selected.
+
+    - All: This item may only be shared with users who are members of  ALL selected cultural protocols (more restrictive).
+    - Any: This item may be shared with users who are members of ANY one or more selected cultural protocol (less restrictive).
     
     !!!tip
         All is the default setting.
 
-- Any means the asset may be shared with members of ANY of the protocols listed. This is less restrictive.  
+![Screenshot of the cultural protocol and sharing settings widget with a community and cultural protocol selected](../_embeds/mediaassetmetadata1.png)
 
 ### Identifier
 
@@ -72,13 +74,14 @@ Media assets are the core element of digital heritage items and other content. T
 
 ### File types and paths 
 
-Audio file - Select "Choose file" to upload an audio file.
+Locally hosted file types:
 
-Document - Select "Choose file" to upload a document.
+- Audio file - A locally hosted audio file. 
+- Document - A locally hosted document. Documents encompasses many different file types, and can include text based documents, spreadsheets, presentations, compression files, and graphics. 
+- Image - A locally hosted image file.
+- Video file - A locally hosted video or A/V file.
 
-Image - Select "Choose file" to upload an image file.
-
-Video file - Select "Choose file" to upload a video file.
+For more information on file formats for locally hosted file types, refer to [Media Asset File Formats](MediaAssetFileFormats.md)
 
 External Embed - Insert the embed code from an external website. External embeds are usually some kind of code wrapped in `<iframe></iframe>` tags.
 

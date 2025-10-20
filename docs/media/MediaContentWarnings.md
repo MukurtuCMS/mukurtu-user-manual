@@ -11,6 +11,8 @@ Media content warnings are a tool used to flag potentially sensitive or triggeri
 
 When a user is presented with a media asset that has a content warning, it will be replaced with a blacked-out box and descriptive warning text. At that point, the user can choose to dismiss the warning and access the media, or leave the warning in place. This feature does not replace or bypass cultural protocols on media assets, rather it presents them the choice to access it if they want to after being made aware of its sensitive nature. This also does not affect the rest of the page contents, so if a digital heritage item includes a media asset with a content warning, that does not extend to the metadata or other media assets in that item.
 
+![Screenshot of taxonomy triggered warning](../_embeds/warning1.png)
+
 There are two types of media content warnings: taxonomy triggered warnings and deceased person warnings. Both can be active on one site, and they are configured separately.
 
 **Taxonomy triggered warnings**

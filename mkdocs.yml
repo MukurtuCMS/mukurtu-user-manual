@@ -122,6 +122,7 @@ nav:
       - media/ByTypeMediaUpload/Video.md
     - media/MediaAssetMetadata.md
     - media/MediaAssetFileFormats.md 
+    - media/ManageMediaAssets.md
     - media/ManageMediaAccessWithProtocols.md 
     - media/VimeoPrivacySettings.md 
     - media/YoutubePrivacySettings.md
