@@ -112,9 +112,17 @@ nav:
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
-    - media/ByTypeMediaUpload.md
+    - Upload Media Assets:
+      - media/ByTypeMediaUpload/Audio.md
+      - media/ByTypeMediaUpload/Document.md
+      - media/ByTypeMediaUpload/ExternalEmbed.md
+      - media/ByTypeMediaUpload/Image.md
+      - media/ByTypeMediaUpload/RemoteVideo.md
+      - media/ByTypeMediaUpload/SoundCloud.md
+      - media/ByTypeMediaUpload/Video.md
     - media/MediaAssetMetadata.md
     - media/MediaAssetFileFormats.md 
+    - media/ManageMediaAssets.md
     - media/ManageMediaAccessWithProtocols.md 
     - media/VimeoPrivacySettings.md 
     - media/YoutubePrivacySettings.md
