@@ -26,15 +26,17 @@ Use the *Title* field to provide a title for your digital heritage item. The tit
 
 ### Cultural protocols
 
-1. Use the checkboxes to apply cultural protocols to your digital heritage item. 
+Use the checkboxes to apply cultural protocols to your digital heritage item. 
 
-    - This is a required field.
+- This is a required field.
 
-2. Use the checkboxes to select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
+### Sharing settings
 
-    - Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
-    - All is more restrictive as users must belong to all the selected protocols to view the digital heritage item. 
-    - This is a required field.
+Use the checkboxes to select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
+
+- Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
+- All is more restrictive as users must belong to all the selected protocols to view the digital heritage item. 
+- This is a required field.
 
 ### Category
 
@@ -78,9 +80,11 @@ Use the *Contributor* field to enter the name of the contributor of the digital 
 
 ![Screenshot of the contributor field with the text field, arrow icon, and add another buttons all highlighted.](../_embeds/dh5.png)
 
-### Date
+### Original date
 
 In the **Original Date** section enter the creation date of the media asset or information represented in the digital heritage item. The date should be as precise as possible, and either the year, year-month, or year-month-day can be entered.
+
+### Date description
 
 Use the *Date Description* field when a strictly formatted date is not known appropriate. This can refer to the date the media asset was made, written, recorded, or filmed. 
 
@@ -123,12 +127,15 @@ The *Description* field can include physical characteristics (i.e. photograph, m
 
 ## Permissions and rights
 
-### Local Contexts
+### Local Contexts Projects
 
 Use the **Local Contexts** field to apply Traditional Knowledge labels to your collection. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
 
-- Select your Local Contexts project from the list. This field will apply all of the Labels from the selected Local Contexts Project(s) to the digital heritage item.
-- Select one or more Labels from the appropriate Local Contexts Project. 
+Select your Local Contexts project from the list. This field will apply all of the Labels from the selected Local Contexts Project(s) to the digital heritage item.
+
+### Local Contexts Labels
+
+Select one or more Labels from the appropriate Local Contexts Project. 
 
 !!! tip
     If a complete project has already been selected, do not also select individual Labels from the same project. 
@@ -139,25 +146,39 @@ Use the **Local Contexts** field to apply Traditional Knowledge labels to your c
 
 These fields enable Mukurtu users to create a citation from the Elders and Knowledge Keepers who gave context to the digital heritage item. Fill in as many of the fields as possible to generate a citation.
 
-1. Use the *Name of the Elder or Knowledge Keeper* field to enter the individual's name. Users should ensure that the name appears according to the Knowledge Keeper's or community's preferences and includes their appropriate title or status. 
-2. Enter the name of their *Nation or Community*. Including the Knowledge Keeper's Nation or community foregrounds the importance of relationships when it comes to Indigenous knowledges and recognizes which nations hold which teachings. 
-3. Enter the name of the *Treaty terrority*. Only used if applicable and indicated by the Knowledge Keeper.
-4. Enter the name of the *City or community they live in*. Knowledge Keepers may live in places that differ from the origins of their knowledge, nation, or birthplace, and, in some cases, this may be an important relationship they want to recognize. Only used if applicable and indicated by the Knowledge Keeper.
-5. Enter *A brief description or title of the teaching*. Information such as the familial provenance of the teaching could be included here. For example, the citation might read: `Story about the sisters of the river as told to [Name of story keeper] by their grandmother [or the grandmother’s name].` This element should be discussed with the Knowledge Keeper, to properly describe or classify the knowledge they are sharing.
+#### Name of the Elder of Knowledge Keeper
 
-6. Enter the date the communication took place. This should be formatted in the year, year-month, or year-month-day format. As precise a date as possible is preferred.
+Use the *Name of the Elder or Knowledge Keeper* field to enter the individual's name. Users should ensure that the name appears according to the Knowledge Keeper's or community's preferences and includes their appropriate title or status. 
+
+#### Nation or Community
+
+Enter the name of their *Nation or Community*. Including the Knowledge Keeper's Nation or community foregrounds the importance of relationships when it comes to Indigenous knowledges and recognizes which nations hold which teachings. 
+
+#### Treaty territory
+
+Enter the name of the *Treaty terrority*. Only used if applicable and indicated by the Knowledge Keeper.
+
+#### City or community they live in
+
+Enter the name of the *City or community they live in*. Knowledge Keepers may live in places that differ from the origins of their knowledge, nation, or birthplace, and, in some cases, this may be an important relationship they want to recognize. Only used if applicable and indicated by the Knowledge Keeper.
+
+#### A brief description or title of the teaching
+
+Enter *A brief description or title of the teaching*. Information such as the familial provenance of the teaching could be included here. For example, the citation might read: `Story about the sisters of the river as told to [Name of story keeper] by their grandmother [or the grandmother’s name].` This element should be discussed with the Knowledge Keeper, to properly describe or classify the knowledge they are sharing.
+
+#### Date
+
+Enter the date the communication took place. This should be formatted in the year, year-month, or year-month-day format. As precise a date as possible is preferred.
 
 ![Screenshot of citing Indigenous Elders and Knowledge Keepers with examples in the fields.](../_embeds/dh11.png)
 
-### Rights
+### Rights and usage
 
-- Rights and usage
+Enter a statement in the *Rights and Usage* field about who holds the legal rights to the digital heritage item, media asset, or presented knowledge. Consider adding contact information if the rights holder should be contacted for permission to use, reproduce, circulate, reference, or cite the digital heritage item.
 
-    Enter a statement in the *Rights and Usage* field about who holds the legal rights to the digital heritage item, media asset, or presented knowledge. Consider adding contact information if the rights holder should be contacted for permission to use, reproduce, circulate, reference, or cite the digital heritage item.
+### Rights Statements
 
-- Rights Statements
-
-    Select a rights statement from the dropdown menu. For more information on rights statements, visit [rightsstatement.org](https://rightsstatements.org/en/).
+Select a rights statement from the dropdown menu. For more information on rights statements, visit [rightsstatement.org](https://rightsstatements.org/en/).
 
 ![Screenshot of the rights fields with example text in the rights and usage field and a dropdown selected from the rights statements.](../_embeds/dh12.png)
 
@@ -210,24 +231,28 @@ Use the *Language* field to enter the language or languages used in the digital 
 - This includes text, audio, video. 
 - This field feeds into the language taxonomy.
 
-### Locations
+### Map points
 
-- Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. For detailed instructions on how to include *Map Points*, visit [Create Map Points](../map-points).
+Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. For detailed instructions on how to include *Map Points*, visit [Create Map Points](../map-points).
 
 ![Screenshot of the map points field featuring a polygon](../_embeds/dh14.png)
 
-- Use the *Location description* to provide a text or media reference to a geographical location. 
+### Location description
 
-    - Location description is a rich text field that allows for longer descriptions or more information about the place(s) referenced in the content. 
-    - It may be useful in cases where a general description of the places are provided, or more context is necessary. 
-    - Location description can be used independently of other location fields and is a full HTML field that supports text, audio, images, and video.
+Use the *Location description* to provide a text or media reference to a geographical location. 
+
+  - Location description is a rich text field that allows for longer descriptions or more information about the place(s) referenced in the content. 
+  - It may be useful in cases where a general description of the places are provided, or more context is necessary. 
+  - Location description can be used independently of other location fields and is a full HTML field that supports text, audio, images, and video.
 
 ![Screenshot of the location description field with a description entered.](../_embeds/dh15.png)
 
-- Enter a *Location*. 
+### Location
 
-    - Location is a taxonomy field which can be useful to label and connect content using the same term. 
-    - Content can list multiple location terms, for example if multiple locations are mentioned, or a place is identified by multiple names.
+Enter a *Location*. 
+
+  - Location is a taxonomy field which can be useful to label and connect content using the same term. 
+  - Content can list multiple location terms, for example if multiple locations are mentioned, or a place is identified by multiple names.
 
 ![Screenshot of the locations taxonomy field with terms entered.](../_embeds/dh16.png)
 
@@ -246,11 +271,15 @@ Multiple publishers can be added by selecting the "Add another item" button.
 
 ### External links
 
-Additional links can be added to a digital heritage item. This is most commonly used if the item is available elsewhere online and you want to direct users to that record or website. 
+Additional links can be added to a digital heritage item. This is most commonly used if the item is available elsewhere online and you want to direct users to that record or website. To add additional links, select "Add another Item" and repeat with a new URL and link text.
 
-- Enter the *URL*. This must be an external link such as `https://www.example.com/`. 
-- Enter the *Link text*. This is the text that will display on your page as the link.
-- To add additional links, select "Add another Item" and repeat with a new URL and link text.
+#### URL
+
+Enter the *URL*. This must be an external link such as `https://www.example.com/`. 
+
+#### Link text
+
+Enter the *Link text*. This is the text that will display on your page as the link.
 
 ### Subject
 
