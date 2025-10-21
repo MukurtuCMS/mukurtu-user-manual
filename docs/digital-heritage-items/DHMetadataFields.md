@@ -164,30 +164,32 @@ This field is plain text and limited to 255 characters.
 "RightsStatements.org provides standardized rights statements that can be used by cultural heritage institutions to indicate the copyright status of digital objects that they make available online, either on their own website or via aggregation platforms. These rights statements are high level summaries of the underlying rights status of the digital objects that they apply to. These rights statements are intended to be used in addition to (more detailed) rights information that institutions already have and not to replace existing information." For more information, visit [rightsstatement.org](https://rightsstatements.org/en/).
 
 The value or the label of allowed values.
-http://rightsstatements.org/vocab/InC/1.0
-http://rightsstatements.org/vocab/InC-OW-EU/1.0
-http://rightsstatements.org/vocab/InC-EDU/1.0
-http://rightsstatements.org/vocab/InC-NC/1.0
-http://rightsstatements.org/vocab/InC-RUU/1.0
-http://rightsstatements.org/vocab/NoC-CR/1.0
-http://rightsstatements.org/vocab/NoC-NC/1.0
-http://rightsstatements.org/vocab/NoC-OKLR/1.0
-http://rightsstatements.org/vocab/NoC-US/1.0
-http://rightsstatements.org/vocab/CNE/1.0
-http://rightsstatements.org/vocab/UND/1.0
-http://rightsstatements.org/vocab/NKC/1.0
+
+`http://rightsstatements.org/vocab/InC/1.0`
+`http://rightsstatements.org/vocab/InC-OW-EU/1.0`
+`http://rightsstatements.org/vocab/InC-EDU/1.0`
+`http://rightsstatements.org/vocab/InC-NC/1.0`
+`http://rightsstatements.org/vocab/InC-RUU/1.0`
+`http://rightsstatements.org/vocab/NoC-CR/1.0`
+`http://rightsstatements.org/vocab/NoC-NC/1.0`
+`http://rightsstatements.org/vocab/NoC-OKLR/1.0`
+`http://rightsstatements.org/vocab/NoC-US/1.0`
+`http://rightsstatements.org/vocab/CNE/1.0`
+`http://rightsstatements.org/vocab/UND/1.0`
+`http://rightsstatements.org/vocab/NKC/1.0`
 
 ### Creative Commons Licenses
 
 Creative Commons licenses provide a standardized way for copyright holders to grant the public permission to use their creative work under copyright law, and to specify the ways in which their work may be altered, shared, and used. For more information, visit [creativecommons.org]("https://creativecommons.org/").
 
 The value or the label of allowed values.
-http://creativecommons.org/licenses/by/4.0
-http://creativecommons.org/licenses/by-nc/4.0
-http://creativecommons.org/licenses/by-sa/4.0
-http://creativecommons.org/licenses/by-nc-sa/4.0
-http://creativecommons.org/licenses/by-nd/4.0
-http://creativecommons.org/licenses/by-nc-nd/4.0
+
+`http://creativecommons.org/licenses/by/4.0`
+`http://creativecommons.org/licenses/by-nc/4.0`
+`http://creativecommons.org/licenses/by-sa/4.0`
+`http://creativecommons.org/licenses/by-nc-sa/4.0`
+`http://creativecommons.org/licenses/by-nd/4.0`
+`http://creativecommons.org/licenses/by-nc-nd/4.0`
 
 ## Additional Fields
 
