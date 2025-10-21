@@ -166,16 +166,27 @@ This field is plain text and limited to 255 characters.
 The value or the label of allowed values.
 
 `http://rightsstatements.org/vocab/InC/1.0`
+
 `http://rightsstatements.org/vocab/InC-OW-EU/1.0`
+
 `http://rightsstatements.org/vocab/InC-EDU/1.0`
+
 `http://rightsstatements.org/vocab/InC-NC/1.0`
+
 `http://rightsstatements.org/vocab/InC-RUU/1.0`
+
 `http://rightsstatements.org/vocab/NoC-CR/1.0`
+
 `http://rightsstatements.org/vocab/NoC-NC/1.0`
+
 `http://rightsstatements.org/vocab/NoC-OKLR/1.0`
+
 `http://rightsstatements.org/vocab/NoC-US/1.0`
+
 `http://rightsstatements.org/vocab/CNE/1.0`
+
 `http://rightsstatements.org/vocab/UND/1.0`
+
 `http://rightsstatements.org/vocab/NKC/1.0`
 
 ### Creative Commons Licenses
@@ -185,10 +196,15 @@ Creative Commons licenses provide a standardized way for copyright holders to gr
 The value or the label of allowed values.
 
 `http://creativecommons.org/licenses/by/4.0`
+
 `http://creativecommons.org/licenses/by-nc/4.0`
+
 `http://creativecommons.org/licenses/by-sa/4.0`
+
 `http://creativecommons.org/licenses/by-nc-sa/4.0`
+
 `http://creativecommons.org/licenses/by-nd/4.0`
+
 `http://creativecommons.org/licenses/by-nc-nd/4.0`
 
 ## Additional Fields
