@@ -45,17 +45,20 @@ It's possible that related families, villages, clans, or other communities might
 
     ![The description field](../_embeds/create-protocol-06.png)
 
-6. In the *membership display* field, select **Do not display any protocol members, Only display cultural protocol stewards,** or **Display all protocol members**
+6. Select the *membership display setting* Choose from one of: 
 
-    - **Do not display any protocol members** does not display any protocol members on the protocol page.
-    - **Only display protocol stewards** displays protocol stewards and not protocol stewards on the community page.
-    - **Display all protocol members** displays all members on the protocol page.
+    - **Do not display** does not display any protocol members on the protocol page.
+    - **Display protocol stewards** displays protocol stewards and not protocol stewards on the community page.
+    - **Display all members** displays all members on the protocol page.
 
         ![The membership display field](../_embeds/create-protocol-07.png)
 
-7. When you are finished, select **Save**, which is sticky at the top of the page. You will be taken to the new protocol page. If you've added a  description, it will display on this page along with a confirmation message.
+7. When you are finished, select **Save**, which is sticky at the top of the page. 
 
        ![Protocol form save button at the top of the page](../_embeds/create-protocol-08.png)
+
+       You will be taken to the new protocol page. If you've added a  description, it will display on this page along with a confirmation message.
+
        ![Newly created protocol page](../_embeds/create-protocol-09.png)
        ***THIS SCREENSHOT WILL NEED TO BE UPDATED***
 
@@ -65,39 +68,48 @@ It's possible that related families, villages, clans, or other communities might
 !!! roles "User Roles"
     Community Manager
 
-1. Navigate to the page of the community to which you would like to add a protocol and select **Add cultural protocol**.
+1. To add a protocol through an existing community, navigate to that community's page. 
 
     You can view community pages through the main menu above your dashboard, or on the dashboard under **Communities**. 
 
     ![A screenshot of the Mukurtu dashboard with a list of links and red arrows pointing at the two ways to access communities.](../_embeds/create-protocol-20.png)
 
+    If you are accessing communities through the menu, select the appropriate community, then select **Create Protocol**.
+
+    ![The communities browse page with a community highlighted in red](../_embeds/create-protocol-11.png)
+    ![The community page with Create protocol highlighted in red](../_embeds/create-protocol-15.png)
+
+    If you are accessing communities through the dashboard, select the appropriate community, then select **Add Cultural Protocol**
+
+    ![A list of available communities](../_embeds/create-protocol-16.png)
+    ![The manage community page with Add Cultural Protocol highlighted in red](../_embeds/create-protocol-17.png)
+
 2. Add a *protocol name*, select a *protocol type* and add a *description* to your protocol. 
 
     ![Screen shot of the create protocol form. At the top is the protocol name field with text box, the sharing settings field with radio buttons next to two options labled strict and open, and the description field with large text box.](../_embeds/create-protocol-14.png)
 
-3. In the *membership display* field, select **Do not display any protocol members, Only display cultural protocol stewards,** or **Display all protocol members**
+3. Select the *membership display setting* Choose from one of: 
 
     - **Do not display any protocol members** does not display any protocol members on the protocol page.
-    - **Only display protocol stewards** displays protocol stewards and not protocol stewards on the community page.
+    - **Only display cultural protocol stewards** displays protocol stewards and not protocol stewards on the community page.
     - **Display all protocol members** displays all members on the protocol page.
 
-        ![The membership display field](../_embeds/create-protocol-07.png)
+        ![The membership display field](../_embeds/create-protocol-18.png)
 
     At this point, you can add protocol members and assign user roles or skip this step and add members at another time.
 
     ![A screenshot of all the protocol user roles, each with a "select user" button beneath them.](../_embeds/create-community-09.png)
 
-
     Protocol user roles are: 
 
-    - protocol member - views content but cannot add or edit.
-    - protocol affiliate - views content but cannot add or edit. This is a designation for community partners that mirrors the community affiliate role.
+    - protocol member - can view content but cannot add or edit.
+    - protocol affiliate - can view content but cannot add or edit. This is a designation for community partners that mirrors the community affiliate role.
     - contributor - can create, edit and delete their own digital heritage items, person records and media assets.
     - curator - can create, edit and delete their own collections and upload media assets. 
     - community record steward - can add community records to content, as well as edit and delete them.
     - language contributor - can add, edit and delete their own dictionary words and word lists.
     - language steward - can add, edit and delete ALL dictonary words and word lists and also add media assets.
-    - protocol steward - manages protocol membership, can add edit and delete all content and media assets, manage the look and feel of the protocol page, and manage Local Contexts labels and notices.
+    - protocol steward - can manage protocol membership, add edit and delete all content and media assets, manage the look and feel of the protocol page, and manage Local Contexts labels and notices.
 
 4. Under the appropriate user role, select "Select Member"
 
@@ -109,7 +121,7 @@ It's possible that related families, villages, clans, or other communities might
 
 5. When you're done adding users and assigning user roles to your protocol, select "Finished."
 
-    ![The protocol enrollment form after users have been added. The search field and community members that have not been added are at the top of the form. Added users appear below a grey divier.](../_embeds/create-community-11.png)
+    ![The protocol enrollment form after users have been added. The search field and community members that have not been added are at the top of the form. Added users appear below a grey divier.](../_embeds/create-protocol-19.png)
 
 6. When you are finished, select "Save and Create Another Protocol" if you have additional protocols to add, or "Save" if you are finished. These buttons are sticky at the top of the page. You can add additional protocols later using these steps.
 
