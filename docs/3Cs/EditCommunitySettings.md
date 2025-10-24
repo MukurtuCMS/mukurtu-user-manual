@@ -13,11 +13,11 @@ Communities can have a range of settings that can be updated once the community 
 ## Name, description, and community page visibility
 
 1. Navigate to the community you wish to edit.
+	![Screenshot of dashboard with two options for accessing communities highlighted](../_embeds/community-settings-10.png)
+
 2. From the community menu options, select **edit**.
 3. From here you can edit the *community name*, *description* and *community page visibility*.
-
---SCREENSHOT OF COMMUNITY NAME, DESCRIPTION AND COMMUNITY PAGE VISIBILITY--	
-![Screenshot of community name, description and community page visibility](../_embeds/placeholderscreenshot.png)
+	![Screenshot of community name, description and community page visibility](../_embeds/community-settings-01.png)
 
 ## Community Types
 
@@ -26,61 +26,60 @@ Communities can have a range of settings that can be updated once the community 
 
 Community types help to organize the communities on your Mukurtu site. For example, a site might have tribal communities, libraries, and families contributing to a site. These can all be assigned a type for streamlined display and easy browse and search. 
 
- 1. From the *community type* dropdown menu, select the appropriate term for your community. 
+ 1. From the *community type* dropdown menu, select the appropriate type for your community. 
+	![Screenshot of the community type field with a dropdown menu of available community types](../_embeds/community-settings-02.png)
 
---SCREENSHOT OF THE COMMUNITY TYPE FIELD WITH A DROPDOWN MENU OF AVAILABLE COMMUNITY TYPES--
-![Screenshot of the community type field with a dropdown menu of available community types](../_embeds/placeholderscreenshot.png)
-
-## Banner and thumbnail images --NEED TO CONFIRM BANNER/THUMBNAIL IMAGE SIZES--
+## Banner and thumbnail images
 
 Banner and thumbnail images are optional styling elements. Banners appear across the top of a community page. Thumbnails appear on community browse pages and can help to make a community more easily recognizable, especially if there are many communities represented on your site. 
 
-Community Browse Page: --SCREENSHOT OF THE COMMUNITY BROWSE PAGE WITH THUMBNAILS--
-![Screenshot of the community browse page with thumbnails](../_embeds/placeholderscreenshot.png)
+Banners generally maintain a 3:1 ratio which may change depending on screen size. Smaller screens will crop banner images. We recommend minimum dimensions of 1800x600px for best rendering.
 
-Community Page: SCREENSHOT OF A COMMUNITY PAGE WITH BANNER DISPLAYED
-![Screenshot of a community page with banner displayed](../_embeds/placeholderscreenshot.png)
+Thumbnail dimensions are 284x304. Anything larger than this will be cropped to that size in display. The image files themselves will not be altered. Thumbnails will resize responsively to smaller screen sizes. 
+
+This is what communities with thumbnails will look like on the community browse page.
+![Screenshot of the community browse page with thumbnails](../_embeds/community-settings-03.png)
+
+This is what a community page looks like with a banner.
+![Screenshot of a community page with banner displayed](../_embeds/community-settings-04.png)
 
 1. Under the image type you want to add, select "Add media."
 2. Browse for image files on your computer or select existing images.
 3. Add alt text and protocols to any new images. Make sure you choose protocols that enable visibility to your target audience.
 4. Populate optional fields as needed.
-5. Save your changes, then select "Insert Selected." 
-
---SCREENSHOT OF THE MEDIA UPLOAD MODAL--
-![Screenshot of the media upload modal](../_embeds/placeholderscreenshot.png)
+5. Save your changes. Then, with your image selected, select "Insert Selected." 
+	![Screenshot of the media upload modal](../_embeds/community-settings-05.png)
 
 ## Featured content
 
 Featured content gives users a preview of selected content contributed by the community. It displays the title and thumbnail of the content on the community page. Custom thumbnails are added by editing the content directly. This may be especially useful for non-image media such as audio and PDFs, which will otherwise display a stock graphic.  
 
-SCREENSHOT OF COMMUNITY PAGE WITH FEATURED CONTENT
+SCREENSHOT OF COMMUNITY PAGE WITH FEATURED CONTENT - WAITING FOR STYLING
 ![Screenshot community page with featured content](../_embeds/placeholderscreenshot.png)
 
 1. Expand *featured content* and select "Select Content." 
 2. Use the dropdown menu to narrow your search by content type, and the *search* field to search for specific content.
 3. All available content is displayed below the search bar. Check the box next to each piece of content you wish to feature.
 4. Select "Add Content."
-5. Remove featured content by selecting the grey "Remove" button below each piece of content.
+	![Screenshot of the featured content modal](../_embeds/community-settings-07.png)
+
+5. Remove featured content by selecting the grey trash can icon in the right corner of each piece of content.
+	![The featured content field with selected featured content](../_embeds/community-settings-09.png)
 
 !!! tip
 	Protocols still apply to this content and media assets, so make sure to choose content that will be viewable by your target audience.
 
-SCREENSHOT OF THE FEATURED CONTENT MODAL
-![Screenshot of the featured content modal](../_embeds/placeholderscreenshot.png)
 
-## Sub-communities --THIS IS BEING WORKED ON--
+## Sub-communities
 
 Communities can be organized into sub-communities to add additional structure and organization to your site. To read more about sub-communities and community struture, see [Manage Community Organization](../3Cs/ManageCommunityOrganization.md)
 
- 1. In the *sub-communitites* field, begin typing the name of the community you wish to add. You will only see communities of which you are the community manager. 
- 2. Select the community you wish to add. 
-
---SCREENSHOT ADDING A SUB-COMMUNITY--
- ![Screenshot of adding a sub-community](../_embeds/placeholderscreenshot.png)
+If your community has sub-communities, they will be listed here. Note that this field is read-only. You cannot add or remove sub-communities from this form.
+	![Screenshot of adding a sub-community](../_embeds/community-settings-08.png)
 
 ## Save
 When your changes are complete, select "Save." You will be taken to your community page and all changes will be displayed.
 
+[WAITING FOR FEATURED CONTENT STYLING]
  ![Screenshot of community page after saving edits](../_embeds/placeholderscreenshot.png)
 
