@@ -90,8 +90,6 @@ Select **Collection** to begin creating your collection. The remaining steps to 
 
 Use the "Select Content" button in the **Related Content** section to add any related content to the collection. Related content includes anything that has a close connection to the collection but is not in the collection, including digital heritage items, dictionary words, person records, or even other collections. It can be used to spotlight content outside of the collection or to guide users to other content. 
 
-    ![Screenshot of the related content field with content selected.](../_embeds/placeholderscreenshot.png)
-
 Select the "Save" button to save your collection.
 
-![Screenshot of the published collection page.](../_embeds/placeholderscreenshot.png)
+![Screenshot of the published collection page.](../_embeds/createcollections8.png)

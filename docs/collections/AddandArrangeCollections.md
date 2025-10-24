@@ -17,20 +17,18 @@ Protocol stewards and curators can curate the content within the collections the
 
 1. Navigate to the collection you want to manage. Select the **Edit** link below the collection title.
 
-    ![Screenshot of the edit link](../_embeds/placeholderscreenshot.png)
+    ![Screenshot of the edit link](../_embeds/curatecollections1.png)
 
-2. In the **Mukurtu Essentials** tab, navigate to the **Items in Collection** field and select the "Select Content" button.
+2. In the **Mukurtu Essentials** tab, navigate to the **Items in Collection** field and select the "Select Content" button. 
 
-    ![Screenshot of the select content button](../_embeds/placeholderscreenshot.png)
+    ![Screenshot of the items in collection field with the select content button highlighted](../_embeds/curatecollections2.png)
 
     !!! tip 
         You can filter content by type or search by title.
         
-        You can add digital heritage items, dictionary words, person records, and word lists to your collection.
+4. Use the checkboxes to select content to add to the collection. Select the "Add Content" button below the content list to add selected content to the collection. You can add digital heritage items, dictionary words, person records, and word lists to your collection.
 
-4. Use the checkboxes to select content to add to the collection. Select the "Add Content" button below the content list to add selected content to the collection.
-
-    ![Screenshot of the Select Content pop-up with the search and filter, checkboxes, and Add Content button highlighted.](../_embeds/placeholderscreenshot.png)
+    ![Screenshot of the Select Content modal with the Add Content button highlighted.](../_embeds/curatecollections3.png)
 
 5. By default, content will be displayed on the collection page in the order it was added to the collection. You can also rearrange the content if needed.
 
@@ -42,8 +40,10 @@ Protocol stewards and curators can curate the content within the collections the
 
 2. In the **Mukurtu Essentials** tab, navigate to the **Items in the Collection** field. Select and drag the content into the preferred order. 
 
-    To remove content from the collection, select the "Remove" button.
+    To remove content from the collection, select the "Remove" icon.
 
-    ![Screenshot of the content in the collection with the drag icon highlighted.](../_embeds/placeholderscreenshot.png)
+    ![Screenshot of the content in the collection with the remove icon highlighted.](../_embeds/curatecollections4.png)
    
-3. Select the "Save" button at the bottom of the page to save your changes.
+3. Select the "Save" button at the top of the page to save your changes.
+
+    ![Screenshot of the collections form with the save button highlighted.](../_embeds/curatecollections5.png)
