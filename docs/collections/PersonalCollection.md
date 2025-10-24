@@ -14,14 +14,14 @@ tags:
 
     - To create a personal collection from your dashboard, navigate to "Personal Collections" in your dashboard. 
 
-        ![Screenshot of the add personal collections page.](../_embeds/personal1.png)
+    ![Screenshot of the add personal collections page.](../_embeds/personal1.png)
 
     - To create a personal collection from content, select **Browse** or **Browse Digital Heritage** to navigate to content. 
 
         - Select the content you want to add to your personal collection.
         - Select the "Add to personal collection" button from the menu bar of the content.
 
-            ![Screenshot of a content item with the Add to personal collection field highlighted.](../_embeds/personal2.png)
+    ![Screenshot of a content item with the Add to personal collection field highlighted.](../_embeds/personal2.png)
 
     The remaining steps are the same as creating a new personal collection from your dashboard. 
 
