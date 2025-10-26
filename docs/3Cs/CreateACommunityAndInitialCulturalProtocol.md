@@ -41,12 +41,11 @@ In Mukurtu 4, creating a new community will automatically prompt you to create a
 
     There are three community roles. To read more, see [User Role Types](../users/user-role-types.md)
 
-    - community manager - can manage community membership and create new protocols.
+    - Community managers can manage community membership and create new protocols.
+    
+    - Community members can view the community page and be added to protocols within the community.
 
-    - community affiliate - This is a designation for community partners. They can view the community page and be added to protocols within the community.
-
-    - community member - can view the community page and be added to protocols within the community.
-
+    - Community affiliats can also view the community page and be added to protocols within the community. This is a designation for community partners. 
     
 5. Add users by selecting "Select Members" under the appropriate role. A window will open where you will make your selections.
 
