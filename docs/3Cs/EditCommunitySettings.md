@@ -22,7 +22,7 @@ Communities can have a range of settings that can be updated once the community 
 ## Community Types
 
 !!! requirement
-	"A Mukurtu administrator must enable community types before they can be used here. See [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md) for more information."
+	A Mukurtu administrator must configure community types before they can be used here. See [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md) for more information.
 
 Community types help to organize the communities on your Mukurtu site. For example, a site might have tribal communities, libraries, and families contributing to a site. These can all be assigned a type for streamlined display and easy browse and search. 
 
@@ -35,7 +35,7 @@ Banner and thumbnail images are optional styling elements. Banners appear across
 
 Banners generally maintain a 3:1 ratio which may change depending on screen size. Smaller screens will crop banner images. We recommend minimum dimensions of 1800x600px for best rendering.
 
-Thumbnail dimensions are 284x304. Anything larger than this will be cropped to that size in display. The image files themselves will not be altered. Thumbnails will resize responsively to smaller screen sizes. 
+Thumbnail images generally maintain a 4:3 ratio. Anything larger than this will be cropped to that size in display. The image files themselves will not be altered. Thumbnails will resize responsively to smaller screen sizes. We recommend minimum dimensions of 800x600px for best rendering.
 
 This is what communities with thumbnails will look like on the community browse page.
 ![Screenshot of the community browse page with thumbnails](../_embeds/community-settings-03.png)
