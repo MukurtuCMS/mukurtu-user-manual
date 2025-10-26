@@ -58,14 +58,14 @@ One caveat to this rule is the use of multiple protocols: if two or more protoco
 
 Protocols allow for members to take an active role in managing the content within a protocol:
 
-- protocol member - views content but cannot add or edit.
-- protocol affiliate - views content but cannot add or edit. This is a communit partner designation.
-- contributor - can create, edit and delete their own digital heritage items, person records and media assets.
-- curator - can create, edit and delete their own collections and upload media assets. 
-- community record steward - can add, edit and delete their own community records.
-- language contributor - can add, edit and delete their own dictionary words and word lists.
-- language steward - can add, edit and delete ALL dictonary words and word lists and add media assets.
-- protocol steward - manages protocol membership, can add edit and delete all content and media assets, manages the look and feel of the protocol and Local Contexts labels and notices.
+- Protocol members can view content but cannot add or edit.
+- Protocol affiliates can view content but cannot add or edit. This is a community partner designation.
+- Contributors can create, edit and delete their own digital heritage items, person records and media assets.
+- Curators can create, edit and delete their own collections and upload media assets. 
+- Community record stewards can add, edit and delete their own community records.
+- Language contributors can add, edit and delete their own dictionary words and word lists.
+- Language stewards can add, edit and delete ALL dictonary words and word lists and add media assets.
+- Protocol stewards manage protocol membership, can add edit and delete all content and media assets, manages the look and feel of the protocol and Local Contexts labels and notices.
 
 To read more about user roles and responsibilities, visit [User Roles Types](../users/user-role-types.md) 
 
