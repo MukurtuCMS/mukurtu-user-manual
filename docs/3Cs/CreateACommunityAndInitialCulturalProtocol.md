@@ -89,16 +89,16 @@ Once you have created a community, you will be directed to create a cultural pro
 
     At this point, you can add protocol members and assign user roles using the same steps used to add community members. If you do not have community members yet, or are currently unsure of role assignments, you can skip this step and manage protocol membership later.
 
-    There are several different user roles for protocols for you to use as needed:
+    There are several different user roles for protocols for you to use as needed. In order of responsibility:
 
-    - protocol member - can view content but cannot add or edit.
-    - protocol affiliate - can view content but cannot add or edit. This is a designation for community partners that mirrors the community affiliate role.
-    - contributor - can create, edit and delete their own digital heritage items, person records and media assets.
-    - curator - can create, edit and delete their own collections and upload media assets. 
-    - community record steward - can add community records to content, as well as edit and delete them.
-    - language contributor - can add, edit and delete their own dictionary words and word lists.
-    - language steward - can add, edit and delete ALL dictonary words and word lists and also add media assets.
-    - protocol steward - can manage protocol membership, add edit and delete all content and media assets, manage the look and feel of the protocol page, and manage Local Contexts labels and notices.
+    - Protocol members can view content but cannot add or edit.
+    - Protocol affiliates can view content but cannot add or edit. This is a designation for community partners that mirrors the community affiliate role.
+    - Contributors can create, edit and delete their own digital heritage items, person records and media assets.
+    - Curators can create, edit and delete their own collections and upload media assets. 
+    - Community record stewards can add community records to content, as well as edit and delete them.
+    - Language contributors can add, edit and delete their own dictionary words and word lists.
+    - Language stewards can add, edit and delete ALL dictonary words and word lists and also add media assets.
+    - Protocol stewards can manage protocol membership, add edit and delete all content and media assets, manage the look and feel of the protocol page, and manage Local Contexts labels and notices.
 
         ![A screenshot of all the protocol user roles, each with a "select user" button beneath them.](../_embeds/create-community-09.png)
 
