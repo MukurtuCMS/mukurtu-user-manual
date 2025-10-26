@@ -100,16 +100,16 @@ It's possible that related families, villages, clans, or other communities might
 
     ![A screenshot of all the protocol user roles, each with a "select user" button beneath them.](../_embeds/create-community-09.png)
 
-    Protocol user roles are: 
+    In order of responsibilitiy, protocol user roles are: 
 
-    - protocol member - can view content but cannot add or edit.
-    - protocol affiliate - can view content but cannot add or edit. This is a designation for community partners that mirrors the community affiliate role.
-    - contributor - can create, edit and delete their own digital heritage items, person records and media assets.
-    - curator - can create, edit and delete their own collections and upload media assets. 
-    - community record steward - can add community records to content, as well as edit and delete them.
-    - language contributor - can add, edit and delete their own dictionary words and word lists.
-    - language steward - can add, edit and delete ALL dictonary words and word lists and also add media assets.
-    - protocol steward - can manage protocol membership, add edit and delete all content and media assets, manage the look and feel of the protocol page, and manage Local Contexts labels and notices.
+    - Protocol members can view content but cannot add or edit.
+    - Protocol affiliates can view content but cannot add or edit. This is a designation for community partners that mirrors the community affiliate role.
+    - Contributors can create, edit and delete their own digital heritage items, person records and media assets.
+    - Curators can create, edit and delete their own collections and upload media assets. 
+    - Community record stewards can add community records to content, as well as edit and delete them.
+    - Language contributors can add, edit and delete their own dictionary words and word lists.
+    - Language stewards can add, edit and delete ALL dictonary words and word lists and also add media assets.
+    - Protocol stewards can manage protocol membership, add edit and delete all content and media assets, manage the look and feel of the protocol page, and manage Local Contexts labels and notices.
 
 4. Under the appropriate user role, select "Select Member"
 
