@@ -22,7 +22,7 @@ Use the *Title* field to provide a title for your digital heritage item. The tit
 
 - This is a required field.
 
-![Screenshot of the title field filled out with the term "title".](../_embeds/dh1.png)
+![Screenshot of the title field filled out with the term "Leabhar na hUidre".](../_embeds/dh1.png)
 
 ### Cultural protocols
 
