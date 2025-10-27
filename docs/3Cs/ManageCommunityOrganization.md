@@ -6,7 +6,7 @@ tags:
 # Manage Community Organization
 
 !!! roles "User roles"
-    Mukurtu administrator
+    Mukurtu manager
 
 You can organize communities into top-level and sub-communities. This is most commonly used in particularly large sites to indicate the organizational structure of a complex group of communities. For example, in a site where there is an organization that has independent departments set up as communities (eg: a national museum with their archives department, and collections department as communities), this would allow you to indicate a hierarchical connection between these communities.
 
@@ -28,13 +28,13 @@ SCREENSHOT SHOWING WHERE TO FIND COMMUNITY ORGANIZATION LINK
 4) When you are satisfied with your arrangement, select Save.
 
 The community organization page will reload with the new community arrangement. 
+    ![Screenshot of community list in their new order, ](../_embeds/community-organization3.png)
 
-![Screenshot of community list in their new order, Community 3, 1, and 2 as a child community of 1.](../_embeds/community-organization3.png)
-
-Top level communities will be visible on the Community page, with sub-communities in the sidebar of their parent community.
-
-![Screenshot of community page with new order](../_embeds/community-organizaton4.png)
-![Screenshot of parent community page with child community in sidebar](../_embeds/placeholderscreenshot.png)
+Top level communities will be visible on the Community page
+    ![Screenshot of community page with new order](../_embeds/community-organization4.png)
+ 
+Sub-communities will be displayed in the sidebar of their parent community.
+    ![Screenshot of parent community page with child community in sidebar](../_embeds/community-organization5.png)
 
 
 
