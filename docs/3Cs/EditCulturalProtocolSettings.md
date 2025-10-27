@@ -18,57 +18,35 @@ Use this field to edit the protocol name. It's helpful to name the community ass
 
 ## Protocol type 
     
-There are two types of protocols, open and strict. Select the appropriate protocol type.
+There are two types of protocols, strict and open. Select the appropriate protocol type.
     
 Strict - Content that uses this cultural protocol is only visible to members of this cultural protocol. The cultural protocol page is also only visible to cultural protocol members.
 
 Open - Content that uses this cultural protocol is visible to all site members and visitors, with no login required. The cultural protocol page is also visible.
 
-## Description
-
-Add or edit the protocol description. Descriptions display on the protocol page and may include information about the purpose of the protocol, the type of content under this protocol, and who to contact if you have questions.
-
----SCREENSHOT OF PROTOCOL NAME, TYPE AND DESCRIPTION FILLED IN---
-![Screenshot of protocol name, type and description](../_embeds/placeholderscreenshot.png)
-
-## Banner and thumbnail images --THIS MIGHT CHANGE, ALSO CONFIRM IMAGE SIZES--
-
-Banner and thumbnail images are optional styling elements. Banners appear across the top of a protocol page. Thumbnails appear --NOT SURE WHERE THEY APPEAR--
-
-1. Under the image type you want to add, select "Add media."
-2. Browse for image files on your computer or select existing images.
-3. Add alt text and protocols to any new images. Make sure you choose protocols that enable visibility to your target audience.
-4. Populate optional fields as needed. See [Media Asset Metadata](../media/MediaAssetMetadata.md) to learn more about these fields.
-5. Save your changes, then select "Insert Selected."
-
-## Featured content
-
-Featured content gives users a preview of selected content within this protocol. It displays the title and thumbnail of the content on the protocol page. 
-
-1. Expand featured content and select "Select Content."
-2. Use the dropdown menu to narrow your search by content type, and the search field to search for specific content.
-3. All available content is displayed below the search bar. Check the box next to each piece of content you wish to feature.
-4. Select "Add Content."
-5. Remove featured content by selecting the grey "Remove" button below each piece of content.
-
----SCREENSHOT OF FEATURED CONTENT MODAL---
-![Screenshot of featured content modal with checkboxes next to selected items](../_embeds/placeholderscreenshot.png)
+![Protocol name and protocol type fields](../_embeds/edit-protocol-01.png)
 
 ## Add/Remove communities
 
 Each protocol is managed by at least one parent community. Protocols can also be managed jointly by multiple communities. If this is the case, additional parent communities can be assigned here. All parent communities will be displayed on the protocol page.
  
-1. To add a parent community, select "Add another item." 
-2. To remove an existing parent community, select "Remove."
+1. To add a parent community, select "Select Communities." 
 
----SCREENSHOT OF COMMUNITY SECTION WITH RED BOXES AROUND REMOVE AND ADD ANOTHER ITEM---
-![Screenshot of community section with red boxes around remove and add another item](../_embeds/placeholderscreenshot.png)
+2. Check the box next to each community you would like to add. Select "Add Communities"
 
-3. Begin typing a community name to pull up a list of available communities. Select the community you would like to assign. --NEED TO UPDATE WHEN ENTITY BROWSER IS CONFIGURED--
-4. Repeat this step to add as many communities as needed.
+**SCREENSHOT OF COMMUNITY SELECTION MODAL**
+![Screenshot of community selection modal](../_embeds/placeholderscreenshot.png)
+
+3. To remove a community, select the trash can icon in the top right corner of each community.
+
+![Screenshot of community section with red boxes around remove and add select communities](../_embeds/edit-protocol-02.png)
 
 !!! Tip
     You must be a community manager in every community you wish to add.
+
+## Description
+
+Add or edit the protocol description. Descriptions display on the protocol page and may include information about the purpose of the protocol, the type of content under this protocol, and who to contact if you have questions.
 
 ## Membership display
 
@@ -78,9 +56,35 @@ Use this setting to determine how members are displayed on a cultural protocol p
 - Display protocol stewards: displays only users assigned to the protocol steward role
 - Display all members: displays all protocol members regardless of role.
 
+## Banner image
+
+The banner is an optional styling element that appears across the top of a protocol page. 
+
+Banners generally maintain a 3:1 ratio which may change depending on screen size. Smaller screens will crop banner images. We recommend minimum dimensions of 1800x600px.
+
+1. Select "Add media."
+2. Browse for an image file on your computer or select an existing image.
+3. Add alt text and protocols to your image. Make sure you choose protocols that enable visibility to your target audience.
+4. Populate optional fields as needed. See [Media Asset Metadata](../media/MediaAssetMetadata.md) to learn more about these fields.
+5. Save your changes, then select "Insert Selected."
+
+## Featured content
+
+Featured content gives users a preview of selected content. It displays the title and thumbnail of the content on the protocol page. 
+
+1. Expand featured content field and select "Select Content."
+2. Use the dropdown menu to narrow your search by content type, and the search field to search for specific content.
+3. All available content is displayed below the search bar. Check the box next to each piece of content you wish to feature.
+4. Select "Add Content."
+    ![Screenshot of featured content modal with checkboxes next to selected items and add content button highlighted in red.](../_embeds/edit-protocol-05.png)
+
+5. Remove featured content by selecting the grey trash can icon on the top right corner of each piece of content.
+    ![Featured content field with a sample content item and trash can icon highlighted in red](../_embeds/edit-protocol-04.png)
+
+
 ## Save
 
 When you are satisfied with your changes, select "Save." A success message will be displayed on the cultural protocols page. 
 
-![Screenshot of cultural protocols page with success message](../_embeds/placeholderscreenshot.png)
+![Screenshot of cultural protocols page with success message](../_embeds/edit-protocol-03.png)
 
