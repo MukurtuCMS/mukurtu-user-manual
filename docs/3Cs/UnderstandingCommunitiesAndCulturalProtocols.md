@@ -15,7 +15,7 @@ A Mukurtu site can have as many communities as needed, and users can be members 
 
 ## How are communities managed?
 
-Communities are managed through a community manager. The community manager can add and remove members, and create new protocols. For more information on user roles, see User roles --LINK--
+Communities are managed by community managers. The community manager can add and remove members, and create new protocols. For more information on user roles, see [User role Types](../users/user-role-types.md)
 
 ### Community Types
 
@@ -27,7 +27,7 @@ On any given site, there may be different types of communities. The community ty
 
 ## What are cultural protocols?
 
-Cultural protocols provide users appropriate access to content and is intended to reflect real life values surrounding access to cultural material. They are listed under the community to which they belong and can only be viewed by protocol members.
+Cultural protocols provide users appropriate access to content and are intended to reflect real life values surrounding access to cultural material. They are listed under the community to which they belong and can only be viewed by protocol members.
 
 All content must belong to at least one cultural protocol so that users know where a piece of content came from and who has access. In Mukurtu 4, this includes media. Users will be prompted to assign a protocol to each media asset at the time of upload.
 
@@ -42,7 +42,7 @@ While cultural protocols can serve many purposes, functionally they are all the 
 
 ## How are cultural protocols managed?
 
-Each cultural protocol is created by and managed within a community. Cultural protocols are managed by the protocol steward, who is assigned to the role by the community manager. Protocol stewards manage protocol membership (enrolling and removing members and assigning other protocol roles), and content (adding, updating and removing content).
+Each cultural protocol belongs to a community. Some cultural protocols may have multiple parent communities. Each cultural protocol is managed by its protocol stewards.
 
 ### Cultural Protocol Types
 
@@ -52,18 +52,20 @@ There are two types of cultural protocols: open and strict, and they are determi
 
 - Strict: Items under strict protocols will only be visible to logged in protocol members. The protocol page will not be visible to the public.
 
-One caveat to this rule is the use of multiple protocols: if two or more protocols are assigned to a piece of content, users may have to be members of all assigned protocols to access the content. This setting is specified individually, for each piece of content.
+One caveat to this rule is the use of multiple protocols: if two or more protocols are assigned to a piece of content, users may have to be members of all assigned protocols to access the content. This setting is specified individually, for each piece of content. To learn more about managing content with multiple protocols, see [Understanding Sharing Settings](UnderstandingSharingSettings.md).
 
 ### Protocol User Roles
 
 Protocols allow for members to take an active role in managing the content within a protocol:
 
-- protocol member - views content but cannot add or edit.
-- protocol affiliate - ???
-- language steward - can add, edit and delete dictionary words and create language lists
-- language contributor - can add dictionary words and create language lists
-- contributor - can create new digital heritage items (only? or other pieces of content as well?)
-- community record steward - can add, edit and delete community records
+- Protocol members can view content but cannot add or edit.
+- Protocol affiliates can view content but cannot add or edit. This is a community partner designation.
+- Contributors can create, edit and delete their own digital heritage items, person records and media assets.
+- Curators can create, edit and delete their own collections and upload media assets. 
+- Community record stewards can add, edit and delete their own community records.
+- Language contributors can add, edit and delete their own dictionary words and word lists.
+- Language stewards can add, edit and delete ALL dictonary words and word lists and add media assets.
+- Protocol stewards manage protocol membership, can add edit and delete all content and media assets, manages the look and feel of the protocol and Local Contexts labels and notices.
 
 To read more about user roles and responsibilities, visit [User Roles Types](../users/user-role-types.md) 
 

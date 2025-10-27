@@ -80,13 +80,14 @@ nav:
     - 3Cs/CategoryTaxonomy.md
     - 3Cs/EditCommunitySettings.md
     - 3Cs/EditCulturalProtocolSettings.md
+    - 3Cs/ManageCommunityOrganization.md
   - Collections:
     - collections/UnderstandingCollections.md
+    - collections/CreateCollection.md 
     - collections/AddandArrangeCollections.md
     - collections/SubcollectionOrganization.md
     - collections/PersonalCollection.md
-    - collections/CreateCollection.md 
-  - DH Items:
+  - Digital Heritage Items:
     - digital-heritage-items/DHMetadataFields.md
     - digital-heritage-items/CreateDHItem.md
     - digital-heritage-items/MultipageItems.md
@@ -106,15 +107,22 @@ nav:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/RequiredModules.md
   - Location Data:
-    - location-data/mapping-test.md
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
-    - media/ByTypeMediaUpload.md
+    - Upload Media Assets:
+      - media/ByTypeMediaUpload/Audio.md
+      - media/ByTypeMediaUpload/Document.md
+      - media/ByTypeMediaUpload/ExternalEmbed.md
+      - media/ByTypeMediaUpload/Image.md
+      - media/ByTypeMediaUpload/RemoteVideo.md
+      - media/ByTypeMediaUpload/SoundCloud.md
+      - media/ByTypeMediaUpload/Video.md
     - media/MediaAssetMetadata.md
     - media/MediaAssetFileFormats.md 
+    - media/ManageMediaAssets.md
     - media/ManageMediaAccessWithProtocols.md 
     - media/VimeoPrivacySettings.md 
     - media/YoutubePrivacySettings.md
