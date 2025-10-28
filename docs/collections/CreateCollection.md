@@ -72,7 +72,7 @@ Select **Collection** to begin creating your collection. The remaining steps to 
 2. Select *Map Points* for your collection. Map points is a detailed, interactive mapping tool that allows placing and drawing multiple locations related to a collection. This field is also used for the browse by map tools. Refer to [Create Map Points](../location-data/CreateMapPoints.md) for detailed instructions on creating map points.
 
     !!! tip
-    Note that this mapping data will be shared with the same users or visitors as the rest of the collection. If the location is sensitive, carefully consider using this field.You can include points, paths, rectangles, or polygons to indicate physical location references for your collection. 
+        Note that this mapping data will be shared with the same users or visitors as the rest of the collection. If the location is sensitive, carefully consider using this field.You can include points, paths, rectangles, or polygons to indicate physical location references for your collection. 
 
 3. Add a *Location Description* to provide additional context and depth to the location(s) connected to the collection. This is a full HTML field that also supports additional media.
 4. Use the *Location* field to provide a taxonomic location term for your collection. This can be a named place, or places, that are closely connected to the collection. Examples include the location where a photo was taken, places named in a story, or the site where an object was created.
