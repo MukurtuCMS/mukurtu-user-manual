@@ -14,43 +14,55 @@ Person Records allow for rich biographical records to be integrated into Mukurtu
 !!! requirement
     You must configure the person records settings before creating new person records. Navigate to the [Configure Person Record Settings](person-records\ConfigurePersonRecord.md) article for instructions. 
 
-From your **Dashboard** or **Add Content**, select the **Person** link.
+From any of your **Dashboard** or **Add Content** links, select **Person Record**.
+
+![Screenshot of the Mukurtu landing page with the Dashboard links highlighted and the Add Content + highlighted, as well as the Create Content dropdown with Person Record highlighted.](../_embeds/person1.png)
 
 ## Mukurtu Essentials
 
-### Name - required
+### Name
 
-Enter the preferred name of the person in the *Name* field. Names can be formatted as `Last, First, Middle`, `Last, First (Nickname)`, `Family name, Given name`, or any other format that makes sense for your community.
+Enter the person's name as they should be primarily identified in the *Name* field. Names can be formatted as `Last, First, Middle`, `Last, First (Nickname)`, `Family name, Given name`, or any other format that makes sense for your community.
 
 - This is a required field.
 
-### Cultural Protocols - required
+### Cultural Protocols
 
-1. Navigate to the **Select cultural protocols to apply to the item** section and select the checkboxes to apply cultural protocols to the media asset.
+Use the checkboxes to apply cultural protocols to your digital heritage item. 
 
-    - This is a required field.
+- This is a required field.
 
-2. Use the **Sharing Setting** field to apply a sharing setting. Select **All** or **Any**.
+### Sharing settings
 
-    - All means that the item may only be shared with members belonging to ALL the protocols listed. This is the more restrictive setting. 
-    - Any means the asset may be shared with members of ANY of the protocols listed. This is less restrictive.
-    - This is a required field.
+Use the checkboxes to select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
+
+- Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
+- All is more restrictive as users must belong to all the selected protocols to view the digital heritage item. 
+- This is a required field.
 
 ![Screenshot with the sharing setting and cultural protocols selected.](../_embeds/placeholderscreenshot.png)
 
 ### Representative terms
 
-This is the field that will identify which site content is connected to this person. This is dependant on proper person record settings configuration. If there are no terms displayed here, either you have not properly configured the person record settings, or there are no matching names in your configured fields. Review the [Configure Person Record Settings](ConfigurePersonRecord.md) article for instructions.
+People may be identified by multiple names, monikers, or identities, sometimes with inconsistent spellings across different content. Representative terms are used to aggregate and display all content where the person is identified by connecting those disparate names.
+
+This is dependant on proper person record settings configuration. If there are no terms displayed here, either you have not properly configured the person record settings, or there are no matching names in your configured fields. Review the [Configure Person Record Settings](ConfigurePersonRecord.md) article for instructions.
 
 !!! requirement
-    There must be people taxonomy terms created to populate this field. To create a people term, navigate to [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md)
+    There must be enabled person taxonomy terms created to populate this field. To create a creator, contributor, or people term, navigate to [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md)
 
-1. In the **Representative Term** section, select the "Select Terms" button to add an existing people term to your person record.
-2. To search for specific terms, enter the term in the *Search* field and select the "Search" button.
-3. Select the checkbox associated with the name(s) you want to apply to your person record.
-4. Select the "Add Terms" button to add your people terms. 
+1. In the **Representative Term** section, select the "Select Terms" button to add an existing term to your person record.
+   
+    !!! tip 
+        You can search for specific terms using the Search field.
 
-![Screenshot showing the representative term section with the fields filled out and content selected.](../_embeds/placeholderscreenshot.png)
+2. Select the checkbox beside all the terms you wish to include, then scroll down and select "Add Terms".
+
+![Screenshot showing the representative term section with the fields filled out and content selected.](../_embeds/person2.png)
+
+3. Select "Finished" to add the terms to your person record. To remove terms from your record, select the **Delete** icon to the top right of each term. 
+
+![Screenshot of the select terms modal with terms selected. The delete icon and finished button are both highlighted.](../_embeds/person3.png)
 
 ### Media assets
 
