@@ -29,3 +29,5 @@ In the example below, the first image shows the some of the metadata from a digi
 The next image shows a community record on the same digital heritage item. The media asset is shared, but many of the metadata fields are entirely different, or include different content.
 
 ![Screenshot of a digital heritage item with an associated community record. The second community tab is selected, so the record shows the metadata from that community.](../_embeds/CommunityRecord2.png)
+
+For more information and instructions on how to create a community record, refer to [Create a Community Record](CreateCommunityRecord.md).
