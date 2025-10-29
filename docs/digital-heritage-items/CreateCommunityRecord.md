@@ -11,7 +11,7 @@ tags:
 Community records allow for multiple layers of information and knowledge to be shared within one item. They are a tool used to provide multiple sets of metadata, and to push back on the concept of a singular, canonical record. Community records can be used for several different purposes, including:
 
   - Preserving community-provided knowledge alongside institutional (library, archive, or museum) catalog records,
-  - Enabling community members to add their own unique knowledge about the item
+  - Enabling community members to add their own unique knowledge about the item,
   - Allowing members of multiple communities to share their own information without having to edit or erase other community members’ contributions
   - Providing appropriate access to knowledge.
 
