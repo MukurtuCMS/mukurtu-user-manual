@@ -60,33 +60,24 @@ This is dependant on proper person record settings configuration. If there are n
 
 ![Screenshot showing the representative term section with the fields filled out and content selected.](../_embeds/person2.png)
 
-3. Select "Finished" to add the terms to your person record. To remove terms from your record, select the **Delete** icon to the top right of each term. 
+3. Select "Finished" to add the terms to your person record. To remove terms from your record, select the **Delete** icon to the top right of each term from the modal or the field. 
 
 ![Screenshot of the select terms modal with terms selected. The delete icon and finished button are both highlighted.](../_embeds/person3.png)
 
 ### Media assets
 
-Add featured media to the **Media Assets** section by selecting the "Add media" button. This can be unique or can reuse media from other content. There is no limit on the number of media assets you can add.
+Media assets are a key element of most person records, though they are not required. Supported media types are images, documents, video, audio, and embed code. Person records can include more than one media asset, and each media asset can be a different media type. Media assets can be assigned a different cultural protocol from the person record to allow differential access to the media assets and metadata. For instructions on how to add a media asset, refer to the [Create Media Assets](/docs/media/CreateMediaAssets.md) article.
 
-1. To upload a media asset, navigate to the Media Assets section.
-2. Select the "Add Media" button.
-3. Select the type of content you want to add. You can upload an audio file, document, image, or video file.
-4. Select the "Choose File" or "Browse" button to upload a file.
-        
-    !!! Tip
-        The text of the upload button depends on your browser.
+- You can add multiple media assets by selecting more than one media asset from the media modal. 
+- To reorder your media assets, select your media assets and drag them into the order you prefer.
 
-5. Select an file from your file explorer.
-6. If you selected the incorrect file, remove it by selecting the "Remove" button after the file uploads.
-7. Fill out the remaining metadata according to the [Media Upload Instructions by Media Type](../media/ByTypeMediaUpload.md) article.
-
-![Screenshot with a media asset applied.](../_embeds/placeholderscreenshot.png)
+![Screenshot with a media asset applied.](../_embeds/person4.png)
 
 ### Date fields
 
-1.  In the **Date Born** section enter the date the person was born. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
-2. In the **Date Died** section enter the date the person died. Acceptable formats are `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
-3. Use the checkbox to indicate whether the person is **Deceased**. This field informs the deceased person media content warning. For more information on this and other media content warnings, please see the [Media Content Warnings](../media/MediaContentWarnings.md) article.
+1.  In the **Date Born** section enter the date the person was born. Enter the year and, if known, select the month and day.
+2. In the **Date Died** section enter the date the person died. Enter the year and, if known, select the month and day.
+3. Use the slider to indicate whether the person is **Deceased**. This field informs the deceased person media content warning. For more information on this and other media content warnings, please see the [Media Content Warnings](../media/MediaContentWarnings.md) article.
 
 ![Screenshot of the date and deceased fields with information filled in to indicate the dates the person was born and died, and that the individual is deceased.](../_embeds/placeholderscreenshot.png)
 
