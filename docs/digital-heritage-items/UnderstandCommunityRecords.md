@@ -30,4 +30,4 @@ The next image shows a community record on the same digital heritage item. The m
 
 ![Screenshot of a digital heritage item with an associated community record. The second community tab is selected, so the record shows the metadata from that community.](../_embeds/CommunityRecord2.png)
 
-For more information and instructions on how to create a community record, refer to [Create a Community Record](CreateCommunityRecord.md).
+For more information and instructions on how to create a community record, refer to [Create Community Records](CreateCommunityRecord.md).
