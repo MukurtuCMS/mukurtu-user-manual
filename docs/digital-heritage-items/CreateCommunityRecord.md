@@ -12,7 +12,7 @@ Community records allow for multiple layers of information and knowledge to be s
 
   - Preserving community-provided knowledge alongside institutional (library, archive, or museum) catalog records,
   - Enabling community members to add their own unique knowledge about the item,
-  - Allowing members of multiple communities to share their own information without having to edit or erase other community members’ contributions
+  - Allowing members of multiple communities to share their own information without having to edit or erase other community members’ contributions, and
   - Providing appropriate access to knowledge.
 
 This builds more comprehensive description for digital heritage items and empowers communities to describe an item's attributes or specific cultural significance more accurately.
