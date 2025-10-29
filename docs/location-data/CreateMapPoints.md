@@ -9,7 +9,7 @@ tags:
 !!! roles "User roles"
     Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
-Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. 
+Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. To add map points to any content type, select the **Additional Fields** tab and scroll down to the *Map Points* field. 
 
 ## Location settings
 
@@ -53,7 +53,7 @@ Polylines are lines that consist of multiple joined points to create a path. Thi
 
     ![Screenshot of a marker with a line connecting a placed vertex and an unplaced vertex with a dotted line between the two.](../_embeds/Mapping6.png)
 
-4. To finish your line, select an existing marker. 
+4. To finish your line, select an existing marker or select the "Finish" button. 
 
     ![Screenshot of a polyline with the icon hovering over an existing marker.](../_embeds/Mapping7.png)
 
@@ -99,7 +99,7 @@ Rectangles can indicate an area. Follow the directions to add a rectangle layer 
 
 ### Add a polygon
 
-Polygons can indicate a specific area. Follow the directions to add a polygon layer to your map.
+Polygons can indicate a specific area. Follow the directions to add a polygon layer to your map. 
 
 1. To add a polygon to your map, select the "Draw Polygon" icon from the right-hand edge of your map.
 
@@ -113,7 +113,7 @@ Polygons can indicate a specific area. Follow the directions to add a polygon la
     
     ![Screenshot of a marker with a line connecting a placed vertex and an unplaced vertex with a dotted line between the two.](../_embeds/Mapping17.png) 
 
-4. Select the first marker to finish drawing your polygon. 
+4. Select the first marker or the "Finish" button to finish drawing your polygon. 
 
     ![Screenshot of a polygon with the icon hovering over the first marker.](../_embeds/Mapping18.png) 
 
@@ -130,7 +130,7 @@ Polygons can indicate a specific area. Follow the directions to add a polygon la
 
 ## Label map layers
 
-Label your polygon by selecting the polygon and entering a location description in the *Map points description* field on the map. You must select the field to enter your text. If you do not label your polygon, the label will default to the name of your content on the **Browse** pages.
+Label your points, polylines, rectangles, and polygons by selecting the marker or layer and entering a location description in the *Map points description* field on the map. You must select the field to enter your text. If you do not label your marker or layer, the label will default to the name of your content on the **Browse** pages. To relabel objects or layers, simply select the object or layer you want to relabel and replace the text in the text box.
 
 ![Screenshot of selecting a polygon to add a label.](../_embeds/Mapping37.png) 
     
@@ -145,15 +145,13 @@ To edit the map points on your map, you can use the three editing icons on the r
     - Move the vertex or vertices by selecting one at a time dragging it to a new location. 
 
         !!! tip
-            If you are trying to draw an amorphous shape, you can outline it by selecting and moving vertices. Each vertex you move generates an inactive vertex to either side. These vertices can be activated by selecting them. This allows you more flexibility to outline lines or shapes.
+            If you are trying to draw an amorphous or curved shape, you can outline it by selecting and moving vertices. Each vertex you move generates an inactive vertex to either side. These vertices can be activated by selecting them. This allows you more flexibility to outline lines or shapes.
     
     ![Screenshot of the edit layers icon.](../_embeds/Mapping26.png)
 
 2. To move objects or layers, select the "Drag layers" icon. You can then select and drag your objects to a new location.
 
     ![Screenshot of the drag layers icon](../_embeds/Mapping27.png)
-
-3. To rename map points, 
 
 3. To remove objects or layers, select the "Remove layers" icon. Select the objects you want to remove, then select "Finish" when done.
 
