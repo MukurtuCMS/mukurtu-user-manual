@@ -7,7 +7,14 @@ tags:
 
 !!! roles "User roles"
     
-    Mukurtu administrator, community manager, protocol steward
+    Mukurtu manager, community manager, protocol steward
+
+The Local Contexts directory provides information about Local Contexts projects and their accompanying labels and notices. 
+
+To learn more about Local Contexts, and the Local Contexts Hub see [Understanding the Local Contexts Hub](./UnderstandingTheLocalContextsHub.md)
+
+!!! Requirement
+    To use the directory you must first create a Local Contexts profile and account, configure your labels within projects, generate a unique API key, and add that key to your site. To learn more about this process, and configure your labels, visit [Getting Started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/). To add an API key to your site, see [Manage Local Contexts Projects](ManageLocalContextsProjects.md) for instructions. 
 
 ## View project directories
 
@@ -15,29 +22,37 @@ Project directory pages exist at the site level, and within each community and p
 
 To view project directories within a community or protocol, navigate to the community or protocol you wish to view and select **Local Contexts Project Directory**. 
 
+![A community manage page with the local contexts directly link highlighted in red.](../_embeds/lc-directory-03.png)
+
 To view the site project directory, go to the dashboard and select **Local Contexts Projects.** 
 
 SCREENSHOT OF SITE PROJECT DIRECTORY LINK
 ![Screenshot of site project directory link](../_embeds/placeholderscreenshot.png)
 
-
-SCREENSHOT OF DIRECTORY PAGE
-
 ## Manage project directories
 
 The information displayed in directories are managed in two locations: the Local Contexts Hub, and the Mukurtu site. 
 
-In the Local Contexts Hub, you can add contacts, background information and metadata to your project. When you add a project to your site, this information will be displayed on the directory page. 
+The API will pull in project names, labels and notices from the Local Contexts Hub. Your Mukurtu site provides you with a Project Directory description where you can fill in any additional information about the project and how labels are being used. 
 
-Additional information can be added to the **Manage Local Contexts** page in the community, protocol, or site directory you are managing.
+Instructions for managing project directories are the same regardless of where the directory is located.
 
-To manage a project directory within a community or protocol, navigate to the community or protocol you wish to manage and select **Manage Local Contexts Project Directory**. 
+To manage a project directory within a community or protocol, navigate to the community or protocol you wish to manage and select **Manage Local Contexts Projects**. 
 
-To manage site project directory, go to the dashboard and select **Manage Site Local Contexts Projects Directory**
+![A community manage page with Manage Local Contexts Projects highlighted](../_embeds/lc-directory-04.png)
 
-Here you can add a description to the project directory. Descriptions can include information about the project and how labels are being used. When finished, select "Save." The directory will load and a description will appear on the project directory alongside project information from the Local Contexts Hub.  --NOT SURE ABOUT THIS - IT CURRENTLY RELOADS THE MANAGE PAGE WITH NO SUCCESS MESSAGE--
+1. To manage the site project directory, go to the dashboard and select **Manage Local Contexts Projects**
 
-SCREENSHOT OF MANAGING DIRECTORY PAGE WITH DESCRIPTION FIELD FILLED OUT
-[Screenshot of managing directory page with description field filled out](../_embeds/placeholderscreenshot.png)
+SCREENSHOT OF DASHBOARD LINK
+![The Mukurtu dashboard with the Manage Local Contexts Projects link highlighted.](../_embeds/placeholderscreenshot.png)
 
-[Screenshot of directory page with description](../_embeds/placeholderscreenshot.png)
+2. You should see your API key and list of Local Contexts projects associated with the API. 
+
+3. Select the Project Directory Settings tab. 
+![The Local Contexts manage page with the Project Directory Settings tab highlighted](../_embeds/lc-directory-01.png)
+
+4. Add a description. Descriptions can include information about the project, how labels are being used, people or organizations working on the project, etc. When finished, select "Save." The page will reload and display a success message.
+![Screenshot of reloaded manage directory page with sucess message](../_embeds/lc-directory-02.png)
+
+5. Updates to the description are visible on the directory page.
+![Screenshot of directory page with updated description](../_embeds/placeholderscreenshot.png)

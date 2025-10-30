@@ -49,8 +49,7 @@ The *Local Contexts Projects* field allows you to apply ALL the labels and notic
 
 In the *Local Contexts Projects* field, select the project you wish to apply. 
 
-SCREENSHOT OF PROJECT SELECTION
-![Screenshot of project selection ](../_embeds/placeholderscreenshot.png)
+![Local Contexts projects field with all available projects listed](../_embeds/apply-labels-01.png)
 
 
 ## Apply individual labels and notices
@@ -58,6 +57,8 @@ SCREENSHOT OF PROJECT SELECTION
 The *Local Contexts Labels and Notices* field allows you to select individual labels and notices to apply to your content. 
 
 In the *Local Contexts Labels and Notices* field, select the labels and notices you wish to apply. 
+
+![Local Contexts labels and notices field with all available labels listed](../_embeds/apply-labels-02.png)
 
 Complete the rest of your content form and select save. Your content will load and the labels and notices you applied will appear in the sidebar.
 
