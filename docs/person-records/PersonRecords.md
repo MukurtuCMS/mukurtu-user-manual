@@ -26,7 +26,7 @@ Enter the person's name as they should be primarily identified in the *Name* fie
 
 - This is a required field.
 
-### Cultural Protocols
+### Cultural protocols
 
 Use the checkboxes to apply cultural protocols to your digital heritage item. 
 
@@ -42,23 +42,23 @@ Use the checkboxes to select a **Sharing setting**. Sharing setting has two opti
 
 ![Screenshot with the sharing setting and cultural protocols selected.](../_embeds/placeholderscreenshot.png)
 
-### Representative terms
+### Other names
 
-People may be identified by multiple names, monikers, or identities, sometimes with inconsistent spellings across different content. Representative terms are used to aggregate and display all content where the person is identified by connecting those disparate names.
+People may be identified by multiple names, monikers, or identities, sometimes with inconsistent spellings across different content. The other names field is used to aggregate and display all content where the person is identified by connecting those disparate names.
 
 This is dependant on proper person record settings configuration. If there are no terms displayed here, either you have not properly configured the person record settings, or there are no matching names in your configured fields. Review the [Configure Person Record Settings](ConfigurePersonRecord.md) article for instructions.
 
 !!! requirement
     There must be enabled person taxonomy terms created to populate this field. To create a creator, contributor, or people term, navigate to [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md)
 
-1. In the **Representative Term** section, select the "Select Terms" button to add an existing term to your person record.
+1. In the **Other Names** section, select the "Select Terms" button to add an existing term to your person record.
    
     !!! tip 
         You can search for specific terms using the Search field.
 
 2. Select the checkbox beside all the terms you wish to include, then scroll down and select "Add Terms".
 
-![Screenshot showing the representative term section with the fields filled out and content selected.](../_embeds/person2.png)
+![Screenshot showing the other names section with the fields filled out and content selected.](../_embeds/person2.png)
 
 3. Select "Finished" to add the terms to your person record. To remove terms from your record, select the **Delete** icon to the top right of each term from the modal or the field. 
 
