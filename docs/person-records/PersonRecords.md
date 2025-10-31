@@ -151,7 +151,7 @@ Use the *Location description* field to provide additional context and depth to 
 
 Enter a *Location*. This is a named place, or places, that are closely connected to the person record. Examples include the places a person was born, lived, died, or sites of important life events.
 
-![Screenshot of the locations taxonomy field with terms entered.](../_embeds/dh16.png)
+![Screenshot of the locations fields with points, text, and terms entered.](../_embeds/person12.png)
 
 ### Local Contexts Projects
 
@@ -166,7 +166,7 @@ Select one or more Labels from the appropriate Local Contexts Project.
 !!! tip
     If a complete project has already been selected, do not also select individual Labels from the same project. 
 
-![Screenshot of Local Contexts project and labels fields highlighted](../_embeds/dh10.png)
+![Screenshot of Local Contexts project and labels fields highlighted](../_embeds/person13.png)
 
 ## Related content
 
@@ -177,10 +177,8 @@ Select one or more Labels from the appropriate Local Contexts Project.
 
 Person records can be related to any other site content when there is a connection between those items that is important to show. In the **Related Content** section, select "Select Content" to choose from existing site content.
 
-    ![Screenshot showing the related content section with the fields filled out and content selected.](../_embeds/placeholderscreenshot.png)
-
 ## Browse person records
 
 To browse person records, navigate to **Browse** or go directly to `/browse`. To filter by person records, navigate to the **Content type** header on the right-hand side of the page and select the checkbox beside *Person*. 
 
-![Screenshot showing where the content type header and person checkbox are on the browse content page.](../_embeds/placeholderscreenshot.png)
+![Screenshot showing where the content type header and person checkbox are on the browse content page.](../_embeds/person14.png)
