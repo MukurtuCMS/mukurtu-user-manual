@@ -23,7 +23,7 @@ You can use the *Media name* field to search for media assets by name, or you ca
 
 - To edit media assets in the media library, select the "Edit" button to the far right of the media asset. 
 
-![Screenshot of the media library with the Edit button hightlighted in a media asset.](../_embeds/medialibrary3.png)
+![Screenshot of the media library with the Edit button hightlighted in a media asset.](../_embeds/medialibrary5.png)
 
 - Make your edits in the form and select Save when done.
 
@@ -31,7 +31,7 @@ You can use the *Media name* field to search for media assets by name, or you ca
 
 - You can also edit media assets in content by selecting the "Edit" icon in the top right-hand corner of the media asset. 
 
-![Screenshot of a digital heritage item with the Edit media icon highlighted.](../_embeds/medialibrary5.png)
+![Screenshot of a digital heritage item with the Edit media icon highlighted.](../_embeds/medialibrary3.png)
 
 ## Delete media assets
 

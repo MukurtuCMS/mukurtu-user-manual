@@ -5,7 +5,7 @@ tags:
 # Media Content Warnings
 
 !!! roles "User role"
-    Mukurtu administrator
+    Mukurtu manager
 
 Media content warnings are a tool used to flag potentially sensitive or triggering media assets, and allow a user to choose whether or not to interact with them before viewing or accessing the media. They can be used with all media types, and are configured to display with thumbnails, full-size media, and other display modes.
 

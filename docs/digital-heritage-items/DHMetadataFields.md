@@ -7,6 +7,9 @@ tags:
 
 # Digital Heritage Item Metadata Fields
 
+!!! roles "User roles"
+    Protocol steward, contributor
+
 This article provides detail for each of the Digital Heritage Item metadata fields. All the information here is presented in the helper text within the Digital Heritage Item edit/creation screen. 
 
 ## Mukurtu Essentials
