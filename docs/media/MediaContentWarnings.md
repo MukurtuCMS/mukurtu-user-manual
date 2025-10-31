@@ -23,7 +23,7 @@ Some example uses of taxonomy triggered warnings include boarding or residential
 
 **Deceased person warnings**
 
-Deceased person warnings are a more rigid warning. They are dependent on the people field that is included in all media types, and require use of the person record [add link] tool. There is only one deceased person warning available, and the message can be customized.
+Deceased person warnings are a more rigid warning. They are dependent on the people field that is included in all media types, and require use of the person record tool. There is only one deceased person warning available, and the message can be customized. 
 
 !!! tip
      Deceased person warnings are a response to requests from communities where there are degrees of restrictions on how individuals can or should interact with images or recordings of people who have passed away. If the choice is individual this can be a useful tool. However, if there is need for stricter control over access to these materials, consider managing that with cultural protocols.

@@ -40,16 +40,12 @@ Use the checkboxes to select a **Sharing setting**. Sharing setting has two opti
 - All is more restrictive as users must belong to all the selected protocols to view the digital heritage item. 
 - This is a required field.
 
-![Screenshot with the sharing setting and cultural protocols selected.](../_embeds/placeholderscreenshot.png)
-
 ### Other names
 
-People may be identified by multiple names, monikers, or identities, sometimes with inconsistent spellings across different content. The other names field is used to aggregate and display all content where the person is identified by connecting those disparate names.
-
-This is dependant on proper person record settings configuration. If there are no terms displayed here, either you have not properly configured the person record settings, or there are no matching names in your configured fields. Review the [Configure Person Record Settings](ConfigurePersonRecord.md) article for instructions.
+People may be identified by multiple names, monikers, identities, and with inconsistent spellings across different content. This field is used to aggregate and display all content where the person is identified by connecting those disparate names. 
 
 !!! requirement
-    There must be enabled person taxonomy terms created to populate this field. To create a creator, contributor, or people term, navigate to [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md)
+    There must be existing person taxonomy terms to populate this field. For more information on how to create a creator, contributor, or people term, navigate to [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md).
 
 1. In the **Other Names** section, select the "Select Terms" button to add an existing term to your person record.
    
@@ -79,103 +75,107 @@ Media assets are a key element of most person records, though they are not requi
 2. In the **Date Died** section enter the date the person died. Enter the year and, if known, select the month and day.
 3. Use the slider to indicate whether the person is **Deceased**. This field informs the deceased person media content warning. For more information on this and other media content warnings, please see the [Media Content Warnings](../media/MediaContentWarnings.md) article.
 
-![Screenshot of the date and deceased fields with information filled in to indicate the dates the person was born and died, and that the individual is deceased.](../_embeds/placeholderscreenshot.png)
+![Screenshot of the date and deceased fields with information filled in to indicate the dates the person was born and died, and that the individual is deceased.](../_embeds/person5.png)
 
 ## Biography
-
-This is where you can provide interpersonal relationships and biographical information for your person record. 
 
 ### Related people
 
 !!! requirement
-    Related person records must have already been created in order to be added to the related people section. 
+    Related person records must have already been created in order to be added to the related people section. Note that these relationships are not automatically bi-directional, and must be added to both person records. 
 
-1. In the **Related People** section, select the "Add Related Person" button to add a related individual to your person record. Related people is a broad field that can encompass many different types of interpersonal relationships. Some examples of relationships include family members, friends, community members, and other complex relationships.
+1. In the **Related People** section, select the "Add Related Person" button to add a related individual to your person record. Related people is used to reflect real-world relationships between people. Examples include family, professional, cultural, educational, or any other kind of interpersonal relationships. 
 
-2. Select the "Select Content" button to add another person record.
+- Select the "Select content" button. 
+
+    ![Screenshot of the add related person button in the related people section](../_embeds/person6.png)
+
+    !!! tip 
+        You can use the search field to search for other person records by name.
+
+- Select the checkbox beside the person record you wish to add as a related person, then scroll down and select "Add Content". You can only add one related person at a time.
+
+    ![Screenshot of the related person field with the select content button highlighted.](../_embeds/person7.png)
+
+    ![Screenshot of the add related person field with a name selected and the add content button highlighted](../_embeds/person8.png)
+
+3. In the *Relationship Type* field enter the type of relationship between the related person and the subject of the person record. This is an autocomplete field that is tied to the **Interpersonal Relationship** taxonomy. 
     
-    - To search for a specific person record, enter the name of an individual in the *Title* field and select the "Apply" button.
-    - Select the checkbox associated with the name(s) of related people you want to apply to your person record.
-    - Select the "Add Content" button. 
-
-3. In the *Relationship Type* field enter the name of the type of relationship between the individuals. This is an autocomplete field that is tied to the **Interpersonal Relationship** taxonomy terms. 
-    
-    - If the relationship type term already exists in the taxonomy, begin typing the term and select it from the autocomplete suggestions.
-    - If the relationship term does not exist in the taxonomy, enter the full term. The new term will be added to the taxonomy when you save your person record. 
+    - As you type, existing relationship types will be displayed. Select an existing relationship type or enter a new one. 
+    - To include additional relationship types, select "Add another item".
     - For more information on managing taxonomy terms, navigate to [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md).
 
-    ![Screenshot showing the relationship type field filled out with an autocomplete generated selection of taxonomy terms](../_embeds/placeholderscreenshot.png)
+    ![Screenshot showing the relationship type field filled out with add another item highlighted](../_embeds/person9.png)
 
 4. To add another related person, select the "Add Related Person" button to add additional location text boxes.
       
-    - Select and drag the arrows by the location to reorder your related people if necessary.
+      ![Screenshot with the add related person button highlighted.](../_embeds/person10.png)
+
+    - Select and drag the arrows to reorder your related people if necessary.
     - To remove a related person, select the "Remove" button.
 
 ### Biography sections
 
-1. Under the **Biography Sections**, enter the title of the biographical information in the *Title* field. 
-2. Use the *Body* field to provide a longer biographical sketch for your person record. This field enables a broader narrative that can include a written biography, audio recordings, video recordings, images, or any other supportive information for your person record. This is a full HTML field that supports text, audio, images, and video media assets.
-3. Select the "Add Formatted Text with Title" button to add an additional biography section. 
+The biography is an account of the person's life, whether written or compiled by others, an autobiography, or both. While they are primarily written, they may include media assets as well. Biography sections can be rearranged and collapsed for easier editing. To add additional biography sections, select "Add Biography section".
+
+1. Enter the title of the biographical information in the *Title* field. Examples include "Early life", "Education", or "Professional career".
+2. Use the *Body* field to provide a longer biographical sketch for your person record. This field enables a broader narrative that can include a written biography, audio recordings, video recordings, images, or any other supportive information for your person record. This HTML field can support rich text and embedded media assets using the editing toolbar.
+3. Select the "Add Biography section" button to add an additional biography section. 
 
     !!! tip
-        Adding multiple biography sections allows users a more clearly delineated way to provide multiple people's perspectives on the individual's life or separate different aspects of their life, activities, or work.
+        Biographies can be composed in sections to more clearly structure the person's life events, story, accomplishments, and relationships. 
 
-![Screenshot with the text sections and biographical information sections filled in with example text.](../_embeds/placeholderscreenshot.png)
-
-You can save your person record at this point, or return to the top of your page to select the **Mukurtu Essentials**, **Relations**, or **Additional Fields** tabs to add more context to your person record.
+![Screenshot with the text sections and biographical information sections filled in with example text.](../_embeds/person11.png)
 
 ## Additional Fields
 
-The **Additional Fields** tab is used to add keywords, mapping and location information, and Local Contexts labels and notices to your person record.
-
 ### Keywords
 
-In the **Keywords** section, add keywords that would help users find the person record. This may include significant events or organizations they were a part of, or other related terms. Keywords provide an additional way to categorize your content. In general, 3-5 keywords are recommended to make it easier for users to search and retrieve content. 
-   
-1. Select the "Add another item" button to add additional keyword text boxes.
-2. Select and drag the arrows by the keyword to reorder your keywords if necessary.
-3. To remove a keyword, select the "Remove" button.
+*Keywords* are used to tag person records to ensure that they are discoverable when searching or browsing. Examples include significant life events or organizations which the person was involved with.
 
-### Locations
+- Consider adding 3-5 keywords to your collection by selecting the "Add another item" button to add additional keywords fields. 
+- This field feeds into the keywords taxonomy.
 
-1. Use the **Map Points** Leaflet map to enter one or more geographic locations for your person record. This can be an area that the person lived in, that they were associated with, or any other geographic location. Use the buttons on the right to enter points, paths, rectangles, or polyons to your map. You can also add markers to your map by uploading GeoJSON shapes. For more information on how to use the **Map Points** Leaflet map, visit [Create Map Points](../map-points/CreateMapPoints.md)
-2. Add a *Location Description*. If a location has identifying characteristics but is not able to be pinpointed on a map this field can be used instead of the mapped location. It can also be used to add additional context to the map points. This is a full HTML field that also supports additional media.
-3. Use the *Location* field to provide a taxonomic location term for your collection.
+### Map points
 
-    - Select the "Add another item" button to add additional location text boxes.
-    - Select and drag the arrows by the location to reorder your locations if necessary.
-    - To remove a location, select the "Remove" button.
+Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. For detailed instructions on how to include *Map Points*, visit [Create Map Points](../map-points).
 
-    ![Screenshot of the location description and taxonomic location fields filled in.](../_embeds/placeholderscreenshot.png)
+    !!! tip
+        Note that this mapping data will be shared with the same users or visitors as the rest of the person record. If the location is sensitive, carefully consider using this field.
 
-### Local Contexts
+### Location description
 
-Use the *Local Contexts* field to apply Traditional Knowledge labels to your collection. 
-    
+Use the *Location description* field to provide additional context and depth to the location(s) connected to the person record. Location description can be used independently of other location fields and is a full HTML field that supports text, audio, images, and video.
+
+### Location
+
+Enter a *Location*. This is a named place, or places, that are closely connected to the person record. Examples include the places a person was born, lived, died, or sites of important life events.
+
+![Screenshot of the locations taxonomy field with terms entered.](../_embeds/dh16.png)
+
+### Local Contexts Projects
+
+Use the **Local Contexts** field to apply Traditional Knowledge labels to your person record. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
+
+Select your Local Contexts project from the list. This field will apply all of the Labels from the selected Local Contexts Project(s) to the person record.
+
+### Local Contexts Labels and Notices
+
+Select one or more Labels from the appropriate Local Contexts Project. 
+
 !!! tip
-    To start a project or for more information on Local Contexts projects, labels, and notices, visit [Local Contexts](https://localcontexts.org/).
+    If a complete project has already been selected, do not also select individual Labels from the same project. 
 
-1. Select your Local Contexts project from the dropdown. 
-2. Select Local Contexts labels and notices to assign to the collection.  
-      
-![Screenshot of the local contexts fields with information selected from the dropdown menu.](../_embeds/placeholderscreenshot.png)
-
-Select the "Save" button to save your person record.
+![Screenshot of Local Contexts project and labels fields highlighted](../_embeds/dh10.png)
 
 ## Related content
-
-The **Related content** tab is used to add related content to your person record. 
 
 ### Related content
 
 !!! tip
     If properly configured, the site will auto-aggregate content related to this person. In most cases this field will not be used.
 
-In the **Related Content** section, select the "Select Content" button to add content to your person record. Related content includes anything that has a close connection to the person, including digital heritage items, dictionary words, person records, and collections. 
-
-1. Select the *Type* dropdown field to filter content by type. Content can also be filtered by entering the name of the content in the *Title* field. Select the "Apply" button to apply these filters.
-2. Select the checkbox associated with the content you want to apply to your person record.
-3. Select the "Add Content" button to add your content. 
+Person records can be related to any other site content when there is a connection between those items that is important to show. In the **Related Content** section, select "Select Content" to choose from existing site content.
 
     ![Screenshot showing the related content section with the fields filled out and content selected.](../_embeds/placeholderscreenshot.png)
 
