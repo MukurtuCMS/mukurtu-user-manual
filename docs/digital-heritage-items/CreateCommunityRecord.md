@@ -12,7 +12,7 @@ Community records allow for multiple layers of information and knowledge to be s
 
 ## Add a community record
 
-To add a community record, a user must be a protocol steward of at least one of the cultural protocols of the digital heritage item that they are creating the community record from. Even though a community record can have its own set of protocols, the user must be able to access the initial digital heritage item to view its community record. If multiple strict protocols are going to be used, it is best practice to make the digital heritage item the most public of the records. Multiple community records can be added to a digital heritage item.
+To add a community record, a user must be a protocol steward of at least one of the cultural protocols of the digital heritage item that they are creating the community record from. If multiple strict protocols are going to be used, it is best practice to make the digital heritage item the most public of the records. Multiple community records can be added to a digital heritage item.
 
 To create a community record, select the "+ Community Record" button. 
 
@@ -22,6 +22,6 @@ Community records are created the same way as digital heritage items. The only d
 
 ## Edit a community record
 
-To edit a community record, navigate to the record you want to edit. Select the record tab for the record you want to edit, then select the "Edit" button.
+To edit a community record, navigate to the record you want to edit and select the "Edit" button.
 
 ![Screenshot of a community record with the record tab and edit button highlighted.](../_embeds/CommunityRecord4.png)
