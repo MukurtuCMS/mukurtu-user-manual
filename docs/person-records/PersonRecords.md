@@ -173,9 +173,3 @@ Select one or more Labels from the appropriate Local Contexts Project.
     If properly configured, the site will auto-aggregate content related to this person. In most cases this field will not be used.
 
 Person records can be related to any other site content when there is a connection between those items that is important to show. In the **Related Content** section, select "Select Content" to choose from existing site content.
-
-## Browse person records
-
-To browse person records, navigate to **Browse** or go directly to `/browse`. To filter by person records, navigate to the **Content type** header on the right-hand side of the page and select the checkbox beside *Person*. 
-
-![Screenshot showing where the content type header and person checkbox are on the browse content page.](../_embeds/person14.png)
