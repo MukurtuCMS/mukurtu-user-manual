@@ -137,8 +137,8 @@ The biography is an account of the person's life, whether written or compiled by
 
 Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. For detailed instructions on how to include *Map Points*, visit [Create Map Points](../map-points).
 
-    !!! tip
-        Note that this mapping data will be shared with the same users or visitors as the rest of the person record. If the location is sensitive, carefully consider using this field.
+!!! tip
+    Note that this mapping data will be shared with the same users or visitors as the rest of the person record. If the location is sensitive, carefully consider using this field.
 
 ### Location description
 
