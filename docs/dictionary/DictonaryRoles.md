@@ -8,9 +8,9 @@ tags:
 
 There are multiple roles available to provide appropriate control and responsibility of creating and managing the dictionary.
 
-## Mukurtu Administrator
+## Mukurtu Manager
 
-The Mukurtu administrator can add new languages to the site through the Manage Taxonomies page. For detailed instructions, see [Add a Dictionary Language](AddLanguage.md)
+The Mukurtu manager can add new languages to the site through the Manage Taxonomies page. For detailed instructions, see [Add a Dictionary Language](AddLanguage.md)
 
 ## Protocol Stewards
 
