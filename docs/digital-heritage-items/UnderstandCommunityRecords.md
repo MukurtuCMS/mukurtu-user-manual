@@ -3,7 +3,7 @@ tags:
     - content
     - digital heritage items
 ---
-# Understand Community Records
+# Understanding Community Records
 
 !!! roles "User roles"
     Protocol steward, community record steward
