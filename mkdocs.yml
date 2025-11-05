@@ -146,6 +146,7 @@ nav:
   - Person Records:
     - person-records/UnderstandingPersonRecords.md
     - person-records/PersonRecords.md
+    - person-records/ConfigurePersonRecord.md
   - Users:
     - users/users-intro.md
     - users/user-role-types.md 
@@ -155,6 +156,5 @@ nav:
   - Taxonomies:
     - taxonomies/UnderstandingTaxonomies.md
     - taxonomies/ManagingTaxonomies.md
-    - taxonomies/ConfigurePersonRecord.md
   - Tags: tags.md
   - Download the User Manual: DownloadManual.md
