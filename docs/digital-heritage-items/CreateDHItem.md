@@ -217,11 +217,11 @@ Use the *Identifier* field to provide a unique, unambiguous reference to your di
 
 ### Keywords
 
-Use the *Keywords* field to add any keywords to your collection. 
+Use the *Keywords* field to add any keywords to your digital heritage item. 
 
 - Keywords are terms used to describe content to ensure that the item will be discoverable when searching or browsing. 
 - They are more flexible and specific than categories. 
-- Consider adding 3-5 keywords to your collection by selecting the "Add another item" button to add additional keywords fields. 
+- Consider adding 3-5 keywords to your digital heritage item by selecting the "Add another item" button to add additional keywords fields. 
 - This field feeds into the keywords taxonomy.
 
 ### Language

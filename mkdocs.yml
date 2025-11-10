@@ -88,9 +88,11 @@ nav:
     - collections/SubcollectionOrganization.md
     - collections/PersonalCollection.md
   - Digital Heritage Items:
+    - digital-heritage-items/UnderstandingDigitalHeritage.md
     - digital-heritage-items/DHMetadataFields.md
     - digital-heritage-items/CreateDHItem.md
-    - digital-heritage-items/CreateCommunityRecords.md
+    - digital-heritage-items/UnderstandCommunityRecords.md
+    - digital-heritage-items/CreateCommunityRecord.md
     - digital-heritage-items/MultipageItems.md
   - Dictionary:
     - dictionary/AddLanguage.md
