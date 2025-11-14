@@ -107,10 +107,12 @@ nav:
     - local-contexts/ViewAndManageDirectoryPages.md
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
-    - localization-translation/RequiredModules.md
+    - localization-translation/ConfigureTranslation.md
   - Location Data:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
+  - Look and Feel:
+    - look-and-feel/ManageNameSloganEmail
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
