@@ -5,6 +5,10 @@ tags:
 
 # 3) Mukurtu 3 Pre-Migration Activities
 
+!!! note "Migration Warnings to Update"
+    - Community and Cultural Protocol banner and thumbnail images will not migrate. Plan to download from v3 and upload to v4 post-migration.
+    - If your dictionary sample sentences include either multiple embeds or embeds and text in the SAME text field, please edit that before migration. A v3 sample sentence should ONLY include text OR one audio embed.
+
 The pre-migration report will identify all site content that needs to be updated or modified before it can be migrated to Mukurtu 4. The report will also identify any content settings that will not be migrated. 
 
 > The pre-migration report and migration tools only address stock Mukurtu content and features. For example, if you have created a new content type, or added a new field, it will not be reflected in this report. Please contact [support@mukurtu.org](mailto:support@mukurtu.org) with any questions.
