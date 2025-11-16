@@ -5,7 +5,7 @@ tags:
 
 # 3) Mukurtu 3 Pre-Migration Activities
 
-!!! note "Migration Warnings to Update"
+!!! warning "Migration Warnings to Update"
     - Community and Cultural Protocol banner and thumbnail images will not migrate. Plan to download from v3 and upload to v4 post-migration.
     - If your dictionary sample sentences include either multiple embeds or embeds and text in the SAME text field, please edit that before migration. A v3 sample sentence should ONLY include text OR one audio embed.
 
