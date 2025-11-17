@@ -3,12 +3,10 @@ tags:
     - translation and localization
 ---
 
-# Configure Translation and Localization
+# Add Languages
 
 !!! roles "User role"
     Mukurtu manager
-
-# Add Languages
 
 You can add pre-configured or custom languages to your Mukurtu site after configuring translation by following the link in the warning message or by navigating to Configuration > Region and Languages > Language in your left-hand sidebar. You can access this setting directly by going to `/admin/config/regional/language`. For more information on configuring translation, refer to [Configure Translation and Localization](ConfigureTranslation.md)
 
