@@ -108,6 +108,7 @@ nav:
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
     - localization-translation/ConfigureTranslation.md
+    - localization-translation/AddLanguage.md
   - Location Data:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
