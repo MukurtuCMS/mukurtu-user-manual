@@ -35,8 +35,30 @@ The following modules should already be included in a standard Mukurtu 4 build, 
 
 ## Add a language
 
-Add a language to your Mukurtu site by following the link in the warning message or by navigating to Configuration > Region and Languages > Language. You can access this setting directly by going to `/admin/config/regional/language`.
+You can add pre-configured or custom languages to your Mukurtu site by following the link in the warning message or by navigating to Configuration > Region and Languages > Language in your left-hand sidebar. You can access this setting directly by going to `/admin/config/regional/language`.
 
-1. 
+![Screenshot of the Configuration menu with Region and Languages open and Language highlighted](../_embeds/translation7.png)
 
+### Add a pre-configured language
 
+1. Select the "Add Language" button in the top right-hand corner of the Languages configuration page.
+
+    ![Screenshot of the languages configuration page with the add language button highlighted](../_embeds/translation4.png)
+
+2. Select a language to be supported by your site from the dropdown menu. If your language is not listed in the dropdown menu, refer to [Add a custom language code](#add-a-custom-language-code) section of this article for instructions on how to add your language.
+
+    ![Screenshot of the Add language page with the dropdown menu set to French.](../_embeds/translation5.png)
+
+3. Select the "Add language" button to add the selected language to your site.
+4. You will receive a confirmation message your language has been added successfully.
+
+    ![Screenshot of the status message confirming that a language has been added successfully.](../_embeds/translation6.png)
+
+### Add a custom language code
+
+1. If your language is not available, select the "Custom language" option to provide a language code and other details manually.
+
+    !!! tip
+        More information about constructing custom languages and custom language codes can be found at the [IANA Language Tags Registry](https://www.w3.org/International/articles/language-tags/) site. For more information on constructing custom language tags, visit the [IANA Language Tags Registry https://r12a.github.io/app-subtags/
+
+    ![Screenshot of the Add language page with the dropdown menu set to Custom language...and the fields available](../_embeds/translation8.png)
