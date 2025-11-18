@@ -97,6 +97,7 @@ nav:
   - Dictionary:
     - dictionary/AddLanguage.md
     - dictionary/DictonaryRoles.md
+    - dictionary/DictionaryWordMetadata.md
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Local Contexts:
