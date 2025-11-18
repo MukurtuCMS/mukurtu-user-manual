@@ -10,7 +10,7 @@ tags:
 
 Mukurtu 4 supports translation and localization into multiple languages. 
 
-The following modules should already be included in a standard Mukurtu 4 build, and can be installed from the front end of the site. The Language Module is already installed, but Configuration Translation, Content Translation, and Interface Translation are not configured be default. 
+The following modules are included and can be installed from the front end of the site. Configuration Translation, Content Translation, and Interface Translation must be installed manually, but the Language Module comes pre-installed.
 
 - Configuration Translation
 - Content Translation

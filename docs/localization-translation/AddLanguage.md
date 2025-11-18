@@ -29,7 +29,7 @@ You can add pre-configured or custom languages to your Mukurtu site after config
 
 ## Add a custom language code
 
-1. If your language is not available, select the "Custom language" option to provide a language code and other details manually.
+1. If your language is not available, select the "Custom language" option to provide a language code and other details manually. Be aware that custom languages may require more translation work as fewer site elements may already be translated. For more information on translating site elements, refer to **WRITE AN ARTICLE FOR THIS**
 
     - A listing of IANA language tags can be found at the [IANA Language Tags Registry](https://r12a.github.io/app-subtags/) site. 
     - If your language is not listed, you can construct a custom language tag. For more information on constructing custom language tags, visit the [IANA Language Tags Registry](https://www.w3.org/International/articles/language-tags/). 
@@ -38,10 +38,7 @@ You can add pre-configured or custom languages to your Mukurtu site after config
 3. Add the name of your language in the *Language name* field. 
 4. Select a text direction for your language. 
 5. Select the "Add custom language" button to import your language.
-
-    !!! tip
-        Custom languages may have fewer fields translated than other languages. 
         
-For more information on language tags and subtags, visit the [IANA Language Tags Registry Primary Language Subtag](https://www.w3.org/International/articles/language-tags/#language) article. For help configuring a custom language, please contact Mukurtu Support at [support@mukurtu.org](mailto:support@mukurtu.org).
+For more information on language tags and subtags, visit the [IANA Language Tags Registry Primary Language Subtag](https://www.w3.org/International/articles/language-tags/#language) article. For help configuring a custom language tag, please contact Mukurtu Support at [support@mukurtu.org](mailto:support@mukurtu.org).
 
 ![Screenshot of the Add language page with the dropdown menu set to Custom language...and the fields available, filled in and highlighted, as well as the text direction and Add language button.](../_embeds/translation8.png)
