@@ -6,24 +6,24 @@ tags:
 # Manage Categories
 
 !!! roles "User role"
-    Mukurtu administrator
+    Mukurtu manager
 
-Categories are high-level descriptive terms that help users discover digital heritage items. All communities on the site share the same set of categories. Over time categories may need to be revised, combined, or generally cleaned up. You can edit a single category, or merge multiple categories into one.
+Over time categories may need to be revised, combined, or generally cleaned up. You can edit a single category, or merge multiple categories into one.
 
 !!! tip
     For more information on adding new categories, visit [Create Categories](CreateCategories.md).
 
 ## Edit a category 
 
-1. Select **Manage Categories**. 
+1. From your dashboard, select **Manage Categories**. 
 2. Select the **Edit** link for the category you want to make changes to. 
 
-    ![Screenshot of the Category taxonomy page with Edit highlighted.](../_embeds/placeholderscreenshot.png)
+    ![Screenshot of the Category taxonomy page with Edit highlighted.](../_embeds/Manage-Categories-Mukurtu1.png)
 
 3. Edit your *Category Name*, *Description*, or **Thumbnail Image**, then select "Save".
 
-!!! tip
-    Cultural protocols are required for category thumbnails. For more information on getting started with cultural protocols, visit [Create a Community and Initial Cultural Protocol](CreateACommunityAndInitialCulturalProtocol.md).
+    !!! tip
+        Cultural protocols are required for category thumbnails. For more information on getting started with cultural protocols, refer to [Create a Community and Initial Cultural Protocol](CreateACommunityAndInitialCulturalProtocol.md).
 
 ## Merge categories
 
@@ -42,7 +42,7 @@ Follow the instructions to merge your categories.
 3. Navigate to the **Merge** tab.
 4. Select the checkbox by the terms you want to merge into a new or existing term. 
 
-    ![Screenshot of the merge category terms page with two terms to merge selected.](../_embeds/categorytaxonomy1.png)
+    ![Screenshot of the merge category terms page with two terms to merge selected.](../_embeds/Merge-Category-terms-Mukurtu1.png)
 
     !!! tip
         To merge multiple terms into a new target term, select all terms to merge here. The new target term will be created on the next page.
@@ -53,11 +53,11 @@ Follow the instructions to merge your categories.
 
     - To merge the selected terms into a new target term, enter it in the "New term" field. 
 
-    ![Screenshot of the select target term page with New Category entered in the new term field as an example.](../_embeds/categorytaxonomy2.png)
+    ![Screenshot of the select target term page with New Category entered in the new term field as an example.](../_embeds/Merge-Category-terms-Mukurtu2.png)
     
     - To merge the selected term(s) into an existing target term, select it from the "Existing term" list.
 
-    ![Screenshot of the select target term page with Category 1 selected from the existing category dropdown.](../_embeds/categorytaxonomy3.png)
+    ![Screenshot of the select target term page with Category 1 selected from the existing category dropdown.](../_embeds/Merge-Category-terms-Mukurtu3.png)
 
 7. Select the "Merge terms" button. This will take you to a confirmation page. 
 8. Review the terms to be merged and the target term on the confirmation page. If all the information is correct, select the "Confirm merge" button.
@@ -65,10 +65,10 @@ Follow the instructions to merge your categories.
     !!! warning
         This action cannot be undone. 
 
-    ![Screenshot of the term merge confirmation page showing the target term and terms to be merged.](../_embeds/categorytaxonomy4.png)
+    ![Screenshot of the term merge confirmation page showing the target term and terms to be merged.](../_embeds/Merge-Category-terms-Mukurtu4.png)
 
 9. After you confirm your merge, you will see a status message that you have successfully merge your terms into your target category.
 
-![Screenshot of the successful merge confirmation message.](../_embeds/categorytaxonomy5.png)
+    ![Screenshot of the successful merge confirmation message.](../_embeds/Merge-Category-terms-Mukurtu5.png)
 
 

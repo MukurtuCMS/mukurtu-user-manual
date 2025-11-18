@@ -14,62 +14,54 @@ Local Contexts projects can be managed at three different levels: site-wide, per
 To learn more about Local Contexts, and the Local Contexts Hub see [Understanding the Local Contexts Hub](./UnderstandingTheLocalContextsHub.md)
 
 !!! Requirement
-    The following steps can only be applied after you've created a Local Contexts profile and account, configured your labels within projects, and generated a unique project ID. To learn more about this process, and configure your labels, visit [Getting Started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/)
+    The following steps can only be applied after you've created a Local Contexts profile and account, configured your labels within projects, and generated a unique API key. To learn more about this process, and configure your labels, visit [Getting Started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/)
 
-## Get your project ID
+## Get your API Key
 
-To add a project to your site, you will first need your project ID number. In your Local Contexts project, scroll down to the "Identifiers" section. Find and copy the project ID number. You will be pasting it into your Mukurtu site. 
+API keys can be generated from the settings page in your Local Contexts account. 
 
-Follow the steps below to add the project ID to the entire site, or to individual communities or protocols.
+1. In the API key mangager, select "Generate API Key"
+![Local Contexts API key manager with generate API key button highlighted](../_embeds/manage-local-contexts-08.png)
 
-![Screenshot of LC project ID](../_embeds/local-contexts-manage-projects-01.png)
+2. Add a name for your API key, then select "Generate API Key."
+![API Key name field with generate API key button](../_embeds/manage-local-contexts-09.png)
 
-## Manage site-wide projects
+3. Your API key will be created. It should look like a long stream of letters and numbers. Select the "Copy" icon to copy the API key.
+![Newly generated API Key in a table with corresponding copy and delete buttons](../_embeds/manage-local-contexts-10.png)
 
-!!! roles "User roles"
-
-    Mukurtu administrator
-
-1. Navigate to the Mukurtu dashboard, and select **Manage Local Contexts Projects**
-![Screenshot of Dashboard with Manage Local Contexts link highlighted](../_embeds/placeholderscreenshot.png)
-2. Select "Add Project."
-3. Paste the project ID into the *project ID* field.
-6. Select "Add Project"
-![Screenshot of project ID field filled out and the add project button](../_embeds/ManageLCProjects01.png)
-7. You will be returned to the projects list and a success message will be displayed. 
-![Screenshot of success message](../_embeds/ManageLCProjects02.png)
-8. To remove a project, select the box next to the project name and select Remove Selected Projects. Note that only projects with labels that are not in use can be removed.
-
-## Manage community-based projects
+## Add your API Key
 
 !!! roles "User roles"
 
-    Community manager
+    Mukurtu manager, community manager, protocol steward
 
-1. Navigate to the community you wish to manage.
-2. Select "Manage."
-3. Select **Manage Local Contexts Projects.**
-4. Select **Add Project**. 
-5. Past the project ID into the *project ID* field.
-![Screenshot of project ID field filled out and add project button](../_embeds/placeholderscreenshot.png)
-6. Select "Add Project"
-7. A success message will display, along with the title of the project and the project ID.
-![Screenshot of success message](../_embeds/placeholderscreenshot.png)
-8. To remove a project, select the box next to the project name and select Remove Selected Projects. Note that any projects that have been applied to content cannot be removed.
+The steps to add an API key are the same whether you're adding it to the entire site, or to a community or protocol. For more information about Local Contexts projects at different levels of a Mukurtu site, please see [Levels of Local Contexts Projects](./LevelsOfLocalContextsProjects.md)
 
-## Manage protocol-based projects
+To add an API key to an entire site, as a Mukurtu manager, from the dashboard, select **Manage Local Contexts Projects**.
 
-!!! roles "User roles"
+To add an API key to a community, as a community manager, navigate to the community page. Select "Manage," then select **Manage Local Contexts Projects**
 
-    Protocol steward
+To add an API key to a protocol, as a protocol steward, navigate to the protocol page. Select "Manage," then select **Manage Local Contexts Projects**
 
-1. Navigate to the protocol you wish to manage.
-2. Select "Manage."
-3. Select **Manage Local Contexts Projects.**
-4. Select **Add Project**. 
-5. Paste the project ID into the *project ID* field.
-![Screenshot of project ID field filled out and add project button](../_embeds/placeholderscreenshot.png)
-6. Select "Add Project"
-7. A success message will display, along with the title of the project and the project ID.
-![Screenshot of success message](../_embeds/placeholderscreenshot.png)
-8. To remove a project, select the box next to the project name and select Remove Selected Projects. Note that only projects with labels that are not in use can be deleted.
+1. Paste the API key into the *API key* field and select "Set API Key" A list of projects associated with the API will display.
+    ![The API key field with an API key and the Set API Key button](../_embeds/manage-local-contexts-02.png)
+
+2. Select the projects you wish to add to the site by checking the box next to the appropriate projects. 
+    ![Screenshot of the project list with a few projects selected](../_embeds/manage-local-contexts-03.png)
+
+3. From the dropdown menu, select **Add/Sync.**
+    ![Dropdown menu with the add/sync option highlighted](../_embeds/manage-local-contexts-04.png)
+
+4. Select "Apply Action." The page will reload and the status of the added projects will update to *Active.* Projects you do not add to the site will not be available to use.
+    ![The project list with added projects set to active in the status column](../_embeds/manage-local-contexts-05.png)
+
+5. To remove a project, select the box next to the project name. 
+
+6. Select **Delete** from the dropdown menu, then select "Apply Action." Note that only projects with labels that are not in use can be removed. The project list will reload with an updated status of "Not added" and a success message.
+    ![The project list with added projects set to active in the status column](../_embeds/manage-local-contexts-06.png)
+
+
+You can view synced labels and notices from your group’s directory page. Administrators and Mukurtu Managers can view labels and notices applied at the site level by selecting “Local Contexts Projects” on the dashboard. Community and protocol managers can view them from the manage page of their group. For more on directory pages, see [View and Manage Directory Pages](./ViewAndManageDirectoryPages.md)
+
+
+
