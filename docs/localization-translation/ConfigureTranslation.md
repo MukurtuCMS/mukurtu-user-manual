@@ -19,8 +19,6 @@ The following modules are included and can be installed from the front end of th
 
 Follow the instructions below to configure your site to display the user interface and site content in multiple languages. 
 
-## Enable required modules
-
 1. Select **Extend** from the left-hand sidebar menu, or navigate to `/admin/modules`.
 
     ![Screenshot of the front page with the Extend menu highlighted.](../_embeds/translation1.png)
@@ -33,6 +31,6 @@ Follow the instructions below to configure your site to display the user interfa
 
     ![Screenshot of the Extend menu, with the filter field, checkboxes, and install button highlighted.](../_embeds/translation2.png)
 
-4. You will receive a status message confirming whether your modules have been installed. You will also receive a warning message with the next steps for configuring your Mukurtu site's language.
+4. You will receive a status message confirming whether your modules have been installed. You will also receive a warning message with the next steps for configuring your Mukurtu site's language. For instructions on adding languages to your Mukurtu site, refer to [Add Languages](AddLanguage.md).
 
     ![Screenshot of the Extend menu with the status and warning messages displayed.](../_embeds/translation3.png)
