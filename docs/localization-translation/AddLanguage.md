@@ -42,3 +42,9 @@ You can add pre-configured or custom languages to your Mukurtu site after config
 For more information on language tags and subtags, visit the [IANA Language Tags Registry Primary Language Subtag](https://www.w3.org/International/articles/language-tags/#language) article. For help configuring a custom language tag, please contact Mukurtu Support at [support@mukurtu.org](mailto:support@mukurtu.org).
 
 ![Screenshot of the Add language page with the dropdown menu set to Custom language...and the fields available, filled in and highlighted, as well as the text direction and Add language button.](../_embeds/translation8.png)
+
+## Switch enabled languages
+
+To switch between languages in Mukurtu, you can use the language switcher button in the top right-hand corner of your top menu. The language switcher is only enabled when you have more than one language available on your site.
+
+![Screenshot of the top menu with the language switcher button highlighted.](../_embeds/translation9.png)
