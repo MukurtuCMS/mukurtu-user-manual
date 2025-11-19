@@ -30,4 +30,9 @@ Mukurtu managers can translate all the configuration items on their site that ha
 
     ![Screenshot of the Edit Translation modal with the translation entered in French.](../_embeds/translationconfig4.png)
 
+## User Interface Translation
+
+User interface translation allows a translator to search for specific translated and untranslated strings, and is used when creating or editing translations. Because translation tasks involve many strings, user interface allows translators to export strings for offline editing in a desktop Gettext translation editor, then import the translated strings.
+
+
 
