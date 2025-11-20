@@ -3,12 +3,12 @@ tags:
     - translation and localization
 ---
 
-# DECIDE ON A TITLE LATER
+# Translate Site Components
 
 !!! roles "User role"
     Mukurtu manager
 
-Mukurtu 4 CMS allows users to translate all of their site components and content into any language and all UTF-8 encoded scripts. Some site components are partially translated by Drupal, but custom fields and site content are not. To translate components and content in your Mukurtu site, you must have translation configured and have added at least one language. For instructions on how to configure translation, refer to [Configure Translation](ConfigureTranslation.md). For instructions on adding a language to your site, refer to [Add Languages](AddLanguage.md).
+Mukurtu 4 CMS allows users to translate all of their site components into any language and all UTF-8 encoded scripts. Some site components are partially translated by Drupal, but custom fields are not. To translate site components and the user interface in your Mukurtu site, you must have translation configured and have added at least one language. For instructions on how to configure translation, refer to [Configure Translation](ConfigureTranslation.md). For instructions on adding a language to your site, refer to [Add Languages](AddLanguage.md).
 
 ## Configuration Translation
 
@@ -33,6 +33,3 @@ Mukurtu managers can translate all the configuration items on their site that ha
 ## User Interface Translation
 
 User interface translation allows a translator to search for specific translated and untranslated strings, and is used when creating or editing translations. Because translation tasks involve many strings, user interface allows translators to export strings for offline editing in a desktop Gettext translation editor, then import the translated strings.
-
-
-
