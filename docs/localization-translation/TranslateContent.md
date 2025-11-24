@@ -1,6 +1,6 @@
 ---
 tags:
-    - translation and localization
+    - multilingual
 ---
 
 # Translate Content
@@ -8,9 +8,11 @@ tags:
 !!! roles "User roles"
     Mukurtu manager, protocol steward, language steward, contributor, language contributor, curator, community record steward
 
-Mukurtu 4 CMS allows users to translate all of their site content. To translate content in your Mukurtu site, you must have translation configured and have added at least one language. For instructions on how to configure translation, refer to [Configure Translation](ConfigureTranslation.md). For instructions on adding a language to your site, refer to [Add Languages](AddLanguage.md).
+Once the Mukurtu Multilingual module is installed and a language is added (see [Configure Translation](ConfigureTranslation.md)), site content can be translated.
 
-Content translation functions the same way for all content types. Follow the instructions below to translate your content.
+If a user can create or edit a piece of content, they can also translate it - additional roles or permissions are not required. 
+
+Content translation functions the same way for all content types. 
 
 1. Navigate to the content you want to translate and select the "Translate" button.
 
@@ -31,7 +33,3 @@ Content translation functions the same way for all content types. Follow the ins
 5. This is what a translated digital heritage item looks like. 
 
     ![Screenshot of the translated digital heritage item in French.](../_embeds/translatecontent5.png)
-
-Use the language switcher button in the top right-hand corner of your top menu to switch between languages in Mukurtu.
-
-![Screenshot of the top menu with the language switcher button highlighted.](../_embeds/translation9.png)

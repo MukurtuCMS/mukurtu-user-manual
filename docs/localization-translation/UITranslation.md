@@ -1,42 +1,20 @@
 ---
 tags:
-    - translation and localization
+    - multilingual
 ---
 
-# Translate Site Components
+# User Interface Translation
 
 !!! roles "User role"
     Mukurtu manager
 
 Mukurtu 4 CMS allows users to translate all of their site components into any language and all UTF-8 encoded scripts. Some site components are partially translated by Drupal, but custom fields are not. To translate site components and the user interface in your Mukurtu site, you must have translation configured and have added at least one language. For instructions on how to configure translation, refer to [Configure Translation](ConfigureTranslation.md). For instructions on adding a language to your site, refer to [Add Languages](AddLanguage.md).
 
-## Configuration Translation
-
-Mukurtu managers can translate all the configuration items on their site that has translatable text, such as the site name, role names, and other structural site components. To begin translating these, navigate to Configuration > Region and Language > Configuration Translation, or go directly to `/admin/config/regional/config-translation`.
-
-1. Select the "List" button to the right of the component type you want to translate.
-
-    ![Screenshot of the Configuration Translation page, with List highlighted on the Block component.](../_embeds/translationconfig1.png)
-
-2. Select the "Translate" button to the right of the specific site component you want to translate. Use the *Search* field to search for specific site components. 
-
-    ![Screenshot fo the Block page, with the Search field and the Translate button to the right of Page Title highlighted](../_embeds/translationconfig2.png)
-
-3. If your site component is not translated, select the "Add" button to add a translation. If it is already translated, select the "Edit" button to edit the translation.
-
-    ![Screenshot of the Translation page with English, French, and Gaeilge](../_embeds/translationconfig3.png)
-    
-4. Enter your preferred translation, then select "Save translation".
-
-    ![Screenshot of the Edit Translation modal with the translation entered in French.](../_embeds/translationconfig4.png)
-
-## User Interface Translation
-
 User interface translation allows a translator to search for specific translated and untranslated strings, and is used when creating or editing translations. Because translation tasks involve many strings, user interface allows translators to export strings as a .po file for offline editing in a desktop Gettext translation editor, then import the translated strings.
 
 To translate the Mukurtu user interface, navigate to Configuration > Region and Language > User interface translation, or go directly to `/admin/config/regional/translate`.
 
-### Edit translatable strings
+## Edit translatable strings
 
 You can edit strings individually  on the User interface translation page. 
 
@@ -50,7 +28,7 @@ You can edit strings individually  on the User interface translation page.
 
 ![Screenshot of the Filter translatable strings fields.](../_embeds/uitranslate1.png)
 
-### Batch edit translatable strings
+## Batch edit translatable strings
 
 To streamline your translation workflow, you can batch edit translatable strings by exporting them as a .po file for offline editing in a desktop Gettext translation editor, then import the translated strings. Some examples of Gettext translation editors include:
 
