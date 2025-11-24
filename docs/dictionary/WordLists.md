@@ -59,8 +59,6 @@ Follow the steps below to create a word list.
 
 7. Use the *Image* field to add a featured image. This image is used on the word list page and in previews across the site, and may be drawn from available content on the site. For instructions on how to add a thumbnail image, refer to the [Upload Media Assets: Image](../../media/ByTypeMediaUpload/Image) article.
 
-    ![Example of how thumbnails are displayed when browsing](../_embeds/placeholderscreenshot.png)
-
 8. Use the *Source* field to refer to the source of the language knowledge. This could include dictionaries, speakers, songs, oral histories, language learning mateirals, or other language sources. 
 
 ## Additional Fields
