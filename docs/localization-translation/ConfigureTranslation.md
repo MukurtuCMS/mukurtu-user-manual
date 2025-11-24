@@ -25,7 +25,7 @@ The Mukurtu Multilingual module enables the required Drupal multilingual modules
 
     ![Screenshot of the message asking you to confirm whether you want to install all of the multilingual modules.](../_embeds/translation3.png)
 
-5. You will receive a status message confirming whether your modules have been installed. The warning message includes a link to add languages to your Mukurtu site. For instructions on adding languages to your Mukurtu site, refer to [Add Languages](AddLanguage.md).
+5. You will receive a status message confirming whether your modules have been installed. The warning message includes a link to add languages to your Mukurtu site. For instructions on adding languages to your Mukurtu site, refer to [Add Languages](#AddLanguage).
 
     ![Screenshot of the Extend menu with the status and warning messages displayed.](../_embeds/translation3a.png)
 
