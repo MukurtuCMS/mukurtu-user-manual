@@ -94,13 +94,13 @@ tags:
      - look and feel
      - mapping
      - migration
+     - multilingual
      - person records
      - search
      - security
      - site maintenance
      - structure
      - taxonomies
-     - translation and localization
      - user roles and responsibilities
      - workflows
 
