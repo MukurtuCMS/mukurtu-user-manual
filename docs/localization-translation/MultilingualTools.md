@@ -3,7 +3,7 @@ tags:
     - multilingual
 ---
 
-# Multilingual Tools
+# Manage Multilingual Tools
 
 !!! roles "User roles"
     Mukurtu manager, protocol steward, language steward, contributor, language contributor, curator, community record steward

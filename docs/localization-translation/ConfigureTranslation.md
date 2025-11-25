@@ -52,7 +52,7 @@ To add another language for translation, follow the link in the warning message 
 
 ### Add a custom language
 
-1. If your language is not available, select the "Custom language" option to provide a language code and other details manually. For more information on translating site elements, refer to **WRITE AN ARTICLE FOR THIS**
+1. If your language is not available, select the "Custom language" option to provide a language code and other details manually. For more information on translating site elements, refer to the [Configuration Translation](ConfigurationTranslation) and [User Interface Translation](UITranslation.md) articles.
 
     - A listing of IANA language tags can be found at the [IANA Language Tags Registry](https://r12a.github.io/app-subtags/) site. 
     - If your language is not listed, you can construct a custom language tag. For more information on constructing custom language tags, visit the [IANA Language Tags Registry](https://www.w3.org/International/articles/language-tags/). 
