@@ -8,6 +8,8 @@ tags:
 !!! roles "User Roles"
     Protocol steward, language steward, language contributor
 
+This article will walk you through creating a dictionary word and using word entries.
+
 !!! Requirement
     Before you can create a dictionary word, you must first configure the dictionary. See [Configuring the Dictonary](./ConfiguringTheDictionary.md)
 
@@ -45,8 +47,11 @@ For content with multiple protocols assigned, sharing settings help to determine
 
 ![Sharing setting with all selected](../_embeds/dictionary-word-03.png)
 
+- This is a required field.
+
 !!! Tip
     For more on sharing settings, see [Understanding Sharing Settings](../3Cs/UnderstandingSharingSettings.md)
+
 
 ### Language
 
@@ -54,6 +59,8 @@ For content with multiple protocols assigned, sharing settings help to determine
     Dictionary languages must first be configured by Mukurtu Manager. To learn how to configure a language, see [Configuring the Dictionary](./ConfiguringTheDictionary.md)
     
 Select a language. If only one language is available, it will be pre-selected. 
+
+- This is a required field.
 
 ![The dictionary language selected](../_embeds/dictionary-word-04.png)
 
@@ -219,28 +226,30 @@ Location is a taxonomy field which can be useful to label and connect content us
 
 ### Local Contexts
 
-!!! Requirement
-    Local Contexts labels and notices must be configured before they can be applied to dictionary words. To learn how add a Local Context project to your Mukurtu site, see [Manage Local Contexts Projects](../local-contexts/ManageLocalContextsProjects.md)
+Use the **Local Contexts** field to apply Traditional Knowledge labels to your dictionary word. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
 
-1) To apply all the labels and notices from a project, select the appropriate project from the Local Contexts Projects dropdown menu.
+Select your Local Contexts project from the list. This field will apply all of the Labels from the selected Local Contexts Project(s) to the dictionary word.
 
-![Screenshot of project selection ](../_embeds/dictionary-word-13.png)
+### Local Contexts Labels
 
-2) Specific labels can be applied using the *Local Contexts labels and notices* menu. 
+Select one or more Labels from the appropriate Local Contexts Project. 
 
-![Screenshot of content with labels applied](../_embeds/dictionary-word-14.png)
+!!! tip
+    If a complete project has already been selected, do not also select individual Labels from the same project. 
+
+![Screenshot of Local Contexts project and labels fields highlighted](../_embeds/dh10.png)
 
 ## Related Content
 
 The **related content** field can help provide connections between your dictionary word and other site content or to help guide users when browsing content. Examples include stories, oral histories or songs that use the word, photos displayed as digital heritage items that depict the word, or person records for language speakers.
 
-1. Select "Select Content." A window will open that displays all available content. 
+- Select the "Select content" button. Additional digital heritage items, person records, other dictionary words, and other content can be included as related content. 
 
     ![Related content field with selected content button highlighted](../_embeds/dictionary-word-17.png)
+    !!! tip 
+        You can filter content by type or search by title.
 
-2. Narrow results by filtering by content type or using the search field and selecting "Apply."
-
-3. Check the box next to each item you wish to add. Select "Add Content."
+- Select the checkbox beside all the content you wish to include as related content, then scroll down and select "Add Content".
 
     ![The related content modal with the type and title fields highlighted](../_embeds/dictionary-word-15.png)
 
@@ -248,6 +257,13 @@ The **related content** field can help provide connections between your dictiona
 
     ![A related content item with the trashcan icon highlighted.](../_embeds/dictionary-word-16.png)
 
+## Save
 
+When you are finished filling out all relevant metadata fields, select "Save" which is sticky at the top right corner of the page.
 
+![Dictionary word form with save button highlighted in the top right corner](../_embeds/dictionary-word-18.png)
+
+The term will display along with a success message.
+
+![Completed dictionary word with success message](../_embeds/placeholderscreenshot.png)
 
