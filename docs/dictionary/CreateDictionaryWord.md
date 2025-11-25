@@ -13,15 +13,15 @@ This article will walk you through creating a dictionary word and using word ent
 !!! Requirement
     Before you can create a dictionary word, you must first configure the dictionary. See [Configuring the Dictonary](./ConfiguringTheDictionary.md)
 
-To create a dictionary word, as a protocol steward, language steward, or language contributor, from the dashbboard, select **Dictionary word**.
+To create a dictionary word, as a protocol steward, language steward, or language contributor, from the Create Content menu, select **Dictionary word**.
 
-![Select dictionary word from dashboard](../_embeds/placeholderscreenshot.png)
+![Select dictionary word from create content menu](../_embeds/placeholderscreenshot.png)
 
 ## Mukurtu Essentials
 
 ### Term
 
-Add a term in the language of the dictionary. This may differ from the site language. This is field is flexible and could be a phrase, or a prefix/suffix, or other language element.
+Add a term in the language of the dictionary. This may differ from the site language. This is field is flexible and could be a word, phrase, a prefix/suffix, or other language element.
 
 - This is a required field
 
