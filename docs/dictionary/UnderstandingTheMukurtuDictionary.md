@@ -3,9 +3,9 @@ tags:
      - dictionary
 ---
 
-# Understanding the Mukurtu Dictionary
+# Understanding the Dictionary
 
-The Mukurtu dictionary is comprised of dictionary words and word lists and are one of the main content types within Mukurtu. Dictionary words use a different set of metadata fields than digital heritage items, and are focused more on granular language elements, rather than digital heritage broadly. 
+The dictionary is comprised of dictionary words and word lists and are one of the main content types within Mukurtu. Dictionary words use a different set of metadata fields than digital heritage items, and are focused more on granular language elements, rather than digital heritage broadly. 
 
 ## Dictionary Words
 The core of a dictionary word is usually a combination of text and audio recordings. While we use the terms "dictionary" and "dictionary words," the tool is more flexible than that, and can support words, sentences, phrases, word parts or other elements of language. 

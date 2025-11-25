@@ -3,19 +3,15 @@ tags:
     - dictionary
     - content
 ---
-# Create a dictionary word
+# Create a Dictionary Word
 
 !!! roles "User Roles"
-    Protocol steward; language steward; language contributor
-
-The dictionary is a core content type that allows you to capture language elements. The metadata is intended to capture the nuance of language but also includes visual enhancements such as support for media assets and maps. To learn more about the dictionary, see [Understanding the Mukurtu Dictionary](./UnderstandingTheMukurtuDictionary.md)
-
-This article will walk you through creating a dictionary word and using word entries.
+    Protocol steward, language steward, language contributor
 
 !!! Requirement
     Before you can create a dictionary word, you must first configure the dictionary. See [Configuring the Dictonary](./ConfiguringTheDictionary.md)
 
-To create a dictionary word, from the dashbboard, select **Dictionary word**.
+To create a dictionary word, as a protocol steward, language steward, or language contributor, from the dashbboard, select **Dictionary word**.
 
 ![Select dictionary word from dashboard](../_embeds/placeholderscreenshot.png)
 
@@ -23,7 +19,7 @@ To create a dictionary word, from the dashbboard, select **Dictionary word**.
 
 ### Term
 
-Add a term for your dictionary word. This is field is flexible and could be a phrase, or a prefix/suffix, or other language element.
+Add a term in the language of the dictionary. This may differ from the site language. This is field is flexible and could be a phrase, or a prefix/suffix, or other language element.
 
 - This is a required field
 
@@ -34,6 +30,9 @@ Add a term for your dictionary word. This is field is flexible and could be a ph
 Use the toggle to assign at least one cultural protocol to your dictionary word. 
 
 - This is a required field.
+
+!!! Tip
+    Protocols determine a user or visitorʻs appropriate level of access to the dictionary word. For more on cultural protocols, see [Understanding Communities and Cultural Protocols](../3Cs/UnderstandingCommunitiesAndCulturalProtocols.md).
 
 
 ### Sharing Setting
@@ -46,6 +45,9 @@ For content with multiple protocols assigned, sharing settings help to determine
 
 ![Sharing setting with all selected](../_embeds/dictionary-word-03.png)
 
+!!! Tip
+    For more on sharing settings, see [Understanding Sharing Settings](../3Cs/UnderstandingSharingSettings.md)
+
 ### Language
 
 !!! Requirement
@@ -57,8 +59,8 @@ Select a language. If only one language is available, it will be pre-selected.
 
 ### Glossary Entry
 
-!!! Requirement
-    You must have the glossary configured before using the glossary entry field. For more information on configuring the glossary, see [Configuring the Dictionary](./ConfiguringTheDictionary.md)
+!!! Tip
+    Custom indexing can be applied by configuring glossary settings. See [Configuring the Dictionary](./ConfiguringTheDictionary.md) for detailed instructions.
 
 The glossary entry field can be used in cases where you do not want the term to be indexed under the first character of the term. This field allows you to choose a different character under which to index the term. To use this field, enter the character you would like the term to be indexed under.
 
@@ -66,44 +68,58 @@ The glossary entry field can be used in cases where you do not want the term to 
 
 ### Alternate Spelling
 
-Use this field to add an alternate spelling (such as an older spelling) of the word. 
+Use this field to add an alternate spelling of the word. Examples include historic spellings, regional differences, or popular spellings.
 
 - 255 characters max.
 
 ### Translation
 
-Add a translation of the term in the language of the site. To add additional translations, select **Add Another Item**
-To reorder multiple translations, select the arrows and drag them up or down.
+Add the closest one to one translation of the term in the language of the site. 
+
+- To add additional translations, select **Add Another Item**
+
+- To reorder multiple translations, select the arrows and drag them up or down.
 
 - 255 characters max.
 
 ### Recording
 
-Add a recording of the term being spoken by selecting "Add Media" There is no limit to the number of recordings you can add.
+Add an audio recording of the term being spoken by selecting "Add Media." There is no limit to the number of recordings you can add. For example, you may want to include recordings of older and younger speakers, or male and female speakers. 
+
+ - This field only accepts audio files. 
+
+!!! Tip
+    For detailed instructions on uploading an audio file, see [By type media upload: Audio](../media/ByTypeMediaUpload/Audio.md)
 
 ### Definition
 
-Add a definition of the term. This is a rich text field, which can accommodate formatting and additional media. 
+Add a definition of the term. This may be a one to one translation, or it may include more nuanced meanings, including historic or contextual meanings. You may also include most history of the background or etymology of the word. This is a rich text field, which can accommodate formatting and additional media. 
 
 ### Sample Sentences
 
 Sample sentences can be used to demonstrate use of the word. You may add an unlimited number of sample sentences. They can be text, audio, or both combined. 
 
-225 characters max.
+- 225 characters max.
 
-1. Enter a sentence or phrase.
-![Screenshot of sample sentence and recording field with sample sentence added](../_embeds/placeholderscreenshot.png)
+    1. Enter a sentence or phrase.
+       
+        ![Screenshot of sample sentence and recording field with sample sentence added](../_embeds/placeholderscreenshot.png)
 
-2. Select **Add Media** to add a recording. Only one recording per sentence can be added.
-![Add media modal](../_embeds/placeholderscreenshot.png)
+    2. Select **Add Media** to add a recording. Only one recording per sentence can be added.
+        
+        ![Add media modal](../_embeds/placeholderscreenshot.png)
 
-3. To add additional sample sentences, select **Add Sample Sentence**. Sample sentences can be reordered by selecting the arrow and dragging it up or down.
+    3. To add additional sample sentences, select **Add Sample Sentence**. Sample sentences can be reordered by selecting the arrow and dragging it up or down.
 
-    ![Sample sentence fields](../_embeds/placeholderscreenshot.png)
+        ![Sample sentence fields](../_embeds/placeholderscreenshot.png)
 
 ### Word Type
 
-This field can be used for parts of speech, syntactic or grammatical categories. As you type, previously used word types will display. Select an existing word type or add a new one. To add additional word types, select **Add Another Item**. 
+This field can be used for parts of speech, syntactic or grammatical categories. 
+
+1. As you type, previously used word types will display. 
+
+2. Select an existing word type or add a new one. To add additional word types, select **Add Another Item**. 
 
 ![The word type field filled out](../_embeds/dictionary-word-07.png)
 
@@ -115,21 +131,25 @@ Add a pronunciation guide. This field can accommodate the notation system used b
 
 ### Source
 
-Enter a source. Examples include a speaker, teacher, existing dictionary, or regions where this word is used.
+Enter a source. Examples include a speaker, teacher, existing dictionary, language learning materials, or regions where this word is used.
 
 - 255 characters max.
 
 ### Word Origin
 
-Enter information about the history or etymology of the entry.
+Enter information about the history or etymology of the entry. This may include the origin language of a borrowed word or the date a word came into the language.
 
 - 255 characters max.
 
 ### Contributor
 
 1. Enter any entities (people, groups, tribes, clans, etc.) who aided in making the entry. Names can appear in any format. As you type, previous names of existing contributors will be displayed. 
+
 2. Select an existing contributor or add a new name. 
-3. To add additional contributors, select **Add another item**. Multiple contributors can be reordered by selecting the arrow and dragging the field up or down.
+
+3. To add additional contributors, select **Add another item**. 
+
+4. Multiple contributors can be reordered by selecting the arrow and dragging the field up or down.
 
 ## Word Entries
 
@@ -151,7 +171,7 @@ You can add media assets to your dictionary word. Select **Add media** to select
 
 ### Keywords
 
-Enter keywords as needed to make your dictionary word more discoverable. 
+Keywords are terms used to describe content to ensure that the item will be discoverable when searching or browsing.They are more flexible and specific than categories. 
 
 1) Begin typing a keyword. As you type, previously used keywords will be displayed. 
 
@@ -163,7 +183,7 @@ Enter keywords as needed to make your dictionary word more discoverable.
 
 ### Locations
 
-Dictionary words includes the same location tools as digital heritage items. 
+Location tools are available for all content types, including dictionary words. These tools could be used to map the regional usage of words and phrases, associate words with specific locations, and add rich descriptions to locations that are associated with words.
 
 ### Map points
 
@@ -179,14 +199,21 @@ Use the *Location description* to provide a text or media reference to a geograp
   - It may be useful in cases where a general description of the places are provided, or more context is necessary. 
   - Location description can be used independently of other location fields and is a full HTML field that supports text, audio, images, and video.
 
-![Screenshot of the location description field with a description entered.](../_embeds/dictionary-word-12.png)
+    ![Screenshot of the location description field with a description entered.](../_embeds/dictionary-word-12.png)
 
 ### Location
 
 Enter a *Location*. 
 
 Location is a taxonomy field which can be useful to label and connect content using the same term. 
-As you type, previously used location terms will be displayed. Select an existing term or add a new one. To add additional terms, select **Add another item**. Multiple terms can be reordered by selecting the arrow and dragging the field up or down.
+
+1. Begin entering a term. As you type, previously used location terms will be displayed. 
+
+2. Select an existing term or add a new one. 
+
+3. To add additional terms, select **Add another item**. 
+
+4. Multiple terms can be reordered by selecting the arrow and dragging the field up or down.
 
 ![Screenshot of the locations taxonomy field with terms entered.](../_embeds/dictionary-word-10.png)
 
@@ -205,21 +232,21 @@ As you type, previously used location terms will be displayed. Select an existin
 
 ## Related Content
 
-You can link dictionary words to other content on the site. 
+The **related content** field can help provide connections between your dictionary word and other site content or to help guide users when browsing content. Examples include stories, oral histories or songs that use the word, photos displayed as digital heritage items that depict the word, or person records for language speakers.
 
 1. Select "Select Content." A window will open that displays all available content. 
 
-![Related content field with selected content button highlighted](../_embeds/dictionary-word-17.png)
+    ![Related content field with selected content button highlighted](../_embeds/dictionary-word-17.png)
 
 2. Narrow results by filtering by content type or using the search field and selecting "Apply."
 
 3. Check the box next to each item you wish to add. Select "Add Content."
 
-![The related content modal with the type and title fields highlighted](../_embeds/dictionary-word-15.png)
+    ![The related content modal with the type and title fields highlighted](../_embeds/dictionary-word-15.png)
 
 4. The item will appear under Related Content. To remove content, select the trashcan icon in the top right corner of the item.
 
-![A related content item with the trashcan icon highlighted.](../_embeds/dictionary-word-16.png)
+    ![A related content item with the trashcan icon highlighted.](../_embeds/dictionary-word-16.png)
 
 
 
