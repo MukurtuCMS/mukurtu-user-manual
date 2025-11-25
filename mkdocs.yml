@@ -95,8 +95,10 @@ nav:
     - digital-heritage-items/CreateCommunityRecord.md
     - digital-heritage-items/MultipageItems.md
   - Dictionary:
+    - dictionary/UnderstandingTheDictionary.md
     - dictionary/AddLanguage.md
     - dictionary/DictonaryRoles.md
+    - dictionary/CreateDictionaryWord.md
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Local Contexts:
