@@ -96,8 +96,10 @@ nav:
     - digital-heritage-items/CreateCommunityRecord.md
     - digital-heritage-items/MultipageItems.md
   - Dictionary:
+    - dictionary/UnderstandingTheDictionary.md
     - dictionary/AddLanguage.md
     - dictionary/DictonaryRoles.md
+    - dictionary/CreateDictionaryWord.md
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Local Contexts:
@@ -108,10 +110,15 @@ nav:
     - local-contexts/ViewAndManageDirectoryPages.md
   - Localization and Translation:
     - localization-translation/LocalizationTranslationOverview.md 
-    - localization-translation/RequiredModules.md
+    - localization-translation/ConfigureTranslation.md
+    - localization-translation/TranslateContent.md
+    - localization-translation/ConfigurationTranslation.md
+    - localization-translation/UITranslation.md
   - Location Data:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
+  - Look and Feel:
+    - look-and-feel/ManageNameSloganEmail
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
