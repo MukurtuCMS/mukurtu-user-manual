@@ -14,16 +14,16 @@ This article provides detail for each of the dictionary word metadata fields. Al
 ### Term
 -  A word, term, phrase, or other language element.
 
-    - Required field
+- Required field
 
-    - Plain text. 255 characters.
+- Plain text. 255 characters.
 
 ### Cultural Protocols
 - Cultural protocols determine which users can access this content. Cultural protocols are managed by their parent community, which represents a group of contributors. All content must be assigned at least one cultural protocol. Most content only requires one cultural protocol, but more granular access can be specified by selecting multiple protocols, or even protocols from multiple communities.
 
 - For roundtrip, provide the IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.
 
-    - Required field
+- Required field
 
 ### Sharing Setting
 - Sharing setting determines which users can access this content when multiple cultural protocols are selected. The more restrictive "all cultural protocols" is the default setting, and can be used when only one cultural protocol is selected.
@@ -33,14 +33,14 @@ This article provides detail for each of the dictionary word metadata fields. Al
 
 - Either 'Any' or 'All', case insensitive.
 
-    - Required Field
+- Required Field
 
 ### Language
 - Each dictionary word is associated with one language. Dictionary languages must first be configured by a Mukurtu Manager.
 
 - For roundtrip, provide the IDs, UUIDs, or titles of the references, separated by your selected multi-value delimiter. Each title must be exact and match only one item.
 
-    - Required field
+- Required field
 
 ### Glossary Entry
 - By default, the dictionary word will be indexed, sorted, or alphabetized by the first character of the term. 
@@ -49,17 +49,17 @@ This article provides detail for each of the dictionary word metadata fields. Al
 
 - Examples include diacritic or accent-initial words, root word markers at the start of the term, or combined characters (eg: ch or á in some languages are considered a single character).
 
-    - Plain text. 255 characters.
+- Plain text. 255 characters.
 
 ### Alternate Spelling
 - An alternate spelling of the term. Examples include historic or current variant spellings, spellings from different dialects or in different writing systems, or any other alternate spelling that will help find the dictionary word when searching.
 
-    - Plain text. 255 characters.
+- Plain text. 255 characters.
 
 ### Translation
 - Translations of the entry into other languages. Consider indicating the language of the translation, eg: Apple (English).
 
-    - Plain text. 255 characters. Separated by your selected multi-value delimiter.
+- Plain text. 255 characters. Separated by your selected multi-value delimiter.
 
 ### Recording
 - Audio recordings of the entry being spoken, usually on its own. Multiple recordings may be used to represent different types of speakers (eg: speakers of different ages, genders, accents, or dialects), or different forms the entry can take. 
@@ -70,7 +70,7 @@ Recordings can be assigned a different cultural protocol from the dictionary wor
 ### Definition
 - A longer definition or description of the entry. 
 
-    - Formatted text.
+- Formatted text.
 
 ### Sample Sentences
 - The sample sentence and recording fields are repeatable. They can be bundled together (text and corresponding recording) or used separately (just text or just a recording).
@@ -78,7 +78,7 @@ Recordings can be assigned a different cultural protocol from the dictionary wor
 #### Sample Sentence
 - Text entry of the sample sentence.
 
-    - Plain text. 255 characters.
+- Plain text. 255 characters.
 
 #### Recording
 - Audio recording of the sample sentence. Recordings can be assigned a different cultural protocol from the dictionary word to allow differential access to the recordings and metadata.
@@ -93,17 +93,17 @@ Recordings can be assigned a different cultural protocol from the dictionary wor
 ### Pronunciation
 - A pronunciation guide used to teach language learners the correct pronunciation of the entry. Pronunciation guides may use a standard phonetic alphabet or whatever notation system is used by speakers and teachers of the language, eg: indicating stress with bold text or capitalizing syllables.
 
-    - Formatted text.
+- Formatted text.
 
 ### Source
 - Reference to a resource from which the entry was collected or sourced. Examples include a specific dictionary or language researcher, or the places where the entry is used (in the case of dialectical variation, for example).
 
-    - Plain text. 255 characters.
+- Plain text. 255 characters.
 
 ### Word Origin
 - Information about the history or etymology of the entry. Examples include the origin language of a borrowed word or the date the word came into the language.
 
-    - Plain text. 255 characters.
+- Plain text. 255 characters.
 
 ### Contributor
 - A contributor is a person or group who aided in the making of the entry. While a contributor is usually a single person, it could also be a clan, tribe, culture group, or organization. A dictionary word can have multiple contributors. Examples include language speakers who recorded the word, or contributed knowledge and history of the word.
@@ -140,12 +140,12 @@ Names can be in any format that is appropriate for the content, eg: "John Smith"
 
 - Note that this mapping data will be shared with the same users or visitors as the rest of the dictionary word. If the location is sensitive, carefully consider using this field.
 
-    - geoJSON
+- geoJSON
 
 ### Location Description
 - A descriptive field to provide additional context and depth to the location(s) connected to the dictionary word.
 
-    - Formatted text.
+- Formatted text.
 
 ### Location (taxonomy)
 - A named place, or places, that are closely connected to the dictionary word. Examples include words that are place names,  where a word originated, or a place the word is otherwise connected to.
