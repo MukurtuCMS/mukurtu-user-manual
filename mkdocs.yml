@@ -98,6 +98,7 @@ nav:
     - dictionary/UnderstandingTheDictionary.md
     - dictionary/AddLanguage.md
     - dictionary/DictonaryRoles.md
+    - dictionary/DictionaryWordMetadata.md
     - dictionary/WordLists.md
     - dictionary/CreateDictionaryWord.md
   - FAQs:
