@@ -27,7 +27,7 @@ Refer to the [Enable Multilingual Mode](ConfigureTranslation.md) article to conf
 Translate taxonomy terms by selecting Manage Taxonomies from the Dashboard or navigating directly to `/admin/structure/taxonomy`.
 
 !!! tip
-    Taxonomy terms cannot be translated when translating content. Attempting to translate them from content will simply add additional terms to the taxonomy.
+    Taxonomy terms cannot be translated when translating content. Attempting to translate them from content will simply add additional terms to the taxonomy. 
 
 1. Select a taxonomy.
 
