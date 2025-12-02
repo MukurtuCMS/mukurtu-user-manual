@@ -115,6 +115,7 @@ nav:
     - localization-translation/TranslateContent.md
     - localization-translation/ConfigurationTranslation.md
     - localization-translation/UITranslation.md
+    - localization-translation/TranslationWorkflow.md
   - Location Data:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
