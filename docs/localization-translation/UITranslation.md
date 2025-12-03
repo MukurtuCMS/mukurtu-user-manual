@@ -20,7 +20,7 @@ You can edit strings individually on the User interface translation page.
 
 1. Filter translatable strings by entering part of the string in the *String contains* field. You can leave this field blank to show all strings. 
 
-    !!! tips
+    !!! tip
         The search is case sensitive. 
     
 2. Select your *Translation language* from the dropdown menu.
