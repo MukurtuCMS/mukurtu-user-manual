@@ -14,26 +14,9 @@ User interface translation allows a translator to search for specific translated
 
 To translate the Mukurtu user interface, navigate to Configuration > Region and Language > User interface translation, or go directly to `/admin/config/regional/translate`.
 
-## Edit translatable strings
-
-You can edit strings individually on the User interface translation page. 
-
-1. Filter translatable strings by entering part of the string in the *String contains* field. You can leave this field blank to show all strings. 
-
-    !!! tip
-        The search is case sensitive. 
-    
-2. Select your *Translation language* from the dropdown menu.
-3. Use the *Search in* field to filter by only translated strings, only untranslated strings, or both translated and untranslated strings.
-
-![Screenshot of the Filter translatable strings fields.](../_embeds/uitranslate1.png)
-
-4. Enter your translation in the text box to the right of the string you want to translate.
-5. Select "Save translations" to save your translated strings.
-
 ## Batch edit translatable strings
 
-To streamline your translation workflow, you can batch edit translatable strings by exporting them as a .po file for offline editing in a desktop Gettext translation editor, then import the translated strings. Some examples of Gettext translation editors include:
+To streamline your translation workflow, we recommend batch editing translatable strings by exporting them as a .po file for offline editing in a desktop Gettext translation editor, then importing the translated strings. Some examples of Gettext translation editors include:
 
    - [Poedit](https://poedit.net/) is a downloadable Gettext translation editor that includes both a free and a paid version.
    - [PO File: Free PO Editor](https://pofile.net/free-po-editor) is a free in-browser Gettext translation editor.
@@ -67,3 +50,20 @@ Start batch editing your translatable strings by following the instructions belo
 
 9. Select the Import button to import your user interface translations.
 10. You will receive a status message regarding how many user interface strings were successfully updated.
+
+## Edit translatable strings
+
+For smaller edits, you can edit strings individually on the User interface translation page. 
+
+1. Filter translatable strings by entering part of the string in the *String contains* field. You can leave this field blank to show all strings. 
+
+    !!! tip
+        The search is case sensitive. 
+    
+2. Select your *Translation language* from the dropdown menu.
+3. Use the *Search in* field to filter by only translated strings, only untranslated strings, or both translated and untranslated strings.
+
+![Screenshot of the Filter translatable strings fields.](../_embeds/uitranslate1.png)
+
+4. Enter your translation in the text box to the right of the string you want to translate.
+5. Select "Save translations" to save your translated strings.
