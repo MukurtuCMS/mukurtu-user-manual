@@ -20,6 +20,10 @@ By default, Mukurtu CMS installs and configures English as the default language.
 
     ![Screenshot of the dropdown menu by English with delete highlighted.](../_embeds/nonenglish4.png)
 
-5. Refer to the [Configuration Translation](ConfigurationTranslation.md) and [User Interface Translation](UITranslation.md) articles to translate any configuration or user interface strings.
-6. New content does not need to be translated, and can simply be added in your preferred language.
+5. You will receive a confirmation message asking if you do want to delete English. Select "Delete".
+
+    ![Screenshot of the deletion confirmation message for deleting English.](../_embeds/nonenglish5.png)
+
+6. Now that your language is configured, refer to the [Configuration Translation](ConfigurationTranslation.md) and [User Interface Translation](UITranslation.md) articles to translate any configuration or user interface strings.
+7. New content does not need to be translated, and can simply be added in your preferred language.
 
