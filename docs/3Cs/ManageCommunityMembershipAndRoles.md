@@ -10,7 +10,7 @@ tags:
 !!! roles "User role"
     Community manager
 
-Community managers are responsible for adding new members, assigning community roles and changing the membership state. This article provides instruction for managing existing members both individually and in bulk. For details on adding new members as a community manager, see [Create User Accounts](/docs/users/creating-account.md)
+Community managers are responsible for adding and managing community members. This article provides instruction for managing existing members both individually and in bulk. For details on adding new members as a community manager, see [Create User Accounts](/docs/users/creating-account.md)
 
 ## Manage members page
 
@@ -38,11 +38,11 @@ There are three community roles: Community manager, community member, and commun
 
     For more on user roles, see [User Roles](../users/user-roles.md)
 
-There are three membership states: Active, pending and blocked. Please note that membership states are a stock Drupal operation that may change in future development.
+There are three membership states: Active, pending and blocked. Please note that these are stock Drupal settings and may be revised in a future update.
 
- - Active memberships have permission to view the community page and any protocols to which they've been added.
- - Pending memberships are for users who have requested membership in the community and have not yet been approved by the community manager.
- - Blocked memberships are not allowed access to the community page.
+- Active members can act as normal, based on their user role and permissions.
+- Pending members cannot view the community page or take community related actions until they are changed to active members. This may be useful if one community manager enrols a user and asks a second community manager to review and approve their membership.
+- Blocked members cannot view the protocol page or take community related actions until they are changed back to active members. This may be useful if a user takes approved actions and their account should be temporarily suspended within this community (accounts can also be blocked at the site level by a Mukurtu Manager).
 
 ## Add a new member
 
@@ -59,7 +59,7 @@ There are three membership states: Active, pending and blocked. Please note that
 
 3) Select their role(s).
 
-4) Select their membership state. 
+4) Select their membership state. In most cases, the default "active" state is correct.
 
 5) Select "Save".
 
@@ -70,23 +70,25 @@ There are three membership states: Active, pending and blocked. Please note that
 ![Blank new member form and with a success message displayed in green](../_embeds/community-membership-05.png)
 
 ## Manage members individually
-To manage users individually, from the community members page, select "edit" on the far right of their row. A membership edit form will display.
+1) To manage users individually, from the community members page, select "edit" on the far right of their row. 
 
 ![Screenshot of membership list with red box around edit](../_embeds/community-membership-07.png)
 
-1) To edit their role, uncheck the boxes of any roles you wish to remove. 
+2) A membership edit form will display.
 
-2) Check the boxes of the roles you wish to add. 
+![The membership edit form for the user, Community Partner. The community member role is selected.](../_embeds/community-membership-15.png)
 
-3) To edit their state, select the correct state (active, pending or blocked)
+3) Deselect the role you wish to remove, and select the role you wish to assign. While it's possible to assign more than one role to a community member, users will almost always have one role. 
 
-4) Select save. The form will reload with a success message.
+![The membership edit form for the user, Community Partner. The community member role is deselected, and the community affiliate role is selected instead.](../_embeds/community-membership-16.png)
 
-![Membership edit form with save button highlighted](../_embeds/community-membership-08.png)
+4) To edit their state, select the correct state (active, pending or blocked)
 
-5) The form will reload with the updated settings and a success message will be displayed.
+5) Select save. You will be returned to the manage members page and a success message will display.
 
-![Screenshot of success message](../_embeds/community-membership-09.png)
+![Membership edit form with save button highlighted](../_embeds/community-membership-16.png)
+
+![The manage members page with a success message displayed](../_embeds/community-membership-17.png)
 
 ## Manage multiple members
 
@@ -117,26 +119,42 @@ You can manage multiple members by using the action menu. Use this menu to:
 
 ![Manage members page with checkboxes beside User 1 and User 2. An action is selected from the aciton menu. Apply to selected items button is highlighted in red.](../_embeds/community-membership-12.png)
 
-4) Some actions will immediately display a success message once they are applied. Others will require an additional step. See below for more detail on each action menu item:  
+4) You will receive different results depending on the action item you select. Below are descriptions of the results of applying steps 1-3 above for each action item, and any additional instructions as needed.
 
-- Add roles to the selected membership(s)
-    1. select the role you would like to add
-    2. select **Submit**
-    3. a success message is displayed
+### Add roles to the selected membership(s)
+1. Complete steps 1-3.
+![Manage members page with action item "add roles to the selected membership" highlighted](../_embeds/community-membership-18.png)
+2. Uncheck the role you wish to remove. Check the role you wish to assign and select **Submit**.
+![Role selection form with community affiliate role checked.](../_embeds/placeholderscreenshot.png)
+3. The manage members page will re-load with a sucess message. User roles for each selected member will be updated.
+![Manage members page with updates highlighted and a success message displayed](../_embeds/placeholderscreenshot.png)
 
-- Approve the pending membership(s) 
-    - a success message is displayed
+### Approve the pending membership(s)
+1. Complete steps 1-3.
+    ![Manage members page with action item "approve the pending memberships" highlighted](../_embeds/community-membership-20.png)
 
-- Block the selected membership(s)
-    - a success message is displayed
+2. The manage members page will re-load with a success message. The selected users state will change from "Pending" to "Active"
+    ![Manage members page with updates highlighted and a success message displayed](../_embeds/community-membership-24.png)
 
-- Delete the selected membership(s)
-    - a success message is displayed
+### Block the selected membership(s)
+1. Complete steps 1-3.
+    ![Manage members page with action item "block the selected membersihps" highlighted](../_embeds/community-membership-21.png)
 
-- Remove roles from the selected membership(s)
-    1. select the role(s) you wish to remove 
-    2. select submit
-    3. a success message is displayed
+2. The manage members page will re-load with a success message. The selected users will be blocked.
 
-- Unblock the selected membership(s) 
-    - a success message is displayed
+    ![Manage members page with the selected users blocked and a success message displayed](../_embeds/community-membership-25.png)
+
+### Delete the selected membership(s)
+1. Complete steps 1-3.
+
+    ![Manage members page with action item "delete the selected memberships" highlighted](../_embeds/community-membership-22.png)
+
+2. The manage members page will re-load with a success message. The selected users will be deleted.
+    ![Manage members page with the selected users deleted and a success message displayed](../_embeds/community-membership-27.png)
+
+### Unblock the selected membership(s) 
+1. Complete steps 1-3
+    ![Manage members page with action item "unblock the selected memberships" highlighted](../_embeds/community-membership-28.png)
+
+2. The manage members page will re-load with a success message. The selected users will be unblocked.
+    ![Manage members page with the selected users unblocked and a success message displayed](../_embeds/community-membership-26.png)
