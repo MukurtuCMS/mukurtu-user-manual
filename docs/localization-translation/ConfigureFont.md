@@ -1,0 +1,99 @@
+---
+tags:
+    - multilingual
+    - look and feel
+---
+
+# Configure Font
+
+!!! roles "User role"
+    Drupal admin
+
+The primary font on Mukurtu CMS is BC Sans, which was selected for its wide support of Indigenous languages. If your site requires a custom font, you can update your font through the @font-your-face Drupal module or from code.
+
+## Configure from code
+
+If you would like to add other fonts to your theme, simply download the appropriate font files (WOFF and WOFF2 generally) to the fonts folder in the theme, and update the relative path in `components/00-base/typography/_fonts.scss` as needed. If a serif font is required, users should assess First Nations Unicode Font, which seems similar to BC Sans in its support of Indigenous languages.
+
+## Configure from module
+
+@font-your-face provides an administrative interface for browsing and applying web fonts using CSS @font-face. 
+
+!!! requirement
+    You must have command line administrative privileges to add modules to your Mukurtu CMS site.
+
+### Add module
+
+1. Navigate to [https://www.drupal.org/project/fontyourface](https://www.drupal.org/project/fontyourface).
+2. Navigate to Releases. 
+3. Copy the most recently updated Install code.
+
+    ![Screenshot of the most recent install code from @font-your-face.](../_embeds/font1.png)
+
+4. Navigate to your terminal. 
+5. Open your site directory and paste the copied code snippet, then execute.
+
+    ![Screenshot of composer updates installing 'drupal/fontyourface:^4.1'.](../_embeds/font2.png)
+
+6. Navigate to your site and log in as an admin.
+7. From the **Administration menu**, select **Extend** or navigate directly to `/admin/modules`.
+
+    ![Screenshot of the administration menu with Extend highlighted.](../_embeds/font3.png)
+
+8. Filter your site's modules by entering `font` into the *Filter* field.
+9. Select the **@fontyourface** and the **@fontyourface - Local Fonts** modules. 
+
+    ![Screenshot of the Extend menu with font entered in the filter field and the @fontyourface and @fontyourface - Local Fonts modules selected and the install button highlighted.](../_embeds/font4.png)
+
+10. Select "Install". You should receive a status message telling you that your modules have been installed successfully.
+
+    ![Screenshot of the status message stating that you can now install your own custom fonts.](../_embeds/font5.png)
+
+### Add custom fonts
+
+1. Navigate to Appearance > @font-your-face > Custom Fonts or go directly to `/admin/appearance/font/local_font_config_entity`.
+2. Select the "+ Add Custom Font" button.
+
+    ![Screenshot of the Custom fonts page with the Add Custom Font button highlighted.](../_embeds/font6.png)
+
+3. Enter a *Label* for your font. This will be the font's name and must be unique.
+4. Enter a *Font family*. This refers to the CSS font family and the @font-face name will be based on this.
+5. Optionally, you can select a *Font Style* and *Font Weight* from the dropdown menus. Use the checkboxes to select a *Font Classification*.
+
+    ![Screenshot of the **Add custom font** page with the Label, Font Family, Font style, Font weight, and Font classification filled in.](../_embeds/font7.png)
+
+6. Select the "Browse" or "Choose File" button to upload your font. The name of the button depends on your browser.
+
+!!! requirement
+    Fonts must be in WOFF format. You can convert font files to WOFF format using [https://cloudconvert.com/](https://cloudconvert.com/) or any other conversion tool.
+
+7. Select "Save" to save your font file.
+
+    ![Screenshot of the Add Custom Font page with the Font file uploaded and highlighted and the Save button highlighted.](../_embeds/font9.png)
+
+### Enable fonts
+
+1. Navigate to Appearance > @font-your-face > Browse or go directly to `/admin/appearance/font`.
+2. Select the "Enable* button to enable your font.
+
+    ![Screenshot of the Font Selector page with Enable button on the First Nations Unicode Regular font highlighted.](../_embeds/font10.png)
+
+### Add font display
+
+1. Navigate to Appearance > Font Selector > Font display or go directly to `/admin/appearance/font/font_display`.
+2. Select "+ Add Font display".
+
+    ![Screenshot of the Font Display page with the + Add Font display button highlighted.](../_embeds/font14.png)
+
+3. Enter a *Label* and select the font you want to apply using the *Font* dropdown.
+
+    ![Screenshot of the label and font fields with First Nations Unicode information included.](../_embeds/font11.png)
+
+4. Select options from the *Preset Selectors* field. You may choose to apply your font to headers, standard text, other text, or everything.
+5. Select the theme that you want to apply the font to. You can apply your font to any theme.
+
+    ![Screenshot of the Preser Selectors and Theme fields highlighted.](../_embeds/font12.png)
+
+6. Select "Save" to save your Font display. This will apply your font as you selected.
+
+
