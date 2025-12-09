@@ -17,6 +17,10 @@ Once the Mukurtu Multilingual module is installed and a language is added, site 
 
 Refer to the [Enable Multilingual Mode](ConfigureTranslation.md) article to configure Mukurtu Multilingual and add one or more languages to your site.
 
+## Configure font
+
+Refer to the [Configure Font](ConfigureFont.md) article to configure custom fonts on your Mukurtu CMS site.
+
 ## Translate site components
 
 Refer to the [User Interface Translation](UITranslation.md) article for instructions on how to translate your user interface. User interface translation allows a translator to search for specific translated and untranslated strings. Because translation tasks involve many strings, user interface translation allows translators to export, edit, and import translations as a `.po` file.
