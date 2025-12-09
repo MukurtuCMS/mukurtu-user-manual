@@ -25,7 +25,7 @@ Refer to the [Configure Font](ConfigureFont.md) article to configure custom font
 
 Refer to the [User Interface Translation](UITranslation.md) article for instructions on how to translate your user interface. User interface translation allows a translator to search for specific translated and untranslated strings. Because translation tasks involve many strings, user interface translation allows translators to export, edit, and import translations as a `.po` file.
 
-Refer to the [Configuration Translation](ConfigurationTranslation.md) article for instructions on how to translate all the configuration text on their site that has translatable text, such as the site name, role names, and other structural components.
+Refer to the [Configuration Translation](ConfigurationTranslation.md) article for instructions on how to translate all the configuration text on their site that has translatable text, such as the site name, role names, and other structural components. 
 
 ## Prepare content for translation
 
