@@ -162,9 +162,9 @@ nav:
   - Users:
     - users/users-intro.md
     - users/user-role-types.md 
-    - users/creating-account.md 
+    - users/creating-account-site-wide.md 
     - users/managing-administrator-roles.md 
-    - users/managing-user-roles.md 
+    - users/manage-user-accounts-site-wide.md
   - Taxonomies:
     - taxonomies/UnderstandingTaxonomies.md
     - taxonomies/ManagingTaxonomies.md
