@@ -11,6 +11,9 @@ tags:
 
 The primary font on Mukurtu CMS is BC Sans, which was selected for its wide support of Indigenous languages. If your site requires a custom font, you can update your font through the @font-your-face Drupal module or from code.
 
+!!! warning 
+    The instructions in this article require a degree of familiarity working with command line tools and editing code, which is not without risk. Changing your code may break your site and corrupt your data. Before following these instructions, make sure to back up your site, and confirm that you can restore from a backup.
+
 ## Configure from code
 
 If you would like to add other fonts to your theme, simply download the appropriate font files (WOFF and WOFF2 generally, though TTF is also supported) to the fonts folder in the theme, and update the relative path as needed. If a serif font is required, users should assess [First Nations Unicode Font](https://cis.arts.ubc.ca/community/first-nations-unicode-font/) from the University of British Columbia, which seems similar to BC Sans in its support of Indigenous languages. Follow the instructions below to add a font from your code source to the Mukurtu 4 and Gin (admin) themes.
