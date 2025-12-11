@@ -19,21 +19,21 @@ Refer to the [Enable Multilingual Mode](ConfigureTranslation.md) article to conf
 
 ## Configure font
 
-Refer to the [Configure Font](ConfigureFont.md) article to configure custom fonts on your Mukurtu CMS site.
+Refer to the [Configure Font](ConfigureFont.md) article to configure custom fonts on your Mukurtu CMS site. For most sites this is not required.
 
-## Translate site components
+## User interface translation
 
 Refer to the [User Interface Translation](UITranslation.md) article for instructions on how to translate your user interface. User interface translation allows a translator to search for specific translated and untranslated strings. Because translation tasks involve many strings, user interface translation allows translators to export, edit, and import translations as a `.po` file.
 
+## Configuration translation
+
 Refer to the [Configuration Translation](ConfigurationTranslation.md) article for instructions on how to translate all the configuration text on their site that has translatable text, such as the site name, role names, and other structural components. 
 
-## Prepare content for translation
-
-### Translate taxonomies
+## Translate taxonomies
 
 Refer to the [Translate Taxonomies](TranslateTaxonomies.md) article for instructions on how to translate taxonomy vocabularies on your site.
 
-### Translate Local Contexts directory descriptions
+## Translate Local Contexts directory descriptions
 
 Local Contexts project directory descriptions applied Site-wide or to communities or cultural protocols can be translated on Mukurtu no matter which level they are applied. 
 
@@ -56,7 +56,3 @@ Enter your translated *Description* text, then select "Save translation".
     Translating site content can be labor intensive. Best practice is to enable translation for all content when you initially upload it as part of your workflow. You can then go back and translate specific fields. 
 
 For instructions on how to translate content, refer to [Translate Content](TranslateContent.md)
-
-To switch between languages in Mukurtu, you can use the language switcher button in the top right-hand corner of your top menu. The language switcher is only enabled when you have more than one language available on your site.
-
-![Screenshot of the top menu with the language switcher button highlighted.](../_embeds/translation9.png)
