@@ -35,20 +35,9 @@ Refer to the [Translate Taxonomies](TranslateTaxonomies.md) article for instruct
 
 ## Translate Local Contexts directory descriptions
 
-Local Contexts project directory descriptions applied Site-wide or to communities or cultural protocols can be translated on Mukurtu no matter which level they are applied. 
+Refer to the [Translate Local Contexts](TranslateLocalContexts.md) article for instructions on how to translate Local Contexts directory descriptions. 
 
-!!! tip
-    Local Contexts projects and labels must be translated at the Local Contexts Hub. Visit [Local Contexts: Working with the Labels in the Hub](https://localcontexts.org/support/working-with-labels/#customize-labels) for more information.
-
-From your **Dashboard**, navigate to **Manage Local Contexts Projects**. Refer to the [Local Contexts: Using Labels and Notices](../local-contexts/ApplyLabelsAndNoticesToSiteContent.md) to apply your Local Contexts projects. Refer to [Manage Local Contexts Projects](../local-contexts/ManageLocalContextsProjects.md) for how to manage your project directory description. 
-
-Once your Local Contexts projects are applied, navigate to the **Translate project directory settings** tab. 
-
-![Screenshot of the Manage Local Contexts page with the Translate project directory settings tab highlighted.](../_embeds/translatelc1.png)
-
-Enter your translated *Description* text, then select "Save translation". 
-
-![Screenshot of the Translate project directory description modal with the Save translation button highlighted.](../_embeds/translatelc2.png)
+Local Contexts projects and labels must be translated at the Local Contexts Hub. Visit [Local Contexts: Working with the Labels in the Hub](https://localcontexts.org/support/working-with-labels/#customize-labels) for more information.
 
 ## Translate content
 
