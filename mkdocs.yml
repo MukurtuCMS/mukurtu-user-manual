@@ -119,6 +119,7 @@ nav:
     - multilingual/TranslationWorkflow.md
     - multilingual/SingleLanguageSite.md
     - multilingual/TranslateLocalContexts.md
+    - multilingual/ConfigureFont.md
   - Location Data:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
