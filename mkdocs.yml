@@ -110,14 +110,16 @@ nav:
     - local-contexts/UnderstandingTheLocalContextsHub.md
     - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
     - local-contexts/ViewAndManageDirectoryPages.md
-  - Localization and Translation:
-    - localization-translation/LocalizationTranslationOverview.md 
-    - localization-translation/ConfigureTranslation.md
-    - localization-translation/TranslateContent.md
-    - localization-translation/ConfigurationTranslation.md
-    - localization-translation/UITranslation.md
-    - localization-translation/SingleLanguageSite.md
-    - localization-translation/ConfigureFont.md
+  - Multilingual:
+    - multilingual/LocalizationTranslationOverview.md 
+    - multilingual/ConfigureTranslation.md
+    - multilingual/TranslateContent.md
+    - multilingual/ConfigurationTranslation.md
+    - multilingual/UITranslation.md
+    - multilingual/TranslationWorkflow.md
+    - multilingual/SingleLanguageSite.md
+    - multilingual/TranslateLocalContexts.md
+    - multilingual/ConfigureFont.md
   - Location Data:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
