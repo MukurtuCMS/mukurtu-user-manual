@@ -167,7 +167,12 @@ nav:
     - users/user-role-types.md 
     - users/creating-account-site-wide.md 
     - users/managing-administrator-roles.md 
+    - users/manage-user-account-registration.md
+    - users/request-an-account.md
+    - users/review-user-account-requests.md
     - users/manage-user-accounts-site-wide.md
+    - users/log-in.md
+    - users/reset-password.md
   - Taxonomies:
     - taxonomies/UnderstandingTaxonomies.md
     - taxonomies/ManagingTaxonomies.md
