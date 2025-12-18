@@ -19,13 +19,13 @@ As a visitor to a Mukurtu site, you may be allowed to create an account yourself
 
 3) A registration form will open. Enter your email address and desired username.
 
-4) Enter an optional display name. This will display in comments on content.
+4) Enter an optional display name. This will display in comments on content, and may be useful if your usename does not easily identify you and you would like to be identified on the site.
 
 ![The email address, username and display name fields filled out](../_embeds/request-account-03.png)
 
 5) You can choose to have users contact you via a personal contact form which hides your email. If you leave this option unselected, other users will unable to contact you through the site. This does not apply to administrators or Mukurtu managers, who will still be able to contact you.
 
-6) Checking the *email subscriptions* box will automatically check the emails box when subscribing to something.  
+6) Checking the *email subscriptions* box will automatically check the emails box when subscribing to receive notifications on the site. For example, you could sign up to receive notifications whenever new content is added to a protocol. Notification subscriptions is a feature we plan to implement in future development.
 
 7) Select a message digest interval:
 
