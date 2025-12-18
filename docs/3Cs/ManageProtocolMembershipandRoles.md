@@ -11,7 +11,7 @@ tags:
   
 ## Add a new member
 !!! Requirement
-	Users needed to be community members before they can be added to a protocol within the community.
+	Users must be enrolled as a member of the protocol's parent community before they can be enrolled and assigned roles in the protocol.
 
 1) To add a new member to a protocol, as a protocol steward, navigate to the desired protocol and select **Manage**, then select "Add Member".
 
