@@ -79,6 +79,7 @@ nav:
     - 3Cs/CreateCategories.md 
     - 3Cs/ManageCommunityMembershipAndRoles.md
     - 3Cs/ManageProtocolMembershipandRoles.md
+    - 3Cs/MultiCommunityProtocols.md
     - 3Cs/CategoryTaxonomy.md
     - 3Cs/EditCommunitySettings.md
     - 3Cs/EditCulturalProtocolSettings.md
@@ -166,6 +167,7 @@ nav:
     - users/users-intro.md
     - users/user-role-types.md 
     - users/creating-account-site-wide.md 
+    - users/create-user-accounts-community-manager.md
     - users/managing-administrator-roles.md 
     - users/manage-user-account-registration.md
     - users/request-an-account.md

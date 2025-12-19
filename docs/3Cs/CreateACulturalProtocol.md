@@ -36,7 +36,7 @@ It's possible that related families, villages, clans, or other communities might
 
     ![Communities field with select communities button](../_embeds/create-protocol-04.png) 
 
-     ![The add communities modal, with all availbable communities listed with checkboxes by each community. The add communities button is located at the bottom left.](../_embeds/create-protocol-05.png) ***THIS SCREENSHOT WILL NEED TO BE UPDATED***
+     ![The add communities modal, with all availbable communities listed with checkboxes by each community. The add communities button is located at the bottom left.](../_embeds/create-protocol-05.png) 
 
     !!! Tip
         You must be a community manager in every community you wish to add.
@@ -60,7 +60,6 @@ It's possible that related families, villages, clans, or other communities might
        You will be taken to the new protocol page. If you've added a  description, it will display on this page along with a confirmation message.
 
        ![Newly created protocol page](../_embeds/create-protocol-09.png)
-       ***THIS SCREENSHOT WILL NEED TO BE UPDATED***
 
 
 ## Create a cultural protocol through an existing community
