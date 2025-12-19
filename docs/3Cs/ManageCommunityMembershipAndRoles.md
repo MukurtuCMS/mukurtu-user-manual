@@ -10,7 +10,7 @@ tags:
 !!! roles "User role"
     Community manager
 
-Community managers are responsible for adding and managing community members. This article provides instruction for managing existing members both individually and in bulk. For details on adding new members as a community manager, see [Create User Accounts](/docs/users/creating-account.md)
+Community managers are responsible for adding and managing community members. This article provides instruction for managing existing members both individually and in bulk. For details on adding new members as a community manager, see [Create User Accounts](../users/create-user-accounts-community-manager.md)
 
 ## Manage members page
 
