@@ -21,12 +21,13 @@ Using the *All* setting means the item would only be available to users who are 
 ## Using sharing settings
 Select the setting that provides the most appropriate access to the content.
 
-1. Under the Cultural Protocols settings of your content item form (digital heritage, dictionary, person record and collections), select the *sharing setting* you would like to use.
+1. Select the protocols you would like to apply to the content.
 
-2. Select the protocols you would like to apply to the content.
+    ![A digital heritage item form displaying the protocol field. Two strict protocols are selected.](../_embeds/sharing-setting-01.png)
 
---MAKE SURE SCREENSHOT SHOWS MULTIPLE PROTOCOLS SELECTED--
-![Screenshot of sharing settings under cultural protocols showing radio buttons with all and any as options. Below the radio buttons is a list of available cultural protocols with multiple protocols selected](../_embeds/placeholderscreenshot.png)
+2. Under the Cultural Protocols settings of your content item form (digital heritage, dictionary, person record and collections), select the *sharing setting* you would like to use.
+
+    ![The sharing settings field with "any" selected](../_embeds/sharing-setting-02.png)
 
 ## How sharing settings affect display
 
@@ -34,22 +35,19 @@ Here is an example of how each sharing setting affects content visibility:
 
 In the Singers and Dancers community, there are two strict protocols: Singers Only and Dancers Only. 
 
-The community has two members: Singer1 and Dancer1. Singer1 has been added to the Singers Only protocol. Dancer1 has been added to the Dancers Only protocol. 
+The community has two members: Singer 1 and Dancer 1. Singer 1 has been added to the Singers Only protocol. Dancer 1 has been added to the Dancers Only protocol. 
 
 A digital heritage item has been uploaded under both protocols, and uses the sharing setting, *Any*. 
 
---SREENSHOT OF DH ITEM WITH CULTURAL PROTOCOL SETTINGS. SINGERS ONLY AND DANCERS ONLY PROTOCOLS ARE SELECTED. THE SHARING SETTING IS SET TO "ANY"
-![Screenshot of the cultural protocol settings with two strict protocols selected. Setting is set to any](../_embeds/placeholderscreenshot.png)
+![Screenshot of the cultural protocol settings with two strict protocols selected. Setting is set to any](../_embeds/sharing-setting-02.png)
 
 When either user is logged in, they will be able to view the item.
 
---SCREENSHOT OF THE DH ITEM--
-![Screenshot of the DH item](../_embeds/placeholderscreenshot.png)
+![Screenshot of the DH item](../_embeds/sharing-setting-04.png)
 
 Let's change the sharing setting on this same item to **All**.
 
---SREENSHOT OF DH ITEM WITH CULTURAL PROTOCOL SETTINGS. SINGERS ONLY AND DANCERS ONLY PROTOCOLS ARE SELECTED. THE SHARING SETTING IS SET TO "ALL"
-![Screenshot of the cultural protocol settings with two strict protocols selected. Setting is set to all](../_embeds/placeholderscreenshot.png)
+![Screenshot of the cultural protocol settings with two strict protocols selected. The sharing setting is set to all](../_embeds/sharing-setting-05.png)
 
 Despite being logged in as Singer1 or Dancer1, the item is not visible, because these users need to belong to BOTH protocols to view the item.
 
