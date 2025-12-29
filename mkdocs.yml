@@ -106,6 +106,8 @@ nav:
     - dictionary/CreateDictionaryWord.md
   - FAQs:
     - faqs/DatabasePrivacy.md
+  - Infrastructure:
+    - infrastructure/PHPConfiguration.md
   - Local Contexts:
     - local-contexts/LevelsOfLocalContextsProjects.md
     - local-contexts/ManageLocalContextsProjects.md
