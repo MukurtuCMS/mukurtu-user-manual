@@ -16,7 +16,7 @@ Some audio files are large enough that external hosting might also be worth cons
 
 - Video files uploaded directly to your Mukurtu CMS site are stored and managed the same as any other media assets.
 - Ensure that your hosting plan provides sufficient space for large video files.
-- The default maximum upload size for a single file is 128MB, but your system/server administrator should be able to configure support for larger individual uploads. For more information on site configuration, visit [PHP Site Configuration](\infrastructure\PHPConfiguration.md)
+- The default maximum upload size for a single file is 128MB, but your system/server administrator should be able to configure support for larger individual uploads. For more information on site configuration, visit [PHP Site Configuration](../infrastructure/PHPConfiguration.md)
 - Directly uploaded videos will use the default HTML5 video player.
 
 ## External hosting
