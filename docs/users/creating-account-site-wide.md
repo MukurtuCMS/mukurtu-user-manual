@@ -10,7 +10,7 @@ tags:
 !!! Roles "User roles" 
     Administrator, Mukurtu manager
 
-This article covers creating a user account from a site-wide role such as an administrator or Mukurtu manager. For information on creating a user account as a community manager, see [Create User Account as a Community Manager](create-user-account-community-manager.md)
+This article covers creating a user account from a site-wide role such as an administrator or Mukurtu manager. For information on creating a user account as a community manager, see [Create User Accounts as a Community Manager](../users/create-user-accounts-community-manager.md)
 
 ## Create a new user account
 

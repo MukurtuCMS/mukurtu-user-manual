@@ -34,8 +34,7 @@ Each protocol is managed by at least one parent community. Protocols can also be
 
 2. Check the box next to each community you would like to add. Select "Add Communities"
 
-**SCREENSHOT OF COMMUNITY SELECTION MODAL**
-![Screenshot of community selection modal](../_embeds/placeholderscreenshot.png)
+![Screenshot of community selection modal. Three communities are listed, two are selected. The add communities button is located in the bottom-left corner.](../_embeds/create-protocol-05.png)
 
 3. To remove a community, select the trash can icon in the top right corner of each community.
 
@@ -80,7 +79,6 @@ Featured content gives users a preview of selected content. It displays the titl
 
 5. Remove featured content by selecting the grey trash can icon on the top right corner of each piece of content.
     ![Featured content field with a sample content item and trash can icon highlighted in red](../_embeds/edit-protocol-04.png)
-
 
 ## Save
 
