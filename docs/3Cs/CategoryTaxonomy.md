@@ -1,6 +1,6 @@
 ---
 tags:
-    - categories
+    - communities, cultural protocols, and categories
     - taxonomies
 ---
 # Manage Categories
