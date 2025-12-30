@@ -63,7 +63,7 @@ You can add existing digital heritage items to multipage items.
 
 2. New pages are created as additional digital heritage items. Select which type of content to use for your new page.
 
-    ![Screenshot of the content selection form for adding new pages with the digital heritage and person links both highlighted.](../_embeds/multipage10.png)
+    ![Screenshot of the content selection form for adding new pages with the digital heritage link is highlighted.](../_embeds/multipage10.png)
 
     For more information on creating digital heritage items, visit [Create a Digital Heritage Item](CreateDHItem.md).
 
