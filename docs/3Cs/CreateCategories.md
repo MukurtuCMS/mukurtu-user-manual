@@ -1,7 +1,6 @@
 ---
 tags: 
     - communities, cultural protocols, and categories
-    - categories
     - taxonomy
     - getting started
 ---
