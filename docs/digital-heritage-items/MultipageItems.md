@@ -1,7 +1,6 @@
 ---
 tags:
     - digital heritage item
-    - person record
     - content
 ---
 # Multipage Items
@@ -9,13 +8,11 @@ tags:
 !!! roles "User roles" 
     Protocol steward, contributor
 
-Multipage items are additions to digital heritage items and person records that allow multiple pages with unique metadata to be added to content. The pages can be navigated and browsed within the same digital heritage item or person record. This allows for granular page-level description, which makes individual pages discoverable in site-wide search.  
+Multipage items are additions to digital heritage items that allow multiple pages with unique metadata to be added to content. The pages can be navigated and browsed within the same digital heritage item. This allows for granular page-level description, which makes individual pages discoverable in site-wide search.  
 
-Please note that all pages appear individually on the browse pages. While there are ways to work with this, some users find the display of multiple pages to add unwanted visual bulk. If you do not need unique page-level metadata and prefer to avoid visual clutter on your browse pages, consider adding each page as a separate media asset within a single digital heritage item or person record instead.
+Please note that all pages appear individually on the browse pages. While there are ways to work with this, some users find the display of multiple pages to add unwanted visual bulk. If you do not need unique page-level metadata and prefer to avoid visual clutter on your browse pages, consider adding each page as a separate media asset within a single digital heritage item instead.
 
 ## Create a multipage item
-
-You can create a multipage item from both digital heritage items and person records. This article will reference creating a multipage item from a digital heritage item, but the process is the same for both content types.
 
 1. From an existing digital heritage item, select the "Create Multipage Item" button in the toolbar below the item or record's title. 
 
@@ -42,7 +39,7 @@ To begin adding new pages, select your multipage item.
 
 ### Add existing content
 
-You can add existing digital heritage items or person records to multipage items.
+You can add existing digital heritage items to multipage items.
 
 1. Select the "Edit MPI" button. 
 
@@ -64,14 +61,13 @@ You can add existing digital heritage items or person records to multipage items
 
     ![Screenshot of a page of the multipage item with the edit button highlighted.](../_embeds/multipage7.png)
 
-2. New pages are created as additional digital heritage items or person records. Select which type of content to use for your new page.
+2. New pages are created as additional digital heritage items. Select which type of content to use for your new page.
 
     ![Screenshot of the content selection form for adding new pages with the digital heritage and person links both highlighted.](../_embeds/multipage10.png)
 
     For more information on creating digital heritage items, visit [Create a Digital Heritage Item](CreateDHItem.md).
-    For more information on creating person records, refer to [Create Person Records](../person-records/PersonRecords.md)
 
-3. When your new item or record is complete, select the "Save" button. 
+3. When your new item is complete, select the "Save" button. 
 
     ![Screenshot of the new digital heritage item with the save button highlighted.](../_embeds/multipage11.png)
 
