@@ -19,6 +19,4 @@ If necessary, you can have different protocols between content and media. For ex
 
 ![Screenshot of the menu view of a digital heritage item with an open protocol featuring a media asset with a strict cultural protocol.](../_embeds/mediaadminreview.png)
 
-![Screenshot of the page view of a digital heritage item with an open protocol featuring a media asset with a strict cultural protocol](../_embeds/placeholderscreenshot.png)
-
-
+![Screenshot of the page view of a digital heritage item with an open protocol featuring a media asset with a strict cultural protocol](../_embeds/MEDIAExampleProtocol3.png)
