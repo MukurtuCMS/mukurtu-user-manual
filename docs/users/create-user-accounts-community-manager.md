@@ -11,10 +11,9 @@ Administrators, Mukurtu managers and community managers are able to create new u
 
 There are two ways to access the new user form as a community manager:
 
-1. From the dashboard, select **Add User**. (This may need updating)
+1. From the dashboard, select **Create user with community membership**.
 
-    The community manager dashboard with "Add User" highlighted
-    ![The community manager dashboard with "Add User" highlighted](../_embeds/placeholderscreenshot.png)
+    ![The community manager dashboard with "Create user with community membership" highlighted](../_embeds/add-user-cm-05.png)
 
 2. Add `admin/communities/create-user` to the end of your URL. 
 (i.e. `mymukurtusite.org/admin/communities/create-user`)
