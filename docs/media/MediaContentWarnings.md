@@ -46,14 +46,14 @@ To begin, navigate to your dashboard.
 
 ### Create a media tag
 
-1. Under the **Additional content settings** section of the dashboard, select the **Manage Taxonomies** link or go directly to `/admin/structure/taxonomy`
+1. Under the **Taxonomies** section of the dashboard, select the **Manage Taxonomies** link or go directly to `/admin/structure/taxonomy`
 
-    ![Screenshot of where the manage taxonomies link is located in the dashboard](../_embeds/placeholderscreenshot.png)
+    ![Screenshot of where the manage taxonomies link is located in the dashboard](../_embeds/warnings1.png)
 
 2. Navigate to the **Media Tag** link. Your media tag will act as the term, or name, for your content warning, so choose a tag that clearly communicates the type of warning you want to apply.
 3. Select the "Add a new term in Media Tag" button.
 4. Use the *Name* field to enter a name for your media content warning.
-5. Use the *Description* field to enter a description of the media tag for your media content warning. The description could help distuinguish between media tags or describe the type of media assets they should be applied to.
+5. Use the *Description* field to enter a description of the media tag for your media content warning. The description could help distinguish between media tags or describe the type of media assets they should be applied to.
 6. Select the "Save" button to save your media tag.
 
     ![Screenshot of the name and description fields with sample text filled in and the save button highlighted.](../_embeds/mediawarnings4.png)
@@ -62,9 +62,9 @@ To begin, navigate to your dashboard.
 
 ### Configure a taxonomy warning
 
-1. From the dashboard, select the **Content Warnings Settings** link or go directly to `/admin/config/mukurtu/content-warnings`
+1. Under the **Media** section of the dashboard, select the **Content Warnings Settings** link or go directly to `/admin/config/mukurtu/content-warnings`
 
-    ![Screenshot of where the content warnings settings link is located in the dashboard](../_embeds/placeholderscreenshot.png)
+    ![Screenshot of where the content warnings settings link is located in the media section of the dashboard](../_embeds/warnings2.png)
 
 2. Navigate to the **Taxonomy Triggered Warnings** section. 
 3. Select a **Term** from the dropdown menu. Terms are media tags attached to the media that will trigger the warning. They function as the name of your media content warning. 
@@ -90,7 +90,7 @@ For further information about how to create person records, visit [Create a Pers
 
 1. Under the **Media** section of the dashboard, select the **Content Warnings Settings** link or go directly to `/admin/config/mukurtu/content-warnings`
 
-    ![Screenshot of where the content warnings settings link is located in the dashboard](../_embeds/placeholderscreenshot.png)
+    ![Screenshot of where the content warnings settings link is located in the dashboard](../_embeds/warnings2.png)
 
 2. Navigate to the **People Warnings** section and select the checkbox beside **Enable People Warnings**. 
 3. In the *Warning Text: Single Person* field, enter the text to be displayed on the media overlay for a single deceased person. Use the replacement token `[name]` to automatically insert the person's name in the text. An example of warning text for a single person is `Warning: [name] is deceased. Click through to access content.`
