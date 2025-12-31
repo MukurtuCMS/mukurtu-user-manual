@@ -19,7 +19,7 @@ Digital heritage items are configured to allow multipage items by default. Enabl
 3. Select the content types you want to enable for multipage items. 
 4. Select "Save configuration". 
 
-    ![Screenshot of the multipage items configuration page.](../_embeds/configmulti2.png)
+    ![Screenshot of the multipage items configuration page with person records and collections selected and the save configuration button highlighted.](../_embeds/configmulti2.png)
 
     ![Screenshot of a person record with the create multipage item link highlighted.](../_embeds/configmulti3.png)
 
