@@ -90,8 +90,8 @@ nav:
     - collections/AddandArrangeCollections.md
     - collections/SubcollectionOrganization.md
     - collections/PersonalCollection.md
-  - Content Configuration:
-    - content-configuration/MultipageItemConfiguration.md
+  - Content Settings:
+    - content-settings/MultipageItemConfiguration.md
   - Digital Heritage Items:
     - digital-heritage-items/UnderstandingDigitalHeritage.md
     - digital-heritage-items/DHMetadataFields.md
