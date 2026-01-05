@@ -90,6 +90,8 @@ nav:
     - collections/AddandArrangeCollections.md
     - collections/SubcollectionOrganization.md
     - collections/PersonalCollection.md
+  - Content Configuration:
+    - content-configuration/MultipageItemConfiguration.md
   - Digital Heritage Items:
     - digital-heritage-items/UnderstandingDigitalHeritage.md
     - digital-heritage-items/DHMetadataFields.md
@@ -108,7 +110,6 @@ nav:
     - faqs/DatabasePrivacy.md
   - Infrastructure:
     - infrastructure/PHPConfiguration.md
-    - infrastructure/MultipageItemConfiguration.md
   - Local Contexts:
     - local-contexts/LevelsOfLocalContextsProjects.md
     - local-contexts/ManageLocalContextsProjects.md
