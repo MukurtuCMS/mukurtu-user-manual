@@ -45,7 +45,9 @@ It's possible that related families, villages, clans, or other communities might
 
     ![The description field](../_embeds/create-protocol-06.png)
 
-6. Select the *membership display setting* Choose from one of: 
+6. If you are using Local Contexts labels for content within this protocol, you may add an optional description for Local Contexts projects. This will be displayed in the protocol's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md)
+
+7. Select the *membership display setting* Choose from one of: 
 
     - **Do not display** does not display any protocol members on the protocol page.
     - **Display protocol stewards** displays protocol stewards and not protocol stewards on the community page.
@@ -53,7 +55,7 @@ It's possible that related families, villages, clans, or other communities might
 
         ![The membership display field](../_embeds/create-protocol-07.png)
 
-7. When you are finished, select **Save**, which is sticky at the top of the page. 
+8. When you are finished, select **Save**, which is sticky at the top of the page. 
 
        ![Protocol form save button at the top of the page](../_embeds/create-protocol-08.png)
 
