@@ -10,14 +10,24 @@ tags:
 
 Communities can have a range of settings that can be updated once the community is created. Certain fields and settings are only available after the community has been created. 
 
-## Name, description, and community page visibility
+## Open the edit form
 
 1. Navigate to the community you wish to edit.
 	![Screenshot of dashboard with two options for accessing communities highlighted](../_embeds/community-settings-10.png)
 
-2. From the community menu options, select **edit**.
-3. From here you can edit the *community name*, *description* and *community page visibility*.
-	![Screenshot of community name, description and community page visibility](../_embeds/community-settings-01.png)
+2. From the community menu options, select **edit**. The community form will open with its current settings.
+
+## Community name and description
+
+3. Edit the *community name* and *description* as needed.
+
+## Local Contexts description
+
+4. Local Contexts provides labels and notices that are applied to content. These are a combination of graphics and text that communicate standards for respectful interaction with heritage collections and data as dictated by Indigenous communities. If you are using Local Contexts labels for content within this community, you may add or update a description for Local Contexts projects. This will be displayed in the community's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md)
+
+## Community page visibility
+
+5. You can also change the community page visibility by toggling between **Community Only** or **Public**. 
 
 ## Community Types
 

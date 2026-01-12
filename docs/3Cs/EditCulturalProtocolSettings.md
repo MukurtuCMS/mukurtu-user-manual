@@ -47,6 +47,10 @@ Each protocol is managed by at least one parent community. Protocols can also be
 
 Add or edit the protocol description. Descriptions display on the protocol page and may include information about the purpose of the protocol, the type of content under this protocol, and who to contact if you have questions.
 
+## Local Contexts Description
+
+Local Contexts provides labels and notices that are applied to content. These are a combination of graphics and text that communicate standards for respectful interaction with heritage collections and data as dictated by Indigenous communities. If you are using Local Contexts labels for content within this protocol, you may add or update a description for Local Contexts projects. This will be displayed in the protocol's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md)
+
 ## Membership display
 
 Use this setting to determine how members are displayed on a cultural protocol page:
