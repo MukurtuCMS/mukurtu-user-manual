@@ -81,4 +81,4 @@ Users with specific types of user roles will require different fields to be tran
 
 We recommend starting with Mukurtu specific fields that are seen by end users. 
 
-Select [Download UI Translation Priorities](../_embeds/uitranslationpriorities.csv) to download our recommended UI translation priorities as a CSV file.
+Select [Download UI Translation Priorities](../_embeds/uitranslationpriorities.xlsx) to download our recommended UI translation priorities.

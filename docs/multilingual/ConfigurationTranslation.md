@@ -81,4 +81,4 @@ Users with specific types of user roles will require different fields to be tran
 
 We recommend starting with Mukurtu specific fields that are seen by end users. 
 
-Select [Download Configuration Translation Priorities](../_embeds/configtranslationpriorities.csv) to download our recommended configuration translation priorities as a CSV file.
+Select [Download Configuration Translation Priorities](../_embeds/configtranslationpriorities.xlsx) to download our recommended configuration translation priorities.
