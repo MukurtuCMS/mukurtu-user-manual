@@ -117,15 +117,16 @@ nav:
     - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
     - local-contexts/ViewAndManageDirectoryPages.md
   - Multilingual:
-    - multilingual/LocalizationTranslationOverview.md 
-    - multilingual/ConfigureTranslation.md
-    - multilingual/TranslateContent.md
-    - multilingual/ConfigurationTranslation.md
-    - multilingual/UITranslation.md
+    - multilingual/UnderstandingMultilingual.md 
     - multilingual/TranslationWorkflow.md
-    - multilingual/SingleLanguageSite.md
-    - multilingual/TranslateLocalContexts.md
+    - multilingual/ConfigureTranslation.md
     - multilingual/ConfigureFont.md
+    - multilingual/UITranslation.md
+    - multilingual/ConfigurationTranslation.md
+    - multilingual/TranslateTaxonomies.md
+    - multilingual/TranslateLocalContexts.md
+    - multilingual/TranslateContent.md    
+    - multilingual/SingleLanguageSite.md 
   - Location Data:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
