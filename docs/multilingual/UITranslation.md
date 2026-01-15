@@ -67,3 +67,18 @@ For smaller edits, you can edit strings individually on the User interface trans
 
 4. Enter your translation in the text box to the right of the string you want to translate.
 5. Select "Save translations" to save your translated strings.
+
+## Translation priorities
+
+To further streamline your translation workflow, we have identified strings that we feel would most benefit from being prioritized for translation. Depending on your language, some strings may have already been translated by Drupal. 
+
+Users with specific types of user roles will require different fields to be translated. To reflect this, the priorities have been sorted into the following columns:
+
+- Admin Roles - Users with Administrator and Mukurtu Manager roles
+- Content Roles - Users with the Community manager, Language community manager, Protocol steward, Contributor, Community record steward, Curator, Language steward, and Language contributor roles.
+- End User - Any other authenticated user roles as well as visitors to your site.
+- From Mukurtu - Strings that are specific to Mukurtu's platform, including field titles and descriptions.
+
+We recommend starting with Mukurtu specific fields that are seen by end users. 
+
+Select [Download UI Translation Priorities](../_embeds/uitranslationpriorities.csv) to download our recommended UI translation priorities as a CSV file.

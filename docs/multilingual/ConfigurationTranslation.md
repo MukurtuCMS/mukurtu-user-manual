@@ -67,3 +67,18 @@ For smaller edits, you can edit strings individually on the Configuration transl
 4. Enter your preferred translation in the modal, then select "Save translation".
 
     ![Screenshot of the Edit Translation modal with the translation entered in French.](../_embeds/translationconfig4.png)
+
+## Translation priorities
+
+To further streamline your translation workflow, we have identified strings that we feel would most benefit from being prioritized for translation. Depending on your language, some strings may have already been translated by Drupal, but this may be limited for configuration translation strings as they reflect Mukurtu-specific fields. 
+
+Users with specific types of user roles will require different fields to be translated. To reflect this, the priorities have been sorted into the following columns:
+
+- Admin Roles - Users with Administrator and Mukurtu Manager roles
+- Content Roles - Users with the Community manager, Language community manager, Protocol steward, Contributor, Community record steward, Curator, Language steward, and Language contributor roles.
+- End User - Any other authenticated user roles as well as visitors to your site.
+- From Mukurtu - Strings that are specific to Mukurtu's platform, including field titles and descriptions.
+
+We recommend starting with Mukurtu specific fields that are seen by end users. 
+
+Select [Download Configuration Translation Priorities](../_embeds/configtranslationpriorities.csv) to download our recommended configuration translation priorities as a CSV file.
