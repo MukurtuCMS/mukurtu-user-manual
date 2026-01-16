@@ -3,7 +3,7 @@ tags:
     - multilingual
 ---
 
-# Configure site language
+# Configure Site Language
 
 !!! roles "User role"
     Mukurtu manager
