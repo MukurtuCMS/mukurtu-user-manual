@@ -27,6 +27,7 @@ There may be a need to manage or clean up taxonomy terms. Most commonly this hap
     ![The taxonomy page with "list terms" highlighted](../_embeds/manage-tax-02.png)
 
 Here are some terms created in the *keyword* taxonomy
+
 ![The keyword taxonomy list with terms "food," and "recipes"](../_embeds/manage-tax-03.png)
 
 ## Add a taxonomy term
@@ -39,7 +40,7 @@ Here are some terms created in the *keyword* taxonomy
 
     ![The add term form filled out. The save button is highlighted](../_embeds/manage-tax-19.png)
 
-3. A fresh add term form with a sucess message will reload and a success message will be displayed
+3. A page will reload and a success message will be displayed
 
     ![The add term form with a success message displayed](../_embeds/manage-tax-20.png)
 
@@ -135,6 +136,8 @@ Alternatively, select the **Structure** menu in the left hand sidebar menu and s
 
 ![The structure menu icon - three squares layered on top of each other - which opens the structure menu is highlighted. The "merge term from list" menu item is also highlighted.](../_embeds/manage-tax-15.png)    
 
+This can also be accessed through the dashboard in the **Taxonomies** section.
+![The dashboard with "Manage taxonomy term merge list" highlighted](../_embeds/manage-tax-21.png)
 
 In the "Name" column is a list of terms that will automatically be replaced when used in content. In this example, "Basket making" and "Baskets" will be changed to "Basketry" when used.
 
