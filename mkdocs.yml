@@ -101,7 +101,7 @@ nav:
     - digital-heritage-items/MultipageItems.md
   - Dictionary:
     - dictionary/UnderstandingTheDictionary.md
-    - dictionary/AddLanguage.md
+    - dictionary/ConfigureTheDictionary.md
     - dictionary/DictonaryRoles.md
     - dictionary/DictionaryWordMetadata.md
     - dictionary/WordLists.md
