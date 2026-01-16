@@ -8,7 +8,7 @@ tags:
 !!! roles "User Roles"
     Mukurtu manager
 
-While the dictionary works with itsʻ default configurations, itsʻ settings can be customized to improve user experience and accuracy in front-end display. This article covers adding a language (required), customizing the glossary order, and configuring the dictionaryʻs default language.
+While the dictionary works with its' default configurations, its' settings can be customized to improve user experience and accuracy in front-end display. This article covers adding a language (required), customizing the glossary order, and configuring the dictionary's default language.
 
 ## Add a language
 
@@ -37,7 +37,7 @@ If the language is not already listed, select "Add Term".
 
 In the *Name* field enter the language name as you want it to appear on the site.
 
-The *Description* field is optional, and can include information about the language i.e. history, regions where the language is spoken, related languages and dialects, etc. This will be displayed in the languageʻs term page
+The *Description* field is optional, and can include information about the language i.e. history, regions where the language is spoken, related languages and dialects, etc. This will be displayed in the language's term page
 
 When ready:
 
