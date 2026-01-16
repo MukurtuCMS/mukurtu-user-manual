@@ -42,6 +42,6 @@ Local Contexts projects and labels must be translated at the Local Contexts Hub.
 ## Translate content
 
 !!! tip
-    Translating site content can be labor intensive. Best practice is to enable translation for all content when you initially upload it as part of your workflow. You can then go back and translate specific fields. 
+    Translating site content can be labor intensive. To ensure users can view all their content (even if it hasn't yet received a translation), best practice is to enable translation for all content when you initially upload it as part of your workflow.  
 
 For instructions on how to translate content, refer to [Translate Content](TranslateContent.md)

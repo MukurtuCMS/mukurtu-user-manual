@@ -3,12 +3,12 @@ tags:
     - multilingual
 ---
 
-# Configure the Default Site Language
+# Configure site language
 
 !!! roles "User role"
     Mukurtu manager
 
-By default, Mukurtu CMS installs and configures English as the default language. You may wish to change the default language for a single language site (eg: a site only in Spanish), or for a multilingual site (eg: a site with French as the default language, and another language as translation).
+By default, Mukurtu CMS installs and configures your site in English. You may wish to build a single language site in another language (eg: a site only in Spanish). Follow the directions below to configure your site in a language other than English.
 
 1. Refer to the [Mukurtu Multilingual](ConfigureTranslation.md/) and [Add a Language](ConfigureTranslation.md/#add-a-language) articles to enable Mukurtu Multilingual module and add a language to your site.
 2. After adding your language, set it to default by selecting the radio selector to the right of your language in the Default column. 
