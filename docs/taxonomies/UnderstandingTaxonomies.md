@@ -12,9 +12,9 @@ Mukurtu CMS includes several taxonomies (sometimes called vocabularies) in its m
 
 Mukurtu uses taxonomies to enable reuse of a term within a field (eg: selecting a creator's name from an existing list, instead of entering their name each time), as filterable facets in search pages, and in search indices.
 
-Most taxonomic fields allow the addition of new terms while creating content. The exceptions are *categories* and *community types*, which need to be created in advance by a Mukurtu administrator.
+Most taxonomic fields allow the addition of new terms while creating content. 
 
-Mukurtu includes the following stock taxonomies:
+Mukurtu includes the following taxonomies:
 
 | Taxonomy                      | Used in            |
 | ----------------------------- | ------------------ |
