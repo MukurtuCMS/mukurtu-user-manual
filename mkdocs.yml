@@ -127,6 +127,7 @@ nav:
     - multilingual/TranslateLocalContexts.md
     - multilingual/TranslateContent.md    
     - multilingual/SingleLanguageSite.md 
+    - multilingual/UserLanguage.md
   - Location Data:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
