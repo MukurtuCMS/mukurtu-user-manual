@@ -7,16 +7,16 @@ tags:
 
 There are three types of user roles in Mukurtu CMS: site-wide, community, and protocol. Roles are not mutually exclusive. Some users may have all types of roles. Roles can change over time as the site grows and responsibilities shift.
 
-Site wide user roles are managed by the Mukurtu administrator and affect the entire site. Things like color scheme, front page styling, taxonomies and collections are managed through site wide user roles. 
+Site wide user roles are managed by the Mukurtu manager and affect the entire site. Things like color scheme, front page styling, taxonomies and collections are managed through site wide user roles. 
 
 Community and protocol roles are managed independently within each group by the community manager or protocol steward. Access to content is managed through the communities and protocols.
 
 ## Site-wide roles
 
-### Drupal Administrator
-This role is automatically assigned to the account that was created when first setting up a new site. Site administrators have full access to Drupal options (the platform upon which Mukurtu is built). As such, unless the administrator is comfortable with Drupal, we recommend immediately creating a new Mukurtu Administrator account as soon as a new site is configured. Day to day activities should be handled from this account.
+### Administrator
+This role is automatically assigned to the account that was created when first setting up a new site. Administrators have full access to Drupal options (the platform upon which Mukurtu is built). As such, unless the administrator is comfortable with Drupal, we recommend immediately creating a new Mukurtu Administrator account as soon as a new site is configured. Day to day activities should be handled from this account.
 
-### Mukurtu administrator
+### Mukurtu manager
 Mukurtu administrators handle most of the site-wide management. They create and manage user accounts, review and approve user account requests, assign site-wide roles, create and delete communities, assign community manager roles, manage taxonomies, and have access to roundtrip tools for import and export. 
 
 ### Authenticated user

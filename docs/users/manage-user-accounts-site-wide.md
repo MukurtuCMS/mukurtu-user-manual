@@ -3,7 +3,7 @@ tags:
 - users
 - account management
 ---
-# Manage User Accounts from a Site-wide Role
+# Manage User Accounts and site-wide roles
 
 !!! Roles "User roles" 
     Administrator, Mukurtu manager
