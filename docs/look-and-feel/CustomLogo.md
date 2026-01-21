@@ -16,3 +16,5 @@ You can change the default logo, favicon, and colors of your site. Follow the in
 1. From your **Dashboard**, navigate to the **Look and Feel** section. Select the **Change logo** link, or go directly to `/admin/appearance/settings`.
 
     ![Screenshot of the Dashboard with the change logo link highlighted under the Look and Feel section.](../_embeds/lookfeel4.png)
+
+2. Navigate to the **Logo image** section and toggle the slider to the left of the *Use the logo supplied by the theme* field off.
