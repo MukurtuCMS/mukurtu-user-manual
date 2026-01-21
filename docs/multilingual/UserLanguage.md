@@ -10,7 +10,7 @@ tags:
 !!! roles "User roles"
     Mukurtu manager, authenticated users
 
-If your Mukurtu CMS site has translation enabled for more than one language, authenticated users may choose which which of those languages they use to view and navigate the site. Authenticated users can select from the list of enabled languages, or Mukurtu managers can assign a user's account language when they approve their account registration.
+If your site has more than one language enabled, authenticated users may choose which which of those languages they use to view and navigate the site. Authenticated users can select from the list of enabled languages, or Mukurtu managers can assign a user's account language when they approve their account registration.
 
 !!! requirement
     Multiple languages must be enabled for this option to be available. Users can only choose from languages that are already enabled on the site. For more information on how to configure Mukurtu Multilingual and translate your site, refer to our [Translation Workflow](TranslationWorkflow.md) article. For more information on creating user accounts, refer to our [Creating User Accounts](../users/creating-account-site-wide.md) article. 
@@ -32,6 +32,10 @@ If your Mukurtu CMS site has translation enabled for more than one language, aut
     ![Screenshot of the user account page with the Edit button highlighted](../_embeds/user3.png)
 
 4. Navigate to the **Language settings** section of the user account page. In the *Site language* and *Administration pages language* fields, select your preferred language from the dropdown menu. 
+
+    - The *Site language* refers to this account's preferred language for emails and site presentations. This is also assumed to be the primary language of this account's profile information. 
+    - The *Administration pages language* field refers to this account's preferred language for admin pages, including your profile page and status messages.
+
 5. Select the "Save" button to save your preferences. 
 
     ![Screenshot of the Language settings field with the Site language and administration pages language fields and save buttons highlighted.](../_embeds/user5.png)
