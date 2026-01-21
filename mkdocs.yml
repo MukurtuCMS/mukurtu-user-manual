@@ -110,6 +110,7 @@ nav:
     - faqs/DatabasePrivacy.md
   - Infrastructure:
     - infrastructure/PHPConfiguration.md
+    - infrastructure/AddModule.md
   - Local Contexts:
     - local-contexts/LevelsOfLocalContextsProjects.md
     - local-contexts/ManageLocalContextsProjects.md

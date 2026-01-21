@@ -60,32 +60,9 @@ If you would like to add other fonts to your theme, simply download the appropri
 !!! requirement 
     You must have command line administrative privileges to add modules to your Mukurtu CMS site. 
 
-### Add module 
+### Add a module
 
-1. Navigate to ([https://www.drupal.org/project/fontyourface](https://www.drupal.org/project/fontyourface)). 
-2. Navigate to Releases.  
-3. Copy the most recently updated Install code. 
-
-    ![Screenshot of the @font-your-face install code for Drupal 11](../_embeds/font1.png)
-
-4. Navigate to your terminal.  
-5. Open your site directory and paste the copied code snippet, then execute. 
-
-    ![Screenshot of the terminal executing the @font-your-face install code](../_embeds/font2.png)
-
-6. Navigate to your site and log in as an admin. 
-7. From the Administration menu, select Extend or navigate directly to `/admin/modules`. 
-
-    ![Screenshot of the left-hand admin menu with Extend selected.](../_embeds/font3.png)
-
-8. Filter your site's modules by entering the term `font` into the Filter field. 
-9. Select the @fontyourface and the @fontyourface - Local Fonts modules. 
-
-    ![Screenshot of the Extend page with the term font entered into the filter field and the @font-your-face and @font-your-face - Local fonts modules selected and highlighted.](../_embeds/font4.png)
-
-10. Select "Install". You should receive a status message telling you that your modules have been installed successfully. 
-
-    ![Screenshot of the status message relaying that the @font-your-face modules were installed successfully.](../_embeds/font5.png)
+For instructions on adding a module to your Mukurtu CMS site, refer to the [Add a Module](../infrastructure/AddModule.md) article.
 
 ### Add custom fonts 
 
