@@ -13,6 +13,8 @@ Follow the instructions below to add a module to your Mukurtu CMS site.
 4. Navigate to your terminal.  
 5. Open your site directory and paste the copied code snippet, then execute. 
 
+    ![Screenshot of the terminal with the code snipped pasted in](../_embeds/font19.png)
+    
     ![Screenshot of the terminal executing the @font-your-face install code](../_embeds/font2.png)
 
 6. Navigate to your site and log in as an admin. 
