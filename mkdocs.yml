@@ -131,7 +131,8 @@ nav:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
   - Look and Feel:
-    - look-and-feel/ManageNameSloganEmail
+    - look-and-feel/CustomLogo.md
+    - look-and-feel/CustomNameSloganEmail.md
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
