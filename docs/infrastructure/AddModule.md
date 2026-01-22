@@ -1,4 +1,4 @@
-# Add a module 
+# Install a module 
 
 You may choose to add a Drupal module to your Mukurtu CMS site to extend your site's functionality or further customize your site. Drupal modules can be found on their site at [https://www.drupal.org/project/project_module](https://www.drupal.org/project/project_module).
 
@@ -14,7 +14,7 @@ Follow the instructions below to add a module to your Mukurtu CMS site.
 5. Open your site directory and paste the copied code snippet, then execute. 
 
     ![Screenshot of the terminal with the code snipped pasted in](../_embeds/font19.png)
-    
+
     ![Screenshot of the terminal executing the @font-your-face install code](../_embeds/font2.png)
 
 6. Navigate to your site and log in as an admin. 
