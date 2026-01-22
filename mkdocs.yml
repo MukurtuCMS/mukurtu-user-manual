@@ -133,6 +133,7 @@ nav:
   - Look and Feel:
     - look-and-feel/CustomLogo.md
     - look-and-feel/CustomNameSloganEmail.md
+    - look-and-feel/EditAboutPage.md
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 

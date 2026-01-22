@@ -9,8 +9,6 @@ tags:
 !!! roles "User roles"
     Drupal administrator
 
-You can change the default logo, favicon, and colors of your site. Follow the instructions below to learn how.
-
 ## Customize your logo
 
 1. From your **Dashboard**, navigate to the **Look and Feel** section. Select the **Change logo** link, or go directly to `/admin/appearance/settings`.
