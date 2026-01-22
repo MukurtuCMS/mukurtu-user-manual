@@ -13,9 +13,9 @@ Mukurtu CMS sites support translation into one or more languages through the Muk
 
 Once the Mukurtu Multilingual module is installed and a language is added, site content can be translated. There are several different types of fields that make up content forms in Mukurtu, and they are configured separately. For instance, full HTML fields in content can be translated by inputting the translation directly into the field, but fields that are populated by taxonomy terms must be translated in the taxonomy.
 
-## Configure Mukurtu Multilingual and add languages
+## Enable Mukurtu Multilingual and add languages
 
-Refer to the [Enable Multilingual Mode](ConfigureTranslation.md) article to configure Mukurtu Multilingual and add one or more languages to your site.
+Refer to the [Enable Multilingual Mode](EnableMultilingualModule.md) article to configure Mukurtu Multilingual and add one or more languages to your site.
 
 ## Configure font
 
