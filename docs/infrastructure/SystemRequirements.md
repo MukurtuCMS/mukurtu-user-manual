@@ -33,6 +33,8 @@ A database server such as
 
 Experience installing and maintaining Drupal servers is strongly recommended. 
 
+You can also refer to the relevant [Drupal system requirements](https://www.drupal.org/docs/getting-started/system-requirements/overview#s-drupal-11-and-drupal-cms) currently D11: 
+
 Full documentation is available at [http://github.com/MukurtuCMS/mukurtucms](http://github.com/MukurtuCMS/mukurtucms). 
 
 
