@@ -7,7 +7,7 @@ tags:
 # Customize Site Name, Slogan, and Email
 
 !!! roles "User roles"
-    Mukurtu Manager
+    Drupal administrator, Mukurtu Manager
 
 You can customize the look and feel of your Mukurtu site to reflect your organization or community. Refer to the sections below for instructions on how to change your site's name, slogan, and email.
 
