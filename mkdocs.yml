@@ -121,8 +121,8 @@ nav:
     - multilingual/UnderstandingMultilingual.md 
     - multilingual/TranslationWorkflow.md
     - multilingual/EnableMultilingualModule.md
-    - multilingual/ConfigureFont.md
     - multilingual/UITranslation.md
+    - multilingual/ConfigureFont.md    
     - multilingual/ConfigurationTranslation.md
     - multilingual/TranslateTaxonomies.md
     - multilingual/TranslateLocalContexts.md

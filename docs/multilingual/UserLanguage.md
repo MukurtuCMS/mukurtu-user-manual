@@ -33,8 +33,8 @@ If your site has more than one language enabled, authenticated users may choose 
 
 4. Navigate to the **Language settings** section of the user account page. In the *Site language* and *Administration pages language* fields, select your preferred language from the dropdown menu. 
 
-    - The *Site language* refers to this account's preferred language for emails and site presentations. This is also assumed to be the primary language of this account's profile information. 
-    - The *Administration pages language* field refers to this account's preferred language for admin pages, including your profile page and status messages.
+    - The *Site language* refers to this account's preferred language for the interface and default site language. This is also assumed to be the primary language of this account's profile information. 
+    - The *Administration pages language* field refers to this account's preferred language for admin pages, including the forms to create and edit content.
 
 5. Select the "Save" button to save your preferences. 
 
