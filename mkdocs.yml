@@ -122,7 +122,6 @@ nav:
     - multilingual/TranslationWorkflow.md
     - multilingual/EnableMultilingualModule.md
     - multilingual/UITranslation.md
-    - multilingual/ConfigureFont.md    
     - multilingual/ConfigurationTranslation.md
     - multilingual/TranslateTaxonomies.md
     - multilingual/TranslateLocalContexts.md
@@ -137,6 +136,7 @@ nav:
     - look-and-feel/CustomNameSloganEmail.md
     - look-and-feel/CustomSiteNavigation.md
     - look-and-feel/EditAboutPage.md
+    - look-and-feel/ConfigureFont.md 
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
