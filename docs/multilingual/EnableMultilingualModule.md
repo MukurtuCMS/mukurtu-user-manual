@@ -10,7 +10,7 @@ tags:
 
 The Mukurtu Multilingual module enables the required Drupal multilingual modules (Configuration Translation `/admin/config/regional/config-translation`, Interface Translation `/admin/config/regional/translate`, and Content Translation`/admin/config/regional/content-language`), and configures recommended default settings for most multilingual work. If necessary, these settings can be modified after enabling the Mukurtu Multilingual module.Follow the instructions below to configure your site to display your site's elements and content in multiple languages. 
 
-## Configure translation
+## Enable module
 
 1. From the administrative menu, select **Extend** or navigate to `/admin/modules`.
 
