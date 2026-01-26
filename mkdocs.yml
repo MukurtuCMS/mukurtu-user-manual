@@ -110,6 +110,7 @@ nav:
     - faqs/DatabasePrivacy.md
   - Infrastructure:
     - infrastructure/PHPConfiguration.md
+    - infrastructure/InstallModule.md
   - Local Contexts:
     - local-contexts/LevelsOfLocalContextsProjects.md
     - local-contexts/ManageLocalContextsProjects.md
@@ -119,14 +120,15 @@ nav:
   - Multilingual:
     - multilingual/UnderstandingMultilingual.md 
     - multilingual/TranslationWorkflow.md
-    - multilingual/ConfigureTranslation.md
-    - multilingual/ConfigureFont.md
+    - multilingual/EnableMultilingualModule.md
     - multilingual/UITranslation.md
+    - multilingual/ConfigureFont.md    
     - multilingual/ConfigurationTranslation.md
     - multilingual/TranslateTaxonomies.md
     - multilingual/TranslateLocalContexts.md
     - multilingual/TranslateContent.md    
-    - multilingual/SingleLanguageSite.md 
+    - multilingual/ConfigureSiteLanguage.md 
+    - multilingual/UserLanguage.md
   - Location Data:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
