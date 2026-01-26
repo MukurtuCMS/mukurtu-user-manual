@@ -135,7 +135,9 @@ nav:
     - look-and-feel/CustomLogo.md
     - look-and-feel/CustomNameSloganEmail.md
     - look-and-feel/CustomSiteNavigation.md
-    - look-and-feel/EditAboutPage.md
+    - look-and-feel/ConfigureLandingPage.md
+    - look-and-feel/CreateBasicPage.md
+    - look-and-feel/CreateAboutPage.md
     - look-and-feel/ConfigureSubtheme.md
     - look-and-feel/ConfigureFont.md 
   - Media:
