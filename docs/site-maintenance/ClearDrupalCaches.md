@@ -2,7 +2,7 @@
 tags:
     - site maintenance
 ---
-# Clear Drupal Caches
+# Clear Caches
 
 !!! Roles "User roles" 
     Administrator, Mukurtu manager

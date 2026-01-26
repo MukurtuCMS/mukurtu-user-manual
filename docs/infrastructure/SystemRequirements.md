@@ -5,7 +5,11 @@ tags:
 
 # System Requirements
 
-To run a Mukurtu CMS 4.0 (or above) instance, the minimum system requirements are: 
+For the most up-to-date system requirements, please refer to the D11 [Drupal system requirements](https://www.drupal.org/docs/getting-started/system-requirements/overview#s-drupal-11-and-drupal-cms). We strongly recommend experience installing and maintaining Drupal servers.
+
+Full documentation is also available at [http://github.com/MukurtuCMS/mukurtucms](http://github.com/MukurtuCMS/mukurtucms). 
+
+You will need:
 
 A web server that supports PHP such as Apache or Nginx  
 
@@ -31,10 +35,6 @@ A database server such as
 
 - [MariaDB 10.3.7](https://mariadb.org/) or higher 
 
-Experience installing and maintaining Drupal servers is strongly recommended. 
 
-You can also refer to the relevant [Drupal system requirements](https://www.drupal.org/docs/getting-started/system-requirements/overview#s-drupal-11-and-drupal-cms) currently D11: 
-
-Full documentation is available at [http://github.com/MukurtuCMS/mukurtucms](http://github.com/MukurtuCMS/mukurtucms). 
 
 
