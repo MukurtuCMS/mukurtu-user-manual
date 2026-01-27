@@ -33,6 +33,8 @@ Use the **Menu link** menu to reorder your navigation menu, enable or disable me
 
 2. Select the "Save" button to save the order of your navigation menu.
 
+    ![Screenshot of the save button to save the menu link order.](../_embeds/lookfeel27.png)
+
 ## Enable or disable menus
 
 1. To enable or hide individual menu links, select the checkbox to the right of the menu link.
@@ -40,6 +42,8 @@ Use the **Menu link** menu to reorder your navigation menu, enable or disable me
     ![Screenshot of the menu link section of the main navitaion page with the enable/disable checkbox highlighted.](../_embeds/lookfeel14.png)
 
 2. Select the "Save" button to save your menu link selections.
+
+    ![Screenshot of the save button to save the menu link selections.](../_embeds/lookfeel28.png)
 
 ## Create a menu link
 
@@ -66,6 +70,10 @@ Use the **Menu link** menu to reorder your navigation menu, enable or disable me
 
     ![Screenshot of the Add menu link page with the parent link set to Main navigation and highlighted.](../_embeds/lookfeel20.png)
 
+6. Select the "Save" button to save your new menu link.
+
+    ![Screenshot of the save button to save the menu link.](../_embeds/lookfeel29.png)
+
 ## Edit menu links
 
 You can edit menus links to reflect your site's naming conventions, to link to an internal path, or to redirect to an external URL. Redirecting to an external URL could be useful for sites that want to direct users to an About page that is externally hosted. Follow the instructions below to edit your menu links. 
@@ -91,6 +99,8 @@ You can edit menus links to reflect your site's naming conventions, to link to a
 
 5. Select the "Save" button to save the edits to your menu link.
 
+    ![Screenshot of the save button to save edits to the menu link.](../_embeds/lookfeel30.png)
+
 ## Add a child menu link
 
 You may choose to add child menu links to your main navigation menu links to help users navigate your site. There are two ways to add child menu links: by creating a new menu link as a child, or by using the **Reorder** icon to drag and indent an existing menu link. Follow the instructions below to add child menu links.
@@ -109,6 +119,8 @@ You may choose to add child menu links to your main navigation menu links to hel
 
 4. Select "Save" to save your child menu link. 
 
+    ![Screenshot of the add menu page with the save button highlighted.](../_embeds/lookfeel31.png)
+
 ### Reorder existing menu link
 
 1. From the **Menu Links** section of the **Main Navigation** page, use the **Reorder** icons to drag your menu links under your preferred parent link.
@@ -116,6 +128,8 @@ You may choose to add child menu links to your main navigation menu links to hel
     ![Screenshot of the menu links section of the main navigation page with the browse digital heritage menu link reorder icon selected and highlighted.](../_embeds/lookfeel23.png)
 
 2. Select the "Save" button to save your menu links. 
+
+    ![Screenshot of the updated menu links with the Save button highlighted](../_embeds/lookfeel26.png)
 
 Your child menu links will appear as a submenu when you hover over the parent menu link.
 
