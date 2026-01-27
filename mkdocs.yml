@@ -109,6 +109,8 @@ nav:
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Infrastructure:
+    - infrastructure/WhyDrupal.md
+    - infrastructure/SystemRequirements.md
     - infrastructure/PHPConfiguration.md
     - infrastructure/InstallModule.md
   - Local Contexts:
@@ -186,6 +188,10 @@ nav:
     - users/manage-user-accounts-site-wide.md
     - users/log-in.md
     - users/reset-password.md
+  - Site Maintenance:
+    - site-maintenance/CheckErrorLogs.md
+    - site-maintenance/ClearDrupalCaches.md
+    - site-maintenance/CronConfiguration.md
   - Taxonomies:
     - taxonomies/UnderstandingTaxonomies.md
     - taxonomies/ManagingTaxonomies.md
