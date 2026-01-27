@@ -5,5 +5,5 @@ tags:
 
 # Configure Subtheme
 
-!!! roles "User roles"
-    Drupal administrator, Mukurtu Manager
+!!! roles "User role"
+    Drupal administrator
