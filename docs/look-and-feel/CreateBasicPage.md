@@ -4,7 +4,7 @@ tags:
     - look and feel
 ---
 
-# Create and Edit About Page
+# Create and Edit Basic Pages
 
-!!! roles "User roles"
-    Drupal administrator, Mukurtu manager
+!!! roles "User role"
+    Drupal administrator

@@ -4,7 +4,7 @@ tags:
     - look and feel
 ---
 
-# Create and Edit About Page
+# Create and Edit an About Page
 
-!!! roles "User roles"
+!!! roles "User role"
     Drupal administrator
