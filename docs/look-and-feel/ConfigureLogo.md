@@ -4,12 +4,12 @@ tags:
     - look and feel
 ---
 
-# Customize Logos
+# Configure Logos
 
 !!! roles "User roles"
     Drupal administrator
 
-## Customize your logo
+## Configure your logo
 
 1. From your **Dashboard**, navigate to the **Look and Feel** section. Select the **Change logo** link, or go directly to `/admin/appearance/settings`.
 
@@ -25,7 +25,7 @@ tags:
 
 4. You can select the "Save configuration" button to save your logo at this point, or you can continue for instructions on how to customize your favicon.
 
-## Customize your favicon
+## Configure your favicon
 
 Your shortcut icon, or favicon, is displayed in the address bar and bookmarks of most browsers.
 
@@ -37,10 +37,10 @@ Your shortcut icon, or favicon, is displayed in the address bar and bookmarks of
 
     ![Screenshot of the favicon image section with the slider highlighted.](../_embeds/lookfeel7.png)
 
-3. You may choose to include a path to your custom favicon in the *Path to custom favicon* field. If you don't have direct file access to the server, you can upload your custom favicon image by selecting the "Browse" or "Choose File" button. The text of the button depends on your browser settings.
+3. You may choose to include a path to your favicon in the *Path to custom favicon* field. If you don't have direct file access to the server, you can upload your favicon image by selecting the "Browse" or "Choose File" button. The text of the button depends on your browser settings.
 
     ![Screenshot of the favicon image section with the slider toggled off and the Path to custom favicon and Upload favicon image fields highlighted.](../_embeds/lookfeel8.png)
 
 4. Select the "Save configuration" button to save your favicon.
 
-![Screenshot of the Mukurtu home page with a custom logo and favicon highlighted.](../_embeds/lookfeel9.png)
+![Screenshot of the Mukurtu home page with a logo and favicon highlighted.](../_embeds/lookfeel9.png)

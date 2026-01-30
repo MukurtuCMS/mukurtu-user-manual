@@ -4,12 +4,12 @@ tags:
     - look and feel
 ---
 
-# Customize Site Navigation
+# Configure Site Navigation
 
 !!! roles "User roles"
     Drupal administrator, Mukurtu Manager
 
-You can customize the menus on your Mukurtu CMS site to better reflect your content and help users navigate your site. To customize your site's main menus, navigate to the **Structure** link in your left-hand sidebar, then select **Menus**. 
+You can configure the menus on your Mukurtu CMS site to better reflect your content and help users navigate your site. To configure your site's main menus, navigate to the **Structure** link in your left-hand sidebar, then select **Menus**. 
 
 ![Screenshot of the Structure and Menus link from the left-hand sidebar highlighted.](../_embeds/lookfeel10.png)
 
@@ -17,7 +17,7 @@ Navigate to **Main navigation** and select the "Edit menu" button. You can also 
 
 ![Screenshot of the Menus page with the Edit menu button highlighted in the Main Navigation row.](../_embeds/lookfeel11.png)
 
-Optionally, you may choose to customize the *Title* or *Administrative summary* fields to better describe your site's navigation menu. 
+Optionally, you may choose to change the *Title* or *Administrative summary* fields to better describe your site's navigation menu. 
 
 ![Screenshot of the title and administrative summary fields](../_embeds/lookfeel25.png)
 
