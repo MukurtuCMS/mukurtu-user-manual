@@ -135,7 +135,7 @@ nav:
     - location-data/CreateMapPoints.md
   - Look and Feel:
     - look-and-feel/ConfigureLogo.md
-    - look-and-feel/ConfigureNameSloganEmail.md
+    - look-and-feel/ConfigureNameEmail.md
     - look-and-feel/ConfigureSiteNavigation.md
     - look-and-feel/ConfigureLandingPage.md
     - look-and-feel/CreateBasicPage.md

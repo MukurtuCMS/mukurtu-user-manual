@@ -4,18 +4,18 @@ tags:
     - look and feel
 ---
 
-# Configure Site Name, Slogan, and Email
+# Configure Site Name and Email
 
 !!! roles "User roles"
     Drupal administrator, Mukurtu Manager
 
-You can configure the look and feel of your Mukurtu site to reflect your organization or community. Refer to the sections below for instructions on how to change your site's name, slogan, and email.
+You can configure the look and feel of your Mukurtu site to reflect your organization or community. Refer to the sections below for instructions on how to change your site's name and email.
 
 These are all located on the **Basic site settings** page. 
 
-1. Navigate to the **Configuration** link in your left-hand admin menu, then select the **System** dropdown. Select **Basic site settings**. You can also access these settings at `/admin/config/system/site-information`.
+1. From the **Dashboard**, navigate to the **Site settings** section. Select the **Site name and email** link.  You can also access these settings at `/admin/config/system/site-information`.
 
-    ![Screenshot of the left-hand admin menu with the Configuration, System, and Basic settings links all highlighted.](../_embeds/lookfeel1.png)
+    ![Screenshot of the dashboard with the site name and email link highlighted.](../_embeds/lookfeel1.png)
 
 2. Enter the name of your site in the *Site name* field. 
 
@@ -28,6 +28,6 @@ These are all located on the **Basic site settings** page.
 
     ![Screenshot of the Basic site settings page with the Site name, Slogan, and Email address fields all highlighted.](../_embeds/lookfeel2.png)
 
-5. Select the "Save configuration" button to save your site name, slogan, and email address.
+5. Select the "Save configuration" button to save your site name and email address.
 
     ![Screenshot of the basic site settings page with the save configuration button highlighted.](../_embeds/lookfeel3.png)
