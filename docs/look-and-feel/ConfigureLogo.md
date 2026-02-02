@@ -7,7 +7,7 @@ tags:
 # Configure Logos
 
 !!! roles "User roles"
-    Drupal administrator
+    Drupal administrator, Mukurtu manager
 
 ## Configure your logo
 
@@ -19,7 +19,7 @@ tags:
 
     ![Screenshot of the Logo image section with the slider highlighted.](../_embeds/lookfeel5.png)
 
-3. You may choose to include a path to your custom logo in the *Path to custom logo* field. If you don't have direct file access to the server, you can upload your custom logo image by selecting the "Browse" or "Choose File" button. The text of the button depends on your browser settings.
+3. You can upload your custom logo image by selecting the "Browse" or "Choose File" button. The text of the button depends on your browser settings.
 
     ![Screenshot of the Logo image section with the slider toggled off and the Path to custom logo and Upload logo image fields highlighted.](../_embeds/lookfeel6.png)
 
@@ -37,7 +37,7 @@ Your shortcut icon, or favicon, is displayed in the address bar and bookmarks of
 
     ![Screenshot of the favicon image section with the slider highlighted.](../_embeds/lookfeel7.png)
 
-3. You may choose to include a path to your favicon in the *Path to custom favicon* field. If you don't have direct file access to the server, you can upload your favicon image by selecting the "Browse" or "Choose File" button. The text of the button depends on your browser settings.
+3. You can upload your favicon image by selecting the "Browse" or "Choose File" button. The text of the button depends on your browser settings.
 
     ![Screenshot of the favicon image section with the slider toggled off and the Path to custom favicon and Upload favicon image fields highlighted.](../_embeds/lookfeel8.png)
 

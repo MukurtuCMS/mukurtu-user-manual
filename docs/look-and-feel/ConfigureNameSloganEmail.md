@@ -21,7 +21,7 @@ These are all located on the **Basic site settings** page.
 
     - This is a required field.
 
-3. If you wish to include a slogan or short description, enter it in the *Slogan* field. 
+3. If you wish to include a slogan or short description, enter it in the *Slogan* field. The Mukurtu theme does not use a slogan. Use this field only if you are using a theme or other tool that does.
 4. Enter the email address for your site in the *Email address* field. This becomes the From address in automated emails sent during registration and new password requests, as well as other notifications. 
 
     - This is a required field.

@@ -17,10 +17,6 @@ Navigate to **Main navigation** and select the "Edit menu" button. You can also 
 
 ![Screenshot of the Menus page with the Edit menu button highlighted in the Main Navigation row.](../_embeds/lookfeel11.png)
 
-Optionally, you may choose to change the *Title* or *Administrative summary* fields to better describe your site's navigation menu. 
-
-![Screenshot of the title and administrative summary fields](../_embeds/lookfeel25.png)
-
 Use the **Menu link** menu to reorder your navigation menu, enable or disable menus, edit your navigation menu, or add child menu links.
 
 ![Screenshot of the menu link section of the main navigation page, including the menu links, whether they are enabled, and the dropdown button that allows users to edit, delete, or add child menu links.](../_embeds/lookfeel12.png)
