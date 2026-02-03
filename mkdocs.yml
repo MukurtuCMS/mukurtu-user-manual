@@ -70,7 +70,7 @@ markdown_extensions:
       
 nav:
   - Style Guide: styleguide.md
-  - Mukurtu Preview: mukurtupreview.md
+  - Preview Videos: previewvideos.md
   - 3Cs:
     - 3Cs/UnderstandingCommunitiesAndCulturalProtocols.md
     - 3Cs/CreateACommunityAndInitialCulturalProtocol.md

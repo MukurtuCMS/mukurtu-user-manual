@@ -1,18 +1,4 @@
----
-tags:
-    - communities, cultural protocols, and categories
-    - dictionary
-    - media
-    - metadata
-    - content
-    - digital heritage items
-    - getting started
-    - Local Contexts
-    - mapping
-    - user roles and responsibilities
----
-
-# Mukurtu Preview
+# Preview Videos
 
 This is the Mukurtu 4 preview series, which highlights new features, changes, and other in-progress updates on the development of Mukurtu 4. Features shown in this series are still in development and are subject to change before the official release of Mukurtu 4. 
 
