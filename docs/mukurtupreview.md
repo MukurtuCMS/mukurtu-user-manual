@@ -86,5 +86,5 @@ See also: [Mapping](../docs/location-data/CreateMapPoints.md)
 
 See also: 
 
--[Getting started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/) 
--[Understanding The Local Contexts Hub](../docs/local-contexts/UnderstandingTheLocalContextsHub.md)
+- [Getting started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/) 
+- [Understanding The Local Contexts Hub](../docs/local-contexts/UnderstandingTheLocalContextsHub.md)
