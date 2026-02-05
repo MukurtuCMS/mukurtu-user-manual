@@ -70,6 +70,7 @@ markdown_extensions:
       
 nav:
   - Style Guide: styleguide.md
+  - Preview Videos: previewvideos.md
   - 3Cs:
     - 3Cs/UnderstandingCommunitiesAndCulturalProtocols.md
     - 3Cs/CreateACommunityAndInitialCulturalProtocol.md
