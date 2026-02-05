@@ -193,6 +193,8 @@ nav:
     - site-maintenance/CheckErrorLogs.md
     - site-maintenance/ClearDrupalCaches.md
     - site-maintenance/CronConfiguration.md
+  - Site Settings:
+    - site-settings/ConfigureCitationTemplates.md
   - Taxonomies:
     - taxonomies/UnderstandingTaxonomies.md
     - taxonomies/ManagingTaxonomies.md
