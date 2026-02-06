@@ -22,7 +22,7 @@ Mukurtu CMS allows you to configure the citation field templates for all content
     ![Screenshot of the Browse available tokens modal link highlighted.](../_embeds/citation2.png)
     
     !!! tip
-        Tokens are only preset for Drupal fields. 
+        Tokens are only available for Drupal fields. 
 
 4. To enter your `Title` token, select the `[node:title]` preset token or enter `"[node:title]".` in the text field.
 
