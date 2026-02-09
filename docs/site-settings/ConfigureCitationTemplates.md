@@ -11,6 +11,8 @@ tags:
 
 You can include recommended citation templates for your content in Mukurtu CMS to appear on content pages. To start configuring your citation templates, navigate to the **Site settings** section of the Dashboard and select the **Citation formats and default image** link, or go directly to `/admin/config/mukurtu/settings`.
 
+![Screenshot of the Dashboard with the Citation formats and default image link highlighted.](../_embeds/citation10.png)
+
 ## Sample citation formats
 
 Included below are some common citation formats that you can use for your content. You can also create your own citation format or modify these so that they are appropriate for the content on your site. The citation formats that we are basing these examples on are:
