@@ -23,33 +23,33 @@ Included below are some common citation formats that you can use for your conten
 
 ### Collection
 
-- APA: `Community, Cultural Protocol. Collection Title. Website name. URL.`
-- Chicago: `Collection name. Source. Website name. URL.`
-- MLA: `Collection name. Source. Website name. URL.` 
+- APA: `[Community], [Cultural Protocol]. [Collection name]. [Website name]. [URL].`
+- Chicago: `[Collection name]. [Source]. [Website name]. [URL].`
+- MLA: `[Collection name]. [Source]. [Website name]. [URL].` 
 
 ### Dictionary words
 
-- APA: `Contributor's Lastname, Firstname. Original date. Word. In [Website name] [Language] Dictionary. Website or organization name. URL.`
-- Chicago: `[Website name] [Language] Dictionary, s.v. "Word", last modified [date if known], URL .`
-- MLA: `Word. [Website name] [Language] Dictionary, URL.`
+- APA: `[Contributor's Lastname, Firstname]. [Original date]. [Word]. In [Website name] [Language] Dictionary. [Website or organization name]. [URL].`
+- Chicago: `[Website name] [Language] Dictionary, s.v. "[Word]", [URL].`
+- MLA: `[Word]. [Contributor's Lastname, Firstname]. [Website name] [Language] Dictionary, [URL].`
 
 ### Digital Heritage items
 
-- APA: `Creator's Lastname, Firstname. Title. Original date. Website name, URL.`
-- Chicago: `Creator's Lastname, Firstname. Title. Contributor(s). Publisher. Original date. Format, running time (for audio or video files; only use if applicable). URL .`
-- MLA: `Creator's Lastname, Firstname. Title. Publisher, Original date, URL.`
+- APA: `[Creator's Lastname, Firstname]. [Title]. [Original date]. [Website name], [URL].`
+- Chicago: `[Creator's Lastname, Firstname]. [Title]. [Contributor(s)]. [Publisher]. [Original date]. [Format, running time (for audio or video files; only use if applicable)]. [URL].`
+- MLA: `[Creator's Lastname, Firstname]. [Title]. [Publisher], [Original date], [URL].`
 
 ### Person records
 
-- APA: `Name. Biography section Title. Website name. URL.`
-- Chicago: `Community, Cultural Protocol. Name. "Biography section Title". Website name. URL.`
+- APA: `[Name]. [Biography section Title]. [Website name]. [URL].`
+- Chicago: `[Community, Cultural Protocol]. [Name]. "[Biography section Title]". [Website name]. [URL].`
 - MLA: `Name. Biography section Title. Website name. URL.`
 
 ### Word lists
 
-- APA: `Community, Cultural Protocol. Word list name, Language. Website name. URL.`
-- Chicago: `Word list name, Language. Source. Website name. URL.`
-- MLA: `Word list name, Language. Source. Website name. URL.` 
+- APA: `[Community], [Cultural Protocol]. [Word list name], [Language]. [Website name]. [URL].`
+- Chicago: `[Word list name], [Language]. [Source]. [Website name]. [URL].`
+- MLA: `[Word list name], [Language]. [Source]. [Website name]. [URL].` 
 
 ## Configuring templates with tokens
 
