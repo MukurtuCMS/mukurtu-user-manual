@@ -13,17 +13,41 @@ You can include recommended citation templates for your content in Mukurtu CMS t
 
 ## Sample citation formats
 
-Included below are some common citation formats that you can use for your content. You can also create your own citation format or modify these so that they are appropriate for the content on your site. The citation formats that we are using as examples are:
+Included below are some common citation formats that you can use for your content. You can also create your own citation format or modify these so that they are appropriate for the content on your site. The citation formats that we are basing these examples on are:
 
 - APA: [APA Formatting and Style Guide (7th Edition) from Purdue OWL](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html)
 - Chicago: [The Chicago Manual of Style Online](https://www.chicagomanualofstyle.org/home.html)
 - MLA: [MLA General Formatting and Style Guide from Purdue OWL](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html)
 
-## Digital Heritage items
+### Collection
 
-- APA: `Creator's name. Title. Date published/original date. Website name, URL.`
-- Chicago:
-- MLA:
+- APA: `Community, Cultural Protocol. Collection Title. Website name. URL.`
+- Chicago: `Collection name. Source. Website name. URL.`
+- MLA: `Collection name. Source. Website name. URL.` 
+
+### Dictionary words
+
+- APA: `Contributor's Lastname, Firstname. Original date. Word. In [Website name] [Language] Dictionary. Website or organization name. URL.`
+- Chicago: `[Website name] [Language] Dictionary, s.v. "Word", last modified [date if known], URL .`
+- MLA: `Word. [Website name] [Language] Dictionary, URL.`
+
+### Digital Heritage items
+
+- APA: `Creator's Lastname, Firstname. Title. Original date. Website name, URL.`
+- Chicago: `Creator's Lastname, Firstname. Title. Contributor(s). Publisher. Original date. Format, running time (for audio or video files; only use if applicable). URL .`
+- MLA: `Creator's Lastname, Firstname. Title. Publisher, Original date, URL.`
+
+### Person records
+
+- APA: `Name. Biography section Title. Website name. URL.`
+- Chicago: `Community, Cultural Protocol. Name. "Biography section Title". Website name. URL.`
+- MLA: `Name. Biography section Title. Website name. URL.`
+
+### Word lists
+
+- APA: `Community, Cultural Protocol. Word list name, Language. Website name. URL.`
+- Chicago: `Word list name, Language. Source. Website name. URL.`
+- MLA: `Word list name, Language. Source. Website name. URL.` 
 
 ## Configuring templates with tokens
 
