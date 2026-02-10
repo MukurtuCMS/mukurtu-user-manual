@@ -123,6 +123,7 @@ nav:
     - local-contexts/UnderstandingTheLocalContextsHub.md
     - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
     - local-contexts/ViewAndManageDirectoryPages.md
+    - local-contexts/UnderstandingLegacyTKLabels.md
   - Multilingual:
     - multilingual/UnderstandingMultilingual.md 
     - multilingual/TranslationWorkflow.md
