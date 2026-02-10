@@ -48,3 +48,13 @@ Some Mukurtu CMS sites may choose to use consent popups that appear when their s
     ![Screenshot of the consent popup form with the non blocking and redirect on declined toggles highlighted.](../_embeds/consent7.png)
 
 13. Use the **Cookie info** section to define your *Cookie Name* and *Cookie life time*, or how many days until the cookie is deleted. This setting determines how many days until the cookie is automatically deleted.
+
+    ![Screenshot of the cookie info section with the cookie name and life time](../_embeds/consent8.png)
+
+14. Optionally, you can use the second **Cookie info** section to configure the block's *Background color* and *Background opacity*. You can use the *Elements to blur* field to blur specific site elements using CSS selectors.  
+
+    ![Screenshot of the second cookie info section with the background color, background opacity, and elements to blur fields.](../_embeds/consent9.png)
+
+16. Select the "Save block" button to save your consent popup.
+
+    ![Screenshot of the configure consent popup form with the save block button highlighted.](../_embeds/consent10.png)
