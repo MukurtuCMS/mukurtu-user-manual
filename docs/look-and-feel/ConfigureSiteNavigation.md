@@ -9,13 +9,9 @@ tags:
 !!! roles "User roles"
     Drupal administrator, Mukurtu Manager
 
-You can configure the menus on your Mukurtu CMS site to better reflect your content and help users navigate your site. To configure your site's main menus, navigate to the **Structure** link in your left-hand sidebar, then select **Menus**. 
+You can configure the menus on your Mukurtu CMS site to better reflect your content and help users navigate your site. From the **Dashboard**, navigate to the **Look and Feel** section and select the **Main Navigation Menu** link. You can also navigate directly to `/admin/structure/menu/manage/main`.
 
-![Screenshot of the Structure and Menus link from the left-hand sidebar highlighted.](../_embeds/lookfeel10.png)
-
-Navigate to **Main navigation** and select the "Edit menu" button. You can also navigate directly to `/admin/structure/menu/manage/main`.
-
-![Screenshot of the Menus page with the Edit menu button highlighted in the Main Navigation row.](../_embeds/lookfeel11.png)
+![Screenshot of the look and feel section of the dashboard with the main navigation link highlighted.](../_embeds/nav1.png)
 
 Use the **Menu link** menu to reorder your navigation menu, enable or disable menus, edit your navigation menu, or add child menu links.
 
@@ -129,5 +125,5 @@ You may choose to add child menu links to your main navigation menu links to hel
 
 Your child menu links will appear as a submenu when you hover over the parent menu link.
 
-![Screenshot of the Mukurtu landing page with the Browse menu link expanded to show the submenu with the child links highlighted.](../_embeds/lookfeel24.png)
+![Screenshot of the Mukurtu landing page with the Browse menu link expanded to show the submenu with the child links highlighted.](../_embeds/nav2.png)
 
