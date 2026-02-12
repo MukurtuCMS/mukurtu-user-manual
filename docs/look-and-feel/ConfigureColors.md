@@ -21,7 +21,7 @@ Mukurtu CMS offers three color palettes for your site: our custom Blue Gold pale
 
 2. Select the "Save" button to apply your color palette site-wide.
 
-    ![Screenshot of the edit config page design settings with the save button highlighted.](../_embeds/color7.png)
+    ![Screenshot of the edit config page design settings with the save button highlighted.](../_embeds/color8.png)
 
 ## Configure the custom palette
 
