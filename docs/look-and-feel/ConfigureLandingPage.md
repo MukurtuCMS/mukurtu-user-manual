@@ -4,10 +4,10 @@ tags:
     - look and feel
 ---
 
-# Configure a Landing Page
+# Configure Landing Page
 
-!!! roles "User role"
-    Drupal administrator
+!!! roles "User roles"
+    Drupal administrator, Mukurtu manager
 
 Mukurtu 4 enables users to configure the landing page for their site to best showcase their content. You can edit the default landing page or create your own. Follow the directions below to configure your landing page.
 
@@ -154,7 +154,22 @@ You can add a new default landing page to your Mukurtu site. To add a landing pa
 
 3. Add your sections and blocks. For more information on adding sections and blocks, refer to the [Add a Section](#add-a-section) and [Add a Block](#add-a-block) sections of this article.
 4. Select "Save" to save your landing page. 
-5. For instructions on how to set your new landing page as the front page, refer to the [Set Landing Page](../look-and-feel/ConfigureNameEmail.md#set-landing-page) section of the Basic Site Settings article.
+5. Copy the new landing page extension from your navigation bar. 
+
+    ![Screenshot of the navigation bar with the landing page extension highlighted.](../_embeds/landing21.png)
+
+6. Navigate to your **Dashboard**. 
+7. From your **Dashboard**, navigate to the **Site settings** section and select the **Site name and email** link.
+
+    ![Screenshot of the dashboard with the site name and email link highlighted.](../_embeds/landing22.png)
+
+8. Navigate to the **Front page** section and replace the extension in the *Default front page* text box with the extension you copied from your landing page.
+
+    ![Screenshot of the front page section with the new file extension text in the text box highlighted.](../_embeds/landing23.png)
+
+9. Select the "Save configuration" button to apply your changes.
+
+    ![Screenshot of the basic site settings page with the save configuration button highlighted.](../_embeds/landing24.png)
 
 
 

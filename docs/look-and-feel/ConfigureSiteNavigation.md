@@ -7,7 +7,7 @@ tags:
 # Configure Site Navigation
 
 !!! roles "User roles"
-    Drupal administrator, Mukurtu Manager
+    Drupal administrator, Mukurtu manager
 
 You can configure the menus on your Mukurtu CMS site to better reflect your content and help users navigate your site. From the **Dashboard**, navigate to the **Look and Feel** section and select the **Main Navigation Menu** link. You can also navigate directly to `/admin/structure/menu/manage/main`.
 
@@ -17,7 +17,7 @@ Use the **Menu link** menu to reorder your navigation menu, enable or disable me
 
 ![Screenshot of the menu link section of the main navigation page, including the menu links, whether they are enabled, and the dropdown button that allows users to edit, delete, or add child menu links.](../_embeds/lookfeel12.png)
 
-## Reorder navigation menu
+## Reorder links
 
 1. Use the **Reorder** icons to drag your menu links into your preferred order.
 
@@ -27,7 +27,7 @@ Use the **Menu link** menu to reorder your navigation menu, enable or disable me
 
     ![Screenshot of the save button to save the menu link order.](../_embeds/lookfeel27.png)
 
-## Enable or disable menus
+## Enable or disable links
 
 1. To enable or hide individual menu links, select the checkbox to the right of the menu link.
 
@@ -37,7 +37,7 @@ Use the **Menu link** menu to reorder your navigation menu, enable or disable me
 
     ![Screenshot of the save button to save the menu link selections.](../_embeds/lookfeel28.png)
 
-## Create a menu link
+## Create a new link
 
 1. Select the "Add link" button in the top right-hand corner. 
 

@@ -6,10 +6,10 @@ tags:
 
 # Configure Color Settings
 
-!!! roles "User role"
-    Drupal administrator
+!!! roles "User roles"
+    Drupal administrator, Mukurtu manager
 
-Mukurtu CMS offers three color palettes for your site: our custom Blue Gold palette, our classic Red Bone palette, and our new Custom palette, which allows you to easily configure a color palette that matches your organizational brand. You can configure your color palette settings in the **Dashboard** by navigating to **Look and Feel** and selecting the **Color settings** link.
+Mukurtu includes two stock color palettes: Blue and Gold and Red and Bone. There is also an experimental palette customizer that allows you to configure custom colors. You can configure your color palette settings in the **Dashboard** by navigating to **Look and Feel** and selecting the **Color settings** link.
 
 ![Screenshot of the dashboard with the color settings link highlighted.](../_embeds/color1.png)
 
@@ -24,6 +24,8 @@ Mukurtu CMS offers three color palettes for your site: our custom Blue Gold pale
     ![Screenshot of the edit config page design settings with the save button highlighted.](../_embeds/color8.png)
 
 ## Configure the custom palette
+
+Please note, this is an experimental tool. Our stock palettes are selected to meet accessibility requirements and custom color selection is not covered by our tests. For more control over the colors, consider implementing a subtheme.
 
 1. Select the **Custom** radio button.
 
