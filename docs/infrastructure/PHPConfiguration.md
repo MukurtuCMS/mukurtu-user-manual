@@ -7,6 +7,8 @@ tags:
 
 For most Mukurtu sites to run properly, the PHP memory_limit must be set to a minimum of 196 MB. For larger sites, 256 MB is recommended. The max_execution_time should be set to a minimum of 90 or 120 seconds.
 
+## Updating PHP Configuration on Reclaim
+
 If you are using Reclaim Hosting, follow the directions below to view and change your memory_limit setting. If your site is hosted elsewhere, contact your site administrator and/or hosting provider.
 
 Login to the Reclaim client portal: [https://portal.reclaimhosting.com/clientarea.php](https://portal.reclaimhosting.com/clientarea.php)

@@ -114,7 +114,6 @@ nav:
     - faqs/DatabasePrivacy.md
   - Infrastructure:
     - infrastructure/WhyDrupal.md
-    - infrastructure/OverviewOfHostingOptions.md
     - infrastructure/SystemRequirements.md
     - infrastructure/PHPConfiguration.md
     - infrastructure/InstallModule.md
