@@ -9,7 +9,23 @@ tags:
 !!! roles "User roles"
     Drupal administrator, Mukurtu manager
 
-Mukurtu 4 enables users to configure the landing page for their site to best showcase their content. You can edit the default landing page or create your own. Follow the directions below to configure your landing page.
+Mukurtu 4 offers prebuilt options to enable users to configure the landing page for their site to best showcase their content. You can edit the default landing page or create your own. 
+
+## Prebuilt front page blocks
+
+Mukurtu 4 offers different types of prebuilt front page blocks. These include:
+
+Content blocks
+
+- Featured Content: This block enables users to showcase featured content on their site.
+
+Welcome blocks
+
+- Welcome to Your Mukurtu CMS Site: This block features a half-page, right jusitified welcome banner in our classic Red and Bone color palette.
+
+    ![Screenshot of the welcome to your Mukurtu CMS site half-page banner.](../embeds/block1.png)
+
+
 
 ## Edit the default landing page
 
