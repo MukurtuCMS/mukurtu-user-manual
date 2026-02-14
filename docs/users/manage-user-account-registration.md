@@ -12,9 +12,9 @@ Administrators and Mukurtu managers can edit registration settings for the site.
 
 Method 1: Add `/admin/config/people/accounts` to your url in your browser's address bar (i.e. http://mymukurtusite.org/admin/config/people/accounts).
 
-Method 2: Hover over the configuration icon in the left-hand sidebar. Select the **People** sub-menu, then select **account settings**. 
+Method 2: From the dashboard, scroll down to the Users section, and select **Manage User Settings and Registration** 
 
-![A Mukurtu site with the left-hand sidebar with configuration icon, sub-menu and account settings highlighted.](../_embeds/manage-user-registration-01.png)
+![The Mukurtu Dashboard showing the Users section with Manage User Settings and Registration highlighted](../_embeds/manage-user-registration-01.png)
 
 Scroll down to the Registration and cancellation section.
 
