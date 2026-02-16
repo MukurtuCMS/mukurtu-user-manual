@@ -129,7 +129,6 @@ nav:
     - multilingual/TranslationWorkflow.md
     - multilingual/EnableMultilingualModule.md
     - multilingual/UITranslation.md
-    - multilingual/ConfigureFont.md    
     - multilingual/ConfigurationTranslation.md
     - multilingual/TranslateTaxonomies.md
     - multilingual/TranslateLocalContexts.md
@@ -140,7 +139,14 @@ nav:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
   - Look and Feel:
-    - look-and-feel/ManageNameSloganEmail
+    - look-and-feel/ConfigureLogo.md
+    - look-and-feel/ConfigureNameEmail.md
+    - look-and-feel/ConfigureSiteNavigation.md
+    - look-and-feel/ConfigureLandingPage.md
+    - look-and-feel/ConfigureConsentPopup.md
+    - look-and-feel/CreateBasicPage.md
+    - look-and-feel/ConfigureColors.md
+    - look-and-feel/ConfigureFont.md 
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 

@@ -19,7 +19,7 @@ Refer to the [Enable Multilingual Mode](EnableMultilingualModule.md) article to 
 
 ## Configure font
 
-Refer to the [Configure Font](ConfigureFont.md) article to configure custom fonts on your Mukurtu CMS site. For most sites this is not required.
+Refer to the [Configure Font](../look-and-feel/ConfigureFont.md) article to configure custom fonts on your Mukurtu CMS site. For most sites this is not required.
 
 ## User interface translation
 
