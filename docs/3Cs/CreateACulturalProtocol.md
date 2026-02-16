@@ -14,11 +14,11 @@ This article covers two other methods for creating a cultural protocol - from th
 
 ## Create a cultural protocol from the dashboard
 
-1. From the Mukurtu Dashboard, select **Cultural Protocols**, then select "Add Protocol."
+1. From the Mukurtu Dashboard, select **Manage Communities and Cultural Protocols**, then select "Add Protocol."
 
-     ![A screeshot of the Mukurtu dashboard with a list of links to various functions and an arrow pointed at cultural protocols](../_embeds/create-protocol-01.png) 
+     ![A screeshot of the Mukurtu dashboard with the Manage Communities and Cultural protocols link highlighted](../_embeds/create-protocol-01.png) 
 
-     ![Screenshot of the Mukurtu cultural protocols view within the dashboard with a list of links to the left and a red button labeled Add Protocol with a plus sign to the right.](../_embeds/create-protocol-02.png) 
+     ![Screenshot of the protocols page listing existing communities and protocols. The Add Protocol button is in the top right corner is highlighted](../_embeds/create-protocol-02.png) 
 
 2. Name your protocol. It's helpful to name the community associated with this protocol and indicate type of access provided. For example, public collections at the Washington State University Library Manuscripts, Archives and Special Collections (WSU-MASC) might use the protocol, WSU-MASC Public.
 

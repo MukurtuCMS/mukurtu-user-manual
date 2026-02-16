@@ -11,7 +11,7 @@ In Mukurtu 4, creating a new community will automatically prompt you to create a
 
 ## Create a community
 
-1. As a Mukurtu manager, from the dashboard, select "Add Community"
+1. As a Mukurtu manager, from the dashboard, select **Add a Community**
 
     ![A screenshot of the Mukurtu dashboard with the add community button annotated with a red box.](../_embeds/create-community-01.png)
 
