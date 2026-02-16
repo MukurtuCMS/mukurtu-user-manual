@@ -15,17 +15,33 @@ Mukurtu 4 offers prebuilt options to enable users to configure the landing page 
 
 Mukurtu 4 offers different types of prebuilt front page blocks. These include:
 
-Content blocks
-
-- Featured Content: This block enables users to showcase featured content on their site.
-
-Welcome blocks
+### Welcome blocks
 
 - Welcome to Your Mukurtu CMS Site: This block features a half-page, right jusitified welcome banner in our classic Red and Bone color palette.
 
     ![Screenshot of the welcome to your Mukurtu CMS site half-page banner.](../embeds/block1.png)
 
+- Welcome to Your Mukurtu CMS Site (Full Background): This welcome block features a full background with the Welcome to Mukurtu text in the foreground.
 
+    ![Screenshot of the welcome to your Mukurtu CMS full page.](../embeds/block2.png) 
+
+- Welcome to Your Mukurtu CMS Site (Vertical): This welcome block features a narrower welcome message.
+
+    ![Screenshot of the welcome to your Mukurtu CMS vertical.](../embeds/block3.png) 
+
+### Content blocks
+
+- Featured Content: This block enables users to showcase featured content on their site. 
+
+### Custom block
+
+- Consent Popup: For more information about the consent popup block, as well as how to enable and configure it for your site, refer to [Configure Consent Popup](ConfigureConsentPopup.md).
+
+### Lists (Views):
+
+- Browse by Community: This block showcases the communities on your site that the user has access to.
+- Browse by Map: Map Block: This block is useful for sites that want to highlight the locations of their content by showcasing it on a map.
+- Mukurtu Categories: This block showcases the site's categories.
 
 ## Edit the default landing page
 
@@ -36,24 +52,6 @@ From the **Dashboard**, navigate to the **Look and Feel** section and select the
 ### Configure sections
 
 Sections are the primary regions for your theme. 
-
-#### Edit a section
-
-1. Select the "Configure Section 1" icon to edit the administrative label of the section.
-
-    ![Screenshot of the landing page edit layout form with the edit icon button highlighted.](../_embeds/landing3.png)
-
-2. Edit the *Administrative label* field, then select "Update" to save the changes to your section.
-
-    ![Screenshot of the edit administrative label sidebar with the administrative label field and update button highlighted.](../_embeds/landing5.png)
-
-#### Delete a section
-
-Delete sections by selecting the "Delete" icon. 
-
-![Screenshot of the landing page edit layout form with the delete icon button highlighted.](../_embeds/landing4.png)
-
-After sections are created they can be rearranged by dragging them to appear in any order on the page.
 
 #### Add a section
 
