@@ -57,30 +57,25 @@ You can also access this information within your site following the instructions
     - Thumbnail > File ID (uses a player or a generic thumbnail)
     - Thumbnail > Alternative Text
 
-|Field Name |Description | Format Information|
+|Field Name|Description|Format Information|
 |---|---|---|
 |**Required**| | |
-|Audio file   |	Allowed file formats are mp3, m4a, wav, ogg, and aac. |The file ID or filename of the uploaded file.   |
-|Cultural Protocols > Protocols   |   |   |
-|Cultural Protocols > Sharing Setting   |   |   |
-|ID   |   |   |
-|**Required, but will autofill if empty**   |   |   |
-|Name   |Will autofill with filename.   |Plain text.   |
-|UUID   |   |   |
-
-|Optional (commonly used)   |   |   |
-|---|---|---|
-|Media tags   |   |   |
-|People|   |   |
-|Identifier|   |   |
-|Transcription|   |   |
-|Contributor|   |   |
-|   |   |   |
-
-|Optional (rarely used)|   |   |
-|---|---|---|
-|Thumbnail > File ID  |   |   |
-|Thumbnail > Alternative text|   |   |
+|Audio file|Allowed file formats are mp3, m4a, wav, ogg, and aac.|The file ID or filename of the uploaded file.|
+|Cultural Protocols > Protocols|   |IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.|
+|Cultural Protocols > Sharing Setting|   |Either 'Any' or 'All', case insensitive.|
+|ID|   |Integer.|
+|**Required, but will autofill if empty**|   |   |
+|Name|Will autofill with the filename given in the *audio file* field.|Plain text.|
+|UUID|   |UUID (e.g., 6b77cc9e-5fdf-4750-891e-e705b7bf323b) value.|
+|**Optional (commonly used)**|   |   |
+|Media tags|   |Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
+|People|   |Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
+|Identifier|   |Plain text.|
+|Transcription|A short text transcription of the audio file. This is used as the corresponding text when the audio file is used as a sample sentence in a dictionary word.|Plain text, maximum 255 characters.|
+|Contributor|   |Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
+|**Optional (rarely used)**|   |   |
+|Thumbnail > File ID|   |The file ID or filename of the uploaded image.|
+|Thumbnail > Alternative text|   |Alt text for the thumbnail (required if a thumbnail is included).|
 
 **Document** 
 
@@ -191,16 +186,18 @@ You can also access this information within your site following the instructions
 
 ## Technical Metadata Fields
 
-- Language (langcode)
-- Revision create time
-- Revision user
-- Revision log message
-- Published
-- Authored by
-- Authored on
-- Changed
-- Default translation
-- Default revision
+|Field Name|Description|Format Information|
+|---|---|---|
+|Language (langcode)|   |Language code value.|
+|Revision create time|The time that the current revision was created.|Unix timestamp value.|
+|Revision user|The user ID of the author of the current revision.|The username or user ID.|
+|Revision log message|Briefly describe the changes you have made.|Plain text.|
+|Published| |Boolean (0 or 1) value.|
+|Authored by|The user ID of the author.|The username or user ID.|
+|Authored on|The time the media item was created.|Unix timestamp value.|
+|Changed|The time the media item was last edited.|Unix timestamp value.|
+|Default translation|A flag indicating whether this is the default translation.|Boolean (0 or 1) value.|
+|Default revision|A flag indicating whether this was a default revision when it was saved.|Boolean (0 or 1) value.|
 
 
 
