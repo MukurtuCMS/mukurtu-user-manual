@@ -17,7 +17,7 @@ The following list is the media file formats supported by the stock Mukurtu inst
 
 **Document:** pdf, txt, rtf, doc, docx, ppt, pptx, xls, xlsx, odf, odg, odp, ods, odt, fodt, fods, fodp, fodg, key, numbers, pages, csv, sxw, zip, rar, gz, 7z, tar.
 
-**External embed:** No separate file, usually code wrapped in `<iframe>` tags.
+**External embed:** No separate file, usually code wrapped in `<iframe></iframe>` tags.
 
 **Image:** jpeg, jpg, png, gif, webp.
 
