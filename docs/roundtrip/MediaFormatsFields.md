@@ -9,53 +9,15 @@ tags:
 !!! Roles "User roles" 
     TBD
 
-## Supported file formats
-
-The following list is the media file formats supported by the stock Mukurtu installation.
-
-**Audio:** mp3, m4a, wav, ogg, aac.
-
-**Document:** pdf, txt, rtf, doc, docx, ppt, pptx, xls, xlsx, odf, odg, odp, ods, odt, fodt, fods, fodp, fodg, key, numbers, pages, csv, sxw, zip, rar, gz, 7z, tar.
-
-**External embed:** No separate file, usually code wrapped in `<iframe></iframe>` tags.
-
-**Image:** jpeg, jpg, png, gif, webp.
-
-**Remote video:** YouTube or Vimeo URLs.
-
-**SoundCloud:** SoundCloud URLs.
-
-**Video:** mp4, webm, ogv.
-
-## Basic metadata fields
+## Media types and core metadata fields
 
 For most media imports, the following fields are the most relevant. More technical fields, which apply to all media types but are not generally required for most imports, are presented separately.
 
 You can also access this information within your site following the instructions at [Import Format Information](ImportFormatInformation.md). 
 
-**Audio**
+### Audio
 
-- Required
-    - Audio file
-        - If creating new media, the filename included in the import.
-        - If updating existing media, the ???
-    - Cultural Protocols > Protocols
-        - 	IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.
-    - Cultural Protocols > Sharing Setting
-        - 	Either 'Any' or 'All', case insensitive.
-    - ID (ONLY if updating existing media)
-- Required, but will autofill if empty
-    - Name (from Audio file)
-    - UUID (if creating new media)
-- Optional (common)
-    - Media Tags
-    - People
-    - Identifier
-    - Transcription
-    - Contributor
-- Optional (uncommon)
-    - Thumbnail > File ID (uses a player or a generic thumbnail)
-    - Thumbnail > Alternative Text
+**Supported file formats:** mp3, m4a, wav, ogg, aac.
 
 |Field Name|Description|Format Information|
 |---|---|---|
@@ -77,7 +39,9 @@ You can also access this information within your site following the instructions
 |Thumbnail > File ID|   |The file ID or filename of the uploaded image.|
 |Thumbnail > Alternative text|   |Alt text for the thumbnail (required if a thumbnail is included).|
 
-**Document** 
+### Document
+
+**Supported file formats:** pdf, txt, rtf, doc, docx, ppt, pptx, xls, xlsx, odf, odg, odp, ods, odt, fodt, fods, fodp, fodg, key, numbers, pages, csv, sxw, zip, rar, gz, 7z, tar.
 
 - Required
     - Document
@@ -96,7 +60,12 @@ You can also access this information within your site following the instructions
     - Thumbnail > Alternative Text (should be automatic)
     - Extracted text (should be automatic)
 
-**External embed**
+|Field Name|Description|Format Information|
+|---|---|---|
+
+### External embed
+
+**Supported file formats:** No separate file, usually code wrapped in `<iframe></iframe>` tags.
 
 - Required
     - Name
@@ -113,7 +82,12 @@ You can also access this information within your site following the instructions
     - People
     - Identifier
 
-**Image**
+|Field Name|Description|Format Information|
+|---|---|---|
+
+### Image
+
+**Supported file formats:** jpeg, jpg, png, gif, webp.
 
 - Required
     - Image > File ID
@@ -129,7 +103,12 @@ You can also access this information within your site following the instructions
     - People
     - Identifier
 
-**Remote video**
+|Field Name|Description|Format Information|
+|---|---|---|
+
+### Remote video
+
+**Supported file formats:** YouTube or Vimeo URLs.
 
 - Required
     - Video URL (YouTube, Vimeo)
@@ -147,7 +126,12 @@ You can also access this information within your site following the instructions
     - Thumbnail > File ID (should be automatic, defaults to a player)
     - Thumbnail > Alternative Text (should be automatic)
 
-**SoundCloud**
+|Field Name|Description|Format Information|
+|---|---|---|
+
+### SoundCloud
+
+**Supported file formats:** SoundCloud URLs.
 
 - Required
     - SoundCloud URL
@@ -166,7 +150,12 @@ You can also access this information within your site following the instructions
     - Thumbnail > File ID (should be automatic, defaults to a player)
     - Thumbnail > Alternative Text (should be automatic)
 
-**Video**
+|Field Name|Description|Format Information|
+|---|---|---|
+
+### Video
+
+**Supported file formats:** mp4, webm, ogv.
 
 - Required
     - Video file
@@ -183,6 +172,9 @@ You can also access this information within your site following the instructions
 - Optional (uncommon)
     - Thumbnail > File ID (uses a player or a generic thumbnail)
     - Thumbnail > Alternative Text
+
+|Field Name|Description|Format Information|
+|---|---|---|
 
 ## Technical Metadata Fields
 
