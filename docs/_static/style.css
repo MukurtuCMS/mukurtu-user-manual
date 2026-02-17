@@ -213,14 +213,14 @@
   }
 
 .md-typeset table:not([class]) {
-    background-color: var(--md-default-bg-color);
-    border: .05rem solid var(--md-typeset-table-color);
-    border-radius: .1rem;
-    display: inline-block;
-    font-size:.8rem;
-    max-width: 100%;
-    overflow: auto;
-    touch-action: auto
+  background-color: var(--md-default-bg-color);
+  border: .05rem solid var(--md-typeset-table-color);
+  border-radius: .1rem;
+  display: inline-block;
+  font-size:.8rem;
+  max-width: 100%;
+  overflow: auto;
+  touch-action: auto;
 }
 
 .md-typeset td:not([class]):not(:last-child) {
