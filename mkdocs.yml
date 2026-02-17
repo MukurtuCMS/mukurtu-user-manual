@@ -106,7 +106,7 @@ nav:
   - Dictionary:
     - dictionary/UnderstandingTheDictionary.md
     - dictionary/ConfigureTheDictionary.md
-    - dictionary/DictonaryRoles.md
+    - dictionary/DictionaryRoles.md
     - dictionary/DictionaryWordMetadata.md
     - dictionary/WordLists.md
     - dictionary/CreateDictionaryWord.md
