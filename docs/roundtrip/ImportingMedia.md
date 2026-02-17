@@ -160,15 +160,16 @@ You can also access this information within your site following the instructions
     - Thumbnail > Alternative Text
 
 ## Technical Metadata Fields
-    - Language (langcode)
-    - Revision create time
-    - Revision user
-    - Revision log message
-    - Published
-    - Authored by
-    - Authored on
-    - Changed
-    - Default translation
-    - Default revision
+
+- Language (langcode)
+- Revision create time
+- Revision user
+- Revision log message
+- Published
+- Authored by
+- Authored on
+- Changed
+- Default translation
+- Default revision
 
 ## Import Process
