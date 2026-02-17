@@ -186,7 +186,8 @@ nav:
   - Roundtrip:
     - roundtrip/RoundtripOverview.md
     - roundtrip/RoundtripFormatting.md
-    - roundtrip/ImportingMedia.md
+    - roundtrip/MediaFormatsFields.md
+    - roundtrip/ImportingNewMedia.md
     - roundtrip/ImportingContent.md
     - roundtrip/ImportFormatInformation.md
     - roundtrip/ExportingContent.md

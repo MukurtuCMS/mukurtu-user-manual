@@ -4,7 +4,7 @@ tags:
     - media
 ---
 
-# Importing Media
+# Media Formats and Fields
 
 !!! Roles "User roles" 
     TBD
@@ -37,8 +37,12 @@ You can also access this information within your site following the instructions
 
 - Required
     - Audio file
+        - If creating new media, the filename included in the import.
+        - If updating existing media, the ???
     - Cultural Protocols > Protocols
+        - 	IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.
     - Cultural Protocols > Sharing Setting
+        - 	Either 'Any' or 'All', case insensitive.
     - ID (ONLY if updating existing media)
 - Required, but will autofill if empty
     - Name (from Audio file)
@@ -52,6 +56,31 @@ You can also access this information within your site following the instructions
 - Optional (uncommon)
     - Thumbnail > File ID (uses a player or a generic thumbnail)
     - Thumbnail > Alternative Text
+
+|Field Name |Description | Format Information|
+|---|---|---|
+|**Required**| | |
+|Audio file   |	Allowed file formats are mp3, m4a, wav, ogg, and aac. |The file ID or filename of the uploaded file.   |
+|Cultural Protocols > Protocols   |   |   |
+|Cultural Protocols > Sharing Setting   |   |   |
+|ID   |   |   |
+|**Required, but will autofill if empty**   |   |   |
+|Name   |Will autofill with filename.   |Plain text.   |
+|UUID   |   |   |
+
+|Optional (commonly used)   |   |   |
+|---|---|---|
+|Media tags   |   |   |
+|People|   |   |
+|Identifier|   |   |
+|Transcription|   |   |
+|Contributor|   |   |
+|   |   |   |
+
+|Optional (rarely used)|   |   |
+|---|---|---|
+|Thumbnail > File ID  |   |   |
+|Thumbnail > Alternative text|   |   |
 
 **Document** 
 
@@ -173,4 +202,7 @@ You can also access this information within your site following the instructions
 - Default translation
 - Default revision
 
-## Import Process
+
+
+
+
