@@ -185,10 +185,11 @@ nav:
     - person-records/ConfigurePersonRecord.md
   - Roundtrip:
     - roundtrip/RoundtripOverview.md
-    - roundtrip/ExportingContent.md
-    - roundtrip/ExportSettings.md
+    - roundtrip/ImportingMedia.md
     - roundtrip/ImportingContent.md
     - roundtrip/ImportFormatInformation.md
+    - roundtrip/ExportingContent.md
+    - roundtrip/ExportSettings.md
   - Users:
     - users/user-role-types.md 
     - users/creating-account-site-wide.md 
