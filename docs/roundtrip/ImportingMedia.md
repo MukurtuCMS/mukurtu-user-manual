@@ -90,6 +90,7 @@ You can also access this information within your site following the instructions
     - Identifier
 
 **Image**
+
 - Required
     - Image > File ID
     - Cultural Protocols > Protocols
