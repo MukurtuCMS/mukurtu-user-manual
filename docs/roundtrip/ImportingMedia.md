@@ -4,7 +4,7 @@ tags:
     - media
 ---
 
-# Importing media
+# Importing Media
 
 !!! Roles "User roles" 
     TBD
