@@ -70,6 +70,10 @@ markdown_extensions:
       
 nav:
   - Style Guide: styleguide.md
+  - Preview Videos: previewvideos.md
+  - About Mukurtu: 
+    - about-mukurtu/WhatDoesMukurtuMean.md
+    - about-mukurtu/GettingStartedWithMukurtuCMS.md 
   - 3Cs:
     - 3Cs/UnderstandingCommunitiesAndCulturalProtocols.md
     - 3Cs/CreateACommunityAndInitialCulturalProtocol.md
@@ -119,12 +123,12 @@ nav:
     - local-contexts/UnderstandingTheLocalContextsHub.md
     - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
     - local-contexts/ViewAndManageDirectoryPages.md
+    - local-contexts/UnderstandingLegacyTKLabels.md
   - Multilingual:
     - multilingual/UnderstandingMultilingual.md 
     - multilingual/TranslationWorkflow.md
     - multilingual/EnableMultilingualModule.md
     - multilingual/UITranslation.md
-    - multilingual/ConfigureFont.md    
     - multilingual/ConfigurationTranslation.md
     - multilingual/TranslateTaxonomies.md
     - multilingual/TranslateLocalContexts.md
@@ -135,7 +139,14 @@ nav:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
   - Look and Feel:
-    - look-and-feel/ManageNameSloganEmail
+    - look-and-feel/ConfigureLogo.md
+    - look-and-feel/ConfigureNameEmail.md
+    - look-and-feel/ConfigureSiteNavigation.md
+    - look-and-feel/ConfigureLandingPage.md
+    - look-and-feel/ConfigureConsentPopup.md
+    - look-and-feel/CreateBasicPage.md
+    - look-and-feel/ConfigureColors.md
+    - look-and-feel/ConfigureFont.md 
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 

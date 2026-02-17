@@ -14,8 +14,7 @@ The result of this is that only the top-level community will be displayed on the
 
 1) From the dashboard, under communities, select **community organization**.
 
-SCREENSHOT SHOWING WHERE TO FIND COMMUNITY ORGANIZATION LINK
-![Screenshot of the community organization link](../_embeds/placeholderscreenshot.png)
+![Screenshot of the dashboard with the community organization link highlighted](../_embeds/community-organization1-1.png)
 
 2) You will see a list of all communities on the site. Select the handle next to a community you wish to move and drag it to your desired location.
 

@@ -1,6 +1,17 @@
+---
+tags:
+    - infrastructure
+---
+
 # Install a module 
 
+!!! roles "User role"
+    Drupal admin
+
 You may choose to add a Drupal module to your Mukurtu CMS site to extend your site's functionality or further customize your site. Drupal modules can be found on their site at [https://www.drupal.org/project/project_module](https://www.drupal.org/project/project_module).
+
+!!! warning
+    Undertake these instructions at your own risk. We do not test external modules. Make sure that any modules you add have security advisory coverage. Adding a module requires access to the hosting server and the use of command line tools. Before following these instructions, make sure to back up your site, and confirm that you can restore from a backup.
 
 Follow the instructions below to add a module to your Mukurtu CMS site. 
 
