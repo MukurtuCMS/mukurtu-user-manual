@@ -9,23 +9,112 @@ tags:
 !!! roles "User roles"
     Drupal administrator, Mukurtu manager
 
-Mukurtu 4 offers prebuilt options to enable users to configure the landing page for their site to best showcase their content. You can edit the default landing page or create your own. 
+Mukurtu 4 offers prebuilt options to enable users to configure the landing page for their site to best showcase their content. 
 
-## Prebuilt front page blocks
+## Preconfigured landing page blocks
 
-Mukurtu 4 offers different types of prebuilt front page blocks. These include:
+Mukurtu 4 preconfigured landing page blocks. 
 
-Content blocks
+### Content blocks
 
 - Featured Content: This block enables users to showcase featured content on their site.
 
-Welcome blocks
+    ![Screenshot of the featured content block.](../_embeds/block4.png)
 
 - Welcome to Your Mukurtu CMS Site: This block features a half-page, right jusitified welcome banner in our classic Red and Bone color palette.
 
-    ![Screenshot of the welcome to your Mukurtu CMS site half-page banner.](../embeds/block1.png)
+    ![Screenshot of the welcome to your Mukurtu CMS site half-page banner.](../_embeds/block1.png)
 
+- Welcome to Your Mukurtu CMS Site (Full Background): This block features a full-width background image block with overlaid title and description text.
 
+    ![Screenshot of the welcome to your Mukurtu CMS site (full background) banner.](../_embeds/block2.png)
+
+- Welcome to Your Mukurtu CMS Site (Vertical): This block features a single column block with the image on top, followed by title and text below.
+
+    ![Screenshot of the welcome to your Mukurtu CMS site (vertical) banner.](../_embeds/block3.png)
+
+### Lists (Views) blocks
+
+- Browse by Community: This block highlights all the communities on your site that users have permission to view.
+
+    ![Screenshot of the browse by community block](../_embeds/block)
+
+- Browse by Map: Map Block: This block highlights the locations of content using an embedded Leaflet map.
+- Mukurtu Categories: This block features all of the categories on your site.
+
+    ![Screenshot of the Categories block](../_embeds/block5.png)
+
+## Configure content blocks
+
+Content blocks include the Featured Content block and the three different Welcome banner blocks. All content blocks can be accessed from the **Blocks** link, then are configured slightly differently depending on the block type. Follow the instructions below to configure your content blocks.
+
+1. Select the **Blocks** icon from the left-hand admin sidebar or navigate directly to `/admin/content/block`.
+
+    ![Screenshot of the left hand sidebar with the blocks link highlighted.](../_embeds/block6.png)
+
+2. Select the "Edit" button to the right of the block you want to configure. 
+
+    ![Screenshot of the content blocks page with the edit button by the Welcome to Your Mukurtu CMS Site button highlighted.](../_embeds/block7.png)
+
+### Configure Welcome block and Vertical block
+
+The  Welcome to Your Mukurtu CMS Site and Welcome to Your Mukurtu CMS Site (Vertical) welcome blocks are configured the same way, and allow image and video uploads. Follow the instructions to configure your welcome block.
+
+1. Use the *Block description* field to rename your Welcome block.
+2. Use the *Body* field to provide more information about your site. 
+
+    ![Screenshot of the Edit content block welcome to your Mukurtu CMS site featuring the block description and body fields.](../_embeds/block12.png)
+
+3. Use the "Add media" button to add a media asset to your welcome block. You can add an image or a video. For more information on adding media assets, refer to [Create Media Assets](../media/CreateMediaAssets.md)
+
+    ![Screenshot of the media modal with the Add media button highlighted.](../_embeds/block13.png)
+
+4. Select your media asset, then select the "Insert selected" button.
+
+    ![Screenshot of the media modal with the insert selected button highlighted.](../_embeds/block14.png)
+
+5. Select "Save" to save your welcome block.
+
+### Configure Full Background block
+
+The Welcome to Your Mukurtu CMS Site (Full Background) welcome block only allows images and requires users to configure the overlaid text color. Follow the instructions to configure your welcome block.
+
+1. Use the *Block description* field to rename your Welcome block.
+2. Use the *Body* field to provide more information about your site. 
+
+    ![Screenshot of the Edit content block welcome to your Mukurtu CMS site featuring the block description and body fields.](../_embeds/block16.png)
+
+3. Use the "Add media" button to add a background image to your welcome block. For more information on adding media assets, refer to [Create Media Assets](../media/CreateMediaAssets.md).
+4. Select your image, then select the "Insert selected" button.
+5. Use the **Text Color** dropdown to select **Light** or **Dark** text. Choose your text color based on background contrast. Light uses white text, Dark uses brand primary dark color. Always verify color contrast meets accessibility standards (WCAG AA minimum 4.5:1 ratio) using an accessibility tool before publishing. 
+
+    ![Screenshot of the edit content block welcome to your Mukurtu CMS site featuring the add media and text color dropdown, with the text color dropdown highlighted.](../_embeds/block15.png)
+
+6. Select the "Save" button to save your welcome block.
+
+### Configure Featured Content block
+
+The Featured Content block allows you to showcase featured content on your Mukurtu CMS site. Follow the instructions below to configure your featured content.
+
+1. From the **Edit content block Featured Content** page, you may choose to use the *Block description* field to rename your block.
+2. Navigate to the **Featured Content** section of the page, and select the "Select Content" button.
+
+    ![Screenshot of the Featured content section of the edit content block featured content page with the select content button highlighted.](../_embeds/block8.png)
+
+3. Select the checkbox beside all the content you wish to include as featured content, then scroll down and select "Add Content".
+
+    ![Screenshot of the modal with a checkbox and the add content button highlighted.](../_embeds/block9.png)
+
+    !!! tip 
+        You can filter content by type or search by title.
+
+4. To remove content from the featured content, select the **Delete** icon from the right-hand corner of the content block.
+
+    ![Screenshot of the edit conetnt block featured content with the featured content updated in the block.](../_embeds/block10.png)
+
+4. Select the "Save" button to save your Featured Content selections.
+
+    ![Screenshot of the edit content block featured content page with the save button highlighted.](../_embeds/block11.png)
 
 ## Edit the default landing page
 
