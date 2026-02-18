@@ -37,9 +37,12 @@ Mukurtu 4 preconfigured landing page blocks.
 
 - Browse by Community: This block highlights all the communities on your site that users have permission to view.
 
-    ![Screenshot of the browse by community block](../_embeds/block)
+    ![Screenshot of the browse by community block](../_embeds/block17.png)
 
 - Browse by Map: Map Block: This block highlights the locations of content using an embedded Leaflet map.
+
+    ![Screenshot of the browse by map block](../_embeds/block18.png)
+
 - Mukurtu Categories: This block features all of the categories on your site.
 
     ![Screenshot of the Categories block](../_embeds/block5.png)
@@ -275,8 +278,3 @@ You can add a new default landing page to your Mukurtu site. To add a landing pa
 9. Select the "Save configuration" button to apply your changes.
 
     ![Screenshot of the basic site settings page with the save configuration button highlighted.](../_embeds/landing24.png)
-
-
-
-
-
