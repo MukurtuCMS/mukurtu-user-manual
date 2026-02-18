@@ -1,3 +1,3 @@
-# Updating a Self-Hosted Site
+# Update a Self-Hosted Site
 
 Coming soon

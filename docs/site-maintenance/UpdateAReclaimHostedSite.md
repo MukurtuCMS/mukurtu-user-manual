@@ -1,3 +1,3 @@
-# Updating a Reclaim Hosted Site
+# Update a Reclaim Hosted Site
 
 Coming Soon
