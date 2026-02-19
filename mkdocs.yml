@@ -106,7 +106,7 @@ nav:
   - Dictionary:
     - dictionary/UnderstandingTheDictionary.md
     - dictionary/ConfigureTheDictionary.md
-    - dictionary/DictonaryRoles.md
+    - dictionary/DictionaryRoles.md
     - dictionary/DictionaryWordMetadata.md
     - dictionary/WordLists.md
     - dictionary/CreateDictionaryWord.md
@@ -185,10 +185,13 @@ nav:
     - person-records/ConfigurePersonRecord.md
   - Roundtrip:
     - roundtrip/RoundtripOverview.md
-    - roundtrip/ExportingContent.md
-    - roundtrip/ExportSettings.md
+    - roundtrip/RoundtripFormatting.md
+    - roundtrip/MediaFormatsFields.md
+    - roundtrip/ImportingNewMedia.md
     - roundtrip/ImportingContent.md
     - roundtrip/ImportFormatInformation.md
+    - roundtrip/ExportingContent.md
+    - roundtrip/ExportSettings.md
   - Users:
     - users/user-role-types.md 
     - users/creating-account-site-wide.md 
