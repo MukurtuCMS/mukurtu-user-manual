@@ -9,47 +9,51 @@ tags:
 !!! roles "User roles"
     Drupal administrator, Mukurtu manager
 
-Mukurtu 4 offers prebuilt options to enable users to configure the landing page for their site to best showcase their content. 
+Users can personalize their landing page to reflect their organizational branding and best showcase their content. 
 
-## Preconfigured landing page blocks
-
-Mukurtu 4 preconfigured landing page blocks. 
+## Block types
 
 ### Content blocks
 
-- Featured Content: This block enables users to showcase featured content on their site.
+- Featured Content: This block enables users to showcase featured content on their site. For more information on configuring featured content blocks, refer to [Configure a Featured Content block](#configure-featured-content-block).
 
     ![Screenshot of the featured content block.](../_embeds/block4.png)
 
-- Welcome to Your Mukurtu CMS Site: This block features a half-page, right jusitified welcome banner in our classic Red and Bone color palette.
+- Welcome to Your Mukurtu CMS Site: This block features a half-page, right jusitified welcome banner in our classic Red and Bone color palette. For more information on configuring featured content blocks, refer to [Configure a Welcome Block](#configure-welcome-block-and-vertical-block).
 
     ![Screenshot of the welcome to your Mukurtu CMS site half-page banner.](../_embeds/block1.png)
 
-- Welcome to Your Mukurtu CMS Site (Full Background): This block features a full-width background image block with overlaid title and description text.
+- Welcome to Your Mukurtu CMS Site (Full Background): This block features a full-width background image block with overlaid title and description text. For more information on configuring featured content blocks, refer to [Configure a Full Background Block](#configure-full-background-block).
 
     ![Screenshot of the welcome to your Mukurtu CMS site (full background) banner.](../_embeds/block2.png)
 
-- Welcome to Your Mukurtu CMS Site (Vertical): This block features a single column block with the image on top, followed by title and text below.
+- Welcome to Your Mukurtu CMS Site (Vertical): This block features a single column block with the image on top, followed by title and text below. For more information on configuring featured content blocks, refer to [Configure a Vertical Block](#configure-welcome-block-and-vertical-block).
 
     ![Screenshot of the welcome to your Mukurtu CMS site (vertical) banner.](../_embeds/block3.png)
 
+### Custom block
+
+- Consent popup block: Some Mukurtu CMS sites may choose to use consent popups that appear when their site is accessed. These can require users and visitors to their site consent to certain terms of use in order to access the site or can require visitors to acknowledge something about the content on the site. For more information on configuring the Consent popup block, refer to the [Configure Consent Popup](ConfigureConsentPopup.md) article.
+
+    ![Screenshot of the consent popup block.](../_embeds/block19.png)
+
 ### Lists (Views) blocks
 
-- Browse by Community: This block highlights all the communities on your site that users have permission to view.
+- Browse by Community: This block highlights all the communities on your site that users have permission to view. Communities are automatically added to this block when they are created.
 
     ![Screenshot of the browse by community block](../_embeds/block17.png)
 
-- Browse by Map: Map Block: This block highlights the locations of content using an embedded Leaflet map.
+- Browse by Map: Map Block: This block highlights the locations of content using an embedded Leaflet map. Map points are automatically added to this block when they are created.
 
     ![Screenshot of the browse by map block](../_embeds/block18.png)
 
-- Mukurtu Categories: This block features all of the categories on your site.
+- Mukurtu Categories: This block features all of the categories on your site. Categories are automatically added to this block when they are created.
 
     ![Screenshot of the Categories block](../_embeds/block5.png)
 
 ## Configure content blocks
 
-Content blocks include the Featured Content block and the three different Welcome banner blocks. All content blocks can be accessed from the **Blocks** link, then are configured slightly differently depending on the block type. Follow the instructions below to configure your content blocks.
+Content blocks include the Featured Content block and the three different Welcome banner blocks. All content blocks can be accessed from the **Blocks** link, then are configured slightly differently depending on the block type. Blocks can be rearranged once they are configured. For more information on rearranging blocks, refer to the [Rearrange Blocks](#rearrange-blocks) section of this article. Follow the instructions below to configure your content blocks.
 
 1. Select the **Blocks** icon from the left-hand admin sidebar or navigate directly to `/admin/content/block`.
 
@@ -154,9 +158,6 @@ After sections are created they can be rearranged by dragging them to appear in 
     ![Screenshot of the landing page edit layout form with the add section button highlighted.](../_embeds/landing2.png)
 
 2. Select the "One Column" button in the right-hand **Choose a layout for this section** sidebar.
-
-    !!! tip
-        The one column layout is configured by default in layout builder for landing pages. To add additional options, navigate to `/admin/config/content/layout-builder-restrictions` and uncheck the box for the **Entity View Mode** option, then select the "Save configuration" button.  
 
     ![Screenshot of the choose a layout for this section menu with the one column button highlighted.](../_embeds/landing6.png)
 
