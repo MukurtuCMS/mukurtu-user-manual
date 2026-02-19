@@ -187,8 +187,3 @@ You can also access this information within your site following the instructions
 |Changed|The time the media item was last edited.|Unix timestamp value.|
 |Default translation|A flag indicating whether this is the default translation.|Boolean (0 or 1) value.|
 |Default revision|A flag indicating whether this was a default revision when it was saved.|Boolean (0 or 1) value.|
-
-
-
-
-
