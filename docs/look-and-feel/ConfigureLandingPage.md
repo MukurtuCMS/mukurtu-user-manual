@@ -9,15 +9,17 @@ tags:
 !!! roles "User roles"
     Drupal administrator, Mukurtu manager
 
-Users can personalize their landing page to reflect their organizational branding and best showcase their content. 
+Mukurtu CMS includes a preconfigured landing page layout that users can personalize to reflect their organizational branding. The default layout consists of:
+
+- An easily personalized welcome banner.
+- A Featured Content block to showcase any featured content on your site.
+- A Mukurtu Categories browse block, featuring all the categories on your site.
+- A Browse by Community block, which showcases all the different communities that a user has access to view.
+- A Map Browse block, featuring an interactive Leaflet map showcasing the location of the site's content.
+
+Users also have the option to personalize their landing page to reflect their organizational branding and best showcase their content. 
 
 ## Block types
-
-### Content blocks
-
-- Featured Content: This block enables users to showcase featured content on their site. For more information on configuring featured content blocks, refer to [Configure a Featured Content block](#configure-featured-content-block).
-
-    ![Screenshot of the featured content block.](../_embeds/block4.png)
 
 - Welcome to Your Mukurtu CMS Site: This block features a half-page, right jusitified welcome banner in our classic Red and Bone color palette. For more information on configuring featured content blocks, refer to [Configure a Welcome Block](#configure-welcome-block-and-vertical-block).
 
@@ -31,13 +33,13 @@ Users can personalize their landing page to reflect their organizational brandin
 
     ![Screenshot of the welcome to your Mukurtu CMS site (vertical) banner.](../_embeds/block3.png)
 
-### Custom block
+- Featured Content: This block enables users to showcase featured content on their site. For more information on configuring featured content blocks, refer to [Configure a Featured Content block](#configure-featured-content-block).
 
-- Consent popup block: Some Mukurtu CMS sites may choose to use consent popups that appear when their site is accessed. These can require users and visitors to their site consent to certain terms of use in order to access the site or can require visitors to acknowledge something about the content on the site. For more information on configuring the Consent popup block, refer to the [Configure Consent Popup](ConfigureConsentPopup.md) article.
+    ![Screenshot of the featured content block.](../_embeds/block4.png)
 
-    ![Screenshot of the consent popup block.](../_embeds/block19.png)
+- Mukurtu Categories: This block features all of the categories on your site. Categories are automatically added to this block when they are created.
 
-### Lists (Views) blocks
+    ![Screenshot of the Categories block](../_embeds/block5.png)
 
 - Browse by Community: This block highlights all the communities on your site that users have permission to view. Communities are automatically added to this block when they are created.
 
@@ -46,10 +48,6 @@ Users can personalize their landing page to reflect their organizational brandin
 - Browse by Map: Map Block: This block highlights the locations of content using an embedded Leaflet map. Map points are automatically added to this block when they are created.
 
     ![Screenshot of the browse by map block](../_embeds/block18.png)
-
-- Mukurtu Categories: This block features all of the categories on your site. Categories are automatically added to this block when they are created.
-
-    ![Screenshot of the Categories block](../_embeds/block5.png)
 
 ## Configure content blocks
 
@@ -133,24 +131,6 @@ From the **Dashboard**, navigate to the **Look and Feel** section and select the
 
 Sections are the primary regions for your theme. 
 
-#### Edit a section
-
-1. Select the "Configure Section 1" icon to edit the administrative label of the section.
-
-    ![Screenshot of the landing page edit layout form with the edit icon button highlighted.](../_embeds/landing3.png)
-
-2. Edit the *Administrative label* field, then select "Update" to save the changes to your section.
-
-    ![Screenshot of the edit administrative label sidebar with the administrative label field and update button highlighted.](../_embeds/landing5.png)
-
-#### Delete a section
-
-Delete sections by selecting the "Delete" icon. 
-
-![Screenshot of the landing page edit layout form with the delete icon button highlighted.](../_embeds/landing4.png)
-
-After sections are created they can be rearranged by dragging them to appear in any order on the page.
-
 #### Add a section
 
 1. To add a new section to your landing page, select the "Add section" button. 
@@ -161,13 +141,24 @@ After sections are created they can be rearranged by dragging them to appear in 
 
     ![Screenshot of the choose a layout for this section menu with the one column button highlighted.](../_embeds/landing6.png)
 
-3. Use the *Administrative label* field to add a label for your section, then select "Update".
+3. Optionally, you can use the *Administrative label* field to add a label for your section, then select "Update". If you choose not to add a label for your section, it will be automatically labelled in the order it appears on the page. Labelling your section can be useful for reference and organization, especially if your sections need to appear in a particular order.
 
     ![Screenshot of the edit administrative label sidebar with the administrative label field and update button highlighted.](../_embeds/landing5.png)
 
 4. You can select "Save" now to save your section, or you can add blocks. For more information about adding blocks, refer to the [Add a block](#add-a-block) section of this article.
 
     ![Screenshot of the landing page edit layout form with the save button highlighted.](../_embeds/landing7.png)
+
+After sections are created they can be rearranged by dragging them to appear in any order on the page.
+
+#### Delete a section
+
+Delete sections by selecting the "Delete" icon. 
+
+!!! warning
+    Deleting a section will delete all the blocks within the section.
+
+![Screenshot of the landing page edit layout form with the delete icon button highlighted.](../_embeds/landing4.png)
 
 ### Configure blocks
 
@@ -249,7 +240,7 @@ You can rearrange the blocks on your landing page by selecting a block and dragg
 
 ## Add a new landing page
 
-You can add a new default landing page to your Mukurtu site. To add a landing page from the **Admin menu**, navigate to the **Create** section and select the **Landing Page** link.
+Most sites will use the provided landing page, but if your landing page has been deleted or you prefer a more personalized landing page, you can add a new default landing page to your Mukurtu site. To add a landing page from the **Admin menu**, navigate to the **Create** section and select the **Landing Page** link.
 
 ![Screenshot of the Create menu with the landing page link highlighted.](../_embeds/landing18.png)
 
