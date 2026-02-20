@@ -117,6 +117,7 @@ nav:
     - infrastructure/SystemRequirements.md
     - infrastructure/PHPConfiguration.md
     - infrastructure/InstallModule.md
+    - infrastructure/PrivacyAndSecurity.md
   - Local Contexts:
     - local-contexts/LevelsOfLocalContextsProjects.md
     - local-contexts/ManageLocalContextsProjects.md
@@ -204,8 +205,12 @@ nav:
     - users/reset-password.md
   - Site Maintenance:
     - site-maintenance/CheckErrorLogs.md
+    - site-maintenance/CheckForUpdates.md
     - site-maintenance/ClearDrupalCaches.md
     - site-maintenance/CronConfiguration.md
+    - site-maintenance/UpdateAReclaimHostedSite.md
+    - site-maintenance/UpdateASelfHostedSite.md
+
   - Taxonomies:
     - taxonomies/UnderstandingTaxonomies.md
     - taxonomies/ManagingTaxonomies.md
