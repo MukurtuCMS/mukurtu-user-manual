@@ -32,8 +32,8 @@ tags:
 1. Select the *Import Configuration* dropdown.
 2. If you have already saved an import configuration and it is listed here, select the appropriate configuration.
 3. If there is not an appropriate configuration listed, select *Customize Settings*.
-    1. See INSERT ARTICLE HERE for more information.
+    1. See [Managing Import Configurations](ManagingImportCOnfigurations.md) for more information.
 4. Once all spreadsheets have the correct configuration selected, select *Review Import*. 
 5. A list of all files will be provided. If it looks correct, select *Start Import*, otherwise select *Back* to make changes.
 6. The importer will display progress, and when complete, a results page will display any success and error messages, as well as a list of all imported media.
-7. 
+7. To return to the main import page and reset the import files, select *Start a new import*.
