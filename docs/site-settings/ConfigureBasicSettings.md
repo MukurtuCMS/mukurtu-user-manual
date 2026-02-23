@@ -1,7 +1,7 @@
 ---
 tags:
     - getting started
-    - look and feel
+    - site settings
 ---
 
 # Configure Basic Site Settings

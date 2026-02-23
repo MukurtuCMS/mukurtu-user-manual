@@ -140,7 +140,6 @@ nav:
     - location-data/CreateMapPoints.md
   - Look and Feel:
     - look-and-feel/ConfigureLogo.md
-    - look-and-feel/ConfigureNameEmail.md
     - look-and-feel/ConfigureSiteNavigation.md
     - look-and-feel/ConfigureLandingPage.md
     - look-and-feel/ConfigureConsentPopup.md
@@ -206,6 +205,9 @@ nav:
     - site-maintenance/CheckErrorLogs.md
     - site-maintenance/ClearDrupalCaches.md
     - site-maintenance/CronConfiguration.md
+  - Site Settings:
+    - site-settings/ConfigureBasicSettings.md
+    - site-settings/ConfigureCitationTemplates.md
   - Taxonomies:
     - taxonomies/UnderstandingTaxonomies.md
     - taxonomies/ManagingTaxonomies.md
