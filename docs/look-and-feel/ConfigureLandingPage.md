@@ -9,39 +9,117 @@ tags:
 !!! roles "User roles"
     Drupal administrator, Mukurtu manager
 
-Mukurtu 4 offers prebuilt options to enable users to configure the landing page for their site to best showcase their content. You can edit the default landing page or create your own. 
+Mukurtu CMS includes a preconfigured landing page layout that users can personalize to reflect their organizational branding. The default layout consists of:
 
-## Prebuilt front page blocks
+- An easily personalized welcome banner.
+- A Featured Content block to showcase any featured content on your site.
+- A Mukurtu Categories browse block, featuring all the categories on your site.
+- A Browse by Community block, which showcases all the different communities that a user has access to view.
+- A Map Browse block, featuring an interactive Leaflet map showcasing the location of the site's content.
 
-Mukurtu 4 offers different types of prebuilt front page blocks. These include:
+Users also have the option to personalize their landing page to reflect their organizational branding and best showcase their content. 
 
-### Welcome blocks
+## Block types
 
-- Welcome to Your Mukurtu CMS Site: This block features a half-page, right jusitified welcome banner in our classic Red and Bone color palette.
+- Welcome to Your Mukurtu CMS Site: This block features a half-page, right jusitified welcome banner in our classic Red and Bone color palette. For more information on configuring featured content blocks, refer to [Configure a Welcome Block](#configure-welcome-block-and-vertical-block).
 
-    ![Screenshot of the welcome to your Mukurtu CMS site half-page banner.](../embeds/block1.png)
+    ![Screenshot of the welcome to your Mukurtu CMS site half-page banner.](../_embeds/block1.png)
 
-- Welcome to Your Mukurtu CMS Site (Full Background): This welcome block features a full background with the Welcome to Mukurtu text in the foreground.
+- Welcome to Your Mukurtu CMS Site (Full Background): This block features a full-width background image block with overlaid title and description text. For more information on configuring featured content blocks, refer to [Configure a Full Background Block](#configure-full-background-block).
 
-    ![Screenshot of the welcome to your Mukurtu CMS full page.](../embeds/block2.png) 
+    ![Screenshot of the welcome to your Mukurtu CMS site (full background) banner.](../_embeds/block2.png)
 
-- Welcome to Your Mukurtu CMS Site (Vertical): This welcome block features a narrower welcome message.
+- Welcome to Your Mukurtu CMS Site (Vertical): This block features a single column block with the image on top, followed by title and text below. For more information on configuring featured content blocks, refer to [Configure a Vertical Block](#configure-welcome-block-and-vertical-block).
 
-    ![Screenshot of the welcome to your Mukurtu CMS vertical.](../embeds/block3.png) 
+    ![Screenshot of the welcome to your Mukurtu CMS site (vertical) banner.](../_embeds/block3.png)
 
-### Content blocks
+- Featured Content: This block enables users to showcase featured content on their site. For more information on configuring featured content blocks, refer to [Configure a Featured Content block](#configure-featured-content-block).
 
-- Featured Content: This block enables users to showcase featured content on their site. 
+    ![Screenshot of the featured content block.](../_embeds/block4.png)
 
-### Custom block
+- Mukurtu Categories: This block features all of the categories on your site. Categories are automatically added to this block when they are created.
 
-- Consent Popup: For more information about the consent popup block, as well as how to enable and configure it for your site, refer to [Configure Consent Popup](ConfigureConsentPopup.md).
+    ![Screenshot of the Categories block](../_embeds/block5.png)
 
-### Lists (Views):
+- Browse by Community: This block highlights all the communities on your site that users have permission to view. Communities are automatically added to this block when they are created.
 
-- Browse by Community: This block showcases the communities on your site that the user has access to.
-- Browse by Map: Map Block: This block is useful for sites that want to highlight the locations of their content by showcasing it on a map.
-- Mukurtu Categories: This block showcases the site's categories.
+    ![Screenshot of the browse by community block](../_embeds/block17.png)
+
+- Browse by Map: Map Block: This block highlights the locations of content using an embedded Leaflet map. Map points are automatically added to this block when they are created.
+
+    ![Screenshot of the browse by map block](../_embeds/block18.png)
+
+## Configure content blocks
+
+Content blocks include the Featured Content block and the three different Welcome banner blocks. All content blocks can be accessed from the **Blocks** link, then are configured slightly differently depending on the block type. Blocks can be rearranged once they are configured. For more information on rearranging blocks, refer to the [Rearrange Blocks](#rearrange-blocks) section of this article. Follow the instructions below to configure your content blocks.
+
+1. Select the **Blocks** icon from the left-hand admin sidebar or navigate directly to `/admin/content/block`.
+
+    ![Screenshot of the left hand sidebar with the blocks link highlighted.](../_embeds/block6.png)
+
+2. Select the "Edit" button to the right of the block you want to configure. 
+
+    ![Screenshot of the content blocks page with the edit button by the Welcome to Your Mukurtu CMS Site button highlighted.](../_embeds/block7.png)
+
+### Configure Welcome block and Vertical block
+
+The  Welcome to Your Mukurtu CMS Site and Welcome to Your Mukurtu CMS Site (Vertical) welcome blocks are configured the same way, and allow image and video uploads. Follow the instructions to configure your welcome block.
+
+1. Use the *Block description* field to rename your Welcome block.
+2. Use the *Body* field to provide more information about your site. 
+
+    ![Screenshot of the Edit content block welcome to your Mukurtu CMS site featuring the block description and body fields.](../_embeds/block12.png)
+
+3. Use the "Add media" button to add a media asset to your welcome block. You can add an image or a video. For more information on adding media assets, refer to [Create Media Assets](../media/CreateMediaAssets.md)
+
+    ![Screenshot of the media modal with the Add media button highlighted.](../_embeds/block13.png)
+
+4. Select your media asset, then select the "Insert selected" button.
+
+    ![Screenshot of the media modal with the insert selected button highlighted.](../_embeds/block14.png)
+
+5. Select "Save" to save your welcome block.
+
+### Configure Full Background block
+
+The Welcome to Your Mukurtu CMS Site (Full Background) welcome block only allows images and requires users to configure the overlaid text color. Follow the instructions to configure your welcome block.
+
+1. Use the *Block description* field to rename your Welcome block.
+2. Use the *Body* field to provide more information about your site. 
+
+    ![Screenshot of the Edit content block welcome to your Mukurtu CMS site featuring the block description and body fields.](../_embeds/block16.png)
+
+3. Use the "Add media" button to add a background image to your welcome block. For more information on adding media assets, refer to [Create Media Assets](../media/CreateMediaAssets.md).
+4. Select your image, then select the "Insert selected" button.
+5. Use the **Text Color** dropdown to select **Light** or **Dark** text. Choose your text color based on background contrast. Light uses white text, Dark uses brand primary dark color. Always verify color contrast meets accessibility standards (WCAG AA minimum 4.5:1 ratio) using an accessibility tool before publishing. 
+
+    ![Screenshot of the edit content block welcome to your Mukurtu CMS site featuring the add media and text color dropdown, with the text color dropdown highlighted.](../_embeds/block15.png)
+
+6. Select the "Save" button to save your welcome block.
+
+### Configure Featured Content block
+
+The Featured Content block allows you to showcase featured content on your Mukurtu CMS site. Follow the instructions below to configure your featured content.
+
+1. From the **Edit content block Featured Content** page, you may choose to use the *Block description* field to rename your block.
+2. Navigate to the **Featured Content** section of the page, and select the "Select Content" button.
+
+    ![Screenshot of the Featured content section of the edit content block featured content page with the select content button highlighted.](../_embeds/block8.png)
+
+3. Select the checkbox beside all the content you wish to include as featured content, then scroll down and select "Add Content".
+
+    ![Screenshot of the modal with a checkbox and the add content button highlighted.](../_embeds/block9.png)
+
+    !!! tip 
+        You can filter content by type or search by title.
+
+4. To remove content from the featured content, select the **Delete** icon from the right-hand corner of the content block.
+
+    ![Screenshot of the edit conetnt block featured content with the featured content updated in the block.](../_embeds/block10.png)
+
+4. Select the "Save" button to save your Featured Content selections.
+
+    ![Screenshot of the edit content block featured content page with the save button highlighted.](../_embeds/block11.png)
 
 ## Edit the default landing page
 
@@ -61,18 +139,26 @@ Sections are the primary regions for your theme.
 
 2. Select the "One Column" button in the right-hand **Choose a layout for this section** sidebar.
 
-    !!! tip
-        The one column layout is configured by default in layout builder for landing pages. To add additional options, navigate to `/admin/config/content/layout-builder-restrictions` and uncheck the box for the **Entity View Mode** option, then select the "Save configuration" button.  
-
     ![Screenshot of the choose a layout for this section menu with the one column button highlighted.](../_embeds/landing6.png)
 
-3. Use the *Administrative label* field to add a label for your section, then select "Update".
+3. Optionally, you can use the *Administrative label* field to add a label for your section, then select "Update". If you choose not to add a label for your section, it will be automatically labelled in the order it appears on the page. Labelling your section can be useful for reference and organization, especially if your sections need to appear in a particular order.
 
     ![Screenshot of the edit administrative label sidebar with the administrative label field and update button highlighted.](../_embeds/landing5.png)
 
 4. You can select "Save" now to save your section, or you can add blocks. For more information about adding blocks, refer to the [Add a block](#add-a-block) section of this article.
 
     ![Screenshot of the landing page edit layout form with the save button highlighted.](../_embeds/landing7.png)
+
+After sections are created they can be rearranged by dragging them to appear in any order on the page.
+
+#### Delete a section
+
+Delete sections by selecting the "Delete" icon. 
+
+!!! warning
+    Deleting a section will delete all the blocks within the section.
+
+![Screenshot of the landing page edit layout form with the delete icon button highlighted.](../_embeds/landing4.png)
 
 ### Configure blocks
 
@@ -154,7 +240,7 @@ You can rearrange the blocks on your landing page by selecting a block and dragg
 
 ## Add a new landing page
 
-You can add a new default landing page to your Mukurtu site. To add a landing page from the **Admin menu**, navigate to the **Create** section and select the **Landing Page** link.
+Most sites will use the provided landing page, but if your landing page has been deleted or you prefer a more personalized landing page, you can add a new default landing page to your Mukurtu site. To add a landing page from the **Admin menu**, navigate to the **Create** section and select the **Landing Page** link.
 
 ![Screenshot of the Create menu with the landing page link highlighted.](../_embeds/landing18.png)
 
@@ -184,8 +270,3 @@ You can add a new default landing page to your Mukurtu site. To add a landing pa
 9. Select the "Save configuration" button to apply your changes.
 
     ![Screenshot of the basic site settings page with the save configuration button highlighted.](../_embeds/landing24.png)
-
-
-
-
-
