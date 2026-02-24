@@ -9,7 +9,7 @@ tags:
 !!! roles "User roles"
 	Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
-You can use the Mukurtu Media Library to create, edit, and delete media assets. For detailed instructions on how to create media assets, refer to the [Upload Media Assets](ByTypeMediaUpload) articles. 
+You can use the Mukurtu Media Library to create, edit, and delete media assets. For detailed instructions on how to create media assets, refer to the [Create Media Assets](CreateMediaAssets) articles. 
 
 You can access the media library from your Dashboard or from the Media link in the left-hand sidebar. 
 

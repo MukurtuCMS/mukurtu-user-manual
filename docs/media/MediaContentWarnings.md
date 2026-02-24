@@ -115,7 +115,7 @@ Create a person record according to the instructions here [Create a Person Recor
 
 Follow these steps to apply a media content warning to a media asset.
 
-1. Navigate to your media asset. You can also apply a media content warning when you create a new media asset. For instructions on how to create a new media asset, visit the [Media Upload Instructions by Media Type](ByTypeMediaUpload.md) article.
+1. Navigate to your media asset. You can also apply a media content warning when you create a new media asset. For instructions on how to create a new media asset, visit the [Create Media Assets](CreateMediaAssets.md) article.
 
     - From your dashboard, navigate to the **Media** section and select the **Manage Media** link. 
         - Under the **Operations** heading, select the "Edit" button from the dropdown button menu.
@@ -124,7 +124,7 @@ Follow these steps to apply a media content warning to a media asset.
 
         ![Screenshot of a media asset showing the location of the edit button](../_embeds/mediawarnings5.png)
 
-    - From a new media asset, follow the steps outlined in the [Upload Media Assets](../media/ByTypeMediaUpload) articles to apply media tags.
+    - From a new media asset, follow the steps outlined in the [Create Media Assets](CreateMediaAssets.md) articles to apply media tags.
 
 2. To enter a taxonomy triggered media content warning, navigate to the **Media Tags** section of your media asset. As you type, existing media tags will be displayed. Select an existing media tag or enter a new term. To include additional media tags, select "Add another item".
 3. To enter a deceased person content warning, navigate to the *People* field in your media asset. As you type, names of existing people will be displayed. Select an existing person or enter a new name. To include additional people, select "Add another item".
