@@ -17,7 +17,7 @@ Basic HTML can be configured by selecting **Basic HTML** from the dropdown menu 
 
 Full HTML can be configured by selecting **Full HTML** from the dropdown menu and inputting your text and media. 
 
-![Screenshot of the cultural narrative field with the full html dropdown highlighted and code entered into the text field.](../_embeds/textformat1.png)
+![Screenshot of the cultural narrative field with the full html dropdown highlighted and code entered into the text field.](../_embeds/textformat2.png)
 
 Some of the uses for formatted text fields are in Digital heritage items or Person records. Digital heritage items can contain multiple media assets as metadata in the cultural narrative, traditional knowledge, and description fields. Using embedded video or audio files as descriptive metadata can provide unique cultural context and information for the digital heritage item. In Person records, embedded video can provide a unique biographical sketch of the person. 
 
