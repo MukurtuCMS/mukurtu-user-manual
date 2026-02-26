@@ -208,6 +208,7 @@ nav:
   - Site Settings:
     - site-settings/ConfigureBasicSettings.md
     - site-settings/ConfigureCitationTemplates.md
+    - site-settings/UnderstandingTextFormats.md
   - Taxonomies:
     - taxonomies/UnderstandingTaxonomies.md
     - taxonomies/ManagingTaxonomies.md
