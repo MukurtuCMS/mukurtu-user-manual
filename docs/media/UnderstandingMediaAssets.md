@@ -21,16 +21,11 @@ Mukurtu supports several different types of media assets. These include:
 
 You can apply media assets to content and taxonomic records, such as digital heritage items, dictionary words, person records, and other facets of Mukurtu. Most items do not have a limit on the number of associated media assets. 
 
-Digital heritage items generally feature at least one media asset, and can contain multiple media assets as metadata in the cultural narrative, traditional knowledge, and description fields. One use case for videos is as descriptive metadata in these fields, where they can provide unique cultural context and information for the digital heritage item. 
+Digital heritage items generally feature at least one media asset, though they are not required. Media assets help provide a more tangible connection to the digital heritage item's metadata, and can aid in facilitating discovery and interest. When multiple media assets are included in a digital heritage item, they are displayed in a media carousel for ease of navigation. Media assets can also be included in full HTML fields, such as the Cultural Narrative field, as descriptive metadata.
 
-![Screenshot of an embedded video in the cultural narrative field.](../_embeds/description1.png)
+![Screenshot of the media asset and carousel for several ](../_embeds/carousel1.png)
 
-Digital heritage items also allow multi-page items, which can compile multiple media assets into one digital heritage item. One common use for the multi-page items feature is to showcase a yearbook or newspaper. 
-
-![Screenshot of the carousel and media asset for a cookbook the Forme of Cury](../_embeds/carousel1.png)
-
-Dictionary words can use multiple audio files to provide users more comprehensive pronounciation examples. In some cases, audio files are used to provide an example of the way a word or phrase is pronounced according to the age, gender, or region of the speaker. You can also apply an image thumbnail to dictionary words. 
+Dictionary words can use multiple audio files to provide users more comprehensive pronounciation examples.  In addition to audio in the main recording and sample sentences fields, dictionary words have an additional media field where supplementary images, video, or other resources can be included. Person records include the same kind of multi-media as DH items to provide photos and recordings of the featured person.
 
 ![Screenshot of a dictionary word with a recording](../_embeds/dictionary1.png)
 
-Mukurtu CMS is designed to be used as part of a broader access and preservation ecosystem. In general, Mukurtu's platform makes it easy for communities and organizations to provide access to digital materials, but the platform is not intended for preservation. 
