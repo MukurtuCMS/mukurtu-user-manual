@@ -11,17 +11,17 @@ tags:
 
 Mukurtu supports the following media types:
 
-- Audio files
-- Document files
-- Embedded code, such as iframe embeds
-- Image files
-- SoundCloud embeds
-- Video files
-- YouTube and Vimeo embeds
+- [Audio files](../../media/ByTypeMediaUpload/Audio)
+- [Document files](../../media/ByTypeMediaUpload/Document)
+- [Embedded code, such as iframe embeds](../../media/ByTypeMediaUpload/ExternalEmbed)
+- [Image files](../../media/ByTypeMediaUpload/Image)
+- [SoundCloud embeds](../../media/ByTypeMediaUpload/SoundCloud)
+- [Video files](../../media/ByTypeMediaUpload/Video)
+- [YouTube and Vimeo embeds](../../media/ByTypeMediaUpload/RemoteVideo)
 
 The workflow for creating media assets varies somewhat for different media types, but is generally consistent.
 
-This article provides a basic overview of how to create media assets, including format-specific notes. For detailed instructions on creating each type of media asset, see [Media Upload Instructions by Media Type](ByTypeMediaUpload.md).
+This article provides a basic overview of how to create media assets, including format-specific notes. For detailed instructions on creating each type of media asset, refer to the individual articles linked above.
 
 ## Overview 
 
@@ -45,7 +45,7 @@ To add media:
 	Depending on your browser, the text of the button may vary.
 
 - To insert remote video, SoundCloud, or external embeds, copy and paste the URL or embed code.
-- Media asset metadata for the different media types is briefly described below. For a more detailed overview, refer to the [Media Asset Metadata](MediaAssetMetadata.md) or the [Upload Media Assets](ByTypeMediaUpload) support documents.
+- Media asset metadata for the different media types is briefly described below. For a more detailed overview, refer to the [Media Asset Metadata](MediaAssetMetadata.md) or the individual Upload Media Asset support documents.
 - Once your media assets are part of your media library, they can easily be added to your content.
 
 	![Screenshot of media library.](../_embeds/Media-Mukurtu.png)
