@@ -190,6 +190,7 @@ nav:
     - roundtrip/ImportingNewMedia.md
     - roundtrip/ImportingContent.md
     - roundtrip/ImportFormatInformation.md
+    - roundtrip/ManagingImportCOnfigurations.md
     - roundtrip/ExportingContent.md
     - roundtrip/ExportSettings.md
   - Users:
