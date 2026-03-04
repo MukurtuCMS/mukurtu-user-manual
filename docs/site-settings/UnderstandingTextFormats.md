@@ -4,21 +4,21 @@ tags:
     - metadata
 ---
 
-# Understanding Formatted Text Fields
+# Understanding Rich Text Fields
 
 !!! Roles "User roles" 
     Drupal administrator, Mukurtu manager
 
-Formatted text fields are powered by [CKEditor 5](https://ckeditor.com/docs/ckeditor5/latest/features/index.html) and are found in all content types as fields including Description, Cultural Narrative, Biography, and Definition, as well as in taxonomy term descriptions and various other places on the site. They can be formatted as either basic or full HTML, though full HTML access is limited Drupal administrators and Mukurtu Managers for security reasons. 
+Rich text fields are found in all content types (mostly in the description, cultural narrative, traditional knowledge, transcription, and text section fields), taxonomy term descriptions, basic pages, and elsewhere. Common examples include embedding a supplementary video in the cultural narrative field, or using text styling within a long transcription to make it easier to read.
 
-Basic HTML can be configured by selecting **Basic HTML** from the dropdown menu and using the formatting and media icons to configure your text and media. 
+The default format is basic HTML which allows a wide range of styles, formatting, and media embedding.
 
 ![Screenshot of the cultural narrative field with the basic text format icons highlighted.](../_embeds/textformat1.png)
 
-Full HTML can be configured by selecting **Full HTML** from the dropdown menu and inputting your text and media. 
+Drupal administrators and Mukurtu managers also have access to full HTML formatting, which can be enabled by selecting **Full HTML** from the **Text format** dropdown menu below the field. Full HTML exposes additional HTML tags which are not included in the basic HTML format for safety reasons (mostly limiting the access to embedded code).
 
 ![Screenshot of the cultural narrative field with the full html dropdown highlighted and code entered into the text field.](../_embeds/textformat2.png)
 
-Some of the uses for formatted text fields are in Digital heritage items or Person records. Digital heritage items can contain multiple media assets as metadata in the cultural narrative, traditional knowledge, and description fields. Using embedded video or audio files as descriptive metadata can provide unique cultural context and information for the digital heritage item. In Person records, embedded video can provide a unique biographical sketch of the person. 
+The full list of text formats, allowed tags, and examples can be found on your site at `/filter/tips`, or by selecting the **About text formats** link at the bottom right of a rich text field.
 
-More information and instructions on how to use the CKEditor 5 WYSIWYG editor features, refer to the [CKEditor 5 Documentation](https://ckeditor.com/docs/ckeditor5/latest/features/index.html#ckeditor-5-wysiwyg-editor-features-and-functions). This includes information about formatting features, advanced content editing, and other features.
+Mukurtu uses the [CKEditor 5 module](https://www.drupal.org/docs/core-modules-and-themes/core-modules/ckeditor-5-module) for rich text fields. While CKEditor can support additional tools, that would be considered custom development. See [CKEditor 5 Documentation](https://ckeditor.com/docs/ckeditor5/latest/features/index.html#ckeditor-5-wysiwyg-editor-features-and-functions) for more information.
