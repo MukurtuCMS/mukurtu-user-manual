@@ -5,7 +5,7 @@ Once you have your Mukurtu CMS site installed (whether hosting locally or throug
 
 ## Administrator Accounts  
 
-First, when a site is built, a default administrator account is created. This account exposes the default Drupal 11 administrator interface, and while it is important to have access for maintenance and troubleshooting, it is not suggested for daily use. We strongly recommend creating a separate Mukurtu manager account to use when building and using your Mukurtu site.
+When a site is built a default administrator account is created. This account exposes the default Drupal 11 administrator interface, and while it is important to have access for maintenance and troubleshooting, it is not suggested for daily use. We strongly recommend creating a separate Mukurtu manager account to use when building and using your Mukurtu site.
 
 ## Users
 There are many different roles and responsibilities available to users for appropriately accessing and managing your content.
@@ -42,7 +42,7 @@ These three structural elements are required to create digital heritage items. Y
 - [Create Categories](../3Cs/CreateCategories.md)
 
 ## Digital Heritage Items and Media
-The majority of the content in a Mukurtu CMS site is digital heritage items. DH items generally include at least one media asset (see below), and supporting metadata. Media assets are uploaded independently of DH items, and can be included in multiple DH items, or used in other areas of the site.
+The majority of the content in a Mukurtu CMS site is digital heritage items. DH items generally include at least one media asset (see below) and supporting metadata. Media assets are uploaded independently of DH items, and can be included in multiple DH items or used in other areas of the site.
 
 - [Understanding Digital Heritage Items](../digital-heritage-items/UnderstandingDigitalHeritage.md)
 
