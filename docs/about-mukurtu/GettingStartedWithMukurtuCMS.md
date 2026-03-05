@@ -39,7 +39,7 @@ These three structural elements are required to create digital heritage items. Y
 
 - [Create a Cultural protocol](../3Cs/CreateACulturalProtocol.md)
 
-- [Create Categories](../3Cs/createcategories.md)
+- [Create Categories](../3Cs/CreateCategories.md)
 
 ## Digital Heritage Items and Media
 The majority of the content in a Mukurtu CMS site is digital heritage items. DH items generally include at least one media asset (see below), and supporting metadata. Media assets are uploaded independently of DH items, and can be included in multiple DH items, or used in other areas of the site.
