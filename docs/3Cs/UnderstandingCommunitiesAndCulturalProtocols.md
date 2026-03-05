@@ -11,11 +11,11 @@ Communities are groups of people contributing to a Mukurtu site and represent th
 
 They can be large or small, and reflect real life groups such as tribal nations, repositories, families, classes, governing bodies, professional organizations, etc. They can also be further divided into sub-communities. 
 
-A Mukurtu site can have as many communities as needed, and users can be members of multiple communities. Each site will define its' own communities. A site may have one community, or hundreds, and there is no limit to how many users can be added to a community, or how many communities a user can join.
+A Mukurtu site can have as many communities as needed, and users can be members of multiple communities. Each site will define its own communities. A site may have one community or hundreds, and there is no limit to how many users can be added to a community or how many communities a user can join.
 
 ## How are communities managed?
 
-Communities are managed by community managers. The community manager can add and remove members, and create new protocols. For more information on user roles, see [User role Types](../users/user-role-types.md)
+Communities are managed by community managers. The community manager can add and remove members and create new protocols. For more information on user roles, see [User Roles](../users/user-role-types.md).
 
 ### Community Types
 
@@ -23,7 +23,7 @@ On any given site, there may be different types of communities. The community ty
 
 - libraries and museums
 - families
-- tribes etc. 
+- tribes, etc. 
 
 ## What are cultural protocols?
 
@@ -46,13 +46,13 @@ Each cultural protocol belongs to a community. Some cultural protocols may have 
 
 ### Cultural Protocol Types
 
-There are two types of cultural protocols: open and strict, and they are determined in the "Cultural Protocol Types" setting of a cultural protocol.
+There are two types of cultural protocols: open and strict, and they are determined in the **Cultural Protocol Types** setting of a cultural protocol.
 
 - Open: Items under open protocols are accessible to all visitors, including those without user accounts.
 
 - Strict: Items under strict protocols will only be visible to logged in protocol members. The protocol page will not be visible to the public.
 
-One caveat to this rule is the use of multiple protocols: if two or more protocols are assigned to a piece of content, users may have to be members of all assigned protocols to access the content. This setting is specified individually, for each piece of content. To learn more about managing content with multiple protocols, see [Understanding Sharing Settings](UnderstandingSharingSettings.md).
+One caveat to this rule is the use of multiple protocols: if two or more protocols are assigned to a piece of content, users may have to be members of all assigned protocols to access the content. This setting is specified individually for each piece of content. To learn more about managing content with multiple protocols, see [Understanding Sharing Settings](UnderstandingSharingSettings.md).
 
 ### Protocol User Roles
 
@@ -67,7 +67,7 @@ Protocols allow for members to take an active role in managing the content withi
 - Language stewards can add, edit and delete ALL dictonary words and word lists and add media assets.
 - Protocol stewards manage protocol membership, can add edit and delete all content and media assets, manages the look and feel of the protocol and Local Contexts labels and notices.
 
-To read more about user roles and responsibilities, visit [User Roles Types](../users/user-role-types.md) 
+To read more about user roles and responsibilities, visit [User Roles](../users/user-role-types.md) 
 
 For instructions on how to set up a community and initial protocol, see [Create a community and initial cultural protocol](./CreateACommunityAndInitialCulturalProtocol.md).
 
