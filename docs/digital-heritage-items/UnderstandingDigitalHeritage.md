@@ -12,6 +12,6 @@ Digital heritage items are the main content type for Mukurtu sites. They combine
 
 Digital heritage items are created within communities and grouped together by categories. Appropriate user access to items is provided by cultural protocols. For more information about creating digital heritage items, please refer to [Create a Digital Heritage Item](CreateDHItem.md).
 
-[![EXAMPLE DH ITEM SCREENSHOT SHOULD BE FROM A REAL SITE](../_embeds/placeholderscreenshot.png)](https://example.mukurtusite.org)
+[![Screenshot of the Wolf Amulet digital heritage item from the Huna Heritage site.](../_embeds/Wolf-Amulet-Huna-Heritage-Foundation-Digital-Archives.png)](https://huna4.libraries.wsu.edu/wolf-amulet)
 
 Mukurtu includes an extensive set of descriptive, administrative, and technical metadata fields to represent digital heritage items. Some fields are more generic, such as Title, Description, or Format. Other fields such as Cultural Narrative, Traditional Knowledge, an interactive mapping field, and our new Citing Indigenous Elders and Knowledge Keepers field enable communities to provide richer, more detailed metadata and a fuller representation of an item's provenance. For more information on digital heritage metadata fields, refer to [Digital Heritage Metadata Fields](DHMetadataFields.md).
