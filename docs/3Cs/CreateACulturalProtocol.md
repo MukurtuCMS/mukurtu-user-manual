@@ -47,7 +47,7 @@ It's possible that related families, villages, clans, or other communities might
 
 6. If you are using Local Contexts labels for content within this protocol, you may add an optional description for Local Contexts projects. This will be displayed in the protocol's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md)
 
-7. Select the *membership display setting* Choose from one of: 
+7. Select the *membership display setting*. Choose from one of: 
 
     - **Do not display** does not display any protocol members on the protocol page.
     - **Display protocol stewards** displays protocol stewards and not protocol stewards on the community page.
@@ -85,11 +85,11 @@ It's possible that related families, villages, clans, or other communities might
     ![A list of available communities](../_embeds/create-protocol-16.png)
     ![The manage community page with Add Cultural Protocol highlighted in red](../_embeds/create-protocol-17.png)
 
-2. Add a *protocol name*, select a *protocol type* and add a *description* to your protocol. 
+2. Add a *protocol name*, select a *protocol type*, and add a *description* to your protocol. 
 
     ![Screen shot of the create protocol form. At the top is the protocol name field with text box, the sharing settings field with radio buttons next to two options labled strict and open, and the description field with large text box.](../_embeds/create-protocol-14.png)
 
-3. Select the *membership display setting* Choose from one of: 
+3. Select the *membership display setting*. Choose from one of: 
 
     - **Do not display any protocol members** does not display any protocol members on the protocol page.
     - **Only display cultural protocol stewards** displays protocol stewards and not protocol stewards on the community page.

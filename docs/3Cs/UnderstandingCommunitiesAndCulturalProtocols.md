@@ -71,6 +71,5 @@ To read more about user roles and responsibilities, visit [User Roles](../users/
 
 For instructions on how to set up a community and initial protocol, see [Create a community and initial cultural protocol](./CreateACommunityAndInitialCulturalProtocol.md).
 
-For instructions on adding a protocol to an existing community, see 
-[Create a cultural protocol](CreateACulturalProtocol.md). 
+For instructions on adding a protocol to an existing community, see [Create a cultural protocol](CreateACulturalProtocol.md). 
 

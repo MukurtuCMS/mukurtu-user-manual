@@ -34,7 +34,7 @@ In Mukurtu 4, creating a new community will automatically prompt you to create a
 
     ![The membership display field](../_embeds/create-community-04.png)
 
-    At this point, you have the option to add community members and assign user roles. If you are currently unsure about role assignments, or you have not yet created the necessary user accounts, you can skip this step and manage membership later. By default, the user that creates the community will be added to the community and assigned to the community manager role. The instructions for adding members and assigning roles are the same:
+    At this point, you have the option to add community members and assign user roles. If you are currently unsure about role assignments, or you have not yet created the necessary user accounts, you can skip this step and manage membership later. By default, the user that creates the community will be added to the community and assigned to the community manager role. The instructions for adding members and assigning roles are the same.
 
     !!! tip
         Only registered users of the site will be able to be added to a community.
@@ -45,7 +45,7 @@ In Mukurtu 4, creating a new community will automatically prompt you to create a
     
     - Community members can view the community page and be added to protocols within the community.
 
-    - Community affiliats can also view the community page and be added to protocols within the community. This is a designation for community partners. 
+    - Community affiliates can also view the community page and be added to protocols within the community. This is a designation for community partners. 
     
 5. Add users by selecting "Select Members" under the appropriate role. A window will open where you will make your selections.
 
@@ -123,7 +123,7 @@ Once you have created a community, you will be directed to create a cultural pro
 
  ![A sreenshot of the top of the protocol form, with two buttons with a red box around them. One button says save and create another protocol. The other button says save.](../_embeds/create-community-12.png)
 
-This is the manage community page with the confirmation message displayed. From this page you can edit your community, manage membership, manage the look and feel of the page, add cultural protocols and manage Local Contexts labels and notices.
+This is the manage community page with the confirmation message displayed. From this page you can edit your community, manage membership, manage the look and feel of the page, add cultural protocols, and manage Local Contexts labels and notices.
  ![A screenshot of the community manage page with a confirmation message](../_embeds/create-community-13.png)
 
 This is the community page. It will be visible to community members. If it is a public page, it will be visible to all site visitors. 
