@@ -135,7 +135,7 @@ nav:
     - multilingual/TranslateContent.md    
     - multilingual/ConfigureSiteLanguage.md 
     - multilingual/UserLanguage.md
-  - Location Data:
+  - Location and Mapping:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
   - Look and Feel:

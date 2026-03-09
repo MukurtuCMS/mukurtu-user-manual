@@ -5,7 +5,7 @@ tags:
 
 # Understanding Sharing Settings
 
-For content with multiple protocols assigned, sharing settings help to determine a content item's level of access. You will see this setting on all content types (digital heritage, dictionary word, person record and collection) and media assets. The setting is a choice between *all* or *any*. 
+For content with multiple protocols assigned, sharing settings help to determine a content item's level of access. You will see this setting on all content types (digital heritage items, dictionary words, person records, collections, and word lists) and media assets. The setting is a choice between *all* or *any*. 
 
 **All**: An item with multiple protocols may only be viewed by members of ALL assigned protocols. 
 
@@ -20,7 +20,7 @@ Using the *All* setting means the item would only be available to users who are 
 
 ## Using sharing settings
 
-1. Within a content form (digital heritage, dictionary, person record and collections) or media asset, select the protocols you would like to apply.
+1. Within a content form (digital heritage items, dictionary words, person records, collections, and word lists) or media asset, select the protocols you would like to apply.
 
     ![A digital heritage item form displaying the protocol field. Two strict protocols are selected.](../_embeds/sharing-setting-01.png)
 
@@ -36,7 +36,7 @@ In the Singers and Dancers community, there are two strict protocols: Singers On
 
 The community has two members: Singer 1 and Dancer 1. Singer 1 has been added to the Singers Only protocol. Dancer 1 has been added to the Dancers Only protocol. 
 
-A digital heritage item has been uploaded under both protocols, and uses the sharing setting, *Any*. 
+A digital heritage item has been uploaded under both protocols, and uses the *Any* sharing setting. 
 
 ![Screenshot of the cultural protocol settings with two strict protocols selected. Setting is set to any](../_embeds/sharing-setting-02.png)
 
@@ -61,7 +61,7 @@ Direct link to the digital heritage item:
 
 Now let's say we've added Singer 1 to the Dancers Only protocol. They now belong to both protocols.
 
-Logged in as Singer 1, with our sharing setting for this item still set to "all," we can now see the item. Note that both protocols are now linked because Singer 1 belongs to both. In this scenario, Dancer 1 would still be unable to view the item because they do not belong to both protocols.
+Logged in as Singer 1, with our sharing setting for this item still set to *All*, we can now see the item. Note that both protocols are now linked because Singer 1 belongs to both. In this scenario, Dancer 1 would still be unable to view the item because they do not belong to both protocols.
 
 ![The digital heritage item now visible. Both Singers Only and Dancers Only protocols are now linked.](../_embeds/sharing-setting-07.png)
 
