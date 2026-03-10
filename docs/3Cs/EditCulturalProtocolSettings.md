@@ -6,7 +6,7 @@ tags:
 
 # Edit Cultural Protocol Settings
 
-!!! roles "User roles"
+!!! roles "User role"
     
     Protocol steward
 
@@ -30,9 +30,9 @@ Open - Content that uses this cultural protocol is visible to all site members a
 
 Each protocol is managed by at least one parent community. Protocols can also be managed jointly by multiple communities. If this is the case, additional parent communities can be assigned here. All parent communities will be displayed on the protocol page.
  
-1. To add a parent community, select "Select Communities." 
+1. To add a parent community, select "Select Communities". 
 
-2. Check the box next to each community you would like to add. Select "Add Communities"
+2. Check the box next to each community you would like to add. Select "Add Communities".
 
 ![Screenshot of community selection modal. Three communities are listed, two are selected. The add communities button is located in the bottom-left corner.](../_embeds/create-protocol-05.png)
 
@@ -49,15 +49,15 @@ Add or edit the protocol description. Descriptions display on the protocol page 
 
 ## Local Contexts Description
 
-Local Contexts provides labels and notices that are applied to content. These are a combination of graphics and text that communicate standards for respectful interaction with heritage collections and data as dictated by Indigenous communities. If you are using Local Contexts labels for content within this protocol, you may add or update a description for Local Contexts projects. This will be displayed in the protocol's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md)
+Local Contexts provides labels and notices that are applied to content. These are a combination of graphics and text that communicate standards for respectful interaction with heritage collections and data as dictated by Indigenous communities. If you are using Local Contexts labels for content within this protocol, you may add or update a description for Local Contexts projects. This will be displayed in the protocol's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md).
 
 ## Membership display
 
 Use this setting to determine how members are displayed on a cultural protocol page:
 
-- Do not display: does not display protocol members.
+- Do not display: does not display protocol members
 - Display protocol stewards: displays only users assigned to the protocol steward role
-- Display all members: displays all protocol members regardless of role.
+- Display all members: displays all protocol members regardless of role
 
 ## Banner image
 
@@ -69,19 +69,21 @@ Banners generally maintain a 3:1 ratio which may change depending on screen size
 2. Browse for an image file on your computer or select an existing image.
 3. Add alt text and protocols to your image. Make sure you choose protocols that enable visibility to your target audience.
 4. Populate optional fields as needed. See [Media Asset Metadata](../media/MediaAssetMetadata.md) to learn more about these fields.
-5. Save your changes, then select "Insert Selected."
+5. Save your changes, then select "Insert Selected".
 
 ## Featured content
 
 Featured content gives users a preview of selected content. It displays the title and thumbnail of the content on the protocol page. 
 
-1. Expand featured content field and select "Select Content."
+1. Expand featured content field and select "Select Content".
 2. Use the dropdown menu to narrow your search by content type, and the search field to search for specific content.
 3. All available content is displayed below the search bar. Check the box next to each piece of content you wish to feature.
-4. Select "Add Content."
+4. Select "Add Content".
+
     ![Screenshot of featured content modal with checkboxes next to selected items and add content button highlighted in red.](../_embeds/edit-protocol-05.png)
 
 5. Remove featured content by selecting the grey trash can icon on the top right corner of each piece of content.
+
     ![Featured content field with a sample content item and trash can icon highlighted in red](../_embeds/edit-protocol-04.png)
 
 ## Save
