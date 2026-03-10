@@ -22,10 +22,10 @@ Word lists are collections of dictionary words. They can be grouped in any way. 
 
 Dictionary words and word lists are managed within protocols. There are two user roles within a protocol that are dedicated to creating and managing dictionary words: the language steward and language contributor. For more information on these roles, refer to [Dictionary Roles](DictionaryRoles.md).
 
-To configure the dictionary, refer to [Configuring the dictionary](ConfigureTheDictionary.md).
+To configure the dictionary, refer to [Configure the dictionary](ConfigureTheDictionary.md).
 
-To create a dictionary word, refer to [Create dictionary words and word entries](CreateDictionaryWord.md).
+To create a dictionary word, refer to [Create a dictionary word](CreateDictionaryWord.md).
 
-To create a word list, refer to [Create word list](WordList.md).
+To create a word list, refer to [Create a word list](WordLists.md).
 
 For a list of dictionary word metadata, refer to [Dictionary Word Metadata](DictionaryWordMetadata.md).
