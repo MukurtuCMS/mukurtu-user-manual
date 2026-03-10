@@ -5,16 +5,16 @@ tags:
 ---
 # Configure the Dictionary
 
-!!! roles "User Roles"
+!!! roles "User Role"
     Mukurtu manager
 
-While the dictionary works with its' default configurations, its' settings can be customized to improve user experience and accuracy in front-end display. This article covers adding a language (required), customizing the glossary order, and configuring the dictionary's default language.
+While the dictionary works with its default configurations, its settings can be customized to improve user experience and accuracy in front-end display. This article covers adding a language (required), customizing the glossary order, and configuring the dictionary's default language.
 
 ## Add a language
 
 All dictionary words must be associated with one language, and that language must be listed in the language taxonomy list. Languages can be added to the language list in two ways:
 
-- When a digital heritage item is created, if the language field has been used, those languages will be included in the languages list. See [Creating a Digital Heritage Item](../digital-heritage-items/CreateDHItem.md) for more information.
+- When a digital heritage item is created, if the language field has been used, those languages will be included in the languages list. See [Create a Digital Heritage Item](../digital-heritage-items/CreateDHItem.md) for more information.
 - Manually adding a language to the list.
 
 To add a language to the list, first navigate to the language taxonomy page. 
@@ -23,25 +23,23 @@ To add a language to the list, first navigate to the language taxonomy page.
 
 ![The dashboard with "Manage Taxonomies" highlighted](../_embeds/language-add-01.png)
 
-2. Scroll down to the language taxonomy, and select "List terms."
+2. Scroll down to the language taxonomy, and select "List terms".
 
 ![The taxonomy page listing all taxonomies. The language taxonomy and its corresponding List terms button are highlighted.](../_embeds/language-add-01.1.png)
 
-Or go directly to `/admin/structure/taxonomy/manage/language/overview`
+Or go directly to `/admin/structure/taxonomy/manage/language/overview`.
 
 If the language you want to use is already listed, no further action is needed.
-
 If the language is not already listed, select "Add Term".
 
 ![Screenshot of the language list with the add term button indicated.](../_embeds/language-add-02.png)
 
 In the *Name* field enter the language name as you want it to appear on the site.
-
-The *Description* field is optional, and can include information about the language i.e. history, regions where the language is spoken, related languages and dialects, etc. This will be displayed in the language's term page
+The *Description* field is optional, and can include information about the language, i.e., its history, regions where the language is spoken, related languages and dialects, etc. This will be displayed in the language's term page.
 
 When ready:
 
-- If you need to add more languages, select "Save" and the page will reload so you can continue to add more terms, or;
+- If you need to add more languages, select "Save" and the page will reload so you can continue to add more terms.
 - If you do not need to add more languages, click "Save and go to list" from the more actions menu (indicated by the three dots next to the "Save" button) to return to the language list.
 
 ![Screenshot of the add language form with the name field and save buttons indicated.](../_embeds/language-add-03.png)
@@ -61,7 +59,7 @@ From the dashboard, select **Dictionary glossary order**
 
 ![The dashboard with dictionary glossary order link indicated](../_embeds/language-add-06.png)
 
-You will see a list of glossary entries. Glossary entries indicate the first character of a dictionary word and are either autopopulated based on the first chracter of the word, or customized in the glossary entry field in the dictionary word form. You will only see glossary entries for existing dictionary words. 
+You will see a list of glossary entries. Glossary entries indicate the first character of a dictionary word and are either autopopulated based on the first chracter of the word or customized in the glossary entry field in the dictionary word form. You will only see glossary entries for existing dictionary words. 
 
 !!! Tip
     For more on the glossary entry field, see [Create a Dictionary Word](../dictionary/CreateDictionaryWord.md#glossary-entry)
@@ -97,7 +95,7 @@ From the dashboard, scroll down to Content Settings. Select **Dictionary languag
 
 ![The dashboard with dictionary language settings indicated.](../_embeds/language-add-11.png)
 
-Check the box next to the language(s) you would like to use in the dictionary. Select "save configuration." A success message will display.
+Check the box next to the language(s) you would like to use in the dictionary. Select "save configuration". A success message will display.
 
 ![A list of language taxonomy terms with checkboxes to the left of each language. One language is checked.](../_embeds/language-add-12.png)
 
