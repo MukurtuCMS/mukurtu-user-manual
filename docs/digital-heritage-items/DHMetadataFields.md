@@ -84,7 +84,7 @@ Formatted text.
 
 ### Traditional knowledge
 
-Traditional knowledge includes in-­depth community-specific knowledge about the digital heritage item. It is often used to provide information of social, spiritual, or esoteric significance. For example, if the item is a basket, this field may contain community, tribe, or clan-specific knowledge about the significance of design that is not widely known or that is specific that that community.
+Traditional knowledge includes in-­depth community-specific knowledge about the digital heritage item. It is often used to provide information of social, spiritual, or esoteric significance. For example, if the item is a basket, this field may contain community, tribe, or clan-specific knowledge about the significance of design that is not widely known or that is specific to that community.
 
 Formatted text.
 
@@ -194,7 +194,7 @@ The value or the label of allowed values.
 
 ### Creative Commons Licenses
 
-Creative Commons licenses provide a standardized way for copyright holders to grant the public permission to use their creative work under copyright law, and to specify the ways in which their work may be altered, shared, and used. For more information, visit [creativecommons.org]("https://creativecommons.org/").
+Creative Commons licenses provide a standardized way for copyright holders to grant the public permission to use their creative work under copyright law, and to specify the ways in which their work may be altered, shared, and used. For more information, visit [creativecommons.org](https://creativecommons.org/).
 
 The value or the label of allowed values.
 

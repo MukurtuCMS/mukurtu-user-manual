@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles"
     Mukurtu manager, protocol steward, language steward, contributor, language contributor, curator, community record steward
 
-Once the Mukurtu Multilingual module is installed and a language is added (see [Configure Translation](ConfigureTranslation.md)), site content can be translated.
+Once the Mukurtu Multilingual module is installed and a language is added see [Enable Multilingual Module](../multilingual/EnableMultilingualModule.md), site content can be translated.
 
 If a user can create or edit a piece of content, they can also translate it - additional roles or permissions are not required. 
 

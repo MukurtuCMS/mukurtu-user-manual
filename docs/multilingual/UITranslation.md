@@ -8,7 +8,7 @@ tags:
 !!! roles "User role"
     Mukurtu manager
 
-Mukurtu 4 CMS allows users to translate their user interface. Depending on the language, some user interface strings may be translated by Drupal. To translate remaining user interface strings in your Mukurtu site, you must have translation configured and have added at least one language. For instructions on how to configure translation, refer to [Configure Translation](ConfigureTranslation.md#configure-translation). For instructions on adding a language to your site, refer to [Add Languages](ConfigureTranslation.md#add-a-language).
+Mukurtu 4 CMS allows users to translate their user interface. Depending on the language, some user interface strings may be translated by Drupal. To translate remaining user interface strings in your Mukurtu site, you must have translation configured and have added at least one language. For instructions on how to configure translation, refer to [Enable Multilingual Module](../multilingual/EnableMultilingualModule.md). For instructions on adding a language to your site, refer to [Add Languages](../multilingual/EnableMultilingualModule.md#add-languages).
 
 User interface translation allows a translator to search for specific translated and untranslated strings, and is used when creating or editing translations. Because translation tasks involve many strings, user interface allows translators to export strings as a .po file for offline editing in a desktop Gettext translation editor and then import the translated strings.
 

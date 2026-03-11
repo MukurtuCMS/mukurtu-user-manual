@@ -8,7 +8,7 @@ tags:
 !!! roles "User role"
     Mukurtu manager
 
-The Mukurtu Multilingual module enables the required Drupal multilingual modules (Configuration Translation `/admin/config/regional/config-translation`, Interface Translation `/admin/config/regional/translate`, and Content Translation`/admin/config/regional/content-language`), and configures recommended default settings for most multilingual work. If necessary, these settings can be modified after enabling the Mukurtu Multilingual module.Follow the instructions below to configure your site to display your site's elements and content in multiple languages. 
+The Mukurtu Multilingual module enables the required Drupal multilingual modules (Configuration Translation `/admin/config/regional/config-translation`, Interface Translation `/admin/config/regional/translate`, and Content Translation`/admin/config/regional/content-language`), and configures recommended default settings for most multilingual work. If necessary, these settings can be modified after enabling the Mukurtu Multilingual module. Follow the instructions below to configure your site to display your site's elements and content in multiple languages. 
 
 ## Enable module
 
@@ -41,7 +41,7 @@ To add another language for translation, follow the link in the warning message 
 
     ![Screenshot of the languages configuration page with the add language button highlighted](../_embeds/translation4.png)
 
-2. Select a language from the dropdown menu. If your language is not listed in the dropdown menu, refer to [Add a custom language code](#add-a-custom-language-code) section of this article for instructions on how to add your language.
+2. Select a language from the dropdown menu. If your language is not listed in the dropdown menu, refer to [Add a custom language code](../multilingual/EnableMultilingualModule.md#add-a-custom-language) section of this article for instructions on how to add your language.
 
     ![Screenshot of the Add language page with the dropdown menu set to French.](../_embeds/translation5.png)
 

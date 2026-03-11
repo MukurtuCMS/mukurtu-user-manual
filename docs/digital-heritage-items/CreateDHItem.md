@@ -26,13 +26,13 @@ Use the *Title* field to provide a title for your digital heritage item. The tit
 
 ### Cultural protocols
 
-Use the checkboxes to apply cultural protocols to your digital heritage item. 
+Use the toggles to apply cultural protocols to your digital heritage item. 
 
 - This is a required field.
 
 ### Sharing settings
 
-Use the checkboxes to select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
+Select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
 
 - Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
 - All is more restrictive as users must belong to all the selected protocols to view the digital heritage item. 
@@ -48,7 +48,7 @@ Categories are high-level descriptive terms that group digital heritage items to
 
 ### Media Assets
 
-Media assets are the core element of Digital Heritage Items and can be images, documents, video, embeds, or audio files. Digital heritage items can include more than one media asset. Media assets are not required for digital heritage items. For instructions on how to add a media asset, refer to the [Create Media Assets](/docs/media/CreateMediaAssets.md) article.
+Media assets are the core element of Digital Heritage Items and can be images, documents, video, embeds, or audio files. Digital heritage items can include more than one media asset. Media assets are not required for digital heritage items. For instructions on how to add a media asset, refer to the [Create Media Assets](../media/CreateMediaAssets.md) article.
 
 - You can add multiple media assets by selecting more than one media asset from the media modal. 
 - To reorder your media assets, select your media assets and drag them into the order you prefer.
@@ -65,7 +65,7 @@ Use the *Summary* field to provide a brief description of your digital heritage 
 Use the *Creator* field to enter the name of the creator of the digital heritage item.  Names can be in any format that is appropriate for the content, eg: `John Smith` or `Smith, John`. For more information on who should be included as a Creator, refer to the [Digital Heritage Item Metadata Fields](DHMetadataFields.md) article.
 
 - If more than one person should be listed as a creator, use the "Add another item" button to add additional creator text boxes. 
-- Select and drag the arrows to the left the creator text box to reorder your creators if necessary. 
+- Select and drag the arrows to the left of the creator text box to reorder your creators if necessary. 
 - To remove a creator, select the "Remove" button.
 
 ![Screenshot of the creator field with the arrow icon, remove, and add another buttons all highlighted.](../_embeds/dh4.png)
@@ -86,7 +86,7 @@ In the **Original Date** section enter the creation date of the media asset or i
 
 ### Date description
 
-Use the *Date Description* field when a strictly formatted date is not known appropriate. This can refer to the date the media asset was made, written, recorded, or filmed. 
+Use the *Date Description* field when a strictly formatted date is not known or appropriate. This can refer to the date the media asset was made, written, recorded, or filmed. 
 
 - Some examples of approximate timeframes or circa dates can include `Summer YYYY` or `circa 1800s`.
 - This field is limited to 255 characters.
@@ -233,7 +233,7 @@ Use the *Language* field to enter the language or languages used in the digital 
 
 ### Map points
 
-Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. For detailed instructions on how to include *Map Points*, visit [Create Map Points](../map-points).
+Mukurtu allows users to create and manage map points and areas using the embedded Leaflet maps. For detailed instructions on how to include *Map Points*, visit [Create Map Points](../location-data/CreateMapPoints.md)
 
 ![Screenshot of the map points field featuring a polygon](../_embeds/dh14.png)
 
