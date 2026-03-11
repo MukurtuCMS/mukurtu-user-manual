@@ -26,13 +26,13 @@ Select **Collection** to begin creating your collection. The remaining steps to 
 
 ![Screenshot of the title field filled out with the term "Memory Keeping Methodologies"](../_embeds/createcollections2.png)
 
-2. Use the checkboxes to apply cultural protocols to your digital heritage item. 
+2. Use the toggle to apply cultural protocols to your digital heritage item. 
 
     - This is a required field.
 
 ### Sharing settings
 
-3. Use the checkboxes to select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
+3. Select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
 
     - Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
     - All is more restrictive as users must belong to all the selected protocols to view the digital heritage item. 
@@ -58,7 +58,7 @@ Select **Collection** to begin creating your collection. The remaining steps to 
 
     ![Screenshot of the Select Content pop-up with the search and filter and Add Content button highlighted.](../_embeds/createcollections5.png)
 
-9. Use the **Sub-Collections** section to add any sub-collections by selecting the "Select Content" button. Sub-collections can provide more internal structure or organization and reflect may existing physical arrangement (eg: boxes, folders, subfolders), topical groupings, or any other arrangement that will help users navigate the collection. Sub-collections can be multiple levels deep.
+9. Use the **Sub-Collections** section to add any sub-collections by selecting the "Select Content" button. Sub-collections can provide more internal structure or organization and may reflect existing physical arrangement (eg: boxes, folders, subfolders), topical groupings, or any other arrangement that will help users navigate the collection. Sub-collections can be multiple levels deep.
 
     !!! requirement
         Sub-collections must have already been created to be added from this section.

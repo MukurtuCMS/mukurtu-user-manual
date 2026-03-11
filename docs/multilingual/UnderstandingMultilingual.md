@@ -4,5 +4,5 @@ The updated Mukurtu Multilingual module allows users to fully translate and loca
 
 Mukurtu CMS fully supports Unicode character encoding, so if you can access to a keyboard for your language, it should be accepted with no issue. If you have questions about language-specific keyboards, please contact <support@mukurtu.org> for resources and references to support this. Our default font is  [BC Sans](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/bc-visual-identity/bc-sans) as it has wide display coverage for many languages. 
 
-Please refer to our [Translation Workflow](TranslateionWorkflow.md) article for our recommended translation workflow, including links to the applicable articles.
+Please refer to our [Translation Workflow](TranslationWorkflow.md) article for our recommended translation workflow, including links to the applicable articles.
 

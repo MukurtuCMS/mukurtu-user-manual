@@ -8,7 +8,7 @@ tags:
 
 Mukurtu uses three different location fields to help describe, locate, and discover content based on location data and information.
 
-These three location fields are available for all content types (digital heritage items, collections, dictionary words, word lists, and person records), and are found in the additional fields tab when creating or editing content.
+These three location fields are available for all content types (digital heritage items, collections, dictionary words, word lists, person records and place records), and are found in the additional fields tab when creating or editing content.
 
 ## Map points
 
