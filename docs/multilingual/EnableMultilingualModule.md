@@ -25,13 +25,13 @@ The Mukurtu Multilingual module enables the required Drupal multilingual modules
 
     ![Screenshot of the message asking you to confirm whether you want to install all of the multilingual modules.](../_embeds/translation3.png)
 
-5. You will receive a status message confirming whether your modules have been installed. The warning message includes a link to add languages to your Mukurtu site. For instructions on adding languages to your Mukurtu site, refer to [Add Languages](#AddLanguage).
+5. You will receive a status message confirming whether your modules have been installed. The warning message includes a link to add languages to your Mukurtu site. Continue to the next section for instructions on adding a language to your site.
 
     ![Screenshot of the Extend menu with the status and warning messages displayed.](../_embeds/translation3a.png)
 
 ## Add Languages
 
-To add another language for translation, follow the link in the warning message you got when you configured your site languages or use the administrative menu to navigate to Configuration > Region and Languages > Language. You can also access this setting directly by going to `/admin/config/regional/language`. For more information on configuring translation, refer to [Configure Translation](ConfigureTranslation.md)
+To add a language for translation, follow the link in the warning message you got when you configured your site languages or use the administrative menu to navigate to Configuration > Region and Languages > Language. You can also access this setting directly by going to `/admin/config/regional/language`. 
 
 ![Screenshot of the Configuration menu with Region and Languages open and Language highlighted](../_embeds/translation7.png)
 
@@ -41,18 +41,18 @@ To add another language for translation, follow the link in the warning message 
 
     ![Screenshot of the languages configuration page with the add language button highlighted](../_embeds/translation4.png)
 
-2. Select a language from the dropdown menu. If your language is not listed in the dropdown menu, refer to [Add a custom language code](../multilingual/EnableMultilingualModule.md#add-a-custom-language) section of this article for instructions on how to add your language.
+2. Select a language from the dropdown menu. If your language is not listed in the dropdown menu, refer to the [Add a custom language code](../multilingual/EnableMultilingualModule.md#add-a-custom-language) section of this article for instructions on how to add your language.
 
     ![Screenshot of the Add language page with the dropdown menu set to French.](../_embeds/translation5.png)
 
 3. Select the "Add language" button to add the selected language to your site.
-4. You will receive a confirmation message your language has been added successfully.
+4. You will receive a confirmation message that your language has been added successfully.
 
     ![Screenshot of the status message confirming that a language has been added successfully.](../_embeds/translation6.png)
 
 ### Add a custom language
 
-1. If your language is not available, select the "Custom language" option to provide a language code and other details manually. For more information on translating site elements, refer to the [Configuration Translation](ConfigurationTranslation) and [User Interface Translation](UITranslation.md) articles.
+1. If your language is not available, select the "Custom language" option to provide a language code and other details manually. For more information on translating site elements, refer to the [Configuration Translation](../multilingual/ConfigurationTranslation.md) and [User Interface Translation](../multilingual/UITranslation.md) articles.
 
     - A listing of IANA language tags can be found at the [IANA Language Tags Registry](https://r12a.github.io/app-subtags/) site. 
     - If your language is not listed, you can construct a custom language tag. For more information on constructing custom language tags, visit the [IANA Language Tags Registry](https://www.w3.org/International/articles/language-tags/). 
