@@ -20,7 +20,7 @@ There are two types of labels, Traditional Knowledge Labels and Biocultural Labe
 There are three types of notices: the Engagement Notice, Disclosure Notice, and Collections Care Notice. These are primarily used by institutions to indicate commitment to equitable engagement, disclosures of important information such as protocols and responsibilities, information about caring for cultural materials, and appropriate access. For more about each notice and its purpose, see the Local Contexts article [About the Notices](https://localcontexts.org/notices/about-the-notices/).
 
 ## What is the Local Contexts Hub?
-The Local Contexts Hub is a web portal that allows users to create and customize labels and notices. Mukurtu users must create a Local Contexts profile and account or join an existing account before creating or accessing existing projects and labels. The Hub can be found at [localcontextshub.org/login](Localcontextshub.org/login).
+The Local Contexts Hub is a web portal that allows users to create and customize labels and notices. Mukurtu users must create a Local Contexts profile and account or join an existing account before creating or accessing existing projects and labels. The Hub can be found at [localcontextshub.org/login](https://localcontextshub.org/login/).
 
 ## How do I get started with the Hub?
 For detailed instructions on setting up a profile and account on the Hub and creating  your first project, visit the Local Contexts article [Getting Started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/).
