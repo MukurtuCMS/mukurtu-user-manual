@@ -86,7 +86,7 @@ Select **Collection** to begin creating your collection. The remaining steps to 
 
     ![Screenshot of the Local Contexts field with labels and notices assigned](../_embeds/createcollections7.png)
       
-## Relations
+## Related content
 
 Use the "Select Content" button in the **Related Content** section to add any related content to the collection. Related content includes anything that has a close connection to the collection but is not in the collection, including digital heritage items, dictionary words, person records, or even other collections. It can be used to spotlight content outside of the collection or to guide users to other content. 
 
