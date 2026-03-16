@@ -23,9 +23,9 @@ Note that applying labels and notices to collections and word lists only affects
 
     The following steps can only be applied after you have configured your Local Contexts projects and added them to your Mukurtu site. 
 
-    To learn more about configuring Local Contexts projects and labels, visit Local Contexts' article, [Getting Started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/)
+    To learn more about configuring Local Contexts projects and labels, visit the Local Contexts article [Getting Started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/).
 
-    To learn more about adding Local Contexts projects to your site, see [Manage Local Context Projects](Link).
+    To learn more about adding Local Contexts projects to your site, see [Manage Local Context Projects](ManageLocalContextsProjects.md).
 
 Proceed with the steps below when you have added your Local Contexts project(s) to your site.
 
