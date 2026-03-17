@@ -7,7 +7,7 @@ tags:
 
 There are three types of user roles in Mukurtu CMS: site-wide, community, and protocol. Roles are not mutually exclusive. Some users may have all types of roles. Roles can change over time as the site grows and responsibilities shift.
 
-Site-wide user roles are managed by the Mukurtu manager and affect the entire site. Things like color scheme, front page styling, taxonomies, and collections are managed through site-wide user roles. 
+Site-wide user roles are managed by the Mukurtu manager and affect the entire site. Things like color scheme, front page styling, taxonomies, and communities are managed through site-wide user roles. 
 
 Community and protocol roles are managed independently within each group by the community manager or protocol steward. Access to content is managed through the communities and protocols.
 
@@ -53,13 +53,9 @@ This role is designated for users who aren't part of the community but work with
 
 All users who are members of a protocol are automatically assigned as a protocol member and have the same basic permissions: they can view the protocol page and any content within the protocol, as well as view the comments left within the protocol. Users who are assigned additional protocol roles may have additional permissions and responsibilities.
 
-### Protocol steward
+### Non-member
 
-Protocol stewards are assigned by the community manager. They can add and remove protocol members and assign and remove member, affiliate, contributor and steward roles.
-
-Protocol stewards have full permission to create, edit, and delete content under their protocol. This includes digital heritage items, dictionary words, person records, collections, and word lists. They can also add and edit media assets.
-	
-Protocols stewards manage the look and feel of the protocol page, including the title, banner and thumbnail images, description, protocol type, and other advanced display settings. 
+Non-members can view public material.
 
 ### Protocol member
 
@@ -71,28 +67,33 @@ The protocol affiliates role serves the same purpose as the community affiliates
 
 ### Contributor
 
-Contributors can create and edit their own digital heritage items, person records, dictionary words, and media assets, and can apply protocols to content and media.
-
-### Community record steward
-
-Community record stewards can edit their own community records and media assets. They can also apply protocols to content and media.
+Contributors have the same privileges and responsibilities as protocol members and can create and edit their own digital heritage items, person records, dictionary words, and media assets, and can apply protocols to content and media.
 
 ### Curator
 
-Curators can create and manage collections and apply protocols to content and media.
+Curators have the same privileges and responsibilities as protocol members and can create and manage collections and apply protocols to content and media.
+
+### Community record steward
+
+Community record stewards have the same privileges and responsibilities as protocol members and can edit their own community records and media assets. They can also apply protocols to content and media.
+
+### Language contributor
+
+Language contributors have the same privileges and responsibilities as protocol members and can create and manage their own dictionary words and word lists within the protocol.
 
 ### Language steward
 
 In Mukurtu 4, languages are managed within cultural protocols. There are no separate language communities. 
 
-Language stewards can create and manage all dictionary words and word lists within the protocol, and can apply protocols to content and media.
+Language stewards have the same privileges and responsibilities as protocol members and can create and manage all dictionary words and word lists within the protocol, and can apply protocols to content and media.
 
-### Language contributor
+### Protocol steward
 
-Language contributors can create and manage their own dictionary words and word lists within the protocol.
+Protocol stewards are assigned by the community manager. They have the same privileges and responsibilities as protocol members and can add and remove protocol members and assign and remove member, affiliate, contributor and steward roles.
 
-### Non-member
+Protocol stewards have full permission to create, edit, and delete content under their protocol. This includes digital heritage items, dictionary words, person records, collections, and word lists. They can also add and edit media assets.
+	
+Protocols stewards manage the look and feel of the protocol page, including the title, banner and thumbnail images, description, protocol type, and other advanced display settings. 
 
-Non-members can view public material.
 
 To read more about managing membership in communities and protocols, see [Manage Community Membership and Roles](../3Cs/ManageCommunityMembershipAndRoles.md) and [Manage Protocol Membership and Roles](../3Cs/ManageProtocolMembershipandRoles.md).
