@@ -209,6 +209,7 @@ nav:
     - site-settings/ConfigureBasicSettings.md
     - site-settings/ConfigureCitationTemplates.md
     - site-settings/UnderstandingTextFormats.md
+    - site-settings/ConfigureGoogleAnalytics.md
   - Taxonomies:
     - taxonomies/UnderstandingTaxonomies.md
     - taxonomies/ManagingTaxonomies.md
