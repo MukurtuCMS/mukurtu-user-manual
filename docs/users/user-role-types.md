@@ -51,6 +51,8 @@ This role is designated for users who aren't part of the community but work with
 
 ## Cultural protocol roles
 
+All users who are members of a protocol are automatically assigned as a protocol member and have the same basic permissions: they can view the protocol page and any content within the protocol, as well as view the comments left within the protocol. Users who are assigned additional protocol roles may have additional permissions and responsibilities.
+
 ### Protocol steward
 
 Protocol stewards are assigned by the community manager. They can add and remove protocol members and assign and remove member, affiliate, contributor and steward roles.
@@ -61,7 +63,7 @@ Protocols stewards manage the look and feel of the protocol page, including the 
 
 ### Protocol member
 
-Protocol members can view the protocol page and any content within the protocol. They can also view comments left on content within the protocol. There is one exception: when content under multiple protocols requires membership in all protocols to access this content, the user will need to meet those requirements to view the item. To learn more about sharing settings for multi-protocol content, see [Understanding Sharing Settings](../3Cs/UnderstandingSharingSettings.md). All roles within a protocol have the same basic permissions as protocol members.
+Protocol members can view the protocol page and any content within the protocol. They can also view comments left on content within the protocol. There is one exception: when content under multiple protocols requires membership in all protocols to access this content, the user will need to meet those requirements to view the item. To learn more about sharing settings for multi-protocol content, see [Understanding Sharing Settings](../3Cs/UnderstandingSharingSettings.md). 
 
 ### Protocol affiliate
 
