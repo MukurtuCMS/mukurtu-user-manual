@@ -32,7 +32,7 @@ Protocol stewards and curators can curate the content within the collections the
 
 5. By default, content will be displayed on the collection page in the order it was added to the collection. You can also rearrange the content if needed.
 
-    To use the default order select the "Save" button at the bottom of the page to save your changes.
+    To use the default order select the "Save" button at the top of the page to save your changes.
 
 ## Arrange a collection 
 

@@ -5,9 +5,8 @@ tags:
 
 # Cron Configuration
 
-!!! Roles "User roles" 
+!!! Roles "User role" 
     Administrator
-
 
 Cron is important for maintaining the site’s assets for search results, checking for updates to Drupal core and modules, and removing temporary files.
 

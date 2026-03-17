@@ -56,7 +56,7 @@ For content with multiple protocols assigned, sharing settings help to determine
 ### Language
 
 !!! Requirement
-    Dictionary languages must first be configured by Mukurtu Manager. To learn how to configure a language, see [Configuring the Dictionary](./ConfiguringTheDictionary.md)
+    Dictionary languages must first be configured by Mukurtu Manager. To learn how to configure a language, see [Configuring the Dictionary](./ConfigureTheDictionary.md)
     
 Select a language. If only one language is available, it will be pre-selected. 
 

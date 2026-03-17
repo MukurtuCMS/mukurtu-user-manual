@@ -5,7 +5,7 @@ tags:
 
 # Check Error Logs
 
-!!! Roles "User roles" 
+!!! Roles "User role" 
     Administrator
 
 

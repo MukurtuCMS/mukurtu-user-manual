@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles" 
     Protocol steward, curator
 
-Collections can be extended by including sub-collections. These can provide more internal structure or organization and reflect may existing physical arrangement (eg: boxes, folders, subfolders), topical groupings, or any other arrangement that will help users navigate the collection. Sub-collections can be multiple levels deep.
+Collections can be extended by including sub-collections. These can provide more internal structure or organization and may reflect existing physical arrangement (eg: boxes, folders, subfolders), topical groupings, or any other arrangement that will help users navigate the collection. Sub-collections can be multiple levels deep.
 
 Sub-collections include all the same fields as a regular collection, and can have different cultural protocols than their parent collection. 
 
