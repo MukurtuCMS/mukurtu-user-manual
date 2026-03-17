@@ -1,6 +1,6 @@
 ---
 tags:
-    - infrsutructure
+    - infrastructure
 ---
 
 # PHP Configuration 
