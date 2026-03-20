@@ -16,10 +16,16 @@ Map points provides an interactive mapping tool that allows users to identify mu
 
 While Mukurtu has robust privacy controls, we know that certain place and location data (e.g., sacred sites, natural resources) can be very sensitive, so we encourage you to use this field appropriately. There may be cases where including a name or description in one of the other fields is preferable to pinpointing the location on a map.
 
+![Screenshot of the map points field highlighting the old Tokyo City in Japan](../_embeds/Understanding1.png)
+
 ## Location description 
 
 Location description is a rich text field that allows for longer descriptions or more information about the place(s) referenced in the content. It may be useful in cases where a general description of the places are appropriate or when more context is necessary.
 
+![Screenshot of the location description field with an etymology of Tokyo City.](../_embeds/Understanding2.png)
+
 ## Location 
 
 Location is a taxonomy field that can label and connect content using the same term. Content can list multiple location terms, which is useful if multiple locations are mentioned, or a place is identified by multiple names.
+
+![Screenshot of the location field with the location taxonomy highlighted.](../_embeds/Understanding3.png)
