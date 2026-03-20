@@ -42,16 +42,16 @@ You can also make certain changes to user accounts in bulk. Available changes ar
 - Remove the Mukurtu manager role from the selected user(s) 
     - The Mukurtu manager role and associated access and capabiltiites will be removed from the user(s)
 - Unblock the selected user(s) 
-    - The user's status will be changed from "blocked" to "active."
+    - The user's status will be changed from "blocked" to "active"
 
-1) To use any of these actions on one or more members, from the manage members page, check the box next to each name you wish to manage. 
+1. To use any of these actions on one or more members, from the manage members page, check the box next to each name you wish to manage. 
 
-2) Using the action menu at the bottom of the page, select the action you wish to apply. 
+2. Using the action menu at the bottom of the page, select the action you wish to apply. 
 
-3) Select **Apply to selected items**. The action will be applied to all selected members.
+3. Select **Apply to selected items**. The action will be applied to all selected members.
 ![The people page, with two users selected, and action menu item selected. These, along with the apply button are highlighted](../_embeds/add-user-account-14.png)
 
-4) You will receive different results depending on the action item you select. Below are descriptions of the results of applying steps 1-3 above for each action item, and any additional instructions as needed.
+4. You will receive different results depending on the action item you select. Below are descriptions of the results of applying steps 1-3 above for each action item, and any additional instructions as needed.
 
 ### Send notifications daily 
 1. Complete steps 1-3.
@@ -114,15 +114,15 @@ Disabling the account and keeping its content will block the user and keep any c
 
 3. Use the toggle to notify the user of the cancellation. This is optional.
 
-4. Select **Confirm**. You will be returned to the people page and a success message will be displayed. The user's status will be set to "blocked."
+4. Select **Confirm**. You will be returned to the people page and a success message will be displayed. The user's status will be set to "blocked".
 ![The people page with a confirmation message displayed. The users' status is set to blocked.](../_embeds/add-user-account-29.png)
 
 #### Disable the account and unpublish its content
 Disabling the account and unpublishing its content will block the user. Any content they created will be unpublished. Administrators can view this content by adding `admin/content` to the end of your web address (i.e. http://mysite.org/admin/content). Note that the content page is inaccessible to Mukurtu managers.
 
-You can unblock the user at any time. If the content is re-published, the user will still be listed as the author of the content items.
+You can unblock the user at any time. If the content is republished, the user will still be listed as the author of the content items.
 
-2. Select **Disable the account and unpublish its content.**
+2. Select **Disable the account and unpublish its content**.
 ![The cancellation methods form with Disable the account and unpublish its content selected](../_embeds/add-user-account-30.png)
 
 3. Use the toggle to notify the user of the cancellation. This is optional.
@@ -137,7 +137,7 @@ You can unblock the user at any time. If the content is re-published, the user w
 
 Deleting the account and assigning its content to the Anonymous user will completely delete the user(s). Any content they created will remain available, but will be listed as created by "Anonymous User". Proceed with caution, as this cannot be undone.
 
-1. Select **Delete the account and make its content belong to the Anonymous User.**
+1. Select **Delete the account and make its content belong to the Anonymous User**.
 ![The cancellation methods form with delete the account and make its content belong to the Anonymous User selected.](../_embeds/add-user-account-32.png)
 
 2. Use the toggle to notify the user of the cancellation. This is optional.
@@ -151,7 +151,7 @@ Deleting the account and assigning its content to the Anonymous user will comple
 
 Deleting the account and its content will completely delete the user(s) and all associated content. Proceed with caution, as this cannot be undone.
 
-1. Select **Delete the account and its content.**
+1. Select **Delete the account and its content**.
 ![The cancellation methods form with Delete the account and its content selected.](../_embeds/add-user-account-34.png)
 
 2. Use the toggle to notify the user of the cancellation. This is optional.

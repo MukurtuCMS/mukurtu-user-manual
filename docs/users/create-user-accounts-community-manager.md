@@ -19,15 +19,16 @@ There are two ways to access the new user form as a community manager:
 
     ![A web browser with mymukurtusite.org/admin/communities/create-user shown in the search bar](../_embeds/add-user-cm-01.png)
 
-Once the form is open, add the user's email address and username. 
+3. Once the form is open, add the user's email address and username. 
 
     ![The add user form with the user's email address and username filled out](../_embeds/add-user-cm-02.png)
 
-A list of communities that you manage will appear at the bottom of the form. Select the appropriate role(s) for each community the user will be added to.
+4. A list of communities that you manage will appear at the bottom of the form. Select the appropriate role(s) for each community the user will be added to.
 
-![The add user form with communities listed. One of the communities and user roles are highlighted. The user roles are community manager, community member and community affiliate. The community member role is selected.](../_embeds/add-user-cm-03.png)
+    ![The add user form with communities listed. One of the communities and user roles are highlighted. The user roles are community manager, community member and community affiliate. The community member role is selected.](../_embeds/add-user-cm-03.png)
 
-When you are finished, select "Create new account."
+5. When you are finished, select "Create new account."
 
 The form will re-load and a success message will be displayed. The user account will be created with the user enrolled in the selected community(ies) with their specified user role(s). You can fill and submit the form as many times as needed.
-    ![The add user form re-loaded with a success message displayed.](../_embeds/add-user-cm-04.png)
+
+![The add user form re-loaded with a success message displayed.](../_embeds/add-user-cm-04.png)
