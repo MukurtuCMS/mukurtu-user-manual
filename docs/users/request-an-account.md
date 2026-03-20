@@ -35,6 +35,6 @@ As a visitor to a Mukurtu site, you may be allowed to create an account yourself
 
     ![The second half of the registration form. The personal contact form box is checked, email subscriptions is checked, and the message digest interval is set to send immediately.](../_embeds/request-account-04.png)
 
-8) When you are finished, select "Create new account." The home page will reload with a success message. If the site allows you to create an account without administrative approval, you will be able to log in immediately. If approval is required, your account will be blocked until it is approved and set to active. 
+8) When you are finished, select "Create new account". The home page will reload with a success message. If the site allows you to create an account without administrative approval, you will be able to log in immediately. If approval is required, your account will be blocked until it is approved and set to active. 
 
 ![The home page with a success message displayed](../_embeds/request-account-05.png)
