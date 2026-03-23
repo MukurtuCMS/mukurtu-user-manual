@@ -260,7 +260,7 @@ Enter a *Location*.
 
 Enter a *Source* in the field. 
 
-- Source can a reference to a resource, collection, or institution the digital heritage item or media asset was contributed or originated from. 
+- Source can be a reference to a resource, collection, or institution the digital heritage item or media asset was contributed or originated from. 
 - Examples include collections such as the `McWhorter Collection`, institutions such as the `Library of Congress`, `American Folklife Center`, or donors such as `Donated by John Smith`. 
 
 ### Publisher
