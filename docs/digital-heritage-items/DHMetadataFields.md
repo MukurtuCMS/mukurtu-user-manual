@@ -100,7 +100,7 @@ Formatted text.
 
 "The Local Contexts Traditional Knowledge (TK) and Biocultural (BC) Labels are tools for Indigenous communities and local organizations. Developed through sustained partnership and testing within Indigenous communities across multiple countries, the Labels allow communities to express local and specific conditions for sharing and engaging in future research and relationships in ways that are consistent with already existing community rules, governance, and protocols for using, sharing, and circulating knowledge and data." For more information, visit [Local Contexts](https://localcontexts.org/).
 
-You must first customize your TK and BC Labels using the Local Contexts Hub and import your Project(s) before you can apply Projects or Labels to digital heritage items.
+You must first customize your TK and BC Labels using the Local Contexts Hub and import your Project(s) before you can apply Projects or Labels to digital heritage items. 
 
 #### Local Contexts projects
 
@@ -110,7 +110,7 @@ Local Contexts Project ID values, separated by your selected multi-value delimit
 
 #### Local Contexts Labels and Notices
 
-Select one or more Labels from the appropriate Local Contexts Project. If a complete project has already been selected, do not also select individual Labels from the same project. This field allows selective application of one or more Labels from any available Local Contexts Project to the digital heritage item.
+Select one or more Labels from the appropriate Local Contexts Project. If a complete project has already been selected, do not also select individual Labels from the same project. This field allows selective application of one or more Labels from any available Local Contexts Project to the digital heritage item. For more information, refer to the [Using Labels and Notices](../local-contexts/ApplyLabelsAndNoticesToSiteContent.md) article.
 
 Local Contexts Project ID:Label/Notice ID values, separated by your selected multi-value delimiter.
 
