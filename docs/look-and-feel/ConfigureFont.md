@@ -37,7 +37,7 @@ If you would like to add other fonts to your theme, simply download the appropri
 
 7. Save this file to update your fonts. 
 
-## Configure Gin (admin) theme font
+### Configure Gin (admin) theme font
 
 1. Select your font file. 
 2. Open your file directory and navigate to `\themes\contrib\gin\dist\media\font`. 
@@ -62,7 +62,7 @@ If you would like to add other fonts to your theme, simply download the appropri
 
 ### Add a module
 
-For instructions on adding a module to your Mukurtu CMS site, refer to the [Add a Module](../infrastructure/AddModule.md) article.
+For instructions on adding a module to your Mukurtu CMS site, refer to the [Install a Module](../infrastructure/InstallModule.md) article.
 
 ### Add custom fonts 
 
