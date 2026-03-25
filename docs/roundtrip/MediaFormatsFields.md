@@ -7,7 +7,7 @@ tags:
 # Media Formats and Fields
 
 !!! Roles "User roles" 
-    TBD
+    Administrator, Mukurtu manager, Mukurtu roundtrip manager
 
 ## Media types and core metadata fields
 
