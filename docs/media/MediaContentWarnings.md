@@ -62,7 +62,7 @@ To begin, navigate to your dashboard.
 
 ### Configure a taxonomy warning
 
-1. Under the **Media** section of the dashboard, select the **Content Warnings Settings** link or go directly to `/admin/config/mukurtu/content-warnings`
+1. Under the **Media** section of the dashboard, select the **Media Content Warnings** link or go directly to `/admin/config/mukurtu/content-warnings`
 
     ![Screenshot of where the content warnings settings link is located in the media section of the dashboard](../_embeds/warnings2.png)
 
@@ -84,15 +84,15 @@ There are several required steps to create a deceased person warning, including:
 - creating a person record
 - selecting the *Deceased* field on the person record
 
-For further information about how to create person records, visit [Create a Person Record](../person-records/PersonRecords). For further instructions on how to create deceased person media content warnings, follow the instructions below.
+For further information about how to create person records, visit [Create Person Records](../person-records/PersonRecords.md). For further instructions on how to create deceased person media content warnings, follow the instructions below.
 
 ### Configure person warnings
 
-1. Under the **Media** section of the dashboard, select the **Content Warnings Settings** link or go directly to `/admin/config/mukurtu/content-warnings`
+1. Under the **Media** section of the dashboard, select the **Media Content Warnings** link or go directly to `/admin/config/mukurtu/content-warnings`
 
     ![Screenshot of where the content warnings settings link is located in the dashboard](../_embeds/warnings2.png)
 
-2. Navigate to the **People Warnings** section and select the checkbox beside **Enable People Warnings**. 
+2. Navigate to the **People Warnings** section and select the toggle beside **Enable People Warnings**. 
 3. In the *Warning Text: Single Person* field, enter the text to be displayed on the media overlay for a single deceased person. Use the replacement token `[name]` to automatically insert the person's name in the text. An example of warning text for a single person is `Warning: [name] is deceased. Click through to access content.`
 4. In the *Warning Text: Multiple People* field, enter the text to be displayed on the media overlay for a media asset displaying multiple deceased individuals. Use the replacement token `[names]` to automatically insert the people's names in the text. An example of warning text for multiple people is `Warning: The following people are deceased. Click through to access content. [names]`
 
@@ -106,7 +106,7 @@ People terms can be drawn from content and media as they are created. If you hav
 
 ### Create a person record
 
-Create a person record according to the instructions here [Create a Person Record](../person-records/PersonRecords). To apply a person warning to a media asset, the *Deceased* field must be selected and the person's name must be entered as a taxonomic term in the **Other names** section. 
+Create a person record according to the instructions here [Create Person Records](../person-records/PersonRecords.md). To apply a person warning to a media asset, the *Deceased* field must be selected and the person's name must be entered as a taxonomic term in the **Other names** section. 
 
 ## Apply a media content warning
 
@@ -115,7 +115,7 @@ Create a person record according to the instructions here [Create a Person Recor
 
 Follow these steps to apply a media content warning to a media asset.
 
-1. Navigate to your media asset. You can also apply a media content warning when you create a new media asset. For instructions on how to create a new media asset, visit the [Create Media Assets](CreateMediaAssets.md) article.
+1. Navigate to your media asset. You can also apply a media content warning when you create a new media asset. For instructions on how to create a new media asset, visit the [Create Media Assets](../media/CreateMediaAssets.md) article.
 
     - From your dashboard, navigate to the **Media** section and select the **Manage Media** link. 
         - Under the **Operations** heading, select the "Edit" button from the dropdown button menu.
@@ -124,7 +124,7 @@ Follow these steps to apply a media content warning to a media asset.
 
         ![Screenshot of a media asset showing the location of the edit button](../_embeds/mediawarnings5.png)
 
-    - From a new media asset, follow the steps outlined in the [Create Media Assets](CreateMediaAssets.md) articles to apply media tags.
+    - From a new media asset, follow the steps outlined in the [Create Media Assets](../media/CreateMediaAssets.md) articles to apply media tags.
 
 2. To enter a taxonomy triggered media content warning, navigate to the **Media Tags** section of your media asset. As you type, existing media tags will be displayed. Select an existing media tag or enter a new term. To include additional media tags, select "Add another item".
 3. To enter a deceased person content warning, navigate to the *People* field in your media asset. As you type, names of existing people will be displayed. Select an existing person or enter a new name. To include additional people, select "Add another item".
