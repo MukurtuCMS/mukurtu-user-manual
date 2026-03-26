@@ -10,7 +10,7 @@ tags:
 
 By default, Mukurtu CMS installs and configures your site in English. You may wish to build a single language site in another language (eg: a site only in Spanish). Follow the directions below to configure your site in a language other than English.
 
-1. Refer to the [Mukurtu Multilingual](ConfigureTranslation.md/) and [Add a Language](ConfigureTranslation.md/#add-a-language) articles to enable Mukurtu Multilingual module and add a language to your site.
+1. Refer to the [Enable Multilingual Module](EnableMultilingualModule.md) article to enable Mukurtu Multilingual module and add a language to your site.
 2. After adding your language, set it to default by selecting the radio selector to the right of your language in the Default column. 
 
     ![Screenshot of the language selection screen with the radio selector highlighted.](../_embeds/nonenglish1.png)

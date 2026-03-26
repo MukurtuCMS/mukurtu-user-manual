@@ -68,7 +68,7 @@ Use the **Menu link** menu to reorder your navigation menu, enable or disable me
 
 ## Edit menu links
 
-You can edit menus links to reflect your site's naming conventions, to link to an internal path, or to redirect to an external URL. Redirecting to an external URL could be useful for sites that want to direct users to an About page that is externally hosted. Follow the instructions below to edit your menu links. 
+You can edit menu links to reflect your site's naming conventions, to link to an internal path, or to redirect to an external URL. Redirecting to an external URL could be useful for sites that want to direct users to an About page that is externally hosted. Follow the instructions below to edit your menu links. 
 
 1. Select the "Edit" button to the right of your menu link.
 
@@ -103,7 +103,7 @@ You may choose to add child menu links to your main navigation menu links to hel
 
     ![Screenshot of the menu link menu with the Edit button expanded and the Add Child option highlighted.](../_embeds/lookfeel17.png)
 
-2. Create your child link the same way you would create a new menu link. For more information on creating a new menu link, refer to the [Create a menu link](#create-a-menu-link) section of this article.
+2. Create your child link the same way you would create a new menu link. For more information on creating a new menu link, refer to the [Create a menu link](../look-and-feel/ConfigureSiteNavigation.md#create-a-new-link) section of this article.
 
 3. Select the **Parent link** you prefer from the dropdown menu. 
 

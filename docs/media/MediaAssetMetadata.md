@@ -52,13 +52,15 @@ Media assets are the core element of digital heritage items and other content. T
 - This field is also used to trigger the "deceased person" media content warnings. 
     - If the "deceased person" media content warnings are in place, users see a blacked-out box in place of the media asset overlaid with descriptive text when they visit a page with a media tag. The user may choose to click through to access the media. 
     - This does not prevent users from accessing tagged media.
+    - For more information on media content warnings, refer to the [Media Content Warnings](MediaContentWarnings.md) article.
 
 ### Media Tags 
 
 - Media tags can be used to tag and locate assets within the media library (for example, `oral history` or `newspaper`). 
-- They can also be used to trigger taxonomy-based media content warnings when that tool is enabled.
+- They can also be used to trigger taxonomy-based media content warnings when that tool is enabled. 
     - Users see a blacked-out box in place of the media asset overlaid with descriptive text when they visit a page with a media tag. The user may choose to click through to access the media. 
-    - This does not prevent users from accessing tagged media. 
+    - This does not prevent users from accessing tagged media.
+    - For more information on media content warnings, refer to the [Media Content Warnings](MediaContentWarnings.md) article.
 
 ### Thumbnail 
 

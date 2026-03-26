@@ -70,7 +70,7 @@ To add media:
 - Enter the embed code to add your externally embedded media to the media library.
 - You must provide a thumbnail image for your external embed.
 	- In the **Thumbnail** field, select the "Choose File" or "Browse" button to upload an image file or drag and drop an image file from your file explorer.
-	- Alternative text is required for the thumbnail image. This short description is used by screen readers and displayed when the image is not loaded. It is important for accessability. This is a required field.
+	- Alternative text is required for the thumbnail image. This short description is used by screen readers and displayed when the image is not loaded. It is important for accessibility. This is a required field.
 	
 ## Optional metadata fields 
 

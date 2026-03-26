@@ -32,7 +32,7 @@ tags:
 
     ![Screenshot of the alternative text, along with the file and filename, showing how it automatically filled in.](../../_embeds/image2.png)
 
-6. Use the checkboxes to apply cultural protocols to the media asset.
+6. Use the toggle(s) to apply cultural protocols to the media asset.
 
     - This is a required field.
 
@@ -53,7 +53,7 @@ tags:
     !!! tip
         This field feeds into the "deceased person" media content warnings.
 
-    - If more than one individual should be listed, use the "Add another item" button to add additional people text boxes. 
+    - If more than one individual should be listed, use the "Add another item" button to add additional people fields. 
     - Select and drag the arrows to reorder your people if necessary. 
     - To remove a person, select the "Remove" button.
     
@@ -62,7 +62,7 @@ tags:
     !!! tip 
         Media tags can be used to tag and locate assets within the media library (for example, `oral history` or `newspaper`). They can also be used to trigger media content warnings when that tool is enabled.
 
-    - If more than one media tag should be included, use the "Add another item" button to add additional media tag text boxes. 
+    - If more than one media tag should be included, use the "Add another item" button to add additional media tag fields. 
     - Select and drag the arrows by the media tag's name to reorder it if necessary. 
     - To remove a media tag, select the "Remove" button.
 

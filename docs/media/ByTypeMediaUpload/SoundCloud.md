@@ -24,7 +24,7 @@ tags:
 
     ![Screenshot of the SoundCloud URL and name field.](../../_embeds/soundcloud1.png)   
 
-5. Use the checkboxes to apply cultural protocols to the media asset.
+5. Use the toggle(s) to apply cultural protocols to the media asset.
 
     - This is a required field.
 
@@ -50,7 +50,7 @@ tags:
     !!! tip
         This field feeds into the "deceased person" media content warnings.
 
-    - If more than one individual should be listed, use the "Add another item" button to add additional people text boxes. 
+    - If more than one individual should be listed, use the "Add another item" button to add additional people fields. 
     - Select and drag the arrows to reorder your people if necessary. 
     - To remove a person, select the "Remove" button.
     
@@ -59,7 +59,7 @@ tags:
     !!! tip 
         Media tags can be used to tag and locate assets within the media library (for example, `oral history` or `newspaper`). They can also be used to trigger media content warnings when that tool is enabled.
 
-    - If more than one media tag should be included, use the "Add another item" button to add additional media tag text boxes. 
+    - If more than one media tag should be included, use the "Add another item" button to add additional media tag fields. 
     - Select and drag the arrows by the media tag's name to reorder it if necessary. 
     - To remove a media tag, select the "Remove" button.
 
@@ -67,7 +67,7 @@ tags:
 
 11. Use the *Contributor* field to enter the name of the speaker or singer of the recording. 
 
-    - If more than one person should be listed as a contributor, use the "Add another item" button to add additional contributor text boxes. 
+    - If more than one person should be listed as a contributor, use the "Add another item" button to add additional contributor fields. 
     - Select and drag the arrows by the contributor's name to reorder your contributors if necessary. 
     - To remove a contributor, select the "Remove" button.
 
