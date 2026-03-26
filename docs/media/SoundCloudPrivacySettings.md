@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles"
     Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
-SoundCloud offers limited privacy settings. For more information on these settings, visit [SoundCloud privacy information](https://help.soundcloud.com/hc/en-us/articles/115003562388-Changing-your-track-s-privacy-setting).
+SoundCloud offers limited privacy settings. For more information on these settings, visit [SoundCloud Help Center: Share & Embed](https://help.soundcloud.com/hc/en-us/categories/47989347228187-Share-Embed).
 
 ## SoundCloud privacy settings
 
