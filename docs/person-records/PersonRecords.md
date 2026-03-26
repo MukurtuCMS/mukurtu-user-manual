@@ -44,18 +44,13 @@ People may be identified by multiple names, monikers, identities, and with incon
 !!! requirement
     There must be existing person taxonomy terms to populate this field. For more information on how to create a creator, contributor, or people term, navigate to [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md).
 
-1. In the **Other Names** section, select the "Select Terms" button to add an existing term to your person record.
-   
-    !!! tip 
-        You can search for specific terms using the Search field.
-
-2. Select the checkbox beside all the terms you wish to include, then scroll down and select "Add Terms".
+1. In the *Other Names* field, select one or more terms from the dropdown or use the text field to search for specific terms.
 
 ![Screenshot showing the other names section with the fields filled out and content selected.](../_embeds/person2.png)
 
-3. Select "Finished" to add the terms to your person record. To remove terms from your record, select the **Delete** icon to the top right of each term from the modal or the field. 
+2. You can rearrange or delete terms in the field by dragging them into your preferred order or selecting the **Delete** icon to the right of each term.
 
-![Screenshot of the select terms modal with terms selected. The delete icon and finished button are both highlighted.](../_embeds/person3.png)
+![Screenshot of the other names field with terms selected.](../_embeds/person3.png)
 
 ### Media assets
 
@@ -73,6 +68,14 @@ Media assets are a key element of most person records, though they are not requi
 3. Use the slider to indicate whether the person is **Deceased**. This field informs the deceased person media content warning. For more information on this and other media content warnings, please see the [Media Content Warnings](../media/MediaContentWarnings.md) article.
 
 ![Screenshot of the date and deceased fields with information filled in to indicate the dates the person was born and died, and that the individual is deceased.](../_embeds/person5.png)
+
+### Place of birth
+
+In the *Place of Birth* field enter the location the person was born. You can select an existing term or add a new one.
+
+### Place of death
+
+In the *Place of Death* field enter the location the person died. You can select an existing term or add a new one.
 
 ## Biography
 
@@ -106,7 +109,7 @@ Media assets are a key element of most person records, though they are not requi
 
 4. To add another related person, select the "Add Related Person" button to add additional location text boxes.
       
-      ![Screenshot with the add related person button highlighted.](../_embeds/person10.png)
+      ![Screenshot with the add related person button highlighted.](../_embeds/person9.png)
 
     - Select and drag the arrows to reorder your related people if necessary.
     - To remove a related person, select the "Remove" button.
@@ -128,9 +131,9 @@ The biography is an account of the person's life, whether written or compiled by
 
 ### Keywords
 
-*Keywords* are used to tag person records to ensure that they are discoverable when searching or browsing. Examples include significant life events or organizations which the person was involved with.
+*Keywords* are used to tag person records to ensure that they are discoverable when searching or browsing. Examples include significant life events or organizations which the person was involved with. You can select existing terms and add new ones. 
 
-- Consider adding 3-5 keywords to your collection by selecting the "Add another item" button to add additional keywords fields. 
+- Consider adding 3-5 keywords to your person record.
 - This field feeds into the keywords taxonomy.
 
 ### Map points
@@ -146,7 +149,7 @@ Use the *Location description* field to provide additional context and depth to 
 
 ### Location
 
-Enter a *Location*. This is a named place, or places, that are closely connected to the person record. Examples include the places a person was born, lived, died, or sites of important life events.
+Enter a *Location*. This is a named place, or places, that are closely connected to the person record. Examples include the places a person was born, lived, died, or sites of important life events. This field feeds into the location taxonomy and informs Place Records.
 
 ![Screenshot of the locations fields with points, text, and terms entered.](../_embeds/person12.png)
 
