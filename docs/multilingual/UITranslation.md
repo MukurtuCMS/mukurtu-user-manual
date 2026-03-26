@@ -35,9 +35,6 @@ Start batch editing your translatable strings by following the instructions belo
 3. Select the "Export" button in the top right-hand corner.
 4. Open your .po file in your chosen Gettext or text editor. Make any desired changes, then save your file where you can find it easily.
 5. Navigate to your User interface translation page by going to Configuration > Region and Language > User interface translation, or directly to `/admin/config/regional/translate`and select the **Import** tab.
-
-    ![Screenshot of the User interface translation page with the Import button highlighted.](../_embeds/uitranslate4.png)
-
 6. In the *Translation file* field, select the "Choose File" or "Browse" button to upload your translation file.
 
     !!! tip
