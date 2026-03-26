@@ -9,7 +9,7 @@ tags:
 !!! roles "User roles"
 	Protocol steward, contributor, community record steward, curator, language steward, language contributor 
 
-You can use the Mukurtu Media Library to create, edit, and delete media assets. For detailed instructions on how to create media assets, refer to the [Create Media Assets](CreateMediaAssets) articles. 
+You can use the Mukurtu Media Library to create, edit, and delete media assets. For detailed instructions on how to create media assets, refer to the [Create Media Assets](CreateMediaAssets.md) articles. 
 
 You can access the media library from your Dashboard or from the Media link in the left-hand sidebar. 
 
@@ -23,7 +23,7 @@ You can use the *Media name* field to search for media assets by name, or you ca
 
 - To edit media assets in the media library, select the "Edit" button to the far right of the media asset. 
 
-![Screenshot of the media library with the Edit button hightlighted in a media asset.](../_embeds/medialibrary5.png)
+![Screenshot of the media library with the Edit button hightlighted in a media asset.](../_embeds/medialibrary3.png)
 
 - Make your edits in the form and select Save when done.
 
@@ -31,7 +31,7 @@ You can use the *Media name* field to search for media assets by name, or you ca
 
 - You can also edit media assets in content by selecting the "Edit" icon in the top right-hand corner of the media asset. 
 
-![Screenshot of a digital heritage item with the Edit media icon highlighted.](../_embeds/medialibrary3.png)
+![Screenshot of a digital heritage item with the Edit media icon highlighted.](../_embeds/medialibrary5.png)
 
 ## Delete media assets
 
