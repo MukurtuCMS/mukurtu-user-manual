@@ -70,7 +70,7 @@ To begin, navigate to your dashboard.
 3. Select a **Term** from the dropdown menu. Terms are media tags attached to the media that will trigger the warning. They function as the name of your media content warning. 
 4. Select the "Add taxonomy warning" button to add additional taxonomy warnings. 
 5. Once you have selected your term, apply warning text. In the *Warning Text* field enter the warning text you would like displayed on your media overlay. This field has a 255 character limit.
-6. Select the "Submit" button from the bottom left or top right of the screen to save your media content warning. 
+6. Select the "Save configuration" button from the top right of the screen to save your media content warning. 
 
     ![Screenshot of where the content warnings form with a trigger term selected and the warning text filled in.](../_embeds/mediawarningsterm2.png)
 
@@ -98,7 +98,7 @@ For further information about how to create person records, visit [Create Person
 
 ![Screenshot showing how to fill out the enable people warnings and warning text fields.](../_embeds/personwarnings2.png)
 
-5. Navigate to the bottom of the page and select the "Submit" button to save your media content warnings.
+5. Navigate to the bottom of the page and select the "Save configuration" button to save your media content warnings.
 
 ### Configure person record settings
 
