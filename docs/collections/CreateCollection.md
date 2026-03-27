@@ -30,8 +30,6 @@ Select **Collection** to begin creating your collection. The remaining steps to 
 
     - This is a required field.
 
-### Sharing settings
-
 3. Select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
 
     - Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
