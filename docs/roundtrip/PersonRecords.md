@@ -12,7 +12,7 @@ tags:
 
 ## Technical Metadata Fields
 
-### Digital heritage item CSV
+### Person record CSV
 
 |Field Name|Description|Format Information|
 |---|---|---|
@@ -41,5 +41,16 @@ tags:
 |**Related Content**|
 |Related content||IDs, UUIDs, or titles of the references, separated by your selected multi-value delimiter. Each title must be exact and match only one item.|
 
+### Paragraphs - Related People CSV
 
+|Field Name|Format Information|
+|---|---|
+|Related Person|IDs, UUIDs, or titles of the references, separated by your selected multi-value delimiter. Each title must be exact and match only one item.|
+|Relationship type|Taxonomy term name, ID, or UUID. The name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
 
+### Paragraphs - Biography section CSV
+
+|Field Name|Format Information|
+|---|---|
+|Title|Plain text value.|
+|Body|Formatted text.|
