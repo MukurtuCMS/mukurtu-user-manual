@@ -9,6 +9,13 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Mukurtu roundtrip manager
 
+This article provides some general notes and tips to help you get the most out of importing Place Records using Roundtrip. 
+
+## Place Records Notes and Tips
+
+- If including **Text Sections**, the Place record CSV and Text sections paragraph CSV must be given unique IDs. Those do not have to be uploaded, but are what you will use to tie the text section paragraph to the proper place record. 
+- When importing your CSV files, they should be ordered Place Record CSV, then Paragraph CSV. This ensures the place record is created before the paragraph.
+
 ## Technical Metadata Fields
 
 ### Place record CSV

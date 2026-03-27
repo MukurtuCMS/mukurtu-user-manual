@@ -8,10 +8,14 @@ tags:
 
 !!! roles "User roles"
     Administrator, Mukurtu manager, Mukurtu roundtrip manager
-    
+
+This article provides some general notes and tips to help you get the most out of importing Collections using Roundtrip. 
+
+## Collections Notes and Tips
+
 When importing complex collections that have subcollections, the subcollections must be created first. Therefore, subcollections should be ordered first in the spreadsheet above any parent collections. 
 
-Paragraphs do not apply to collections.
+Collections do not have paragraphs.
 
 ## Technical Metadata Fields
 

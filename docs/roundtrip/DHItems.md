@@ -9,11 +9,12 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Mukurtu roundtrip manager
 
-Paragraph - citing indigenous elders and knowledge keepers
+This article provides some general notes and tips to help you get the most out of importing Digital Heritage Items using Roundtrip. 
 
-## Structuring CSV for import
+## Digital Heritage Items Notes and Tips
 
-
+- If including **Citing Indigenous Elders and Knowledge Keepers**, the Digital Heritage Item CSV and paragraph CSV must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraph to the proper digital heritage item. 
+- When importing your CSV files, they should be ordered Digital Heritage Item CSV, then the paragraph CSV. This ensures the digital heritage item is created before the paragraph. 
 
 ## Technical Metadata Fields
 

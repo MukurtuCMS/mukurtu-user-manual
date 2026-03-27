@@ -9,6 +9,12 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Mukurtu roundtrip manager
 
+This article provides some general notes and tips to help you get the most out of importing Person Records using Roundtrip. 
+
+## Person Records Notes and Tips
+
+- If including **Related People** and **Biography Sections**, the Person record CSV and associated paragraph CSVs must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraphs to the proper person record. 
+- When importing your CSV files, they should be ordered Person Record CSV, then the individual paragraph CSVs. This ensures the person record is created before the paragraphs. The paragraph CSVs can be in any order.
 
 ## Technical Metadata Fields
 
