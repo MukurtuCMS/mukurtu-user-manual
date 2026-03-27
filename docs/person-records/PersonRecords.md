@@ -41,9 +41,6 @@ Use the checkboxes to select a **Sharing setting**. Sharing setting has two opti
 
 People may be identified by multiple names, monikers, identities, and with inconsistent spellings across different content. This field is used to aggregate and display all content where the person is identified by connecting those disparate names. 
 
-!!! requirement
-    There must be existing person taxonomy terms to populate this field. For more information on how to create a creator, contributor, or people term, navigate to [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md).
-
 1. In the *Other Names* field, select one or more terms from the dropdown or use the text field to search for specific terms.
 
 ![Screenshot showing the other names section with the fields filled out and content selected.](../_embeds/person2.png)

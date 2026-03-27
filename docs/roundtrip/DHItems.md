@@ -9,7 +9,15 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Mukurtu roundtrip manager
 
-## Metadata fields and formatting information
+Paragraph - citing indigenous elders and knowledge keepers
+
+## Structuring CSV for import
+
+
+
+## Technical Metadata Fields
+
+### Digital heritage item CSV
 
 |Field Name|Description|Format Information|
 |---|---|---|
@@ -26,3 +34,42 @@ tags:
 |Original date||YYYY, YYYY-MM, or YYYY-MM-DD value.|
 |Date description||This field is plain text and limited to 255 characters.|
 |**Mukurtu Core**|
+|Cultural narratives||Formatted text.|
+|Traditional knowledge||Formatted text.|
+|Description||Formatted text.|
+|**Permissions and Rights**|
+|Local Contexts projects||Local Contexts Project ID values, separated by your selected multi-value delimiter.|
+|Local Contexts Labels and Notices||Local Contexts Project ID:Label/Notice ID values, separated by your selected multi-value delimiter.|
+|Citing Indigenous Elders and Knowledge Keepers||The ID or UUID of the paragraph.|
+|Rights and Usage||This field is plain text and limited to 255 characters.|
+|Rights Statements||The value or the label of allowed values.|
+|Creative Commons Licenses||The value or the label of allowed values.|
+|**Additional Fields**|
+|Type||Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
+|Format||Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
+|Identifier||This field is plain text and limited to 255 characters.|
+|Keywords||Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
+|Language||Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
+|Map points||The data is stored in a GeoJSON format.|
+|Location description||Formatted text.|
+|Location (taxonomy)||Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
+|Source||This field is plain text and limited to 255 characters.|
+|Publisher||Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
+|External links||The link in Markdown format: `[Title](https://url.com)`, separated by your selected multi-value delimiter. The URL must be formatted as a full URL, such as `https://example.com`, and the link text is a plain text field.|
+|Subject||Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
+|Transcription||This HTML field can support rich text and embedded media assets using the editing toolbar.|
+|People||Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
+|**Related Content**|
+|Related content||IDs, UUIDs, or titles of the references, separated by your selected multi-value delimiter. Each title must be exact and match only one item.|
+
+### Paragraphs - Citing Indigenous Elders and Knowledge Keepers CSV
+
+|Field Name|Format Information|
+|---|---|
+|Name of the Elder or Knowledge Keeper|This field is plain text and limited to 255 characters.|
+|Nation or Community|This field is plain text and limited to 255 characters.|
+|Treaty Territory|This field is plain text and limited to 255 characters.|
+|City or Community they live in|This field is plain text and limited to 255 characters.|
+|A Brief Description or Title of the Teaching|This field is plain text and limited to 255 characters.|
+|Date|YYYY, YYYY-MM, or YYYY-MM-DD value.|
+
