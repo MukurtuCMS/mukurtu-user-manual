@@ -9,6 +9,13 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Mukurtu roundtrip manager
 
+This article provides some general notes and tips to help you get the most out of importing Word Lists using Roundtrip. 
+
+## Word Lists Notes and Tips
+
+- Word lists do not have paragraphs.
+- Dictionary words must exist to be added to Word lists.
+
 ## Technical Metadata Fields
 
 |Field Name|Description|Format Information|

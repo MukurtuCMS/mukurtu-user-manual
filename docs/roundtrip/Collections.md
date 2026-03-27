@@ -13,9 +13,9 @@ This article provides some general notes and tips to help you get the most out o
 
 ## Collections Notes and Tips
 
-When importing complex collections that have subcollections, the subcollections must be created first. Therefore, subcollections should be ordered first in the spreadsheet above any parent collections. 
-
-Collections do not have paragraphs.
+- When importing complex collections that have subcollections, the subcollections must be created first. Therefore, subcollections should be ordered first in the spreadsheet above any parent collections. 
+- Collections do not have paragraphs.
+- Content must exist to be added to Collections.
 
 ## Technical Metadata Fields
 
