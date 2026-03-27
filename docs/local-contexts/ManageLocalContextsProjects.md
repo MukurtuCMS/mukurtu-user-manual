@@ -31,10 +31,6 @@ API keys can be generated from the settings page in your Local Contexts account.
 
 ## Add your API Key
 
-!!! roles "User roles"
-
-    Mukurtu manager, community manager, protocol steward
-
 The steps to add an API key are the same whether you're adding it to the entire site, to a community, or to a protocol. For more information about Local Contexts projects at different levels of a Mukurtu site, please see [Levels of Local Contexts Projects](./LevelsOfLocalContextsProjects.md).
 
 To add an API key to an entire site, as a Mukurtu manager, from the dashboard select **Manage Local Contexts Projects**.

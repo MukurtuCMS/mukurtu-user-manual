@@ -108,8 +108,8 @@ nav:
     - dictionary/ConfigureTheDictionary.md
     - dictionary/DictionaryRoles.md
     - dictionary/DictionaryWordMetadata.md
-    - dictionary/WordLists.md
     - dictionary/CreateDictionaryWord.md
+    - dictionary/WordLists.md
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Infrastructure:

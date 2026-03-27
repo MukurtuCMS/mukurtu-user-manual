@@ -1,7 +1,7 @@
 
 # Getting Started with Mukurtu CMS
 
-Once you have your Mukurtu CMS site installed (whether hosting locally or through a 3rd party hosting provider), there are a few structural elements that need to be set up before you can start working with your digital heritage items. This is not an exhaustive list of all the features and functions that Mukurtu CMS offers, but should walk you through the basic set up. We encourage you to explore the other articles on the site.
+Once you have your Mukurtu CMS site installed (whether hosting locally or through a 3rd party hosting provider), there are a few structural elements that need to be set up before you can start working with your content. This is not an exhaustive list of all the features and functions that Mukurtu CMS offers, but should walk you through the basic set up. We encourage you to explore the other articles on the site.
 
 ## Administrator Accounts  
 
