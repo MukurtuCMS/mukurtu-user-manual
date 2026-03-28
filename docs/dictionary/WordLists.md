@@ -13,6 +13,17 @@ Word lists behave like collections, but they are exclusively for arranging dicti
 
 Follow the steps below to create a word list.
 
+## From the navigation menu
+
+From the create content dropdown menu, select **word list**.
+
+![The homepage with the create content menu open and word list highlighted](../_embeds/word-lists-07.png)
+
+## From the dashbaord
+
+In the content section of the dashboard, select the **add word list** link.
+![The dashboard showing the content section. The add word list link is lighlighted](../_embeds/word-lists-08.png)
+
 ## Mukurtu essentials
 
 1. Give your word list a short, descriptive name. It should give users useful information about the list when browsing or searching.
@@ -95,4 +106,4 @@ Follow the steps below to create a word list.
 2. Select the "Save" button to save your word list.
 
 3. The word list page will display with a success message.
-    ![Screenshot of the published word list page.](../_embeds/placeholderscreenshot.png)
+    ![Screenshot of the published word list page.](../_embeds/word-lists-09.png)

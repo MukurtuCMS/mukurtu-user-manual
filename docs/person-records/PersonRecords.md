@@ -25,13 +25,13 @@ Enter the person's name as they should be primarily identified in the *Name* fie
 
 ### Cultural protocols
 
-Use the checkboxes to apply cultural protocols to your digital heritage item. 
+Use the toggle(s) to apply cultural protocols to your digital heritage item. 
 
 - This is a required field.
 
 ### Sharing settings
 
-Use the checkboxes to select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
+Select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
 
 - Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
 - All is more restrictive as users must belong to all the selected protocols to view the digital heritage item. 

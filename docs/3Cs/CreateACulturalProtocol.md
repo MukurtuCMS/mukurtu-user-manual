@@ -50,7 +50,7 @@ It's possible that related families, villages, clans, or other communities might
 7. Select the *membership display setting*. Choose from one of: 
 
     - **Do not display** does not display any protocol members on the protocol page.
-    - **Display protocol stewards** displays protocol stewards and not protocol stewards on the community page.
+    - **Display protocol stewards** displays protocol stewards and not protocol members on the community page.
     - **Display all members** displays all members on the protocol page.
 
         ![The membership display field](../_embeds/create-protocol-07.png)
@@ -71,19 +71,14 @@ It's possible that related families, villages, clans, or other communities might
 
 1. To add a protocol through an existing community, navigate to that community's page. 
 
-    You can view community pages through the main menu above your dashboard, or on the dashboard under **Communities**. 
+    You can view community pages by selecting **Communities** in the main menu.
 
-    ![A screenshot of the Mukurtu dashboard with a list of links and red arrows pointing at the two ways to access communities.](../_embeds/create-protocol-20.png)
+    ![The main menu with the communities link highlighted](../_embeds/create-protocol-20.png)
 
-    If you are accessing communities through the menu, select the appropriate community, then select **Create Protocol**.
+    Select the appropriate community, then select **Create Protocol**.
 
     ![The communities browse page with a community highlighted in red](../_embeds/create-protocol-11.png)
     ![The community page with Create protocol highlighted in red](../_embeds/create-protocol-15.png)
-
-    If you are accessing communities through the dashboard, select the appropriate community, then select **Add Cultural Protocol**
-
-    ![A list of available communities](../_embeds/create-protocol-16.png)
-    ![The manage community page with Add Cultural Protocol highlighted in red](../_embeds/create-protocol-17.png)
 
 2. Add a *protocol name*, select a *protocol type*, and add a *description* to your protocol. 
 
