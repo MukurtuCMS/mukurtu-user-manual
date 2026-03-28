@@ -73,19 +73,12 @@ It's possible that related families, villages, clans, or other communities might
 
     You can view community pages by selecting **Communities** in the main menu.
 
-    ![A screenshot of the Mukurtu dashboard with a list of links and red arrows pointing at the two ways to access communities.](../_embeds/create-protocol-20.png)
+    ![The main menu with the communities link highlighted](../_embeds/create-protocol-20.png)
 
     Select the appropriate community, then select **Create Protocol**.
 
     ![The communities browse page with a community highlighted in red](../_embeds/create-protocol-11.png)
     ![The community page with Create protocol highlighted in red](../_embeds/create-protocol-15.png)
-
-    If you are accessing communities through the dashboard, select **Manage Communities and Cultural Protocols**, then the appropriate community, then select **Add Cultural Protocol**
-
-    ![The dashboard with manage communities and cultural protocols highlighted](../_embeds/create-protocol-22.png)
-
-    ![A list of available communities](../_embeds/create-protocol-16.png)
-    ![The manage community page with Add Cultural Protocol highlighted in red](../_embeds/create-protocol-17.png)
 
 2. Add a *protocol name*, select a *protocol type*, and add a *description* to your protocol. 
 
