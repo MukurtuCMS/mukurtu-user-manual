@@ -121,7 +121,7 @@ Sample sentences can be used to demonstrate use of the word. You may add an unli
 
 This field can be used for parts of speech, syntactic or grammatical categories. 
 
-Include as many word types as needed. Select exisitng word types or add new ones. Drag to reorder word types.
+Include as many word types as needed. Select exisitng word types or add new ones. Drag to reorder word types. Select the "x" to delete.
 
 ![The word type field filled out](../_embeds/dictionary-word-07.png)
 
@@ -168,7 +168,7 @@ You can add media assets to your dictionary word. Select **Add media** to select
 ### Keywords
 
 Keywords are terms used to describe content to ensure that the item will be discoverable when searching or browsing. They are more flexible and specific than categories. 
-Include as many keywords as needed. Select exisitng keywords add new ones. Drag to reorder keywords.
+Include as many keywords as needed. Select exisitng keywords add new ones. Drag to reorder keywords. Select the "x" to delete.
 
 ### Locations
 
@@ -196,7 +196,7 @@ Enter a *Location*.
 
 Location is a taxonomy field which can be useful to label and connect content using the same term. 
 
-Include as many locations as needed. Select existing locations or add new ones. Drag to reorder locations.
+Include as many locations as needed. Select existing locations or add new ones. Drag to reorder locations. Select the "x" to delete.
 
 
 ![Screenshot of the locations taxonomy field with terms entered.](../_embeds/dictionary-word-10.png)
