@@ -34,7 +34,7 @@ Use the toggle to assign at least one cultural protocol to your dictionary word.
 - This is a required field.
 
 !!! Tip
-    Protocols determine a user or visitorʻs appropriate level of access to the dictionary word. For more on cultural protocols, see [Understanding Communities and Cultural Protocols](../3Cs/UnderstandingCommunitiesAndCulturalProtocols.md).
+    Protocols determine a user or visitorʻs appropriate level of access to the dictionary word. For more on cultural protocols, see [Understanding Communities and Cultural Protocols](../communities-cultural-protocols-categories/UnderstandingCommunitiesAndCulturalProtocols.md).
 
 
 ### Sharing Setting
@@ -50,7 +50,7 @@ For content with multiple protocols assigned, sharing settings help to determine
 - This is a required field.
 
 !!! Tip
-    For more on sharing settings, see [Understanding Sharing Settings](../3Cs/UnderstandingSharingSettings.md)
+    For more on sharing settings, see [Understanding Sharing Settings](../communities-cultural-protocols-categories/UnderstandingSharingSettings.md)
 
 
 ### Language

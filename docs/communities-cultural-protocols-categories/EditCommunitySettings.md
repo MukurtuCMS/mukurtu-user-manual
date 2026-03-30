@@ -89,7 +89,7 @@ SCREENSHOT OF COMMUNITY PAGE WITH FEATURED CONTENT - WAITING FOR
 
 ## Sub-communities
 
-Communities can be organized into sub-communities to add additional structure and organization to your site. To read more about sub-communities and community struture, see [Manage Community Organization](../3Cs/ManageCommunityOrganization.md)
+Communities can be organized into sub-communities to add additional structure and organization to your site. To read more about sub-communities and community struture, see [Manage Community Organization](../communities-cultural-protocols-categories/ManageCommunityOrganization.md)
 
 If your community has sub-communities, they will be listed here. Note that this field is read-only. You cannot add or remove sub-communities from this form.
 
