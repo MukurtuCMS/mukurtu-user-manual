@@ -74,20 +74,20 @@ nav:
   - About Mukurtu: 
     - about-mukurtu/WhatDoesMukurtuMean.md
     - about-mukurtu/GettingStartedWithMukurtuCMS.md 
-  - 3Cs:
-    - 3Cs/UnderstandingCommunitiesAndCulturalProtocols.md
-    - 3Cs/CreateACommunityAndInitialCulturalProtocol.md
-    - 3Cs/CreateACulturalProtocol.md 
-    - 3Cs/UnderstandingSharingSettings.md
-    - 3Cs/UnderstandingCategories.md
-    - 3Cs/CreateCategories.md 
-    - 3Cs/ManageCommunityMembershipAndRoles.md
-    - 3Cs/ManageProtocolMembershipandRoles.md
-    - 3Cs/SharedProtocols.md
-    - 3Cs/CategoryTaxonomy.md
-    - 3Cs/EditCommunitySettings.md
-    - 3Cs/EditCulturalProtocolSettings.md
-    - 3Cs/ManageCommunityOrganization.md
+  - Communities, Cultural Protocols, Categories:
+    - communities-cultural-protocols-categories/UnderstandingCommunitiesAndCulturalProtocols.md
+    - communities-cultural-protocols-categories/CreateACommunityAndInitialCulturalProtocol.md
+    - communities-cultural-protocols-categories/CreateACulturalProtocol.md 
+    - communities-cultural-protocols-categories/UnderstandingSharingSettings.md
+    - communities-cultural-protocols-categories/UnderstandingCategories.md
+    - communities-cultural-protocols-categories/CreateCategories.md 
+    - communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md
+    - communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md
+    - communities-cultural-protocols-categories/SharedProtocols.md
+    - communities-cultural-protocols-categories/CategoryTaxonomy.md
+    - communities-cultural-protocols-categories/EditCommunitySettings.md
+    - communities-cultural-protocols-categories/EditCulturalProtocolSettings.md
+    - communities-cultural-protocols-categories/ManageCommunityOrganization.md
   - Collections:
     - collections/UnderstandingCollections.md
     - collections/CreateCollection.md 

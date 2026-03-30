@@ -22,24 +22,24 @@ There are many different roles and responsibilities available to users for appro
 
 - [Create User Accounts as a Community Manager](../users/create-user-accounts-community-manager.md)
 
-- [Manage Community Members](../3Cs/ManageCommunityMembershipAndRoles.md)
+- [Manage Community Members](../communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md)
 
-- [Manage Protocol Members](../3Cs/ManageProtocolMembershipandRoles.md)
+- [Manage Protocol Members](../communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md)
 
 
 ## Communities, Cultural Protocols and Categories
 
 These three structural elements are required to create digital heritage items. You will need at least one community, one cultural protocol within that community, and one category before you can start working with content.
 
-- [Understanding Communities and Cultural Protocols](../3Cs/UnderstandingCommunitiesAndCulturalProtocols.md)
+- [Understanding Communities and Cultural Protocols](../communities-cultural-protocols-categories/UnderstandingCommunitiesAndCulturalProtocols.md)
 
-- [Understanding Categories](../3Cs/UnderstandingCategories.md)
+- [Understanding Categories](../communities-cultural-protocols-categories/UnderstandingCategories.md)
 
-- [Create a Community and Initial Cultural Protocol](../3Cs/CreateACommunityAndInitialCulturalProtocol.md)
+- [Create a Community and Initial Cultural Protocol](../communities-cultural-protocols-categories/CreateACommunityAndInitialCulturalProtocol.md)
 
-- [Create a Cultural protocol](../3Cs/CreateACulturalProtocol.md)
+- [Create a Cultural protocol](../communities-cultural-protocols-categories/CreateACulturalProtocol.md)
 
-- [Create Categories](../3Cs/CreateCategories.md)
+- [Create Categories](../communities-cultural-protocols-categories/CreateCategories.md)
 
 ## Digital Heritage Items and Media
 The majority of the content in a Mukurtu CMS site is digital heritage items. DH items generally include at least one media asset (see below) and supporting metadata. Media assets are uploaded independently of DH items, and can be included in multiple DH items or used in other areas of the site.

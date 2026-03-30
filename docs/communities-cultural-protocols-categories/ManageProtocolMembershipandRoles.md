@@ -21,7 +21,7 @@ tags:
 
 A blank **Add member** form will load.
 
-2. In the *Username* field, begin entering their username. A list of community members will autopopulate. Select the correct user. If you do not see the user you're looking for, make sure they have been added to the protocol's community. See [Manage Community Members](../3Cs/ManageCommunityMembershipAndRoles.md).
+2. In the *Username* field, begin entering their username. A list of community members will autopopulate. Select the correct user. If you do not see the user you're looking for, make sure they have been added to the protocol's community. See [Manage Community Members](../communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md).
 
 3. Select their role(s). In order of responsibility: 
 

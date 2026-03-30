@@ -55,7 +55,7 @@ Like any other protocol, protocol stewards manage shared protocols. Protocol ste
 
 Protocol stewards can add and remove users and manage user roles. They can see and add all members of all parent communities, regardless of their own membership in those communities.
 
-The steps to add users and assign user roles are the same as with typical protocols. For detailed instructions, see [Manage Protocol Members](../3Cs/ManageProtocolMembershipandRoles.md)
+The steps to add users and assign user roles are the same as with typical protocols. For detailed instructions, see [Manage Protocol Members](../communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md)
 
 ## Assigning shared protocols to 
 

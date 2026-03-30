@@ -59,7 +59,7 @@ Non-members can view public material.
 
 ### Protocol member
 
-Protocol members can view the protocol page and any content within the protocol. They can also view comments left on content within the protocol. There is one exception: when content under multiple protocols requires membership in all protocols to access this content, the user will need to meet those requirements to view the item. To learn more about sharing settings for multi-protocol content, see [Understanding Sharing Settings](../3Cs/UnderstandingSharingSettings.md). 
+Protocol members can view the protocol page and any content within the protocol. They can also view comments left on content within the protocol. There is one exception: when content under multiple protocols requires membership in all protocols to access this content, the user will need to meet those requirements to view the item. To learn more about sharing settings for multi-protocol content, see [Understanding Sharing Settings](../communities-cultural-protocols-categories/UnderstandingSharingSettings.md). 
 
 ### Protocol affiliate
 
@@ -96,4 +96,4 @@ Protocol stewards have full permission to create, edit, and delete content under
 Protocols stewards manage the look and feel of the protocol page, including the title, banner and thumbnail images, description, protocol type, and other advanced display settings. 
 
 
-To read more about managing membership in communities and protocols, see [Manage Community Membership and Roles](../3Cs/ManageCommunityMembershipAndRoles.md) and [Manage Protocol Membership and Roles](../3Cs/ManageProtocolMembershipandRoles.md).
+To read more about managing membership in communities and protocols, see [Manage Community Membership and Roles](../communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md) and [Manage Protocol Membership and Roles](../communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md).
