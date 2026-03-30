@@ -74,7 +74,7 @@ In the content section of the dashboard, select the **add word list** link.
 
 ## Additional Fields
 
-1. Use the *Keywords* to add any keywords to your word list. Keywords are used to tag word lists to ensure they are discoverable when searching or browsing. They are more flexible and specific than categories. Consider adding 3-5 keywords to your word list by selecting the "Add another item" button to add additional keywords fields.
+1. Use the *Keywords* to add any keywords to your word list. Keywords are used to tag word lists to ensure they are discoverable when searching or browsing. They are more flexible and specific than categories. Include as many keywords as needed. Select exisitng keywords or add new ones. Drag to reorder keywords. Select the "x" to delete.
 
 2. Select *Map Points* for your word list. Map points is a detailed, interactive mapping tool that allows placing and drawing multiple locations related to a word list. This field is also used for the browse by map tools. Refer to [Create Map Points](../location-data/CreateMapPoints.md) for detailed instructions on creating map points.
 
@@ -83,7 +83,7 @@ In the content section of the dashboard, select the **add word list** link.
 
 3. Add a *Location Description* to provide additional context and depth to the location(s) connected to the word list. This is a full HTML field that also supports additional media.
 
-4. Use the *Location* field to provide a taxonomic location term for your word list. This can be a named place, or places, that are closely connected to the word list. Examples include the place names that use words from the word list and the region where the words of the word list originated.
+4. Use the *Location* field to provide a taxonomic location term for your word list. This can be a named place, or places, that are closely connected to the word list. Examples include the place names that use words from the word list and the region where the words of the word list originated. Include as many locasions as needed. Select exisitng locations or add new ones. Drag to reorder locations. Select the "x" to delete.
 
 5. Use the *Local Contexts* field to apply Traditional Knowledge labels to your word list.
 
