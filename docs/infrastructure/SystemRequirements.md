@@ -27,13 +27,13 @@ If using Nginx
 
 - Create nginx config for Drupal and PHP (Google AI is helpful for this) 
 
-PHP version 8.3 or higher. Version 8.4 is recommended 
+We currently recommend PHP version 8.3. 
 
 A database server such as  
 
-- [MySQL 5.7.8](https://www.mysql.com/) or higher 
+- [MySQL](https://www.mysql.com/) latest version
 
-- [MariaDB 10.3.7](https://mariadb.org/) or higher 
+- [MariaDB](https://mariadb.org/) latest version
 
 
 

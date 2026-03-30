@@ -15,7 +15,7 @@ This article will walk you through creating a dictionary word and using word ent
 
 To create a dictionary word, as a protocol steward, language steward, or language contributor, from the Create Content menu, select **Dictionary word**.
 
-![Select dictionary word from create content menu](../_embeds/placeholderscreenshot.png)
+![Select dictionary word from create content menu](../_embeds/dictionary-word-01.png)
 
 ## Mukurtu Essentials
 
@@ -106,27 +106,22 @@ Add a definition of the term. This may be a one to one translation, or it may in
 
 Sample sentences can be used to demonstrate use of the word. You may add an unlimited number of sample sentences. They can be text, audio, or both combined. 
 
-- 225 characters max.
-
-    1. Enter a sentence or phrase.
+1. Enter a sentence or phrase.
+    - 225 characters max.
        
-        ![Screenshot of sample sentence and recording field with sample sentence added](../_embeds/placeholderscreenshot.png)
+2. Select **Add Media** to add a recording. Only one recording per sentence can be added.
 
-    2. Select **Add Media** to add a recording. Only one recording per sentence can be added.
-        
-        ![Add media modal](../_embeds/placeholderscreenshot.png)
+3. To add additional sample sentences, select **Add Sample Sentence**. Sample sentences can be reordered by selecting the arrow and dragging it up or down.
 
-    3. To add additional sample sentences, select **Add Sample Sentence**. Sample sentences can be reordered by selecting the arrow and dragging it up or down.
+4. To remove a sample sentence, select "Remove" in the top right corner of the sample sentence field. Select "Confirm Removal" to confirm.
 
-        ![Sample sentence fields](../_embeds/placeholderscreenshot.png)
+![The sample sentence field with a sample sentence and audio recording. The arrow for re-ordering is highlighted.](../_embeds/dictionary-word-20.png)
 
 ### Word Type
 
 This field can be used for parts of speech, syntactic or grammatical categories. 
 
-1. As you type, previously used word types will display. 
-
-2. Select an existing word type or add a new one. To add additional word types, select **Add Another Item**. 
+Include as many word types as needed. Select exisitng word types or add new ones. Drag to reorder word types. Select the "x" to delete.
 
 ![The word type field filled out](../_embeds/dictionary-word-07.png)
 
@@ -150,13 +145,8 @@ Enter information about the history or etymology of the entry. This may include 
 
 ### Contributor
 
-1. Enter any entities (people, groups, tribes, clans, etc.) who aided in making the entry. Names can appear in any format. As you type, previous names of existing contributors will be displayed. 
-
-2. Select an existing contributor or add a new name. 
-
-3. To add additional contributors, select **Add another item**. 
-
-4. Multiple contributors can be reordered by selecting the arrow and dragging the field up or down.
+Enter any entities (people, groups, tribes, clans, etc.) who aided in making the entry. Names can appear in any format. 
+Include as many contributors as needed. Select exisitng contributors or add new ones. Drag to reorder contributors.
 
 ## Word Entries
 
@@ -164,7 +154,6 @@ Word entries are multiple entries that appear under one term. This allows you to
 
 You can add an unlimited amount of word entries by selecting **Add Word Entries** at the bottom of the word entry page.
 
-![The word entry tab displaying a two collapsed word entries](../_embeds/placeholderscreenshot.png)
 
 ## Additional Fields
 
@@ -178,15 +167,8 @@ You can add media assets to your dictionary word. Select **Add media** to select
 
 ### Keywords
 
-Keywords are terms used to describe content to ensure that the item will be discoverable when searching or browsing.They are more flexible and specific than categories. 
-
-1) Begin typing a keyword. As you type, previously used keywords will be displayed. 
-
-2) Select an existing keyword or add a new one. 
-
-3) To add additional keywords, select **Add another item**. 
-
-4) Multiple keywords can be reordered by selecting the arrow and dragging the field up or down.
+Keywords are terms used to describe content to ensure that the item will be discoverable when searching or browsing. They are more flexible and specific than categories. 
+Include as many keywords as needed. Select exisitng keywords add new ones. Drag to reorder keywords. Select the "x" to delete.
 
 ### Locations
 
@@ -214,13 +196,8 @@ Enter a *Location*.
 
 Location is a taxonomy field which can be useful to label and connect content using the same term. 
 
-1. Begin entering a term. As you type, previously used location terms will be displayed. 
+Include as many locations as needed. Select existing locations or add new ones. Drag to reorder locations. Select the "x" to delete.
 
-2. Select an existing term or add a new one. 
-
-3. To add additional terms, select **Add another item**. 
-
-4. Multiple terms can be reordered by selecting the arrow and dragging the field up or down.
 
 ![Screenshot of the locations taxonomy field with terms entered.](../_embeds/dictionary-word-10.png)
 
@@ -265,5 +242,5 @@ When you are finished filling out all relevant metadata fields, select "Save" wh
 
 The term will display along with a success message.
 
-![Completed dictionary word with success message](../_embeds/placeholderscreenshot.png)
+![Completed dictionary word with success message](../_embeds/dictionary-word-19.png)
 
