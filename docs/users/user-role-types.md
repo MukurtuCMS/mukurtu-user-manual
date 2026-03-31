@@ -23,7 +23,7 @@ Mukurtu managers handle most of the site-wide management. They create and manage
 
 ### Mukurtu Roundtrip Manager
 
-The Mukurtu roundtrip manager role is assigned to users who need access to Mukurtu's import/export tools known collectively as roundtrip. In previous versions of Mukurtu, roundtrip was only available to administrative roles with come with many extra controls and permissions. The Mukurtu roundtrip manager allows those with content creation permissions to upload and export metadata and media assets according to those permissions while avoiding exposure to unecessary site controls. 
+Mukurtu roundtrip managers have access to Mukurtu's import and export tools. These permissions are isolated from other site-level access and tools. Any user can be assigned the Mukurtu roundtrip manager role and they will be able to import and export metadata and media based on their existing permissions to create and edit content as determined by their role(s) in cultural protocols.
 
 ### Authenticated user
 
