@@ -32,15 +32,18 @@ You can also make certain changes to user accounts in bulk. Available changes ar
 - Add the administrator role to the selected users 
     - The selected users will be assigned the administrator role 
 - Add the Mukurtu Manager role to the selected users (use with extreme caution!)
-    - The select users will be assigned the Mukurtu manager role.
+    - The selected users will be assigned the Mukurtu manager role.
+- Add the Mukurtu Roundtrip Manager role to the selected user(s)
+    - The selected users will be assigned the Mukurtu Roundtrip Manager role.
 - Block the selected user(s) 
     - The status of the user will be changed from "active" to "blocked"
 - Cancel the selected user account(s)
     - Applying this action will open a secondary page where you will select a cancellation method.
 - Remove the administrator role from the selected user(s) 
     - The administrator role and associated acceess and capabilities will be removed from the user(s)
-- Remove the Mukurtu manager role from the selected user(s) 
-    - The Mukurtu manager role and associated access and capabiltiites will be removed from the user(s)
+- Remove the Mukurtu Manager role from the selected user(s) 
+    - The Mukurtu Manager role and associated access and capabiltiites will be removed from the user(s)
+- Remove the Mukurtu Roundtrip Manager role from the selected user(s)
 - Unblock the selected user(s) 
     - The user's status will be changed from "blocked" to "active"
 
@@ -85,12 +88,19 @@ SCREENSHOT 20
 2. A success message is displayed, and the administrator role is applied to the selected users.
 ![The people page reloaded with a success message. The added administrator role is highlighted](../_embeds/add-user-account-22.png)
 
-### Add the Mukurtu Manager role to the selected users
+### Add the Mukurtu manager role to the selected users
 1. Complete steps 1-3.
-![The people page with two users selected and the action item "Add the Mukurtu Manager role to the selected users" is selected](../_embeds/add-user-account-23.png)
+![The people page with two users selected and the action item "Add the Mukurtu manager role to the selected users" is selected](../_embeds/add-user-account-23.png)
 
 2. A success message is displayed, and the Mukurtu manager role is applied to the selected users.
 ![The people page reloaded with a success message. The added Mukurtu manager role is highlighted](../_embeds/add-user-account-24.png)
+
+### Add the Mukurtu Roundtrip manager role to the selected users
+1. Complete steps 1-3.
+![The people page with two users selected and the action item "Add the Mukurtu Roundtrip manager role to the selected users" us selected](../_embeds/add-user-account-42.png)
+
+2. A success message is displayed, and the Mukurtu Roundtrip manager role is applied to the selected users.
+![The people page reloaded with a success message. The added Mukurtu Roundtrip manager role is highlighted](../_embeds/add-user-account-43.png)
 
 ### Block the selected user(s)
 1. Complete steps 1-3.
@@ -171,7 +181,14 @@ Deleting the account and its content will completely delete the user(s) and all 
 ![The people page with two users selected and the action item "Remove the Mukurtu manager role from the selected user(s)" is selected](../_embeds/add-user-account-38.png)
 
 2. A success message is displayed, and the Mukurtu manager role is removed from the selected users.
-![The people page reloaded with a success message. The selected users are no longer Mukurtu Managers. Their role is highlighted](../_embeds/add-user-account-39.png)
+![The people page reloaded with a success message. The selected users are no longer Mukurtu anagers. Their role is highlighted](../_embeds/add-user-account-39.png)
+
+### Remove the Mukurtu Roundtrip manager Role from the selected user(s) 
+1. Complete steps 1-3.
+![The people page with two users selected and the action item "Remove the Mukurtu Roundtrip manager role from the selected user(s)" is selected](../_embeds/add-user-account-44.png)
+
+2. A success message is displayed, and the Mukurtu Roundtrip manager role is removed from the selected users.
+![The people page reloaded with a success message. The selected users are no longer Mukurtu Managers. Their role is highlighted](../_embeds/add-user-account-45.png)
 
 ### Unblock the selected user(s)
 1. Complete steps 1-3.
