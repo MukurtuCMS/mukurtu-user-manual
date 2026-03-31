@@ -21,6 +21,10 @@ This role is automatically assigned to the account that was created when first s
 
 Mukurtu managers handle most of the site-wide management. They create and manage user accounts, review and approve user account requests, assign site-wide roles, create and delete communities, assign community manager roles, manage taxonomies, and have access to Roundtrip tools for import and export. 
 
+### Mukurtu Roundtrip Manager
+
+The Mukurtu roundtrip manager role is assigned to users who need access to Mukurtu's import/export tools known collectively as roundtrip. In previous versions of Mukurtu, roundtrip was only available to administrative roles with come with many extra controls and permissions. The Mukurtu roundtrip manager allows those with content creation permissions to upload and export metadata and media assets according to those permissions while avoiding exposure to unecessary site controls. 
+
 ### Authenticated user
 
 Authenticated users are registered users. They have a username and a password and can be assigned to both site-wide and group user roles. Users that have not been assigned to a role can view any pages, browse pages, and community pages under open protocols. Digital heritage items and dictionary words under open protocols are also visible. Users can create their own personal collections out of existing content.
