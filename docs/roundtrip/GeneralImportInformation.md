@@ -10,34 +10,34 @@ tags:
 
 ## "Authored by" field
 
-The authored by field can reference any valid username (create/edit access not required).
-Regardless of author, protocols still apply to view and edit access.
-The active user MUST have create/edit permissions in relevant protocols for all content in the sheet.
+All import sheets can include an optional `Authored by` field. This is used to indicate which user is responsible for creating the imported content. It can be useful to identify content authors and to track the revision history of content as it is changed.
+
+- The `Authored by` field can reference any valid username.
+- The user running the import MUST have correct protocol permissions for all content and protocols referenced in the sheet.
+- If a user is listed as the author of content and later loses permission to access the content due to protocol membership changes, then they cannot access the content. Being the author of content does not bypass over override protocol access controls.
+
+**If no author is provided** (if the field is empty, omitted entirely, or does not reference a valid username)
+
+- The user running the import is listed as the author.
+
+**If an author with correct protocol permissions is provided, AND the user running the import has correct protocol permissions**
+
+- The user identified in the `Authored by` field is listed as the author.
+
+**If an author with correct protocol permissions is provided, BUT the user running the import does NOT have correct protocol permissions**
+
+- The import will fail with a community membership error. The user running the import MUST have correct protocol permissions.
+
+**If an author with INCORRECT protocol permissions is provided, BUT the user running the import DOES have correct protocol permissions**
+
+- The user running the import is listed as the author.
 
 
 
-What happens when no author is assigned?
 
-The active user is assigned as author.
 
-This applies whether the "authored by" field is omitted or empty.
 
-This also applies if the authored by field does not reference a valid username.
 
-What happens when author is assigned and is different from active user, AND has correct permissions?
 
-The username in "authored by" is correctly assigned.
 
-What happens when author is assigned and is different from active user, AND has differing protocol roles?
 
-Author has a permission that active user does not have?
-
-Active user CANNOT complete the import, receives a community membership error.
-
-Author does not have a permission that is required by protocols field, but active user does?
-
-The named user is set as the author.
-
-If content is created does the author have access that bypasses protocols?
-
-They do not. Authorship does not seem to trump protocols.
