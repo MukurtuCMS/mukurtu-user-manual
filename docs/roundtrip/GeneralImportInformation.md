@@ -76,3 +76,10 @@ The screenshots below show a dictionary word and corresponding word entry as an 
 ![Screenshot of the import mapping showing the dictionary word configuration.](../_embeds/paragraph-import-03.png)
 
 **Importing paragraphs and adding them to existing content**
+
+The process is largely the same as importing content and related paragraphs at the same time.
+
+- The primary difference is that the content spreadsheet ONLY needs to include the ID or UUID field, and the paragraph reference field (unless other edits are being made at the same time).
+- If the content already has a paragraph referenced and more paragraphs are being added, then the ID/UUID/Import ID for ALL paragraphs must be included.
+
+![Screenshot of dictionary word and word entry spreadsheets with the import ID fields indicated.](../_embeds/paragraph-import-04.png)
