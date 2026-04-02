@@ -45,8 +45,8 @@ The stock content and paragraphs are:
 
 |Content type|Paragraph|
 |---|---|
-|Digital heritage items|Citing Indigenous Elders and KNowledge Keepers|
-|Dictionary words|Word entries</br>Sample sentences|
+|Digital heritage items|Citing Indigenous Elders and Knowledge Keepers|
+|Dictionary words|Word entries <br>Sample sentences|
 |Word entries*|Sample sentences|
 |Person records|Biography (text) sections|
 |Place records|Text sections|
