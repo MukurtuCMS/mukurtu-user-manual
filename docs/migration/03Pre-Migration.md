@@ -15,12 +15,12 @@ The pre-migration report will identify all site content that needs to be updated
 
 There are six categories included in the pre-migration report. A more detailed description of the changes for each is provided in the relevant section below.
 
-1) Content (nodes) with no assigned protocols
-2) Media assets (atoms) with no assigned protocols
-3) Text formats: "Markdown" and "Display Suite code"
-4) Dictionary words with additional media
-5) Dailymotion media assets (atoms)
-6) Scald authors field
+1. Content (nodes) with no assigned protocols
+2. Media assets (atoms) with no assigned protocols
+3. Text formats: "Markdown" and "Display Suite code"
+4. Dictionary words with additional media
+5. Dailymotion media assets (atoms)
+6. Scald authors field
 
 ## Run the pre-migration report and clear caches
 
