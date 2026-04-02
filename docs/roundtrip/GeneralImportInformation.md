@@ -6,7 +6,17 @@ tags:
 # General Import Information
 
 !!! Roles "User roles" 
-    Mukurtu manager, Roundtrip manager, Drupal administrator
+    Mukurtu manager, Roundtrip manager, Administrator
+
+## Identifiers: ID, UUID, Import ID
+
+There are three kinds of identifiers that are used in various roundtrip tasks. 
+
+- ID: Created by the system when content, media, terms, etc, are created. These start at `1` and increase from there. They are useful for referencing existing content/entities within the same site.
+- UUID: Created by the system when content, media, terms, etc, are created. These are unique strings (eg: `550e8400-e29b-41d4-a716-446655440000`) that can be used to reference and identify content when sending information between the site and other sites/systems.
+- Import ID: Created by users for referencing across spreadsheets within the same import (mostly for connecting content and paragraphs).
+
+> This is unrelated to the *Identifier* metadata field present in most content and media assets which is descriptive and not structural.
 
 ## "Authored by" field
 
