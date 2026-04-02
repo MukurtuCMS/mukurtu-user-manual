@@ -33,11 +33,7 @@ All import sheets can include an optional `Authored by` field. This is used to i
 - The user running the import is listed as the author.
 
 
+## Draft field
 
-
-
-
-
-
-
-
+At this time if draft field is present, all content must include a value in that field. 
+If it is not required, omit the field entirely.
