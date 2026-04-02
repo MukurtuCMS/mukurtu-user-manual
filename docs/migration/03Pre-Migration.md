@@ -36,12 +36,12 @@ And you can access the report by following the "Reports" > "Pre-migration summar
 
 ![pre-migration01](../_embeds/pre-migration-menu.png)
 
-The report should run automatically, but you may need to click the "Run Pre-migration Report" button run the report. 
+The report should run automatically, but you may need to select the "Run Pre-migration Report" button run the report. 
 
 ![pre-migration02](../_embeds/pre-migration-run-report.png)
 
 After running the pre-migration report, clear all site caches to ensure the report summary is updated. 
-Hover over the home icon at the top left of the page, and click "Flush all caches". The page will reload when complete, which may take some time depending on the size of the site and server configuration.
+Hover over the home icon at the top left of the page, and select "Flush all caches". The page will reload when complete, which may take some time depending on the size of the site and server configuration.
 
 ![pre-migration-cache-clear](../_embeds/pre-migration-cache-clear.png)
 
@@ -53,7 +53,7 @@ Each category will have a summary in the "status" field on the right, which incl
 
 You should resolve the activities in the order displayed to avoid going through some steps multiple times. For example, a piece of content needs to have an assigned protocol before media used in that content can copy that protocol. 
 
-In the "Status" column, click the "Details" link to view the report for each category.
+In the "Status" column, select the "Details" link to view the report for each category.
 
 ![pre-migration01](../_embeds/pre-migration-details.png)
 
@@ -66,11 +66,11 @@ Content refers to digital heritage items, dictionary words, collections, word li
 - You will most likely be able to use the bulk processing tool to add protocols to all content without one, but some content may require manual editing.
 
 The content with missing cultural protocols report displays all content that does not have a protocol assigned.
-If you need to review a single piece of content, you can click on it's title to view. Opening content in a new tab is helpful so you don't have to navigate back to this page as often.
+If you need to review a single piece of content, you can select on it's title to view. Opening content in a new tab is helpful so you don't have to navigate back to this page as often.
 
 ![pre-migration-content-01](../_embeds/pre-migration-content-01.png)
 
-You can filter by content type. This is useful if, for example, you know that all dictionary words will continue to be public or all use the same private protocol, but other content will require more granular decisions. If relevant, select the content type and click "Apply".
+You can filter by content type. This is useful if, for example, you know that all dictionary words will continue to be public or all use the same private protocol, but other content will require more granular decisions. If relevant, select the content type and select "Apply".
 
 ![pre-migration-content-02](../_embeds/pre-migration-content-02.png)
 
@@ -80,13 +80,14 @@ From the "Operations" dropdown, select "Set cultural protocols for content".
 
 Select the content to be assigned a protocol using the check boxes. You can select all content by using the checkbox in the top row.
 Please note that all content selected here will receive the SAME protocol(s) in the next step, so you will likely need to repeat this process multiple times for different groups of content.
-Click "execute".
+Select "execute".
 
 ![pre-migration-content-04](../_embeds/pre-migration-content-04.png)
 
 Select the appropriate item sharing setting - ANY or ALL. 
 If the content will use only one protocol, either setting will work, but the default setting when creating new content on the site is ALL, in case you want to align with that.
 If the content will use more than one protocol, choosing the correct setting is very important:
+
 - ANY means that  a user enrolled in ANY of the selected protocols can access the content. This is a more permissive setting.
 - ALL means that a user must be enrolled in ALL of the selected protocols to access the content. This is a more restrictive setting.
 
@@ -94,11 +95,11 @@ If the content will use more than one protocol, choosing the correct setting is 
 
 Use the checkboxes to select the appropriate protocol(s).
 If there is a protocol you want to use and it is not listed here, ensure that the active user account is a protocol steward for the protocol in question.
-Click "next".
+Select "next".
 
 ![pre-migration-content-06](../_embeds/pre-migration-content-06.png)
 
-A confirmation list will be displayed. If the list looks correct, click "confirm".
+A confirmation list will be displayed. If the list looks correct, select "confirm".
 
 ![pre-migration-content-07](../_embeds/pre-migration-content-07.png)
 
@@ -115,7 +116,7 @@ Media assets represent the files uploaded to the site and stored in the media li
    - The bulk processing tool will add protocols to most media assets, but some may require manual editing.
 
 The Scald Atoms with missing cultural protocols report displays all media assets that do not have a protocol assigned.
-If you need to review a single media asset, you can click on its title to view. Opening media assets in a new tab is helpful so you don't have to navigate back to this page as often.
+If you need to review a single media asset, you can select on its title to view. Opening media assets in a new tab is helpful so you don't have to navigate back to this page as often.
 
 ![pre-migration-media-01](../_embeds/pre-migration-media-01.png)
 
@@ -126,11 +127,13 @@ You can filter by media type to limit the scope of the results. In most cases th
 In the "Operations" dropdown, there are two choices that will allow you to assign protocols to media assets in bulk
 
 **Duplicate cultural protocols from item**
+
 - This selection will copy the all protocols and item sharing settings from a piece of content and apply them to the media assets found in that content.
 - Content and media assets using the same protocols is the most common arrangement across Mukurtu sites. 
 - The two most common scenarios are when users saved time by not applying protocols to media assets used in public content, or if protocols were accidentally missed on media assets used in private content.
 
 **Set cultural protocols for scald atoms**
+
 - This selection allows you to set the specific protocols and item sharing settings on media assets instead of copying them from related content.
 - On many sites this selection will not be needed.
 - Situations that cannot be resolved by the system and manual assignment of protocols is required:
@@ -144,7 +147,7 @@ Select the appropriate operation from the dropdown menu.
 #### Duplicate cultural protocols from items
 
 Select the media assets to duplicate protocols from content using the check boxes. You can select all media assets by using the checkbox in the top row.
-Click "Execute".
+Select "Execute".
 
 ![pre-migration-media-03](../_embeds/pre-migration-media-04.png)
 
@@ -159,13 +162,14 @@ A confirmation message will be displayed. If relevant, media assets that could n
 From the "Operations" dropdown, select "Set cultural protocols for Scald Atoms".
 Select the media assets to be assigned a protocol using the check boxes. You can select all media assets by using the checkbox in the top row.
 Please note that all media assets selected here will receive the SAME protocol(s) in the next step, so you will likely need to repeat this process multiple times for different groups of media assets.
-Click "execute".
+Select "execute".
 
 ![pre-migration-content-03](../_embeds/pre-migration-media-07.png)
 
 Select the appropriate sharing setting - ANY or ALL. 
 If the media assets will use only one protocol, either setting will work, but the default setting when uploading new media assets the site is ALL, in case you want to align with that.
 If the media assets will use more than one protocol, choosing the correct setting is very important:
+
 - ANY means that  a user enrolled in ANY of the selected protocols can access the media assets. This is a more permissive setting.
 - ALL means that a user must be enrolled in ALL of the selected protocols to access the media assets. This is a more restrictive setting.
 
@@ -173,11 +177,11 @@ If the media assets will use more than one protocol, choosing the correct settin
 
 Use the checkboxes to select the appropriate protocol(s).
 If there is a protocol you want to use and it is not listed here, ensure that the active user account is a protocol steward for the protocol in question.
-Click "next".
+Select "next".
 
 ![pre-migration-content-06](../_embeds/pre-migration-media-09.png)
 
-A confirmation list will be displayed. If the list looks correct, click "confirm".
+A confirmation list will be displayed. If the list looks correct, select "confirm".
 
 ![pre-migration-content-07](../_embeds/pre-migration-media-10.png)
 
@@ -193,11 +197,11 @@ Finally a confirmation message will be displayed. You can then return to the pre
 - If you have used either format to achieve specific styling, it may be replicable with one of the HTML settings in Mukurtu 4. We recommend taking screenshots of the pages and copying the code you wrote so that it can be reviewed and re-implemented after migration.
 - This setting will need to manually changed on all fields that use markdown or display suite code. The system cannot infer the correct setting to use, so there are no bulk tools available for this operation.
 
-From the Text formats Markdown and Display Suite code report page, click on the title of the page or content to be reviewed. Opening links in a new tab is helpful so you don't have to navigate back to this page as often.
+From the Text formats Markdown and Display Suite code report page, select on the title of the page or content to be reviewed. Opening links in a new tab is helpful so you don't have to navigate back to this page as often.
 
 ![pre-migration-text-01](../_embeds/pre-migration-text-01.png)
 
-Depending on the type of page, in the top left, click either "page menu" or "item menu" and then "edit".
+Depending on the type of page, in the top left, select either "page menu" or "item menu" and then "edit".
 
 ![pre-migration-text-01](../_embeds/pre-migration-text-02.png)
 
@@ -224,7 +228,7 @@ Repeat these steps for each result in the report.
 - The system can't infer how to move these media assets, so you will need to manually move any media assets used in the Mukurtu 3 "additional media" field into the new thumbnail or media assets field if you want them to be included in the migration. The contents of the additional media field will NOT be migrated. If no action is taken, this data WILL be lost.
 - This can also be accomplished with regular batch update tools if preferred.
 
-From the Dictionary words with additional media report, click on the dictionary word to be edited.
+From the Dictionary words with additional media report, select on the dictionary word to be edited.
 
 ![pre-migration-dictionary-media-01](../_embeds/pre-migration-dictionary-media-01.png)
 
@@ -255,10 +259,10 @@ Repeat these steps for each result in the report.
 - Dailymotion media assets will NOT be migrated.
 - There is no automated process to resolve Dailymotion videos.
 - If you have any Dailymotion videos, you will need to...
-   1) Move them to a different hosting platform (either Vimeo or Youtube) or upload them directly to the site (not recommended).
-   2) Create new media assets for the newly hosted videos.
-   3) Replace the Dailymotion media assets with the new media assets in any DH items or other content where they are used.
-   4) Delete the old Dailymotion media assets.
+   1. Move them to a different hosting platform (either Vimeo or Youtube) or upload them directly to the site (not recommended).
+   2. Create new media assets for the newly hosted videos.
+   3. Replace the Dailymotion media assets with the new media assets in any DH items or other content where they are used.
+   4. Delete the old Dailymotion media assets.
 
 ### Scald authors field
 
@@ -269,7 +273,7 @@ Repeat these steps for each result in the report.
 - No action is required, you can leave this field populated and it will not affect the migration.
 - If you do choose to resolve these messages follow the steps below. This can also be accomplished with regular batch update tools if preferred.
 
-From the Scald Authors report, click on the title of the media asset to be edited.
+From the Scald Authors report, select on the title of the media asset to be edited.
 
 ![pre-migration-scald-authors-01](../_embeds/pre-migration-scald-authors-01.png)
 
@@ -279,7 +283,7 @@ From the "page menu" select "edit".
 
 Expand the "additional fields" section.
 Locate the "authors" field and delete any terms. If you need to preserve these terms, consider entering them in the "people" or "contributor" field, as appropriate.
-With the field empty, click "Finish".
+With the field empty, select "Finish".
 A confirmation message will be displayed (not shown).
 
 ![pre-migration-scald-authors-03](../_embeds/pre-migration-scald-authors-03.png)
@@ -289,6 +293,7 @@ Repeat these steps for each result in the report.
 ## Pre-migration work complete
 
 When you have completed the pre-migration activities, the report will indicate:
+
 - There are no nodes using unsupported text formats
 - All content has cultural protocols
 - All Scald Atoms have cultural protocols
