@@ -7,7 +7,7 @@ tags:
 # Import Digital Heritage Items
 
 !!! roles "User roles"
-    Administrator, Mukurtu manager, Mukurtu roundtrip manager
+    Administrator, Mukurtu manager, Roundtrip manager
 
 This article provides some general notes and tips to help you get the most out of importing Digital Heritage Items using Roundtrip. 
 

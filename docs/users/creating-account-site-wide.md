@@ -50,7 +50,7 @@ Once the form is open, fill out the form.
     1. When a user submits an account request, their account is created and their status is set to "Blocked" until the Mukurtu manager approves the account and changes their status to "Active".
     2. When a user takes inappropriate actions that warrant a temporary loss of access to the site. To access the site again, their status must be changed to "Active."
 
-5. Select a site-wide role for the user. By default, all users are assigned the authenticated user role, and this is the correct setting for the majority of users. This role allows them to view public material and save content to their own personal collections. The administrator and Mukurtu manager roles are for users who manage the site and therefore have additional access to controls and settings. The Mukurtu Roundtrip manager role can be assigned to users who need access to roundtrip (import/export) tools. Assign these roles with extreme caution.
+5. Select a site-wide role for the user. By default, all users are assigned the authenticated user role, and this is the correct setting for the majority of users. This role allows them to view public material and save content to their own personal collections. The administrator and Mukurtu manager roles are for users who manage the site and therefore have additional access to controls and settings. The Roundtrip manager role can be assigned to users who need access to roundtrip (import/export) tools. Assign these roles with extreme caution.
 
     !!! tip
 	    For detailed information about user account requests, see [Request an Account](request-an-account.md).
