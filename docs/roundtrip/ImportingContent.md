@@ -6,7 +6,7 @@ tags:
 # Importing Content
 
 !!! Roles "User roles" 
-    Administrator, Mukurtu manager, Mukurtu roundtrip manager
+    Administrator, Mukurtu manager, Roundtrip manager
 
 - In Mukurtu 3, there were many different starting points for import, depending on the content type or media being import, or if importing multiple content types/media. 
     - Metadata of a single content type went straight to an upload form with no configuration options.

@@ -7,7 +7,7 @@ tags:
 # Import Word Lists
 
 !!! roles "User roles"
-    Administrator, Mukurtu manager, Mukurtu roundtrip manager
+    Administrator, Mukurtu manager, Roundtrip manager
 
 This article provides some general notes and tips to help you get the most out of importing Word Lists using Roundtrip. 
 
