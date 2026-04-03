@@ -102,7 +102,7 @@ To save a template, set the toggle to green and give your template a descriptive
 ![Saving a template by setting the toggle to green and adding a template name](../_embeds/import-content-10.png)
 
 
-### Review and run import
+## Review and run import
 If you saved your template, you will now see it selected in the import configuration dropdown menu with a summary of the content type, number of fields mapped, and number of fields ignored. If you need to make additional changes, select "Customize Settings" to return to the import settings. When you are ready to proceed with the import, select "Review Import."
 
 ![The updated file configuration page showing count of mapped fields and the newly saved template](../_embeds/import-content-12.png)
