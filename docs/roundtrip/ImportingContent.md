@@ -8,12 +8,6 @@ tags:
 !!! Roles "User roles" 
     Administrator, Mukurtu manager, Roundtrip manager
 
-In Mukurtu 3, there were many different starting points for import, depending on the content type or media being imported, or if importing multiple content types/media.
-
-Metadata of a single content type went straight to an upload form with no configuration options, and multiple components required quite complex interrelated spreadsheets and media files properly arranged in zipped folders.
-
-Now there is a more flexible single import start point that can handle more complexity.
-
 This article will walk you through the general steps to import a .csv metadata sheet and accompanying media assets. While the basic steps are the same for each content type, there are specifics about each type that are discussed in dedicated articles. Please refer to the article for the content type you are importing for more detail:
 
 - [Import Digital Heritage Items](../roundtrip/DHItems.md) 
@@ -25,7 +19,7 @@ This article will walk you through the general steps to import a .csv metadata s
 - [Import Media](../roundtrip/ImportingNewMedia.md)
 
 !!!Requirement 
-    Users must either be a Mukurtu manager or a Mukurtu Roundtrip manager to access roundtrip tools. Users will only be able to upload according to their protocol permissions. See [Manage User from a Site-wide role](../users/manage-user-accounts-site-wide.md) for more information.
+    Users must either be a Mukurtu manager or a Roundtrip manager to access roundtrip tools. Users will only be able to upload according to their protocol permissions. See [Manage User from a Site-wide role](../users/manage-user-accounts-site-wide.md) for more information.
 
 ## Upload content
 
@@ -33,15 +27,12 @@ To import content, go to `/admin/import` or from the dashboard, select **Import*
 
 ![The dashboard with the import link highlighted.](../_embeds/import-content-01.png)
 
-The import page has two upload fields. The first field is for .csv sheets only. The second field is for media or binary files that are referenced in the csv sheets. You can upload multiple files in each field. 
+The import page has two upload fields. The **metadata files** field is for .csv sheets only. The **media/binary files** field is for media or binary files that are referenced in the csv sheets. You can upload multiple files in each field. 
 
 !!! Requirement
     To upload media, you must upload an accompanying metadata sheet for the media asset that is separate from the content item. See [Importing new media](../roundtrip/ImportingNewMedia.md) for instructions.
 
 1. Under **metadata files** select "choose files." Select the file(s) you would like to upload. 
-
-!!! Tip
-    If you're uploading content with paragraphs or media asset sheets, select the content metadata sheets first, then the paragraphs and media assets metadata.
 
 2. Under **media/binary files** select "choose files." Select the media file(s) you woud like to upload.
 
@@ -50,11 +41,20 @@ Any combination of CSV sheets and supported media assets can be selected. When y
 ![The import page showing two csv spreadsheets and 2 media assets selected for upload](../_embeds/import-content-02.png)
 
 
-### Configure import settings
+## Configure import settings
 
-The file configuration page lists each spreadsheet you've uploaded. If your sheet's columns map to a custom configuration you have already saved, it will be available in the import configuration drop-down menu. If not, select "customize settings" to map your spreadsheet onto the appropriate metadata fields for the content item. If you uploaded multiple spreadsheets, each spreadsheet will need to be configured individually following the steps below.
+The file configuration page lists each spreadsheet you've uploaded. The custom configuration dropdown menu lists several templates that when selected, apply the default import settings for that content. You may want to start with that, and customize it to your needs.
+
+If you have a custom template saved, it will alsoo be listed.
+
+If you are not using a template, you can create customizations from scratch.
+
+Either way, you can customize your settings by selecing "customize settings."
+
+If you uploaded multiple spreadsheets, each spreadsheet will need to be configured individually following the steps below.
 
 ![The file configuration page showing the spreadsheet file name, the import configuration drop down menu and the customize settings button](../_embeds/import-content-03.png)
+
 
 #### Import type
 
@@ -87,14 +87,14 @@ For each column name you wish to map, open the corresponding menu and select the
     Note that you cannot map two columns to the same field. For example, if you have two columns labeled "source," you cannot select "source" twice as a target field.
 
 #### File settings
-When your mapping is complete, scroll down to file settings and make sure that the default settings reflect your spreadsheet. Make any necessary changes to ensure your spreadsheet is read correctly.
+When your mapping is complete, scroll down to file settings and make sure that the default settings reflect your spreadsheet. The default settings are likely fine, but if you know your sheet is formatted differently, make any necessary changes to ensure your spreadsheet is read correctly.
 
 For example, if you are using "||" as a multi-value delimeter, replace  
 ";" with "||" in the *multi-value delimeter* field.
 
 ![The default file settings](../_embeds/import-content-11.png)
 
-#### Import configuration template
+#### Saving an import template
 If you will be uploading other sheets that match these settings, you can save this as a template for future uploads, and these configuration steps won't have to be repeated.
 
 To save a template, set the toggle to green and give your template a descriptive title. When you are done, select "Save." You will be returned to the file configuration page. 
