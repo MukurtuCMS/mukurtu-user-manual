@@ -45,7 +45,7 @@ Any combination of CSV sheets and supported media assets can be selected. When y
 
 The file configuration page lists each spreadsheet you've uploaded. The custom configuration dropdown menu lists several templates that when selected, apply the default import settings for that content. You may want to start with that, and customize it to your needs.
 
-If you have a custom template saved, it will alsoo be listed.
+If you have a custom template saved, it will also be listed.
 
 If you are not using a template, you can create customizations from scratch.
 
