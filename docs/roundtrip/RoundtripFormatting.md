@@ -21,8 +21,8 @@ The Roundtrip tools make use of CSV spreadsheets for import and export. Here are
 - Certain exports will generate ZIP archives for download.
     - ZIP archives compress files and folder directories to reduce their size and facilitate transfer of larger files.
     - All operating systems have built-in tools to create and open ZIP archives – they are often found under “compress” actions.
-        - ![Compress or uncompress files and folders on Mac](https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac)
-        - ![Zip and unzip files (Windows)](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5)
+        - [Compress or uncompress files and folders on Mac](https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac)
+        - [Zip and unzip files (Windows)](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5)
     - Third-party ZIP tools can be used, but are  not required.
 
 ## Spreadsheet tools:
@@ -30,6 +30,7 @@ The Roundtrip tools make use of CSV spreadsheets for import and export. Here are
 In general, any spreadsheet tool that supports the above file format and character encodings requirements should work fine. We have some recommendations based on our testing and experiences:
 
 **Google Sheets**
+
 - Good for online/collaborative work.
 - Works on all operating systems and browsers.
 - Supports CSV export.
@@ -37,6 +38,7 @@ In general, any spreadsheet tool that supports the above file format and charact
 - Free, but requires a Google account to use, and in certain cases using a service like this may not be appropriate, especially if sensitive information is being entered.
 
 **LibreOffice and OpenOffice**
+
 - Good for offline/local work.
 - Work on all operating systems.
 - Supports saving as CSV.
@@ -44,6 +46,7 @@ In general, any spreadsheet tool that supports the above file format and charact
 - Free to download.
 
 **Microsoft Excel**
+
 - Microsoft Excel is NOT recommended.
 - Defaults to XLS, not as easy to use CSV.
 - Defaults to a proprietary encoding, and does not reliably support UTF-8 encoding.
@@ -51,4 +54,4 @@ In general, any spreadsheet tool that supports the above file format and charact
 - At this time, we have not thoroughly tested any of Microsoft’s online services (eg: Office 365) and are not sure how they address these issues.
 
 **Numbers**
-- Not yet tested.
+- Numbers-generated CSV sheets cannot have any excess, empty columns. These will cause the import to fail, so delete any unused columns entirely.
