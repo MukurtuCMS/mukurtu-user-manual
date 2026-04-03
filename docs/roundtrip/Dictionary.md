@@ -10,6 +10,8 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
+Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information").
+
 ## Dictionary words
 
 |Field Name|Description|Format Information|
@@ -17,7 +19,7 @@ tags:
 |**Required**|**Cannot be empty**||
 |Term|A word, term, phrase, or other language element.|This field is plain text and limited to 255 characters.|
 |Cultural Protocols > Protocols||IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.|
-|Cultural Protocols > Sharing Setting|Either 'Any' or 'All', case insensitive.|
+|Cultural Protocols > Sharing Setting||Either 'Any' or 'All', case insensitive.|
 |Language|Each dictionary word is associated with one language. Dictionary languages must first be configured by a Mukurtu Manager.|Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary.|
 |ID|Only used when updating existing dictionary words, not when creating new dictionary words.|Integer.|
 |**Required**|**Will autofill if empty**||
@@ -28,7 +30,7 @@ tags:
 |Translation|Translations of the entry into other languages. Consider indicating the language of the translation, eg: Apple (English).|This field is plain text and limited to 255 characters, separated by your selected multi-value delimiter.|
 |Recording|Audio recordings of the entry being spoken, usually on its own. Multiple recordings may be used to represent different types of speakers (eg: speakers of different ages, genders, accents, or dialects), or different forms the entry can take. Recordings can be assigned a different cultural protocol from the dictionary word to allow differential access to the recordings and metadata.|ID, UUID, or title of the reference. The title must be exact and match only one item.|
 |Definition|A longer definition or description of the entry.|Formatted text.|
-|Sample Sentences|The sample sentence and recording fields are repeatable. They can be bundled together (text and corresponding recording) or used separately (just text or just a recording). See [Word entries and sample sentences](#word-entries-and-sample-sentences)for more information.|The ID or UUIDs of the paragraphs, separated by your selected multi-value delimiter.|
+|Sample Sentences|The sample sentence and recording fields are repeatable. They can be bundled together (text and corresponding recording) or used separately (just text or just a recording). See [Word entries and sample sentences](#word-entries-and-sample-sentences) for more information.|The ID or UUIDs of the paragraphs, separated by your selected multi-value delimiter.|
 |Word Type|Word types may include parts of speech, syntactic or grammatical categories, or any other relevant system to classify entries.|Taxonomy term name, ID, or UUID. The name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
 |Pronunciation|A pronunciation guide used to teach language learners the correct pronunciation of the entry. Pronunciation guides may use a standard phonetic alphabet or whatever notation system is used by speakers and teachers of the language, eg: indicating stress with bold text or capitalizing syllables.|Formatted text.|
 |Source|Reference to a resource from which the entry was collected or sourced. Examples include a specific dictionary or language researcher, or the places where the entry is used (in the case of dialectical variation, for example).|This field is plain text and limited to 255 characters.|
