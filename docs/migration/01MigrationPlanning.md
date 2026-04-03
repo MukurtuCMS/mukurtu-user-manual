@@ -14,6 +14,7 @@ If you have undertaken any customization of Mukurtu we strongly encourage you to
 Please contact us at [support@mukurtu.org](mailto:support@mukurtu.org) so that we can discuss your options and needs for migration and re-implementation. There will not be a one-size-fits-all solution, but we plan to document the common customizations reported by users and make workflows, tools, and any other resources available to all users to support everyone's migration efforts.
 
 Customization includes, but may not be limited to:
+
 - Adding new fields to existing content types.
 - Disabling fields on existing content types.
 - Modifying the data structure of existing fields.
@@ -29,6 +30,7 @@ Customization includes, but may not be limited to:
 You will need to collect database credentials from your Mukurtu 3 site for use in your eventual migration. We recommend reviewing this well in advance and recoding this information somewhere accessible so you can copy and paste it into your new Mukurtu 4 site when prompted.
 
 You will need to prepare the following database settings and credentials.
+
 - Database type
 - Database host
 - Database name
@@ -62,6 +64,7 @@ Select the "advanced" tab.
 ![migration-credentials-05](../_embeds/migration-credentials-05.png)
 
 Record the following information. We recommend copying this into a local text document for future reference.
+
 - Location Files
   - It will probably be something like "/home/[domain]/public_html/[site]"
   - This will be used to fill in the document root information.
@@ -90,6 +93,7 @@ Contact your server/system administrator. They should be directly involved in th
 > Use command line tools with caution. If you are not familiar with command line tools contact your server/system administrator or use other tools.
 
 Change to the directory with your Mukurtu settings.php file.
+
 - On most hosts it will be something like /var/www/html/[sitename]/sites/default/files
 - On Reclaim it will likely be either
   - For a single domain or sub-folder install (eg: mydomain.com or mydomain.com/mukurtusite): /public_html/[sitename]/sites/default
