@@ -8,6 +8,10 @@ tags:
 !!! Roles "User roles" 
     Mukurtu manager, Roundtrip manager, Administrator
 
+## Spreadsheet templates
+
+Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information").
+
 ## Identifiers: ID, UUID, Import ID
 
 There are three kinds of identifiers that are used in various roundtrip tasks. 
