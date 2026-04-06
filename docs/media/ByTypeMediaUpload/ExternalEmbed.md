@@ -59,18 +59,17 @@ tags:
     !!! tip
         This field feeds into the "deceased person" media content warnings.
 
-    - If more than one individual should be listed, use the "Add another item" button to add additional people fields. 
-    - Select and drag the arrows to reorder your people if necessary. 
-    - To remove a person, select the "Remove" button.
+    - If more than one individual should be listed, use the text box to select existing people terms or add new ones. 
+    - Select and drag to reorder if necessary. 
+    - To remove a person, select the "X".
     
-9. Select a *Media tag* to apply to the external embed by entering text in the dropdown box and selecting from the provided options. 
+9. Select a *Media tag* by entering text in the text box and selecting from the provided options. Include as many media tags as needed. Select from existing media tags or add new ones.
 
     !!! tip 
         Media tags can be used to tag and locate assets within the media library (for example, `oral history` or `newspaper`). They can also be used to trigger media content warnings when that tool is enabled.
 
-    - If more than one media tag should be included, use the "Add another item" button to add additional media tag fields. 
-    - Select and drag the arrows by the media tag's name to reorder it if necessary. 
-    - To remove a media tag, select the "Remove" button.
+    - Select and drag to reorder if necessary. 
+    - To remove a media tag, select the "X".
 
     ![Screenshot of the people and media tag fields, with the appropriate information filled in.](../../_embeds/embed4.png)
 
