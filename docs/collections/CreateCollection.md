@@ -63,7 +63,7 @@ Select **Collection** to begin creating your collection. The remaining steps to 
 
 ## Additional fields
 
-1. Use the *Keywords* to add any keywords to your collection. Keywords are used to tag collections to ensure they are discoverable when searching or browsing. They are more flexible and specific than categories. Consider adding 3-5 keywords to your collection by selecting exisitng keywords or adding new ones. Drag to reorder word types. Select the "x" to delete.
+1. Use the *Keywords* to add any keywords to your collection. Keywords are used to tag collections to ensure they are discoverable when searching or browsing. They are more flexible and specific than categories. Consider adding 3-5 keywords to your collection by selecting existing keywords or adding new ones. Drag to reorder keywords. Select the "x" to delete.
 
     ![Screenshot of the keywords field with manuscripts and random access memory filled in](../_embeds/createcollections6.png)
  
