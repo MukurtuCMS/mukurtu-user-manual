@@ -25,7 +25,7 @@ Enter the person's name as they should be primarily identified in the *Name* fie
 
 ### Cultural protocols
 
-Use the toggle(s) to apply cultural protocols to your digital heritage item. 
+Use the toggle(s) to apply cultural protocols to your person record. 
 
 - This is a required field.
 
@@ -34,7 +34,7 @@ Use the toggle(s) to apply cultural protocols to your digital heritage item.
 Select a **Sharing setting**. Sharing setting has two options: you can select **Any** or **All**. 
 
 - Any is the less restrictive setting as it means that the content can be shared with people belonging to any one or more of the protocols selected. 
-- All is more restrictive as users must belong to all the selected protocols to view the digital heritage item. 
+- All is more restrictive as users must belong to all the selected protocols to view the place record. 
 - This is a required field.
 
 ### Other names
