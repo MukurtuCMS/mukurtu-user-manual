@@ -121,7 +121,7 @@ Sample sentences can be used to demonstrate use of the word. You may add an unli
 
 This field can be used for parts of speech, syntactic or grammatical categories. 
 
-Include as many word types as needed. Select exisitng word types or add new ones. Drag to reorder word types. Select the "x" to delete.
+Include as many word types as needed. Select existing word types or add new ones. Drag to reorder word types. Select the "x" to delete.
 
 ![The word type field filled out](../_embeds/dictionary-word-07.png)
 
@@ -146,7 +146,7 @@ Enter information about the history or etymology of the entry. This may include 
 ### Contributor
 
 Enter any entities (people, groups, tribes, clans, etc.) who aided in making the entry. Names can appear in any format. 
-Include as many contributors as needed. Select exisitng contributors or add new ones. Drag to reorder contributors.
+Include as many contributors as needed. Select existing contributors or add new ones. Drag to reorder contributors.
 
 ## Word Entries
 
@@ -168,7 +168,7 @@ You can add media assets to your dictionary word. Select **Add media** to select
 ### Keywords
 
 Keywords are terms used to describe content to ensure that the item will be discoverable when searching or browsing. They are more flexible and specific than categories. 
-Include as many keywords as needed. Select exisitng keywords add new ones. Drag to reorder keywords. Select the "x" to delete.
+Include as many keywords as needed. Select existing keywords add new ones. Drag to reorder keywords. Select the "x" to delete.
 
 ### Locations
 

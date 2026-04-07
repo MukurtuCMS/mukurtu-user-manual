@@ -41,11 +41,11 @@ Select a **Sharing setting**. Sharing setting has two options: you can select **
 
 People may be identified by multiple names, monikers, identities, and with inconsistent spellings across different content. This field is used to aggregate and display all content where the person is identified by connecting those disparate names. 
 
-1. In the *Other Names* field, select one or more terms from the dropdown or use the text field to search for specific terms.
+1. In the *Other Names* field, use the text box to select existing terms or add new ones. 
 
 ![Screenshot showing the other names section with the fields filled out and content selected.](../_embeds/person2.png)
 
-2. You can rearrange or delete terms in the field by dragging them into your preferred order or selecting the **Delete** icon to the right of each term.
+2. You can rearrange or delete terms in the field by dragging them into your preferred order or selecting the **X** icon to the right of each term.
 
 ![Screenshot of the other names field with terms selected.](../_embeds/person3.png)
 
@@ -81,35 +81,29 @@ In the *Place of Death* field enter the location the person died. You can select
 !!! requirement
     Related person records must have already been created in order to be added to the related people section. Note that these relationships are not automatically bi-directional, and must be added to both person records. 
 
-1. In the **Related People** section, select the "Add Related Person" button to add a related individual to your person record. Related people is used to reflect real-world relationships between people. Examples include family, professional, cultural, educational, or any other kind of interpersonal relationships. 
+In the **Related People** section, select the "Add Related Person" button to add a related individual to your person record. Related people is used to reflect real-world relationships between people. Examples include family, professional, cultural, educational, or any other kind of interpersonal relationships. 
 
-- Select the "Select content" button. 
+1. Select the "Select content" button. 
 
     ![Screenshot of the add related person button in the related people section](../_embeds/person6.png)
 
     !!! tip 
         You can use the search field to search for other person records by name.
 
-- Select the checkbox beside the person record you wish to add as a related person, then scroll down and select "Add Content". You can only add one related person at a time.
+2. Select the checkbox beside the person record you wish to add as a related person, then scroll down and select "Add Content". You can only add one related person at a time.
 
     ![Screenshot of the related person field with the select content button highlighted.](../_embeds/person7.png)
 
     ![Screenshot of the add related person field with a name selected and the add content button highlighted](../_embeds/person8.png)
 
-3. In the *Relationship Type* field enter the type of relationship between the related person and the subject of the person record. This is an autocomplete field that is tied to the **Interpersonal Relationship** taxonomy. 
+3. In the *Relationship Type* field enter the type of relationship between the related person and the subject of the person record. This is tied to the **Interpersonal Relationship** taxonomy. 
     
     - As you type, existing relationship types will be displayed. Select an existing relationship type or enter a new one. 
-    - To include additional relationship types, select "Add another item".
     - For more information on managing taxonomy terms, navigate to [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md).
 
     ![Screenshot showing the relationship type field filled out with add another item highlighted](../_embeds/person9.png)
 
-4. To add another related person, select the "Add Related Person" button to add additional location text boxes.
-      
-      ![Screenshot with the add related person button highlighted.](../_embeds/person9.png)
-
-    - Select and drag the arrows to reorder your related people if necessary.
-    - To remove a related person, select the "Remove" button.
+4. Select and drag the arrows to reorder your related people if necessary. To remove a related person, select the "Remove" button.
 
 ### Biography sections
 

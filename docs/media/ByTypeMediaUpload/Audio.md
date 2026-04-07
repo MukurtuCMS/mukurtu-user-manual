@@ -57,26 +57,26 @@ tags:
     !!! tip
         This field feeds into the "deceased person" media content warnings.
 
-    - If more than one individual should be listed, use the "Add another item" button to add additional people fields. 
-    - Select and drag the arrows to reorder your people if necessary. 
-    - To remove a person, select the "Remove" button.
+    - If more than one individual should be listed, use the text box to select existing people terms or add new ones. 
+    - Select and drag to reorder if necessary. 
+    - To remove a person, select the "X".
     
 10. Select a *Media tag* to apply to the audio file by entering text in the dropdown box and selecting from the provided options. 
 
     !!! tip 
         Media tags can be used to tag and locate assets within the media library (for example, `oral history` or `newspaper`). They can also be used to trigger media content warnings when that tool is enabled.
 
-    - If more than one media tag should be included, use the "Add another item" button to add additional media tag fields. 
-    - Select and drag the arrows by the media tag's name to reorder it if necessary. 
-    - To remove a media tag, select the "Remove" button.
+    - If more than one media tag should be included, use the text box to select existing media tag terms or add new ones. 
+    - Select and drag to reorder if necessary. 
+    - To remove a media tag, select the "X".
 
     ![Screenshot of the people and media tag fields, with the people field filled in.](../../_embeds/audiofiles4.png)
 
 11. Use the *Contributor* field to enter the name of the speaker or singer of the recording. 
 
-    - If more than one person should be listed as a contributor, use the "Add another item" button to add additional contributor fields. 
-    - Select and drag the arrows by the contributor's name to reorder your contributors if necessary. 
-    - To remove a contributor, select the "Remove" button.
+    - If more than one person should be listed as a contributor, use the text box to select existing contributor terms or add new ones.
+    - Select and drag to reorder your contributors if necessary. 
+    - To remove a contributor, select the "X".
 
 12. Use the *Transcription* field to include a transcription of the content of your audio file. This field is intended  for use when uploading recordings of dictionary words and sample sentences and has a character limit of 255 characters.
 
