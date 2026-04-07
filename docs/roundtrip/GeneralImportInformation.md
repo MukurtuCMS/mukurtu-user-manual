@@ -17,23 +17,22 @@ Import templates can be created and downloaded from your own site at `/admin/imp
 There are four kinds of identifiers that are used in various roundtrip tasks. A spreadsheet used in import should only ever include one of these identifier fields at a time.
 
 - Name/Title/Term/Label
-  - All content will have a name, title, term, label, or other field, created by users.
-  - In many cases you can reference existing site content, or content within the same import by it's name instead of an abstract identifier. This requires that the names are unique. If names are not unique (eg: if two communities have protocols simply named "Public", you would need to refer to the public protocols by their ID instead.)
-  - When creating new content or uploading new media through an import, you can almost always rely on the name field instead of having to provide a separate identifier.
+    - All content will have a name, title, term, label, or other field, created by users.
+    - In many cases you can reference existing site content, or content within the same import by it's name instead of an abstract identifier. This requires that the names are unique. If names are not unique (eg: if two communities have protocols simply named "Public", you would need to refer to the public protocols by their ID instead.)
+    - When creating new content or uploading new media through an import, you can almost always rely on the name field instead of having to provide a separate identifier.
 - Import ID
-  - Created by users for referencing across spreadsheets within the same import, for example connecting paragraphs to their parent content (like dictionary words and their word entries).
-  - They can be any text string and are intended to be easy to reference across sheets.
-  - They are not retained in the system after import.
+    - Created by users for referencing across spreadsheets within the same import, for example connecting paragraphs to their parent content (like dictionary words and their word entries).
+    - They can be any text string and are intended to be easy to reference across sheets.
+    - They are not retained in the system after import.
 - ID
-  - Assigned by the system when content, media, terms, etc, are created. Never created by users.
-  - These start at `1` for each content/entity type and increase from there. Since each type of content starts numbering at `1`, these are not unique. For example, the first cultural protocol created on the site will have the ID 1, and the first digital heritage item created will also have the ID 1. The system uses the context of what field
-  - They are used for referencing existing content/entities within the same site. 
-  - When using roundtrip to update existing site content you will usually want to use the ID field.
+    - Assigned by the system when content, media, terms, etc, are created. Never created by users.
+    - These start at `1` for each content/entity type and increase from there. Since each type of content starts numbering at `1`, these are not unique. For example, the first cultural protocol created on the site will have the ID 1, and the first digital heritage item created will also have the ID 1. The system uses the context of what field
+    - They are used for referencing existing content/entities within the same site. 
+    - When using roundtrip to update existing site content you will usually want to use the ID field.
 - UUID (universally unique identifier)
-  - Assigned by the system when content, media, terms, etc, are created. Rarely created by users.
-  - These are unique strings that are never repeated within the same site, and will likely never be repeated across any site ever (eg: `550e8400-e29b-41d4-a716-446655440000`).
-  - They are used to reference and identify content when sending information between the site and other sites/systems without risk of repetition.
-
+  `  - Assigned by the system when content, media, terms, etc, are created. Rarely created by users.
+    - These are unique strings that are never repeated within the same site, and will likely never be repeated across any site ever (eg: `550e8400-e29b-41d4-a716-446655440000`).
+    - They are used to reference and identify content when sending information between the site and other sites/systems without risk of repetition.
 
 > This is unrelated to the *Identifier* metadata field present in most content and media assets which is descriptive and not structural.
 
