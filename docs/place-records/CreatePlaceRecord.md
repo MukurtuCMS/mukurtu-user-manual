@@ -39,15 +39,15 @@ Select a **Sharing setting**. Sharing setting has two options: you can select **
 
 Places may be identified by multiple names, monikers, identities, and with inconsistent spellings across different content. This field is used to aggregate and display all content where the place is identified by connecting those disparate names. 
 
-1. In the *Other Place Names* field, select one or more terms from the dropdown or use the text field to search for specific terms.
+1. In the *Other Place Names* field, select one or more terms from the dropdown or use the text field to either add new terms or search for specific terms.
 
-![Screenshot showing the other place names section with the fields filled out and content selected.](../_embeds/CreatePlace1.png)
+    ![Screenshot showing the other place names section with the fields filled out and content selected.](../_embeds/CreatePlace1.png)
 
 2. You can rearrange or delete terms in the field by dragging them into your preferred order or selecting the **X** icon to the right of each term.
 
 ### Media assets
 
-Media assets are a key element of most person records, though they are not required. Supported media types are images, documents, video, audio, and embed code. Person records can include more than one media asset, and each media asset can be a different media type. Media assets can be assigned a different cultural protocol from the person record to allow differential access to the media assets and metadata. For instructions on how to add a media asset, refer to the [Create Media Assets](../media/CreateMediaAssets.md) article.
+Media assets can be a key element of most place records, though they are not required. Supported media types are images, documents, video, audio, and embed code. Place records can include more than one media asset, and each media asset can be a different media type. Media assets can be assigned a different cultural protocol from the place record to allow differential access to the media assets and metadata. For instructions on how to add a media asset, refer to the [Create Media Assets](../media/CreateMediaAssets.md) article.
 
 - You can add multiple media assets by selecting more than one media asset from the media modal. 
 - To reorder your media assets, select your media assets and drag them into the order you prefer.
@@ -58,11 +58,9 @@ Place types are used to tag place records to indicate different types of locatio
 
 1. In the *Place type* field, select one or more terms from the dropdown or use the text field to search for specific terms.
 
-![Screenshot showing the other place names section with the fields filled out and content selected.](../_embeds/CreatePlace2.png)
+    ![Screenshot showing the other place names section with the fields filled out and content selected.](../_embeds/CreatePlace2.png)
 
 2. You can rearrange or delete terms in the field by dragging them into your preferred order or selecting the **X** icon to the right of each term.
-
-### Locations
 
 ### Map points
 
@@ -73,11 +71,11 @@ Mukurtu allows users to create and manage map points and areas using the embedde
 
 ### Location description
 
-Use the *Location description* field to provide additional context and depth to the location(s) connected to the person record. Location description can be used independently of other location fields and is a full HTML field that supports text, audio, images, and video.
+Use the *Location description* field to provide additional context and depth to the location(s) connected to the person record. Location description can be used independently of other location fields and is a full HTML field that supports text, audio, images, and video. This field may be redundant due to the place record-specific fields.
 
 ### Location
 
-Enter a *Location*. This is a named place, or places, that are closely connected to the place record. Include as many locations as needed. Select from existing locations or add new ones.
+Enter a *Location*. This is a named place, or places, that are closely connected to the place record. Include as many locations as needed. Select from existing locations or add new ones. This field may be redundant due to the place record-specific fields.
 
 ![Screenshot of the locations fields with points, text, and terms entered.](../_embeds/CreatePlace3.png)
 
@@ -96,9 +94,6 @@ Text sections are an account of the history of a location. They may include hist
 ### Keywords
 
 *Keywords* are used to tag place records to ensure that they are discoverable when searching or browsing. You can select existing terms and add new ones. 
-
-- Consider adding 3-5 keywords to your place record.
-- This field feeds into the keywords taxonomy.
 
 ### Local Contexts Projects
 

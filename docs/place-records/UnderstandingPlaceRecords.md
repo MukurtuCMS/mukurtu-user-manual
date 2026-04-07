@@ -19,4 +19,4 @@ For more information about how to create person records, see [Create Place Recor
 
 To browse place records, navigate to **Browse** or go directly to `/browse`. To filter by place records, navigate to the **Content type** header on the right-hand side of the page and select the checkbox beside *Place*. 
 
-![Screenshot showing where the content type header and person checkbox are on the browse content page.](../_embeds/person14.png)
+![Screenshot of a completed place record for Duff, Tennessee](../_embeds/Place1.png)
