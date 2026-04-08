@@ -184,8 +184,8 @@ nav:
     - person-records/ConfigurePersonRecord.md
   - Place Records:
     - place-records/UnderstandingPlaceRecords.md
-    - place-records/CreatePlaceRecords.md
-    - place-records/ConfigurePlaceRecords.md
+    - place-records/CreatePlaceRecord.md
+    - place-records/ConfigurePlaceRecord.md
   - Roundtrip:
     - roundtrip/RoundtripOverview.md
     - roundtrip/RoundtripFormatting.md
