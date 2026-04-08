@@ -64,9 +64,9 @@ Use the *Summary* field to provide a brief description of your digital heritage 
 
 Use the *Creator* field to enter the name of the creator of the digital heritage item.  Names can be in any format that is appropriate for the content, eg: `John Smith` or `Smith, John`. For more information on who should be included as a Creator, refer to the [Digital Heritage Item Metadata Fields](DHMetadataFields.md) article.
 
-- If more than one person should be listed as a creator, use the "Add another item" button to add additional creator text boxes. 
-- Select and drag the arrows to the left of the creator text box to reorder your creators if necessary. 
-- To remove a creator, select the "Remove" button.
+- If more than one creator should be included, use the text box to select existing creator terms or add new ones.
+- Select and drag to reorder creators if necessary. 
+- To remove a creator, select the "X" button.
 
 ![Screenshot of the creator field with the arrow icon, remove, and add another buttons all highlighted.](../_embeds/dh4.png)
 
@@ -74,9 +74,9 @@ Use the *Creator* field to enter the name of the creator of the digital heritage
 
 Use the *Contributor* field to enter the name of the contributor of the digital heritage item.  Names can be in any format that is appropriate for the content, eg: `John Smith` or `Smith, John`. For more information on who should be included as a Contributor, refer to the [Digital Heritage Item Metadata Fields](DHMetadataFields.md) article.
 
-- If more than one person should be listed as a contributor, use the "Add another item" button to add additional contributor text boxes. 
-- Select and drag the arrows by the contributor text box to reorder your contributors if necessary. 
-- To remove a contributor, select the "Remove" button.
+- If more than one contributor should be included, use the text box to select existing contributors or add new ones.
+- Select and drag to reorder contributors if necessary. 
+- To remove a contributor, select the "X" button.
 
 ![Screenshot of the contributor field with the text field, arrow icon, and add another buttons all highlighted.](../_embeds/dh5.png)
 
@@ -195,16 +195,18 @@ Select a creative commons license from the dropdown menu.
 
 Use the *Type* field to describe the nature, genre, or function of the media asset or digital heritage item. Examples include `Image`, `Text`, `Sound`, `Video`, or `Physical object`.
 
-- To add more than one format type, select the "Add another item" button and enter the type description. 
-- This can be useful if you want to detail both the physical and digital types of a digital heritage item or media asset.
+- Include as many types as needed by selecting existing types from the dropdown or adding new ones. This can be useful if you want to detail both the physical and digital types of a digital heritage item or media asset.
+- Drag to reorder. 
+- Select the "x" to delete.
 
 ### Format
 
 Use the *Format* field to enter the format of the digital heritage item. 
 
 - Format is the specific physical or digital manifestation of the digital heritage item, including physical format (`pamphlet`, `glass slide`, `open reel`), duration (`90 minutes`), extent (`20 pages`, `11 sheets`), dimensions (`4x6"`, `12x6x8cm`), file format (`PDF`, `JPG`, `MP3`, `MP4`), or other additional information as needed.
-- To add more than one format type, select the "Add another item" button and enter the required format description. 
-- This can be useful if you want to detail both the physical and digital formats of a digital heritage item or media asset.
+- Include as many format types as needed by selecting existing formats from the dropdown or adding new ones. This can be useful if you want to detail both the physical and digital formats of a digital heritage item or media asset.
+- Drag to reorder. 
+- Select the "x" to delete.
 
 ![Screenshot of the format field with different digital and physical manifestations of the item included, including physical and file format, extent, and dimensions.](../_embeds/dh13.png)
 
@@ -221,7 +223,7 @@ Use the *Keywords* field to add any keywords to your digital heritage item.
 
 - Keywords are terms used to describe content to ensure that the item will be discoverable when searching or browsing. 
 - They are more flexible and specific than categories. 
-- Consider adding 3-5 keywords to your digital heritage item by selecting the "Add another item" button to add additional keywords fields. 
+- Consider adding 3-5 keywords to your collection by selecting existing keywords or adding new ones. Drag to reorder keywords. Select the "x" to delete.
 - This field feeds into the keywords taxonomy.
 
 ### Language
@@ -267,7 +269,7 @@ Enter a *Source* in the field.
 
 Enter a *Publisher* in the field. A publisher can be a person, organization, or service responsible for publishing the digital heritage item or media asset.
 
-Multiple publishers can be added by selecting the "Add another item" button. 
+Multiple publishers can be added by selecting existing publisher terms or adding new ones. Drag to reorder publishers. Select the "x" to delete.
 
 ### External links
 
@@ -286,9 +288,9 @@ Enter the *Link text*. This is the text that will display on your page as the li
 Use the *Subject* field to provide a subject for your digital heritage item. 
 
 - The subject is the main topic or topics of the digital heritage item. They can be tailored to meet the needs of your site or derived from existing controlled vocabularies such as Library of Congress Subject Headings or Getty Art and Architecture Thesaurus. 
-- If more than one subject should be applied, use the "Add another item" button to add additional subject text boxes. 
-- Select and drag the arrows by the subject to reorder them if necessary. 
-- To remove a subject, select the "Remove" button.
+- If more than one subject should be applied, use the text box to select existing subjects or add new ones.
+- Select and drag to reorder subjects if necessary. 
+- To remove a subject, select the "X" button.
 
 ### Transcription
 
@@ -298,9 +300,9 @@ Use the *Transcription* field to provide a text transcription of an audio or vid
 
 Use the *People* field to enter the name of any people represented or referenced in your digital heritage item or media asset. Names can be in any format that is appropriate for the content, eg: `John Smith` or `Smith, John`. 
 
-- If more than one person should be listed, use the "Add another item" button to add additional people text boxes. 
-- Select and drag the arrows by the people field to reorder your people if necessary. 
-- To remove a person field, select the "Remove" button.
+- If more than one person should be included, use the text box to select existing person terms or add new ones.
+- Select and drag to reorder person terms if necessary. 
+- To remove a person, select the "X" button.
 - This field feeds into the People taxonomy.
 
     !!! tip
