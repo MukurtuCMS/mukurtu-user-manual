@@ -38,7 +38,10 @@ Follow the instructions to merge your categories.
     For more information on taxonomies in Mukurtu, visit [Understanding Taxonomies](../taxonomies/UnderstandingTaxonomies.md). For instructions on how to manage taxonomies, visit [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md).
 
 1. To manage the category taxonomy, navigate to your **Dashboard**. 
-2. Under the **Categories and taxonomies** heading select the **Manage categories** link or navigate directly to `/admin/structure/taxonomy/manage/category/overview`. From this page you can merge categories.
+2. Under the **Taxonomies** heading select the **Manage taxonomies** link, then select the "List terms button to the right of the **Category** option. You can also navigate directly to `/admin/structure/taxonomy/manage/category/overview`. 
+
+    ![Screenshot of the taxonomy list page with the list terms button by category highlighted.](../_embeds/taxonomy6.png)
+
 3. Navigate to the **Merge** tab.
 4. Select the checkbox by the terms you want to merge into a new or existing term. 
 
