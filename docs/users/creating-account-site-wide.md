@@ -38,7 +38,7 @@ Once the form is open, fill out the form.
 
 2. Add a username for the user.
 
-3. Add a generic password. The user will be prompted to change their password when they first log in.
+3. You can add a generic password, or leave the *password* field blank. If left blank, the system will auto-generate a password. The user will be prompted to change the password when they first log in. 
 
     ![The add user form with email address, username and password filled out](../_embeds/add-user-account-05.png)
 
