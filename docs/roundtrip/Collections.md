@@ -11,8 +11,6 @@ tags:
 
 Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information").
 
-## Collections Notes and Tips
-
 - When importing complex collections that have subcollections, the subcollections must be created first. Therefore, subcollections should be ordered first in the spreadsheet above any parent collections. 
 - Content must exist to be added to Collections.
 

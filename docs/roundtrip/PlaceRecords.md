@@ -4,16 +4,12 @@ tags:
     - content
     - metadata
 ---
-# Import Place Records
+# Importing Place Records
 
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
 Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information").
-
-## Place Records Notes and Tips
-
-If including **Text Sections**, the Place record CSV and Text sections paragraph CSV must be given unique IDs. Those do not have to be uploaded, but are what you will use to tie the text section paragraph to the proper place record. 
 
 ## Place records
 
@@ -47,8 +43,6 @@ If including **Text Sections**, the Place record CSV and Text sections paragraph
 Text sections is a group of repeatable fields that are handled as "paragraphs" in import. To include this citation, you will need to include corresponding spreadsheets as well. That spreadsheet is included in this article, but please review [General Import Information > Importing Paragraphs](../roundtrip/GeneralImportInformation.md/#paragraphs) for more information on how to format and connect the spreadsheets during an import.
 
 If including **Text Sections** paragraphs, the Place record CSV and associated paragraph CSV must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraphs to the proper person record. 
-
-### Paragraphs - Text section CSV
 
 |Field Name|Description|Format Information|
 |---|---|---|

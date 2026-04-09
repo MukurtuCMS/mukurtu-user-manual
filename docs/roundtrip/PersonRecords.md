@@ -4,16 +4,12 @@ tags:
     - content
     - metadata
 ---
-# Import Person Records
+# Importing Person Records
 
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
 Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information").
-
-## Person Records Notes and Tips
-
-If including **Related People** and **Biography Sections**, the Person record CSV and associated paragraph CSVs must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraphs to the proper person record. 
 
 ## Person records
 
@@ -54,7 +50,7 @@ Related People and Biography sections are a group of repeatable fields that are 
 
 If including **Related People** and **Biography Section** paragraphs, the Person record CSV and associated paragraph CSV must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraphs to the proper person record. 
 
-### Paragraphs - Related People CSV
+### Related People
 
 |Field Name|Description|Format Information|
 |---|---|---|
@@ -62,7 +58,7 @@ If including **Related People** and **Biography Section** paragraphs, the Person
 |Related Person|A person that has a relationship with the subject of the person record. |IDs, UUIDs, or titles of the references, separated by your selected multi-value delimiter. Each title must be exact and match only one item.|
 |Relationship type|The type of relationship between the related person and the subject of the person record.|Taxonomy term name, ID, or UUID. The name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
 
-### Paragraphs - Biography section CSV
+### Biography Section
 
 |Field Name|Description|Format Information|
 |---|---|---|

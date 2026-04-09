@@ -4,7 +4,7 @@ tags:
     - content
     - metadata
 ---
-# Import Word Lists
+# Importing Word Lists
 
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
