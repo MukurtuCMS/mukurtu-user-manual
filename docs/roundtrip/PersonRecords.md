@@ -22,7 +22,7 @@ This article provides some general notes and tips to help you get the most out o
 
 |Field Name|Description|Format Information|
 |---|---|---|
-|**Mukurtu Essentials Required Fields**|**Cannot be empty**||
+|**Required**|**Cannot be empty**||
 |Name|The person's name, as they should be primarily identified.|This field is plain text and limited to 255 characters.|
 |Cultural protocols||IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.|
 |Sharing setting||Either 'Any' or 'All', case insensitive.|
@@ -67,7 +67,7 @@ If including **Related People** and **Biography Section** paragraphs, the Person
 
 ### Paragraphs - Biography section CSV
 
-|Field Name||Description|Format Information|
+|Field Name|Description|Format Information|
 |---|---|---|
 |Import ID, ID, or UUID|When importing a person record and corresponding biography section paragraph at the same time, use an *Import ID*|See [General Import Information > Identifiers](../roundtrip/GeneralImportInformation.md/#identifiers-id-uuid-import-id) for more information.|
 |Title|The title of the section.|Plain text value.|
