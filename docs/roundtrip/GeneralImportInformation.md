@@ -6,7 +6,7 @@ tags:
 # General Import Information
 
 !!! Roles "User roles" 
-    Mukurtu manager, Roundtrip manager, Administrator
+    Administrator, Mukurtu manager, Roundtrip manager
 
 ## Spreadsheet templates
 
