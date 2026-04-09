@@ -76,7 +76,7 @@ The stock content and paragraphs are:
 |Digital heritage items|Citing Indigenous Elders and Knowledge Keepers|
 |Dictionary words|Word entries <br>Sample sentences|
 |Word entries*|Sample sentences|
-|Person records|Biography (text) sections|
+|Person records|Related people <br>Biography (text) sections|
 |Place records|Text sections|
 
 *Word entries are paragraphs, not content types, but they can also include sample sentence paragraphs

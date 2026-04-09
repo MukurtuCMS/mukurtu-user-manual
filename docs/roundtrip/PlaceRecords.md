@@ -9,23 +9,20 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-This article provides some general notes and tips to help you get the most out of importing Place Records using Roundtrip. 
+Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information").
 
 ## Place Records Notes and Tips
 
-- If including **Text Sections**, the Place record CSV and Text sections paragraph CSV must be given unique IDs. Those do not have to be uploaded, but are what you will use to tie the text section paragraph to the proper place record. 
-- When importing your CSV files, they should be ordered Place Record CSV, then Paragraph CSV. This ensures the place record is created before the paragraph.
+If including **Text Sections**, the Place record CSV and Text sections paragraph CSV must be given unique IDs. Those do not have to be uploaded, but are what you will use to tie the text section paragraph to the proper place record. 
 
-## Technical Metadata Fields
-
-### Place record CSV
+## Place records
 
 |Field Name|Description|Format Information|
 |---|---|---|
 |**Required**|**Cannot be empty**||
 |Name|The place, as it should be primarily identified.|This field is plain text and limited to 255 characters.|
-|Cultural protocols||IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.|
-|Sharing setting||Either 'Any' or 'All', case insensitive.|
+|Cultural protocols > Protocols||IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.|
+|Cultural Protocols > Sharing Setting||Either 'Any' or 'All', case insensitive.|
 |ID|Only used when updating existing person records, not when creating new person records.|Integer.|
 |**Required**|**Will autofill if empty**||
 |UUID|A UUID will be generated on import.|UUID (e.g., 6b77cc9e-5fdf-4750-891e-e705b7bf323b) value.|
@@ -40,8 +37,8 @@ This article provides some general notes and tips to help you get the most out o
 |Text section|A description of the history, significance, or other information about the place highlighted in the place record.|The ID or UUIDs of the paragraphs, separated by your selected multi-value delimiter.|
 |**Additional Fields**|
 |Keywords| 	Keywords are used to tag place records to ensure that they are discoverable when searching or browsing. Include as many keywords as needed. |Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
-|Local Contexts projects|This field will apply all of the Labels from the selected Local Contexts Project(s) to the place record. |Local Contexts Project ID values, separated by your selected multi-value delimiter.|
-|Local Contexts Labels and Notices|This field allows selective application of one or more Labels from any available Local Contexts Project to the place record.|Local Contexts Project ID:Label/Notice ID values, separated by your selected multi-value delimiter.|
+|Local Contexts Projects|This field will apply all of the Labels from the selected Local Contexts Project(s) to the place record. |Project titles or IDs, separated by your selected multi-value delimiter.|
+|Local Contexts Labels and Notices|This field allows selective application of one or more Labels from any available Local Contexts Project to the place record.|Label or notice names, separated by your selected multi-value delimiter.|
 |**Related Content**|
 |Related content|Place records can be related to any other site content when there is a connection between those items that is important to show. Note that the place record will automatically aggregate all content where the place is referenced based on the representative terms field, and manually managing related content may not be necessary. |IDs, UUIDs, or titles of the references, separated by your selected multi-value delimiter. Each title must be exact and match only one item.|
 

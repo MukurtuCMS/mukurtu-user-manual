@@ -4,28 +4,25 @@ tags:
     - content
     - metadata
 ---
-# Import Digital Heritage Items
+# Importing Digital Heritage Items
 
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-This article provides some general notes and tips to help you get the most out of importing Digital Heritage Items using Roundtrip. 
+Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information").
 
 ## Digital Heritage Items Notes and Tips
 
-- If including **Citing Indigenous Elders and Knowledge Keepers**, the Digital Heritage Item CSV and paragraph CSV must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraph to the proper digital heritage item. 
-- When importing your CSV files, they should be ordered Digital Heritage Item CSV, then the paragraph CSV. This ensures the digital heritage item is created before the paragraph. 
+If including **Citing Indigenous Elders and Knowledge Keepers**, the Digital Heritage Item CSV and paragraph CSV must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraph to the proper digital heritage item. 
 
-## Technical Metadata Fields
-
-### Digital heritage item CSV
+## Digital heritage items
 
 |Field Name|Description|Format Information|
 |---|---|---|
 |**Required**|**Cannot be empty**||
 |Title|A short, descriptive name for the digital heritage item. The title should give users useful information about the item when browsing or searching. Titles do not have to be unique. |This field is plain text and limited to 255 characters.|
-|Cultural protocols||IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.|
-|Sharing setting||Either 'Any' or 'All', case insensitive.|
+|Cultural protocols > Protocols||IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.|
+|Cultural Protocols > Sharing Setting||Either 'Any' or 'All', case insensitive.|
 |Category| 	Categories are high-level descriptive terms that help users browse and discover digital heritage items. Each site defines their own set of categories to reflect the scope of their items. Each digital heritage item requires at least one category, but more can be selected as needed. Categories must first be created by a Mukurtu Manager.|Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary.|
 |ID|Only used when updating existing digital heritage items, not when creating new digital heritage items.|Integer.|
 |**Required**|**Will autofill if empty**||
@@ -42,8 +39,8 @@ This article provides some general notes and tips to help you get the most out o
 |Traditional knowledge|Traditional knowledge includes in-­depth community-specific knowledge about the digital heritage item. It is often used to provide information of social, spiritual, or esoteric significance. For example, if the item is a basket, this field may contain community, tribe, or clan-specific knowledge about the significance of design that is not widely known or that is specific that that community. |Formatted text.|
 |Description|Descriptions provide an account, explanation, or description of the digital heritage item or media asset. This may include physical characteristics, content information, an explanation of what is depicted, digitization and processing information, general notes, and any other relevant information that does not fit into a more structured field. |Formatted text.|
 |**Permissions and Rights**|
-|Local Contexts projects|This field will apply all of the Labels from the selected Local Contexts Project(s) to the digital heritage item. |Local Contexts Project ID values, separated by your selected multi-value delimiter.|
-|Local Contexts Labels and Notices|This field allows selective application of one or more Labels from any available Local Contexts Project to the digital heritage item. |Local Contexts Project ID:Label/Notice ID values, separated by your selected multi-value delimiter.|
+|Local Contexts Projects|This field will apply all of the Labels from the selected Local Contexts Project(s) to the digital heritage item. |Project titles or IDs, separated by your selected multi-value delimiter.|
+|Local Contexts Labels and Notices|This field allows selective application of one or more Labels from any available Local Contexts Project to the digital heritage item. |Label or notice names, separated by your selected multi-value delimiter.|
 |Citing Indigenous Elders and Knowledge Keepers||The ID or UUID of the paragraph.|
 |Rights and Usage|A statement about the appropriate rights and usage regarding the digital heritage item, media asset, or presented knowledge. This may include identifying the legal or traditional rights holder. If the rights holder should be contacted for permission to use, reproduce, circulate, reference, or cite the item, provide their contact information. |This field is plain text and limited to 255 characters.|
 |Rights Statements|"RightsStatements.org provides standardized rights statements that can be used by cultural heritage institutions to indicate the copyright status of digital objects that they make available online, either on their own website or via aggregation platforms. These rights statements are high level summaries of the underlying rights status of the digital objects that they apply to. These rights statements are intended to be used in addition to (more detailed) rights information that institutions already have and not to replace existing information." For more information, visit rightsstatements.org. |The value or the label of allowed values.|

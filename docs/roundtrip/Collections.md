@@ -4,27 +4,26 @@ tags:
     - content
     - metadata
 ---
-# Import Collections
+# Importing Collections
 
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-This article provides some general notes and tips to help you get the most out of importing Collections using Roundtrip. 
+Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information").
 
 ## Collections Notes and Tips
 
 - When importing complex collections that have subcollections, the subcollections must be created first. Therefore, subcollections should be ordered first in the spreadsheet above any parent collections. 
-- Collections do not have paragraphs.
 - Content must exist to be added to Collections.
 
-## Technical Metadata Fields
+## Collections
 
 |Field Name|Description|Format Information|
 |---|---|---|
 |**Required**|**Cannot be empty**||
 |Collection name|A short, descriptive name for the collection. The name should give users useful information about the collection when browsing or searching. |This field is plain text and limited to 255 characters.|
-|Cultural protocols||IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.|
-|Sharing setting||Either 'Any' or 'All', case insensitive.|
+|Cultural protocols > Protocols||IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.|
+|Cultural Protocols > Sharing Setting||Either 'Any' or 'All', case insensitive.|
 |ID|Only used when updating existing collections, not when creating new collections.|Integer.|
 |**Required**|**Will autofill if empty**||
 |UUID|A UUID will be generated on import.|UUID (e.g., 6b77cc9e-5fdf-4750-891e-e705b7bf323b) value.|
@@ -40,7 +39,7 @@ This article provides some general notes and tips to help you get the most out o
 |Map points|A detailed, interactive mapping tool that allows placing and drawing multiple locations related to a collection. Locations can be single points, paths, rectangles, or free-form polygons. Each location can be given a basic label. This field is also used for the browse by map tools. Note that this mapping data will be shared with the same users or visitors as the rest of the collection. If the location is sensitive, carefully consider using this field. |The data is stored in a GeoJSON format.|
 |Location description|A descriptive field to provide additional context and depth to the location(s) connected to the collection. |Formatted text.|
 |Location (taxonomy)|A named place, or places, that are closely connected to the collection. Examples include the location where a photo was taken, places named in a story, or the site where an object was created. |Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
-|Local Contexts projects|This field will apply all of the Labels from the selected Local Contexts Project(s) to the collection. |Local Contexts Project ID values, separated by your selected multi-value delimiter.|
-|Local Contexts Labels and Notices|This field allows selective application of one or more Labels from any available Local Contexts Project to the collection. |Local Contexts Project ID:Label/Notice ID values, separated by your selected multi-value delimiter.|
+|Local Contexts Projects|This field will apply all of the Labels from the selected Local Contexts Project(s) to the collection. |Project titles or IDs, separated by your selected multi-value delimiter.|
+|Local Contexts Labels and Notices|This field allows selective application of one or more Labels from any available Local Contexts Project to the collection. |Label or notice names, separated by your selected multi-value delimiter.|
 |**Related Content**|
 |Related content|Collections can be related to any other site content when there is a connection that is important to show. Eg: another collection from the same donor. Note that this field is not used to indicate content in the collection. See the items in collection field instead. |IDs, UUIDs, or titles of the references, separated by your selected multi-value delimiter. Each title must be exact and match only one item.|

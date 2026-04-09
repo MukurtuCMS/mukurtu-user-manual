@@ -9,23 +9,20 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-This article provides some general notes and tips to help you get the most out of importing Person Records using Roundtrip. 
+Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information").
 
 ## Person Records Notes and Tips
 
-- If including **Related People** and **Biography Sections**, the Person record CSV and associated paragraph CSVs must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraphs to the proper person record. 
-- When importing your CSV files, they should be ordered Person Record CSV, then the individual paragraph CSVs. This ensures the person record is created before the paragraphs. The paragraph CSVs can be in any order.
+If including **Related People** and **Biography Sections**, the Person record CSV and associated paragraph CSVs must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraphs to the proper person record. 
 
-## Technical Metadata Fields
-
-### Person record CSV
+## Person records
 
 |Field Name|Description|Format Information|
 |---|---|---|
 |**Required**|**Cannot be empty**||
 |Name|The person's name, as they should be primarily identified.|This field is plain text and limited to 255 characters.|
-|Cultural protocols||IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.|
-|Sharing setting||Either 'Any' or 'All', case insensitive.|
+|Cultural protocols > Protocols||IDs, UUIDs, or names of the cultural protocols, separated by your selected multi-value delimiter. If using names, they must be exact and match only a single protocol.|
+|Cultural Protocols > Sharing Setting||Either 'Any' or 'All', case insensitive.|
 |ID|Only used when updating existing person records, not when creating new person records.|Integer.|
 |**Required**|**Will autofill if empty**||
 |UUID|A UUID will be generated on import.|UUID (e.g., 6b77cc9e-5fdf-4750-891e-e705b7bf323b) value.|
@@ -46,8 +43,8 @@ This article provides some general notes and tips to help you get the most out o
 |Location description|A descriptive field to provide additional context and depth to the location(s) connected to the person record.|Formatted text.|
 |Location (taxonomy)|A named place, or places, that are closely connected to the person record. Examples include the places a person was born, lived, died, or sites of important life events.
 Include as many locations as needed.|Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
-|Local Contexts projects|This field will apply all of the Labels from the selected Local Contexts Project(s) to the person record.|Local Contexts Project ID values, separated by your selected multi-value delimiter.|
-|Local Contexts Labels and Notices|This field allows selective application of one or more Labels from any available Local Contexts Project to the person record.|Local Contexts Project ID:Label/Notice ID values, separated by your selected multi-value delimiter.|
+|Local Contexts Projects|This field will apply all of the Labels from the selected Local Contexts Project(s) to the person record.|Project titles or IDs, separated by your selected multi-value delimiter.|
+|Local Contexts Labels and Notices|This field allows selective application of one or more Labels from any available Local Contexts Project to the person record.|Label or notice names, separated by your selected multi-value delimiter.|
 |**Related Content**|
 |Related content|Person records can be related to any other site content when there is a connection between those items that is important to show. Note that the person record will automatically aggregate all content where the person is referenced based on the representative terms field, and manually managing related content may not be necessary.|IDs, UUIDs, or titles of the references, separated by your selected multi-value delimiter. Each title must be exact and match only one item.|
 
