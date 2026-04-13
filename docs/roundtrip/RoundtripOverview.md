@@ -6,7 +6,7 @@ tags:
 # Roundtrip Overview
 
 !!! Roles "User roles" 
-    TBD
+    Administrator, Mukurtu manager, Roundtrip manager
 
 Roundtrip is the collection of tools we use for import and export of site content (content, media, taxonomies, basically anything). It serves several purposes:
 

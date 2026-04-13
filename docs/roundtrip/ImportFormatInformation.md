@@ -6,7 +6,7 @@ tags:
 # Importing Format Information
 
 !!! Roles "User roles" 
-    TBD
+    Administrator, Mukurtu manager, Roundtrip manager
 
 - An auto-generated listing of all import types is available at `/admin/import/format` (or via dashboard link).
 - This allows users to:

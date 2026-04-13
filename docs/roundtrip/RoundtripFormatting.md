@@ -6,7 +6,7 @@ tags:
 # Roundtrip Spreadsheets, Formats, and Tools
 
 !!! Roles "User roles" 
-    TBD
+    Administrator, Mukurtu manager, Roundtrip manager
 
 The Roundtrip tools make use of CSV spreadsheets for import and export. Here are some things to keep in mind when working with CSV spreadsheets, in contrast to other formats, such as XLS.
 

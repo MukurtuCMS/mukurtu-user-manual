@@ -17,6 +17,10 @@ If you have location settings enabled in your browser, your map will automatical
 
 ![Screenshot of the map points field with location settings enabled. ](../_embeds/Mapping30.png)
 
+Use the *Address search* field to search for a specific address by entering the address into the text field, then select from the options in the dropdown menu. This will not add a point to your map, but will center your map on the address.
+
+![Screenshot of the map points field with the address search highlighted.](../_embeds/Mapping40.png)
+
 ## Add map layers
 
 You can easily add map points and objects, which are referred to as "markers" and "layers" in Leaflet, to highlight features on your map, including markers, polylines, rectangles, and polygons. 

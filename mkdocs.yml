@@ -81,10 +81,10 @@ nav:
     - communities-cultural-protocols-categories/UnderstandingSharingSettings.md
     - communities-cultural-protocols-categories/UnderstandingCategories.md
     - communities-cultural-protocols-categories/CreateCategories.md 
+    - communities-cultural-protocols-categories/CategoryTaxonomy.md
     - communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md
     - communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md
     - communities-cultural-protocols-categories/SharedProtocols.md
-    - communities-cultural-protocols-categories/CategoryTaxonomy.md
     - communities-cultural-protocols-categories/EditCommunitySettings.md
     - communities-cultural-protocols-categories/EditCulturalProtocolSettings.md
     - communities-cultural-protocols-categories/ManageCommunityOrganization.md
@@ -182,6 +182,10 @@ nav:
     - person-records/UnderstandingPersonRecords.md
     - person-records/PersonRecords.md
     - person-records/ConfigurePersonRecord.md
+  - Place Records:
+    - place-records/UnderstandingPlaceRecords.md
+    - place-records/CreatePlaceRecord.md
+    - place-records/ConfigurePlaceRecord.md
   - Roundtrip:
     - roundtrip/RoundtripOverview.md
     - roundtrip/RoundtripFormatting.md
