@@ -30,7 +30,7 @@ There are four kinds of identifiers that are used in various roundtrip tasks. A 
     - They are used for referencing existing content/entities within the same site. 
     - When using roundtrip to update existing site content you will usually want to use the ID field.
 - UUID (universally unique identifier)
-  `  - Assigned by the system when content, media, terms, etc, are created. Rarely created by users.
+    - Assigned by the system when content, media, terms, etc, are created. Rarely created by users.
     - These are unique strings that are never repeated within the same site, and will likely never be repeated across any site ever (eg: `550e8400-e29b-41d4-a716-446655440000`).
     - They are used to reference and identify content when sending information between the site and other sites/systems without risk of repetition.
 
