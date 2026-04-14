@@ -4,7 +4,7 @@ tags:
     - media
 ---
 
-# Media Formats and Fields
+# Importing Media Asset Metadata
 
 !!! Roles "User roles" 
     Administrator, Mukurtu manager, Roundtrip manager
