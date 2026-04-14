@@ -62,5 +62,4 @@ In the *Local Contexts Labels and Notices* field, select the labels and notices 
 
 Complete the rest of your content form and select save. Your content will load and the labels and notices you applied will appear in the sidebar.
 
-SCREENSHOT OF CONTENT WITH LABELS APPLIED
-![Screenshot of content with labels applied](../_embeds/placeholderscreenshot.png)
+![Screenshot of content with labels applied](../_embeds/apply-labels-03.png)
