@@ -13,6 +13,7 @@ tags:
 An auto-generated listing of all import types is available at `/admin/import/format` (linked on the dashboard as "Import format information").
 
 This allows users to:
+
 - Easily export a CSV template with the correct field headers for their site. They can choose which fields to include as well, to minimize confusion.
 - View the formatting requirements for all fields in one place (eg: text, ID)
 

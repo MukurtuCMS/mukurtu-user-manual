@@ -13,7 +13,7 @@ tags:
 
 For most media imports, the following fields are the most relevant. Technical metadata fields, which apply to all media types but are not generally required for most imports, are outlined in the [Technical Metadata Fields](#technical-metadata-fields) section of this article.
 
-You can also access this information within your site following the instructions at [Import Format Information](ImportFormatInformation.md). 
+You can also access this information within your site following the instructions at [General Import Information - Import Templates](GeneralImportInformation.md#import-templates). 
 
 !!! Note
     Semicolon (;) is the default delimiter in all multi-value fields.
