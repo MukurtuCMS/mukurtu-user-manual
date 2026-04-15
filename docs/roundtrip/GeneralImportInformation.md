@@ -31,8 +31,7 @@ There are four kinds of identifiers that are used in various roundtrip tasks. A 
     - They are not retained in the system after import.
 - ID
     - Assigned by the system when content, media, terms, etc, are created. Never created by users.
-    - These start at `1` for each content/entity type and increase from there. Since each type of content starts numbering at `1`, these are not unique. For example, the first cultural protocol created on the site will have the ID 1, and the first digital heritage item created will also have the ID 1. The system uses the context of what field
-    - They are used for referencing existing content/entities within the same site. 
+    - These start at `1` for each content/entity type and increase from there. Since each type of content starts numbering at `1`, these are not unique. For example, the first cultural protocol created on the site will have the ID 1, and the first digital heritage item created will also have the ID 1. The system uses the context of which field they are located in for referencing existing content/entities within the same site. 
     - When using roundtrip to update existing site content you will usually want to use the ID field.
 - UUID (universally unique identifier)
     - Assigned by the system when content, media, terms, etc, are created. Rarely created by users.
@@ -55,7 +54,7 @@ All import sheets can include an optional *Authored by* field. This is used to i
 
 **If an author with correct protocol permissions is provided, AND the user running the import has correct protocol permissions**
 
-- The user identified in the *Authored b*y field is listed as the author.
+- The user identified in the *Authored by* field is listed as the author.
 
 **If an author with correct protocol permissions is provided, BUT the user running the import does NOT have correct protocol permissions**
 
@@ -67,8 +66,7 @@ All import sheets can include an optional *Authored by* field. This is used to i
 
 ## Draft field
 
-At this time if draft field is present, all content must include a value in that field. 
-If it is not required, omit the field entirely.
+At this time if draft field is present, all content must include a value in that field. If it is not required, omit the field entirely.
 
 ## Paragraphs
 
