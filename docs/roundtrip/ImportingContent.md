@@ -10,13 +10,13 @@ tags:
 
 This article will walk you through the general steps to import a .csv metadata sheet and accompanying media assets. While the basic steps are the same for each content type, there are specifics about each type that are discussed in dedicated articles. Please refer to the article for the content type you are importing for more detail:
 
-- [Import Digital Heritage Items](../roundtrip/DHItems.md) 
-- [Import Dictionary Words](../roundtrip/Dictionary.md)
-- [Import Person records](../roundtrip/PersonRecords.md)
-- [Import Place Records](../roundtrip/PlaceRecords.md)
-- [Import Word Lists](../roundtrip/WordLists.md)
-- [Import Collections](../roundtrip/Collections.md)
-- [Import Media](../roundtrip/ImportingNewMedia.md)
+- [Importing Digital Heritage Items](../roundtrip/DHItems.md) 
+- [Importing Dictionary Words](../roundtrip/Dictionary.md)
+- [Importing Person records](../roundtrip/PersonRecords.md)
+- [Importing Place Records](../roundtrip/PlaceRecords.md)
+- [Importing Word Lists](../roundtrip/WordLists.md)
+- [Importing Collections](../roundtrip/Collections.md)
+- [Importing Media Assets](../roundtrip/MediaFormatsFields.md)
 
 !!!Requirement 
     Users must either be a Mukurtu manager or a Roundtrip manager to access roundtrip tools. Users will only be able to upload according to their protocol permissions. See [Manage User from a Site-wide role](../users/manage-user-accounts-site-wide.md) for more information.
