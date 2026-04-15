@@ -4,23 +4,23 @@ tags:
     - media
 ---
 
-# Media Formats and Fields
+# Importing Media Asset Metadata
 
 !!! Roles "User roles" 
     Administrator, Mukurtu manager, Roundtrip manager
 
 ## Media types and core metadata fields
 
-For most media imports, the following fields are the most relevant. More technical fields, which apply to all media types but are not generally required for most imports, are presented separately.
+For most media imports, the following fields are the most relevant. Technical metadata fields, which apply to all media types but are not generally required for most imports, are outlined in the [Technical Metadata Fields](#technical-metadata-fields) section of this article.
 
-You can also access this information within your site following the instructions at [Import Format Information](ImportFormatInformation.md). 
+You can also access this information within your site following the instructions at [General Import Information - Import Templates](GeneralImportInformation.md#import-templates). 
 
 !!! Note
     Semicolon (;) is the default delimiter in all multi-value fields.
 
 ### Audio
 
-**Supported file formats:** mp3, m4a, wav, ogg, aac.
+**Supported file formats:** mp3, m4a, wav, ogg, aac
 
 |Field Name|Description|Format Information|
 |---|---|---|
@@ -44,7 +44,7 @@ You can also access this information within your site following the instructions
 
 ### Document
 
-**Supported file formats:** pdf, txt, rtf, doc, docx, ppt, pptx, xls, xlsx, odf, odg, odp, ods, odt, fodt, fods, fodp, fodg, key, numbers, pages, csv, sxw, zip, rar, gz, 7z, tar.
+**Supported file formats:** pdf, txt, rtf, doc, docx, ppt, pptx, xls, xlsx, odf, odg, odp, ods, odt, fodt, fods, fodp, fodg, key, numbers, pages, csv, sxw, zip, rar, gz, 7z, tar
 
 |Field Name|Description|Format Information|
 |---|---|---|
@@ -59,7 +59,7 @@ You can also access this information within your site following the instructions
 |**Optional**|**Commonly used**|   |
 |Media tags|Media tags are used to label media assets to help find them within the media library. They are also used to trigger taxonomy based media content warnings.|Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
 |People|A person or people present or referenced in the document. This is used to trigger deceased person media content warnings.|Taxonomy term names, IDs, or UUIDs, separated by your selected multi-value delimiter. Each name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
-|Identifier| unique, unambiguous reference to the media asset. Identifiers are often provided by the contributing institution or organization so the original item can be located. Examples include call numbers or accession numbers. |Plain text, maximum 255 characters.|
+|Identifier|A unique, unambiguous reference to the media asset. Identifiers are often provided by the contributing institution or organization so the original item can be located. Examples include call numbers or accession numbers. |Plain text, maximum 255 characters.|
 |**Optional**|**Rarely used**|   |
 |Thumbnail > File ID|A thumbnail image showing the first page of the document is automatically generated and is normally used, with a generic image used in certain contexts. A thumbnail image does not usually need to be provided.|The file ID or filename of the uploaded image.|
 |Thumbnail > Alternative text|   |Alt text for the thumbnail (required if a thumbnail is included).|
@@ -88,7 +88,7 @@ You can also access this information within your site following the instructions
 
 ### Image
 
-**Supported file formats:** jpeg, jpg, png, gif, webp.
+**Supported file formats:** jpeg, jpg, png, gif, webp
 
 |Field Name|Description|Format Information|
 |---|---|---|

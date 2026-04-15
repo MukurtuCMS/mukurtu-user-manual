@@ -9,7 +9,7 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information").
+Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information"). For more information on digital heritage metadata fields, refer to [Digital Heritage Item Metadata Fields](../digital-heritage-items/DHMetadataFields.md).
 
 ## Digital heritage items
 
