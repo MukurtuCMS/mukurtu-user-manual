@@ -30,7 +30,7 @@ To import content, go to `/admin/import` or from the dashboard, select **Import*
 The import page has two upload fields. The **metadata files** field is for .csv sheets only. The **media/binary files** field is for media or binary files that are referenced in the csv sheets. You can upload multiple files in each field. 
 
 !!! Requirement
-    To upload media, you must upload an accompanying metadata sheet for the media asset that is separate from the content item. See [Importing new media](../roundtrip/ImportingNewMedia.md) for instructions.
+    To upload media, you must upload an accompanying metadata sheet for the media asset that is separate from the content item. See [Importing Media Assets](../roundtrip/MediaFormatsFields.md) for instructions.
 
 1. Under **metadata files** select "choose files." Select the file(s) you would like to upload. 
 
