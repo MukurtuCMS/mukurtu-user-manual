@@ -28,8 +28,8 @@ Mukurtu includes the following taxonomies:
 | Language                      | Digital heritage items, dictionary words |
 | Location                      | Digital heritage items, dictionary words, collections, word lists, person records, place records |
 | Media tag                     | Media assets |
-| Place type                    | Place records |
 | People                        | Digital heritage items, media assets |
+| Place type                    | Place records |
 | Publisher                     | Digital heritage items |
 | Subject                       | Digital heritage items |
 | Type                          | Digital heritage items |
