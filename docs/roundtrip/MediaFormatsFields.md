@@ -19,7 +19,7 @@ To import media assets, users will use both upload fields on the import page. Th
 1. Select "Browse" from the **Metadata Files** field, then select the file(s) you would like to upload. A separate CSV sheet is required for each media asset type included in the import. For example, an import that only includes image files only needs an image metadata sheet, while an import with images, PDFs, and audio files needs three sheets, one for each media type.
 2. Select "Browse" from the **Media/Binary Files** field. Select the media file(s) you would like to upload.
 
-Any combination of CSV sheets and supported media assets can be selected. When you are done, select "Next" to continue on to the file configuration page. Media asset metadata imports are configured the same way as content. For specific instructions on how to configure imports, refer to the [Configure Import Settings section of the Importing Content](ImportingContent.md#configure-import-settings) article.
+When you are done, select "Next" to continue on to the file configuration page. Media asset metadata imports are configured the same way as content. For specific instructions on how to configure imports, refer to the [Configure Import Settings section of the Importing Content](ImportingContent.md#configure-import-settings) article.
 
 ## Media types and core metadata fields
 
