@@ -4,10 +4,22 @@ tags:
     - media
 ---
 
-# Importing Media Asset Metadata
+# Importing Media Assets
 
 !!! Roles "User roles" 
     Administrator, Mukurtu manager, Roundtrip manager
+
+## Overview
+
+To import media assets, users will use both upload fields on the import page. The **Metadata Files** field is for CSV files and is where users provide their media asset metadata. The **Media/Binary Files** field where useres upload the associated media or binary files.  
+
+!!! Requirement
+    To upload media, you must upload an accompanying media asset metadata sheet. 
+
+1. Select "Browse" from the **Metadata Files** field, then select the file(s) you would like to upload. A separate CSV sheet is required for each media asset type included in the import. For example, an import that only includes image files only needs an image metadata sheet, while an import with images, PDFs, and audio files needs three sheets, one for each media type.
+2. Select "Browse" from the **Media/Binary Files** field. Select the media file(s) you would like to upload.
+
+When you are done, select "Next" to continue on to the file configuration page. Media asset metadata imports are configured the same way as content. For specific instructions on how to configure imports, refer to the [Configure Import Settings section of the Importing Content](ImportingContent.md#configure-import-settings) article.
 
 ## Media types and core metadata fields
 
