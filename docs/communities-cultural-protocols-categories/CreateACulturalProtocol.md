@@ -31,7 +31,7 @@ This article covers two other methods for creating a cultural protocol - from th
 ![Protocol form with protocol name and cultural protocol type fields](../_embeds/create-protocol-03.png) 
 
 !!! Note
-    If your community page visibility is set to "community only," and the protocols you create are open, this will create some conflicts that can cause some confusion. On content and protocol pages, communities will display, but will not be linked for community non-members. Closed communities with open protocols will also display on browse pages, overriding the community page's visibility settings.
+    If community page visibility is set to "community only", and that community includes an open protocol, visitors will be able to see the community name, although they won't be able to access the community page itself. Unless that difference in access between the community and protocol pages is something you intentionally want, we recommend setting the community page visibility to "public" if it includes any open protocols.    
     
 It's possible that related families, villages, clans, or other communities might want to keep their communities distinct and manage access to certain shared pieces of content with the same set of protocols. This is possible by adding multiple communities to a protocol.
 
