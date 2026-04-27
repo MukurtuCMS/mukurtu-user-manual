@@ -8,9 +8,14 @@ tags:
 !!! Roles "User roles" 
     Administrator, Mukurtu manager, Roundtrip manager
 
-## Spreadsheet templates
+## Import templates
 
-Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information").
+An auto-generated listing of all import types is available at `/admin/import/format` (linked on the dashboard as "Import format information").
+
+This allows users to:
+
+- Easily export a CSV template with the correct field headers for their site. They can choose which fields to include as well, to minimize confusion.
+- View the formatting requirements for all fields in one place (eg: text, ID)
 
 ## Identifiers: Name, ID, UUID, Import ID
 
@@ -26,11 +31,10 @@ There are four kinds of identifiers that are used in various roundtrip tasks. A 
     - They are not retained in the system after import.
 - ID
     - Assigned by the system when content, media, terms, etc, are created. Never created by users.
-    - These start at `1` for each content/entity type and increase from there. Since each type of content starts numbering at `1`, these are not unique. For example, the first cultural protocol created on the site will have the ID 1, and the first digital heritage item created will also have the ID 1. The system uses the context of what field
-    - They are used for referencing existing content/entities within the same site. 
+    - These start at `1` for each content/entity type and increase from there. Since each type of content starts numbering at `1`, these are not unique. For example, the first cultural protocol created on the site will have the ID 1, and the first digital heritage item created will also have the ID 1. The system uses the context of which field they are located in for referencing existing content/entities within the same site. 
     - When using roundtrip to update existing site content you will usually want to use the ID field.
 - UUID (universally unique identifier)
-  `  - Assigned by the system when content, media, terms, etc, are created. Rarely created by users.
+    - Assigned by the system when content, media, terms, etc, are created. Rarely created by users.
     - These are unique strings that are never repeated within the same site, and will likely never be repeated across any site ever (eg: `550e8400-e29b-41d4-a716-446655440000`).
     - They are used to reference and identify content when sending information between the site and other sites/systems without risk of repetition.
 
@@ -50,7 +54,7 @@ All import sheets can include an optional *Authored by* field. This is used to i
 
 **If an author with correct protocol permissions is provided, AND the user running the import has correct protocol permissions**
 
-- The user identified in the *Authored b*y field is listed as the author.
+- The user identified in the *Authored by* field is listed as the author.
 
 **If an author with correct protocol permissions is provided, BUT the user running the import does NOT have correct protocol permissions**
 
@@ -62,8 +66,7 @@ All import sheets can include an optional *Authored by* field. This is used to i
 
 ## Draft field
 
-At this time if draft field is present, all content must include a value in that field. 
-If it is not required, omit the field entirely.
+At this time if draft field is present, all content must include a value in that field. If it is not required, omit the field entirely.
 
 ## Paragraphs
 

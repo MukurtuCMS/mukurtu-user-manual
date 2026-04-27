@@ -12,22 +12,22 @@ The Roundtrip tools make use of CSV spreadsheets for import and export. Here are
 
 ## File formats and character encoding:
 
-- All spreadsheets must use CSV (comma-separated values) spreadsheets.
+- All spreadsheets must use CSV (comma-separated values) format.
     - CSV is a non-proprietary spreadsheet format that can be opened by all spreadsheet tools. 
-    - While it does not support things like cell highlighting and text styling, it is very reliable, portable, and accessible.
+    - While it does not support things like cell highlighting and text styling, it is reliable, portable, and accessible.
 - All spreadsheets must use Unicode UTF-8 character encoding.
     - UTF-8 is the most commonly used character encoding system used online.
     - Most non-English keyboards are developed to use UTF-8 encoding to ensure that their characters are accurately and reliably displayed across operating systems and web browsers.
 - Certain exports will generate ZIP archives for download.
     - ZIP archives compress files and folder directories to reduce their size and facilitate transfer of larger files.
     - All operating systems have built-in tools to create and open ZIP archives – they are often found under “compress” actions.
-        - [Compress or uncompress files and folders on Mac](https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac)
         - [Zip and unzip files (Windows)](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5)
-    - Third-party ZIP tools can be used, but are  not required.
+        - [Compress or uncompress files and folders on Mac](https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac)
+    - Third-party file compression tools can be used, but are  not required.
 
-## Spreadsheet tools:
+## Spreadsheet tools
 
-In general, any spreadsheet tool that supports the above file format and character encodings requirements should work fine. We have some recommendations based on our testing and experiences:
+In general, any spreadsheet tool that supports the above file format and character encoding requirements should work fine. We have some recommendations based on our testing and experiences:
 
 **Google Sheets**
 
@@ -35,7 +35,7 @@ In general, any spreadsheet tool that supports the above file format and charact
 - Works on all operating systems and browsers.
 - Supports CSV export.
 - Defaults to UTF-8 encoding.
-- Free, but requires a Google account to use, and in certain cases using a service like this may not be appropriate, especially if sensitive information is being entered.
+- Free, but requires a Google account to use. In certain cases using a service like this may not be appropriate, especially if sensitive information is being entered.
 
 **LibreOffice and OpenOffice**
 

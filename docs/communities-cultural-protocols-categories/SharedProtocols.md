@@ -78,9 +78,7 @@ Note that access to a shared protocol does not mean access to every parent commu
 
 ## Display in browse and search
 
-On the browse page, a content item will display all associated communities based on the protocol(s) assigned to the item. Whether the protocol is a shared protocol makes no difference in display. In the screenshot below, Item 1 is assigned one shared protocol, with Community 1 and Community 2 as parent communities. Item 2 is assigned two single community protocols, one each from Community 1 and Community 2. 
+On the browse page and in search results, a content item will display all associated communities based on the protocol(s) assigned to the item. Whether the protocol is a shared protocol makes no difference in display. In the screenshot below, Item 1 is assigned one shared protocol, with Community 1 and Community 2 as parent communities. Item 2 is assigned two single community protocols, one each from Community 1 and Community 2. 
 
-**Update this screenshot when facets are working**
 ![Two digital heritage items on the browse page. They both list Community 1 and Community 2 as parent communities](../_embeds/multi-comm-protocol-09.png) 
 
-**Will need to add a section on search once that's up and running.**

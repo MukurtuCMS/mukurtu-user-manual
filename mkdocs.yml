@@ -191,7 +191,6 @@ nav:
     - roundtrip/RoundtripFormatting.md
     - roundtrip/GeneralImportInformation.md
     - roundtrip/MediaFormatsFields.md
-    - roundtrip/ImportingNewMedia.md
     - roundtrip/ImportingContent.md
     - roundtrip/DHItems.md
     - roundtrip/PersonRecords.md
@@ -199,7 +198,6 @@ nav:
     - roundtrip/Dictionary.md
     - roundtrip/Collections.md
     - roundtrip/WordLists.md
-    - roundtrip/ImportFormatInformation.md
     - roundtrip/ExportingContent.md
     - roundtrip/ExportSettings.md
   - Users:

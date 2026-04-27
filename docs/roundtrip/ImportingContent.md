@@ -10,13 +10,13 @@ tags:
 
 This article will walk you through the general steps to import a .csv metadata sheet and accompanying media assets. While the basic steps are the same for each content type, there are specifics about each type that are discussed in dedicated articles. Please refer to the article for the content type you are importing for more detail:
 
-- [Import Digital Heritage Items](../roundtrip/DHItems.md) 
-- [Import Dictionary Words](../roundtrip/Dictionary.md)
-- [Import Person records](../roundtrip/PersonRecords.md)
-- [Import Place Records](../roundtrip/PlaceRecords.md)
-- [Import Word Lists](../roundtrip/WordLists.md)
-- [Import Collections](../roundtrip/Collections.md)
-- [Import Media](../roundtrip/ImportingNewMedia.md)
+- [Importing Digital Heritage Items](../roundtrip/DHItems.md) 
+- [Importing Dictionary Words](../roundtrip/Dictionary.md)
+- [Importing Person records](../roundtrip/PersonRecords.md)
+- [Importing Place Records](../roundtrip/PlaceRecords.md)
+- [Importing Word Lists](../roundtrip/WordLists.md)
+- [Importing Collections](../roundtrip/Collections.md)
+- [Importing Media Assets](../roundtrip/MediaFormatsFields.md)
 
 !!!Requirement 
     Users must either be a Mukurtu manager or a Roundtrip manager to access roundtrip tools. Users will only be able to upload according to their protocol permissions. See [Manage User from a Site-wide role](../users/manage-user-accounts-site-wide.md) for more information.
@@ -30,7 +30,7 @@ To import content, go to `/admin/import` or from the dashboard, select **Import*
 The import page has two upload fields. The **metadata files** field is for .csv sheets only. The **media/binary files** field is for media or binary files that are referenced in the csv sheets. You can upload multiple files in each field. 
 
 !!! Requirement
-    To upload media, you must upload an accompanying metadata sheet for the media asset that is separate from the content item. See [Importing new media](../roundtrip/ImportingNewMedia.md) for instructions.
+    To upload media, you must upload an accompanying metadata sheet for the media asset that is separate from the content item. See [Importing Media Assets](../roundtrip/MediaFormatsFields.md) for instructions.
 
 1. Under **metadata files** select "choose files." Select the file(s) you would like to upload. 
 
@@ -39,7 +39,6 @@ The import page has two upload fields. The **metadata files** field is for .csv 
 Any combination of CSV sheets and supported media assets can be selected. When you are done, select "Next" to continue on to the file configuration page.
 
 ![The import page showing two csv spreadsheets and 2 media assets selected for upload](../_embeds/import-content-02.png)
-
 
 ## Configure import settings
 
