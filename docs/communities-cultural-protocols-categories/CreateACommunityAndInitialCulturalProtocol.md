@@ -19,12 +19,15 @@ In Mukurtu 4, creating a new community will automatically prompt you to create a
 
     ![The community creation form with Community name and description fields visible.](../_embeds/create-community-02.png)
 
-3. In the *community page visibility field*, select **Community Only** or **Public**:
+3. In the *community page visibility field*, select **Community Only** or **Public**: 
 
     - **Community Only** limits community page access to community members only.
     - **Public** allows public access to the community page.
 
     ![The community page visibility field with two radio buttons, one labeled community only and the other labeled public and a red arrow pointing to the buttons](../_embeds/create-community-03.png)
+
+!!! Note
+    If community page visibility is set to "community only", and that community includes an open protocol, visitors will be able to see the community name, although they won't be able to access the community page itself. Unless that difference in access between the community and protocol pages is something you intentionally want, we recommend setting the community page visibility to "public" if it includes any open protocols.  
 
 4. Select the *membership display setting*. Choose one of: 
 
@@ -70,10 +73,13 @@ Once you have created a community, you will be directed to create a cultural pro
 
 1. Name your cultural protocol. It's helpful to name the community associated with this protocol and indicate the type of access provided. For example, public collections at the Washington State University Library Manuscripts, Archives and Special Collections (WSU-MASC) might use the protocol, WSU-MASC Public.
 
-2.  Under *Protocol Type*, select **strict** or **open**. 
+2.  Under *Protocol Type*, select **strict** or **open**.
 
     - **Strict**: Items under strict protocol are only visible to logged in protocol members. The protocol page will not be visible to the public.
     - **Open**: Items under open protocol are accessible to all visitors, including those without user accounts.
+
+!!! Note
+    If community page visibility is set to "community only", and that community includes an open protocol, visitors will be able to see the community name, although they won't be able to access the community page itself. Unless that difference in access between the community and protocol pages is something you intentionally want, we recommend setting the community page visibility to "public" if it includes any open protocols.
 
 3. Add an optional description. Descriptions display on the protocol page and may include information about the purpose of the protocol, the type of content under this protocol, and who to contact if you have questions.
 
