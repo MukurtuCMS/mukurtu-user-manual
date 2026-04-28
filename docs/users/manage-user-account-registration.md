@@ -41,6 +41,27 @@ Scroll down to the Registration and cancellation section.
 	- Delete the account and make its' content belong to the Anonymous User. This action cannot be undone. - This deletes the account. Any content created by the user is assigned to "Anonymous User."
     ![Cancellation options listed with Disable the account and keep its' content selected](../_embeds/manage-user-registration-07.png)
 
+## Password settings for user account registration
+
+7. Determine how passwords are handled on the user registration form. Some of these options are contingent on whether email verification is enabled above. When email verification is enabled, passwords will be generated via the email verification link and are not necessary during registration. Select one of:
+    - Users **must** enter a password on registration. This is option is not available if email verification is enabled.
+    - Users **may** enter a password on registration. If left empty, a random password will be generated. This is option is not available if email verification is enabled.
+    - Users **cannot** enter a password on registration; a random password will be generated. This option is the only valid choice if email verification is enabled above.
+
+8. Determine how passwords are handled on the Add User form used by administrators. Select one of:
+    - Admins **may** set a password when creating or editing an account.
+    - Admins **cannot** set a password when creating or editing an account.
+
+9. Determine how generated passwords should display after they are created either by administrators or by users. Select one of:
+    - Do not display.
+    - Display when site administrators create new user accounts.
+    - Display when users create their own accounts.
+    - Display to both site administrators and users.
+
+10. Set the generated password length between 5 and 32 characters.
+
+![The password settings for user account registration for both users and administrators](../_embeds/manage-user-registration-09.png)
+
 ## Configure email notifications
 
 6. Use the *Notification Email Address* field to specify an email address for notifications. All automated email messages will be sent from this address. This email will also receive notifications if 'Visitors, but administrator approval required' is selected above. Leave this field blank to use the default system email address.

@@ -23,12 +23,10 @@ You will be returned to the user list and a success message will be displayed.
 ## Bulk manage user accounts
 You can also make certain changes to user accounts in bulk. Available changes are:
 
-- Send notifications daily
-    - A digest of notifications will be sent on a daily basis.
-- Send notifications immediately 
-    - Notifications will be sent immediately as they are generated.
-- Send notifications weekly 
-    - A digest of notifications will be sent on a weekly basis.
+- Set new random passwords for users
+    - The selected users passwords will be reset to an auto-generated password. 
+- Update URL alias
+    - 
 - Add the administrator role to the selected users 
     - The selected users will be assigned the administrator role 
 - Add the Mukurtu Manager role to the selected users (use with extreme caution!)
@@ -56,29 +54,13 @@ You can also make certain changes to user accounts in bulk. Available changes ar
 
 4. You will receive different results depending on the action item you select. Below are descriptions of the results of applying steps 1-3 above for each action item, and any additional instructions as needed.
 
-### Send notifications daily 
+### Set new random passwords for users.
 1. Complete steps 1-3.
-![People page with two users selected and the "Send notifications daily" action selected](../_embeds/add-user-account-15.png)
+![People page with two users selected and the "set new random passwords for" action selected](../_embeds/add-user-account-15.png)
 
-2. A success message is displayed. (Verify this)
+2. A success message is displays the newly generated password. Be sure to store the passwords in a secure location.
+
 SCREENSHOT 16
-![People page with success message displayed](../_embeds/placeholderscreenshot.png)
-
-### Send notifications immediately
-1. Complete steps 1-3.
-
-![People page with two users selected and the "Send notifications immediately" action selected](../_embeds/add-user-account-17.png)
-
-2. A success message is displayed. (Verify this)
-SCREENSHOT 18
-![People page with success message displayed](../_embeds/placeholderscreenshot.png)
-
-### Send notifications weekly
-1. Complete steps 1-3.
-![People page with two users selected and the "Send notifications weekly" action selected](../_embeds/add-user-account-19.png)
-
-2. A success message is displayed. (verify this)
-SCREENSHOT 20
 ![People page with success message displayed](../_embeds/placeholderscreenshot.png)
 
 ### Add the administrator role to the selected users

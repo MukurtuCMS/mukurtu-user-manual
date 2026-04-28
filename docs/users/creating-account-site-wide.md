@@ -22,9 +22,9 @@ Method 1: Select the **People** icon from the left-hand menu, then select **Add 
 
 ![People page with add user button highlighted](../_embeds/add-user-account-02.png)
 
-Method 2: In the **Add component** drop down menu, select **+ User**  to open the add user form.
+Method 2: From the dashboard, in the **Users** section, select **Add User**
 
-![The add component dropdown menu with the add user menu item highlighted.](../_embeds/add-user-account-03.png)
+![The dashboard with the add user link highlighted.](../_embeds/add-user-account-03.png)
 
 Method 3: Append `/admin/people/create` to your URL in your browser's address bar.
 
@@ -42,15 +42,18 @@ Once the form is open, fill out the form.
 
     ![The add user form with email address, username and password filled out](../_embeds/add-user-account-05.png)
 
-4. Select the appropriate status. 
+4. You can add an optional display name that differs from their username. This will display if the user leaves comments on content. 
 
-- Active members can act as normal, based on their user role and permissions.
-- Blocked members cannot log in to the site. They are typically blocked for two reasons:
+    ![The status, role, notify user and display fields filled out and or toggled on](../_embeds/add-user-account-06.png)
 
-    1. When a user submits an account request, their account is created and their status is set to "Blocked" until the Mukurtu manager approves the account and changes their status to "Active".
-    2. When a user takes inappropriate actions that warrant a temporary loss of access to the site. To access the site again, their status must be changed to "Active."
+5. Select the appropriate status. 
+    - Active members can act as normal, based on their user role and permissions.
+    - Blocked members cannot log in to the site. They are typically blocked for two reasons:
 
-5. Select a site-wide role for the user. By default, all users are assigned the authenticated user role, and this is the correct setting for the majority of users. This role allows them to view public material and save content to their own personal collections. The administrator and Mukurtu manager roles are for users who manage the site and therefore have additional access to controls and settings. The Roundtrip manager role can be assigned to users who need access to roundtrip (import/export) tools. Assign these roles with extreme caution.
+        1. When a user submits an account request, their account is created and their status is set to "Blocked" until the Mukurtu manager approves the account and changes their status to "Active".
+        2. When a user takes inappropriate actions that warrant a temporary loss of access to the site. To access the site again, their status must be changed to "Active."
+
+6. Select a site-wide role for the user. By default, all users are assigned the authenticated user role, and this is the correct setting for the majority of users. This role allows them to view public material and save content to their own personal collections. The administrator and Mukurtu manager roles are for users who manage the site and therefore have additional access to controls and settings. The Roundtrip manager role can be assigned to users who need access to roundtrip (import/export) tools. Assign these roles with extreme caution.
 
     !!! tip
 	    For detailed information about user account requests, see [Request an Account](request-an-account.md).
@@ -58,16 +61,25 @@ Once the form is open, fill out the form.
     !!! tip
 	    For more information on user roles, see [User Roles](user-role-types.md)
 
-6. To notify the user of their new account, set the toggle to green. This is optional.
+7. To notify the user of their new account, set the toggle to green. This is optional.
 
-7. You can add an optional display name that differs from their username. This will display if the user leaves comments on content. 
+8. To notify other users of this account, expand the **Notify other users of this account** section. Use the toggle/checkboxes to:
+    -  Notify all Mukurtu managers
+    - Notify community managers
+    - Notify protocol stewards
+    
+    You can also notify specific users by searching for their username. To notify additional users, select "Add another user."
 
-    ![The status, role, notify user and display fields filled out and or toggled on](../_embeds/add-user-account-06.png)
+![The notify other users of this account field with the community manager and protocol steward of the Tribal Community and Tribal Community Strict protocol selected](../_embeds/add-user-account-46.png)
 
-9. Select "Create new account" to create the user account. The form will reload and a success message will be displayed.
+9. If your site is multilingual, you can select the site language for the user. Email notifications will be sent in this language, as will the userʻs profile information.
+
+10. Select "Create new account" to create the user account. The form will reload and a success message will be displayed.
 
     ![Reloaded blank add user form with a success message displayed at the top of the page](../_embeds/add-user-account-07.png)
 
-!!! Tip
-    Users will be able to edit these settings when they log in.
+    !!! Tip
+        Users will be able to edit these settings when they log in.
+
+
 
