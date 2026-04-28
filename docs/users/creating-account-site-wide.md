@@ -64,7 +64,7 @@ Once the form is open, fill out the form.
 7. To notify the user of their new account, set the toggle to green. This is optional.
 
 8. To notify other users of this account, expand the **Notify other users of this account** section. Use the toggle/checkboxes to:
-    -  Notify all Mukurtu managers
+    - Notify all Mukurtu managers
     - Notify community managers
     - Notify protocol stewards
     
