@@ -58,7 +58,7 @@ You can also make certain changes to user accounts in bulk. Available changes ar
 1. Complete steps 1-3.
 ![People page with two users selected and the "set new random passwords for" action selected](../_embeds/add-user-account-15.png)
 
-2. A success message is displays the newly generated password. Be sure to store the passwords in a secure location.
+2. A success message displays the newly generated password. 
 
 SCREENSHOT 16
 ![People page with success message displayed](../_embeds/placeholderscreenshot.png)
