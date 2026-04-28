@@ -60,8 +60,7 @@ You can also make certain changes to user accounts in bulk. Available changes ar
 
 2. A success message displays the newly generated password. 
 
-SCREENSHOT 16
-![People page with success message displayed](../_embeds/placeholderscreenshot.png)
+![People page with success message displaying the new password](../_embeds/add-user-account-47.png)
 
 ### Add the administrator role to the selected users
 1. Complete steps 1-3.
