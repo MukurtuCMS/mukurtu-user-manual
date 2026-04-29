@@ -24,4 +24,4 @@ The Mukurtu Dashboard allows users to:
 
 Users who have been assigned specific user roles may have additional Dashboard options. For instance, Protocol stewards are able to access links to manage their protocol and create digital heritage items and other content.
 
-![Screenshot of the dashboard for protocol stewards.](../_embeds/placeholderscreenshot.png)
+![Screenshot of the dashboard for protocol stewards.](../_embeds/dashboard3.png)
