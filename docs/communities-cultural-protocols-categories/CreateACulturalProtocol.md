@@ -28,8 +28,11 @@ This article covers two other methods for creating a cultural protocol - from th
 
     - **Open**: Items under open protocol are accessible to all visitors, including those without user accounts.
 
-    ![Protocol form with protocol name and cultural protocol type fields](../_embeds/create-protocol-03.png) 
+![Protocol form with protocol name and cultural protocol type fields](../_embeds/create-protocol-03.png) 
 
+!!! Note
+    If community page visibility is set to "community only", and that community includes an open protocol, visitors will be able to see the community name, although they won't be able to access the community page itself. Unless that difference in access between the community and protocol pages is something you intentionally want, we recommend setting the community page visibility to "public" if it includes any open protocols.    
+    
 It's possible that related families, villages, clans, or other communities might want to keep their communities distinct and manage access to certain shared pieces of content with the same set of protocols. This is possible by adding multiple communities to a protocol.
 
 4. Select "Select Communities." A window will open that lists all communities of which you are a community manager. Check the box next to each community you wish to add, and select "Add communities."
