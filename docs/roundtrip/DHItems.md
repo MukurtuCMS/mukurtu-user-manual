@@ -59,21 +59,6 @@ Import templates can be created and downloaded from your own site at `/admin/imp
 |**Related Content**|
 |Related content|Digital heritage items can be related to any other site content when there is a connection between those items that is important to show. Examples include multiple photos of a place, objects discussed in an oral history, or dictionary words that appear in a digital heritage item. |IDs, UUIDs, or titles of the references, separated by your selected multi-value delimiter. Each title must be exact and match only one item.|
 
-## Embedding media in formatted text fields
-
-Users can include media assets in formatted text fields such as the Description, Cultural Heritage, Traditional Knowledge, or Location Description fields using the following syntax. The syntax are presented in order of our recommended methods. 
-
-|Syntax|Lookup|Attributes|
-|---|---|---|
-|`{{media:My Image}}` or `{{media:photo.jpg}}`|Name, then filename fallback|Default view mode|
-|`[media name="My Image"]`|Name only|view-mode, align, caption, alt|
-|`[media filename="photo.jpg"]`|Filename only|view-mode, align, caption, alt|
-|`<drupal-media data-entity-name="...">`|Name only|Full tag control|
-|`<drupal-media data-entity-filename="...">`|Filename only|Full tag control|
-
-!!! tip
-    We do not recommend using the `<drupal-media data-entity-name="...">` or `<drupal-media data-entity-filename="...">` syntax unless full tag control is required.
-
 ## Citing Indigenous Elders and Knowledge Keepers
 
 Citing Indigenous Elders and Knowledge Keepers is a group of repeatable fields that is handled as "paragraphs" in import. To include this citation, you will need to include a corresponding spreadsheet as well. That spreadsheets are included in this article, but please review [General Import Information > Importing Paragraphs](../roundtrip/GeneralImportInformation.md/#paragraphs) for more information on how to format and connect the spreadsheets during an import.
@@ -90,3 +75,18 @@ If including **Citing Indigenous Elders and Knowledge Keepers**, the Digital Her
 |A Brief Description or Title of the Teaching|Information such as the familial provenance of the teaching could be included here. For example, the citation might read: “Story about the sisters of the river as told to [Name of story keeper] by their grandmother [or the grandmother’s name].” This element should be discussed with the Knowledge Keeper, to properly describe or classify the knowledge they are sharing.|This field is plain text and limited to 255 characters.|
 |Date|As exact a date as possible is preferred to help other scholars working with the same Knowledge Keeper to identify which teaching was being cited. This can also be key if there are temporal or seasonal restrictions to knowledge, which should be discussed in depth with the Knowledge Keeper if they are considering including that knowledge in a publication that may be read at any time. |YYYY, YYYY-MM, or YYYY-MM-DD value.|
 
+
+## Embedding media in formatted text fields
+
+Users can include media assets in formatted text fields such as the Description, Cultural Heritage, Traditional Knowledge, or Location Description fields using the following syntax. The syntax are presented in order of our recommended methods. 
+
+|Syntax|Lookup|Attributes|
+|---|---|---|
+|`{{media:My Image}}` or `{{media:photo.jpg}}`|Name, then filename fallback|Default view mode|
+|`[media name="My Image"]`|Name only|view-mode, align, caption, alt|
+|`[media filename="photo.jpg"]`|Filename only|view-mode, align, caption, alt|
+|`<drupal-media data-entity-name="...">`|Name only|Full tag control|
+|`<drupal-media data-entity-filename="...">`|Filename only|Full tag control|
+
+!!! tip
+    We do not recommend using the `<drupal-media data-entity-name="...">` or `<drupal-media data-entity-filename="...">` syntax unless full tag control is required.
