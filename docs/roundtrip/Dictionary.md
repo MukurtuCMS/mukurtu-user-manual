@@ -50,6 +50,21 @@ Import templates can be created and downloaded from your own site at `/admin/imp
 |**Related Content**|
 |Related content|Dictionary words can be related to any other site content when there is a connection between those items that is important to show. Examples include digital heritage items that include the word.|IDs, UUIDs, or titles of the references, separated by your selected multi-value delimiter. Each title must be exact and match only one item.|
 
+## Embedding media in formatted text fields
+
+Users can include media assets in formatted text fields such as the Definition and Location description fields using the following syntax. The syntax are presented in order of our recommended methods. 
+
+|Syntax|Lookup|Attributes|
+|---|---|---|
+|`{{media:My Image}}` or `{{media:photo.jpg}}`|Name, then filename fallback|Default view mode|
+|`[media name="My Image"]`|Name only|view-mode, align, caption, alt|
+|`[media filename="photo.jpg"]`|Filename only|view-mode, align, caption, alt|
+|`<drupal-media data-entity-name="...">`|Name only|Full tag control|
+|`<drupal-media data-entity-filename="...">`|Filename only|Full tag control|
+
+!!! tip
+    We do not recommend using the `<drupal-media data-entity-name="...">` or `<drupal-media data-entity-filename="...">` syntax unless full tag control is required.
+
 ## Word entries and sample sentences
 
 Word entries and sample sentences are groups of repeatable fields that are handled as "paragraphs" in import. To include sample sentences or word entries in a dictionary word, you will need to include a corresponding spreadsheet as well. Those spreadsheets are included in this article, but please review [General Import Information > Importing Paragraphs](../roundtrip/GeneralImportInformation.md/#paragraphs) for more information on how to format and connect the spreadsheets during an import.

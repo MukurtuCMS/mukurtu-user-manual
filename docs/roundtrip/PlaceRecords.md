@@ -48,3 +48,18 @@ If including **Text Sections** paragraphs, the Place record CSV and associated p
 |---|---|---|
 |Title|The title of the section.|Plain text value.|
 |Body|The body of the section.|Formatted text.|
+
+## Embedding media in formatted text fields
+
+Users can include media assets in formatted text fields such as the Text section or Location description fields using the following syntax. The syntax are presented in order of our recommended methods. 
+
+|Syntax|Lookup|Attributes|
+|---|---|---|
+|`{{media:My Image}}` or `{{media:photo.jpg}}`|Name, then filename fallback|Default view mode|
+|`[media name="My Image"]`|Name only|view-mode, align, caption, alt|
+|`[media filename="photo.jpg"]`|Filename only|view-mode, align, caption, alt|
+|`<drupal-media data-entity-name="...">`|Name only|Full tag control|
+|`<drupal-media data-entity-filename="...">`|Filename only|Full tag control|
+
+!!! tip
+    We do not recommend using the `<drupal-media data-entity-name="...">` or `<drupal-media data-entity-filename="...">` syntax unless full tag control is required.
