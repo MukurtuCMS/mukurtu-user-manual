@@ -19,5 +19,12 @@ Users can include media assets in formatted text fields such as the Description 
 |`<drupal-media data-entity-name="...">`|Name only|Full tag control|
 |`<drupal-media data-entity-filename="...">`|Filename only|Full tag control|
 
-!!! tip
-    We do not recommend using the `<drupal-media data-entity-name="...">` or `<drupal-media data-entity-filename="...">` syntax unless full tag control is required.
+## {{media:My Image}} or {{media:photo.jpg}}
+
+This syntax is recommended and is going to work in almost all cases. Use this unless you know you need specific alignment, captioning, embed size, or full tag control.
+
+## [media name="My Image"] or [media filename="photo.jpg"]
+
+Use this syntax if you know that you are going to need more control over alignment, captioning, embed size, or full tag control.
+
+We do not recommend using the `<drupal-media data-entity-name="...">` or `<drupal-media data-entity-filename="...">` syntax unless full tag control is required.
