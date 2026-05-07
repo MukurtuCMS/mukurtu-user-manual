@@ -209,6 +209,7 @@ nav:
     - users/review-user-account-requests.md
     - users/manage-user-accounts-site-wide.md
     - users/log-in.md
+    - users/UnderstandingDashboard.md
     - users/reset-password.md
   - Site Maintenance:
     - site-maintenance/CheckErrorLogs.md
