@@ -27,6 +27,10 @@ This syntax is recommended and is going to work in almost all cases. Use this un
 
 Use this syntax if you know that you are going to need more control over alignment, captioning, embed size, or full tag control.
 
+## HTML tags
+
 Tags can be added to the syntax to specify alignment, add captioning, or adjust the embed size. A full list of these tags can be found at [ckeditor.com](https://ckeditor.com/docs/ckeditor5/latest/features/html/general-html-support.html#block-elements).
+
+To use HTML tags in your syntax, 
 
 We do not recommend using the `<drupal-media data-entity-name="...">` or `<drupal-media data-entity-filename="...">` syntax unless full tag control is required.
