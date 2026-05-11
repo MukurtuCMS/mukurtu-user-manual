@@ -18,6 +18,6 @@ tags:
 
 ![The login page with username and password filled out](../_embeds/login-2.png)
 
-4. You will be taken to the Mukurtu dashboard.
+4. You will be taken to the front page of the site.
 
 ![The Mukurtu dashboard](../_embeds/login-3.png)
