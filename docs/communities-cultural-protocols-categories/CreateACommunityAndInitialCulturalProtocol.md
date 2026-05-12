@@ -26,8 +26,8 @@ In Mukurtu 4, creating a new community will automatically prompt you to create a
 
     ![The community page visibility field with two radio buttons, one labeled community only and the other labeled public and a red arrow pointing to the buttons](../_embeds/create-community-03.png)
 
-!!! Note
-    If community page visibility is set to "community only", and that community includes an open protocol, visitors will be able to see the community name, although they won't be able to access the community page itself. Unless that difference in access between the community and protocol pages is something you intentionally want, we recommend setting the community page visibility to "public" if it includes any open protocols.  
+    !!! Note
+        If community page visibility is set to "community only", and that community includes an open protocol, visitors will be able to see the community name, although they won't be able to access the community page itself. Unless that difference in access between the community and protocol pages is something you intentionally want, we recommend setting the community page visibility to "public" if it includes any open protocols.  
 
 4. Select the *membership display setting*. Choose one of: 
 
@@ -37,35 +37,36 @@ In Mukurtu 4, creating a new community will automatically prompt you to create a
 
     ![The membership display field](../_embeds/create-community-04.png)
 
-    At this point, you have the option to add community members and assign user roles. If you are currently unsure about role assignments, or you have not yet created the necessary user accounts, you can skip this step and manage membership later. By default, the user that creates the community will be added to the community and assigned to the community manager role. The instructions for adding members and assigning roles are the same.
+At this point, you have the option to add community members and assign user roles. If you are currently unsure about role assignments, or you have not yet created the necessary user accounts, you can select "Save" at the top of the page and manage the community membership later. If you do this, you will not be able to add protocol members on the next page, as protocols are populated using the community membership. Group memberships can be edited at any time from their respective manage pages. See [Manage Community Members](../communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md) and [Manage Protocol Members](../communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md) for more information.
 
-    !!! tip
-        Only registered users of the site will be able to be added to a community.
+!!! tip
+    Only site users with the active status can be added to a community. Blocked or pending users cannot be added from this form.
 
-    There are three community roles. To read more, see [User Role Types](../users/user-role-types.md)
+### Add community members and assign roles  
 
-    - Community managers can manage community membership and create new protocols.
-    
-    - Community members can view the community page and be added to protocols within the community.
+Under Community Members, the role descriptions section describes community roles. It is there for reference while adding community members. You can collapse or expand it as needed.
 
-    - Community affiliates can also view the community page and be added to protocols within the community. This is a designation for community partners. 
-    
-5. Add users by selecting "Select Members" under the appropriate role. A window will open where you will make your selections.
+![The community role descriptions](../_embeds/create-community-05.png)
 
-    ![The user role selection fields - community member, community affiliate and community manager. Each role has a select button beneath them.](../_embeds/create-community-05.png)
+1. To add new members, use the search bar to search for users. All active users will display, and username will auto-filter as you type. 
 
-    - Begin typing a username into the search bar. Usernames will autocomplete as you type, or find them in the list below the search bar and check the box next to their name. 
-    - Once all the desired users have been selected, select "Add Users".
+    ![The member search bar with a user name partially entered, actively filtering users](../_embeds/create-community-07.png)
 
-        ![The select members form with Add users, trashcan icon and finished higlighted in a red box](../_embeds/create-community-06.png)
+2. Select the user you want to add, and select "Add" to the right of the search bar. The user will appear in the table below. Repeat steps 1 and 2 to add additional members.
 
-    - To remove users, select the trash can icon next to their name.
-    - Select "Finished" when you are done adding users.
-    - Repeat these steps for any other user roles you would like to assign at this time.
+    ![The selected user in the search bar with the add button highlighted](../_embeds/create-community-06.png)
 
-6. When you're finished, select "Create Community," which is sticky at the top of the page.  
+3. Select one or more user roles to for each new member by selecting the corresponding checkboxes. Select "Remove" to remove users from the group. 
 
-    ![The community form with the create community button at the top of the page highlighted with a red box](../_embeds/create-community-07.png)
+    By default, the user that creates the community will be added to the community and assigned the community manager role. The community manager role cannot be removed from the creator in this form.
+
+
+    ![The new member table with user roles checked. The remove box is highlighted](../_embeds/create-community-10.png)
+
+    !!! requirement
+        All users must be assigned at least one community role or the form will not save.
+
+4. When you're finished, select "Save" at the top of the page 
 
 ## Create a protocol
 
@@ -93,44 +94,48 @@ Once you have created a community, you will be directed to create a cultural pro
 
     ![Screenshot of memberhsip display setting.](../_embeds/create-protocol-21.png)
 
-    At this point, you can add protocol members and assign user roles using the same steps used to add community members. If you do not have community members yet, or are currently unsure of role assignments, you can skip this step and manage protocol membership later.
+    At this point, if you have added community members in the previous form, you can add some or all of them to this protocol and assign protocol roles. If you do not have community members yet, or are currently unsure of role assignments, you can skip this step and manage protocol membership later. See [Manage Protocol Members](../communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md) for instructions.
 
-    There are several different user roles for protocols for you to use as needed. In order of responsibility:
+    In the Protocol Members section, you can collapse and expand protocol role descriptions, which are there for reference as you add new members:
 
-    - Protocol members can view content but cannot add or edit.
-    - Protocol affiliates can view content but cannot add or edit. This is a designation for community partners that mirrors the community affiliate role.
-    - Contributors can create, edit and delete their own digital heritage items, person records and media assets.
-    - Curators can create, edit and delete their own collections and upload media assets. 
-    - Community record stewards can add community records to content, as well as edit and delete them.
-    - Language contributors can add, edit and delete their own dictionary words and word lists.
-    - Language stewards can add, edit and delete ALL dictonary words and word lists and also add media assets.
-    - Protocol stewards can manage protocol membership, add edit and delete all content and media assets, manage the look and feel of the protocol page, and manage Local Contexts labels and notices.
+    ![Protocol user role descriptions.](../_embeds/create-community-09.png)
 
-        ![A screenshot of all the protocol user roles, each with a "select user" button beneath them.](../_embeds/create-community-09.png)
-
-    !!! tip
+    !!! Requirement
         Users must be a member of the protocol's parent community before they can be enrolled in the protocol.
 
     !!! tip
         For more in-depth information about user roles, see [User Role Types](../users/user-role-types.md)
+
+### Add protocol members and assign roles
     
-5. Add users to a protocol role by selecting "Select Members" under the appropriate role. Use the search bar to narrow down your options and select each member you want to assign. 
+5. To add new members, use the search bar to search for users. The community members that were added on the previous form will display, and options will narrow as you type. 
 
-    ![A screenshot of the protocol enrollment form. It has a search field at the top with a green search button underneath, a list of community members with toggles next to their names, and a green button that says add uers.](../_embeds/create-community-10.png)
+    ![The member search bar with a user name partially entered, actively filtering users](../_embeds/create-community-07.png)
 
-6. When you're done adding users and assigning user roles to your protocol, select "Finished."
+6. Select the user you want to add, and select "Add" to the right of the search bar. The user will appear in the table below. Repeat steps 1 and 2 to add additional members.
 
-    ![The protocol enrollment form after users have been added. The search field and community members that have not been added are at the top of the form. Added users appear below a grey divier.](../_embeds/create-community-11.png)
+    ![The selected user in the search bar with the add button highlighted](../_embeds/create-community-11.png)
 
-7. Select either "Save and Create Another Protocol" if you have additional protocols to add, or "Save" if you are done. You can always add additional protocols later. These buttons are sticky at the top of the page.
+7. Select one or more user roles to for each new member by selecting the corresponding checkboxes. Select "Remove" to remove users from the group. 
+
+    ![The new member table with user roles checked. The remove box is highlighted](../_embeds/create-community-15.png)
+
+    !!! requirement
+        All users must be assigned at least one protocol role or the form will not save.
+        
+    By default, the user that creates the protocol will be added to the protocol and assigned the protocol steward role. The protocol steward role cannot be removed from the creator in this form.
+
+8. Select either "Save and Create Another Protocol" if you have additional protocols to add, or "Save" if you are done. You can always add additional protocols later. These buttons are sticky at the top of the page.
 
     - "Save and create another protocol" generates a fresh form with a confirmation message.
     - "Save" takes you to the manage community page with a confirmation message.
 
- ![A sreenshot of the top of the protocol form, with two buttons with a red box around them. One button says save and create another protocol. The other button says save.](../_embeds/create-community-12.png)
+    ![A sreenshot of the top of the protocol form, with two buttons with a red box around them. One button says save and create another protocol. The other button says save.](../_embeds/create-community-12.png)
 
-This is the manage community page with the confirmation message displayed. From this page you can edit your community, manage membership, manage the look and feel of the page, add cultural protocols, and manage Local Contexts labels and notices.
+This is the manage community page with the confirmation message displayed. From this page you can edit your community, manage membership, manage the look and feel of the page, add cultural protocols, and manage Local Contexts labels and notices. Equivalent pages also exist for protocols. They allow for similar management by protocol stewards.
+ 
  ![A screenshot of the community manage page with a confirmation message](../_embeds/create-community-13.png)
 
 This is the community page. It will be visible to community members. If it is a public page, it will be visible to all site visitors. 
+
 ![A screenshot of the newly created community page.](../_embeds/create-community-14.png)
