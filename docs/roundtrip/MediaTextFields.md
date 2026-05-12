@@ -16,8 +16,6 @@ Users can include media assets in formatted text fields such as the Description 
 |`{{media:My Image}}` or `{{media:photo.jpg}}`|Name, then filename fallback|Default view mode|
 |`[media name="My Image"]`|Name only|view-mode, align, caption, alt|
 |`[media filename="photo.jpg"]`|Filename only|view-mode, align, caption, alt|
-|`<drupal-media data-entity-name="...">`|Name only|Full tag control|
-|`<drupal-media data-entity-filename="...">`|Filename only|Full tag control|
 
 ## Basic syntax
 
@@ -43,6 +41,8 @@ Tags can be added to the syntax to specify alignment, add captioning, or adjust 
     - Medium embeds are 480px
     - Large embeds are 900px
 
-To use more than one HTML tags in your syntax, include them after your media name or filename, followed by `tag="text"`. For example, `[media filename="crow1.png" alt="Here is some alt text" caption="Here is a caption" align="right"]` aligns the media asset to the right, as well as adding the alternative text "Here is some alt text" and the caption "Here is a caption".
+To use more than one HTML tags in your syntax, include them after your media name or filename, followed by `tag="text"`. For example, `[media filename="crow1.png" view-mode="small" alt="Here is some alt text" caption="Here is a caption" align="right"]` adjusts the embed size to small, aligns the media asset to the right, and adds the alternative text "Here is some alt text" and the caption "Here is a caption".
 
-We do not recommend using the `<drupal-media data-entity-name="...">` or `<drupal-media data-entity-filename="...">` syntax unless full tag control is required.
+This is an example of a Cultural Narrative field with media  featuring `view-mode`, `caption`, `align`, and `alt` tags:
+
+![Screenshot of the cultural narrative field with three different sizes of one image featuring a crow and lorem ipsum text.](../_embeds/RoundtripMedia.png)
