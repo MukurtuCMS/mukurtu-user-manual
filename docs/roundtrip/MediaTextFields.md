@@ -17,7 +17,7 @@ Users can include media assets in formatted text fields such as the Description 
 |`[media name="My Image"]`|Name only|view-mode, align, caption, alt|
 |`[media filename="photo.jpg"]`|Filename only|view-mode, align, caption, alt|
 
-## Default format syntax
+## Default formatting syntax
 
 `{{media:My Image}}` or `{{media:photo.jpg}}`
 
