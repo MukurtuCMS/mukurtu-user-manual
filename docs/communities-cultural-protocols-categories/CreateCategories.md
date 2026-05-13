@@ -13,12 +13,12 @@ Categories are high-level descriptive terms that help Mukurtu users browse and d
 
 You can create categories through the top-level Add Component menu or through the Dashboard. Follow the instructions below to create a category.
 
-## From the Add Component menu
+## From the Admin menu
 
-1. Hover over the **Add Component** menu. 
-2. Select the **+Category** link. 
+1. Hover over the **Create** menu in the left-hand admin menu. 
+2. Select the **Taxonomy** dropdown, then select the **Category** link. 
 
-    ![Screenshot of the +Category menu option highlighted](../_embeds/Categoryupdate1.png)
+    ![Screenshot of the admin sidebar with the taxonomy menu option and the category link highlighted](../_embeds/Categoryupdate1.png)
 
 ## From the Dashboard
 
