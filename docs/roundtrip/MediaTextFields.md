@@ -17,19 +17,19 @@ Users can include media assets in formatted text fields such as the Description 
 |`[media name="My Image"]`|Name only|view-mode, align, caption, alt|
 |`[media filename="photo.jpg"]`|Filename only|view-mode, align, caption, alt|
 
-## Basic syntax
+## Default format syntax
 
 `{{media:My Image}}` or `{{media:photo.jpg}}`
 
 This syntax is recommended and is going to work in almost all cases. Use this unless you know you need specific alignment, captioning, embed size, or full tag control.
 
-## Extended syntax
+## Additional formatting syntax
 
 `[media name="My Image"]` or `[media filename="photo.jpg"]`
 
 Use this syntax if you know that you are going to need more control over alignment, captioning, or embed size.
 
-## HTML tags
+### HTML tags
 
 Tags can be added to the syntax to specify alignment, add captioning, or adjust the embed size. 
 
