@@ -39,8 +39,6 @@ In Mukurtu 4, creating a new community will automatically prompt you to create a
 
 At this point, you have the option to add community members and assign user roles. If you are currently unsure about role assignments, or you have not yet created the necessary user accounts, you can select "Save" at the top of the page and manage the community membership later. If you do this, you will not be able to add protocol members on the next page, as protocols are populated using the community membership. Group memberships can be edited at any time from their respective manage pages. See [Manage Community Members](../communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md) and [Manage Protocol Members](../communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md) for more information.
 
-!!! tip
-    Only site users with the active status can be added to a community. Blocked or pending users cannot be added from this form.
 
 ### Add community members and assign roles  
 
@@ -48,7 +46,7 @@ Under Community Members, the role descriptions section describes community roles
 
 ![The community role descriptions](../_embeds/create-community-05.png)
 
-1. To add new members, use the search bar to search for users. All active users will display, and username will auto-filter as you type. 
+1. To add new members, use the search bar to search for users. All users will display, and username will auto-filter as you type. 
 
     ![The member search bar with a user name partially entered, actively filtering users](../_embeds/create-community-07.png)
 
@@ -132,7 +130,7 @@ Once you have created a community, you will be directed to create a cultural pro
 
     ![A sreenshot of the top of the protocol form, with two buttons with a red box around them. One button says save and create another protocol. The other button says save.](../_embeds/create-community-12.png)
 
-This is the manage community page with the confirmation message displayed. From this page you can edit your community, manage membership, manage the look and feel of the page, add cultural protocols, and manage Local Contexts labels and notices. Equivalent pages also exist for protocols. They allow for similar management by protocol stewards.
+This is the manage community page with the confirmation message displayed. From this page you can edit your community, manage membership, manage the look and feel of the page, add cultural protocols, and manage Local Contexts labels and notices. Equivalent pages also exist for protocols, which are accessible in the "Cultural Protocols" section or from the dashboard. They allow for similar management by protocol stewards.
  
  ![A screenshot of the community manage page with a confirmation message](../_embeds/create-community-13.png)
 
