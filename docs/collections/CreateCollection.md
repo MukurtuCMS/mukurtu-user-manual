@@ -12,9 +12,11 @@ Collections are a tool to group and arrange content. They can be used to provide
 
 ## Create a new collection 
 
-There are several different ways to get started creating a collection in Mukurtu. You can create a collection from the **Create Content** dropdown menu, from the **+** icon on your left-hand sidebar, or from the **Dashboard** links in the header or the left-hand sidebar. 
+You can create a collection from the **Create Content** dropdown menu or from your **Dashboard**. 
 
-![Screenshot of the Mukurtu 4 home page with the four different options to begin creating a collection highlighted.](../_embeds/createcollections1.png)
+![Screenshot of the Mukurtu 4 home page with the create content and collection link highlighted.](../_embeds/createcollections1.png)
+
+![Screenshot of the Dashboard with the add collection link highlighted in the content section.](../_embeds/createcollections1.5.png)
     
 Select **Collection** to begin creating your collection. The remaining steps to create a collection are the same.
 

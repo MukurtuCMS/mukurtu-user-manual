@@ -12,12 +12,21 @@ Communities can have a range of settings that can be updated once the community 
 
 ## Open the edit form
 
-1. Navigate to the community you wish to edit.
+1. Navigate to the community you wish to edit. Communities can be accessed two ways:
 
-	![Screenshot of dashboard with two options for accessing communities highlighted](../_embeds/community-settings-10.png)
+	- From the navigation menu:
+
+	![The navigation menu with community hihglighted](../_embeds/community-settings-10.png)
+
+	- From the dashboard:
+
+	![The dashboard with manage communities and protocols highlighted](../_embeds/community-settings-11.png)
+
+
 
 2. From the community menu options, select **edit**. The community form will open with its current settings.
 
+	![The community page with the edit form highlighted](../_embeds/community-settings-12.jpg)
 ## Community name and description
 
 Edit the *community name* and *description* as needed.
@@ -69,10 +78,6 @@ This is what a community page looks like with a banner.
 
 Featured content gives users a preview of selected content contributed by the community. It displays the title and thumbnail of the content on the community page. Custom thumbnails are added by editing the content directly. This may be especially useful for non-image media such as audio and PDFs, which will otherwise display a stock graphic.  
 
-SCREENSHOT OF COMMUNITY PAGE WITH FEATURED CONTENT - WAITING FOR 
-
-![Screenshot community page with featured content](../_embeds/placeholderscreenshot.png)
-
 1. Expand *featured content* and select "Select Content." 
 2. Use the dropdown menu to narrow your search by content type, and the *search* field to search for specific content.
 3. All available content is displayed below the search bar. Check the box next to each piece of content you wish to feature.
@@ -98,6 +103,5 @@ If your community has sub-communities, they will be listed here. Note that this 
 ## Save
 When your changes are complete, select "Save." You will be taken to your community page and all changes will be displayed.
 
-[WAITING FOR FEATURED CONTENT STYLING]
- ![Screenshot of community page after saving edits](../_embeds/placeholderscreenshot.png)
+ ![Screenshot of community page after saving edits](../_embeds/community-settings-13.png)
 
