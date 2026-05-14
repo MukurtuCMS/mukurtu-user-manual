@@ -11,9 +11,11 @@ tags:
 
 You can use the Mukurtu Media Library to create, edit, and delete media assets. For detailed instructions on how to create media assets, refer to the [Create Media Assets](CreateMediaAssets.md) articles. 
 
-You can access the media library from your Dashboard or from the Media link in the left-hand sidebar. 
+From the **Dashboard**, navigate to the Media section and select **Manage Media**. 
 
-![Screenshot of the front page highlighting the Dashboard and Media links](../_embeds/medialibrary1.png)
+![Screenshot of the front page highlighting the Dashboard](../_embeds/medialibrary1.png)
+
+![Screenshot of the dashboard with manage media highlighted](../_embeds/medialibrary1.5.png)
 
 You can use the *Media name* field to search for media assets by name, or you can filter by type or published status.
 
