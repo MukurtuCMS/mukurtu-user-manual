@@ -18,18 +18,10 @@ If your site has more than one language enabled, authenticated users may choose 
 ## Set your account language
 
 1. Log in to your account. For more information about how to log in to your user account, refer to our [Log In](../users/log-in.md) article.
-2. Select **My Account** from the top menu bar. 
-
-    ![Screenshot of the My Account link in the top menu bar](../_embeds/user1.png)
-
-    You can also access your account settings from your Dashboard by selecting the **Dashboard** link, then selecting **My Account**.
+2. From the **Dashboard** select **Manage my account**.
 
     ![Screenshot of the Dashboard link in the top menu bar](../_embeds/user2.png)
-    ![Screenshot of the My Account link in the Dashboard](../_embeds/user4.png)
-
-3. Select the "Edit" button.
-
-    ![Screenshot of the user account page with the Edit button highlighted](../_embeds/user3.png)
+    ![Screenshot of the Manage my Account link in the Dashboard](../_embeds/user4.png)
 
 4. Navigate to the **Language settings** section of the user account page. In the *Site language* and *Administration pages language* fields, select your preferred language from the dropdown menu. 
 
