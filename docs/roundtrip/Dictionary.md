@@ -81,18 +81,3 @@ Word entries and sample sentences are groups of repeatable fields that are handl
 |Source|Reference to a resource from which the entry was collected or sourced. Examples include a specific dictionary or language researcher, or the places where the entry is used (in the case of dialectical variation, for example).|This field is plain text and limited to 255 characters.|
 |Word Origin|Information about the history or etymology of the entry. Examples include the origin language of a borrowed word or the date the word came into the language.|This field is plain text and limited to 255 characters.|
 |Contributor|A contributor is a person or group who aided in the making of the entry. While a contributor is usually a single person, it could also be a clan, tribe, culture group, or organization. A dictionary word can have multiple contributors. Examples include language speakers who recorded the word, or contributed knowledge and history of the word. Names can be in any format that is appropriate for the content, eg: "John Smith" or "Smith, John."|Taxonomy term name, ID, or UUID. The name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
-
-## Embedding media in formatted text fields
-
-Users can include media assets in formatted text fields such as the Definition and Location description fields using the following syntax. The syntax are presented in order of our recommended methods. 
-
-|Syntax|Lookup|Attributes|
-|---|---|---|
-|`{{media:My Image}}` or `{{media:photo.jpg}}`|Name, then filename fallback|Default view mode|
-|`[media name="My Image"]`|Name only|view-mode, align, caption, alt|
-|`[media filename="photo.jpg"]`|Filename only|view-mode, align, caption, alt|
-|`<drupal-media data-entity-name="...">`|Name only|Full tag control|
-|`<drupal-media data-entity-filename="...">`|Filename only|Full tag control|
-
-!!! tip
-    We do not recommend using the `<drupal-media data-entity-name="...">` or `<drupal-media data-entity-filename="...">` syntax unless full tag control is required.

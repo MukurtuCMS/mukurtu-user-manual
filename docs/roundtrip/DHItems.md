@@ -74,19 +74,3 @@ If including **Citing Indigenous Elders and Knowledge Keepers**, the Digital Her
 |City or Community they live in|Knowledge Keepers may live in places that differ from the origins of their knowledge, nation, or birthplace, and, in some cases, this may be an important relationship they want to recognize. Only used if applicable and indicated by the Knowledge Keeper. |This field is plain text and limited to 255 characters.|
 |A Brief Description or Title of the Teaching|Information such as the familial provenance of the teaching could be included here. For example, the citation might read: “Story about the sisters of the river as told to [Name of story keeper] by their grandmother [or the grandmother’s name].” This element should be discussed with the Knowledge Keeper, to properly describe or classify the knowledge they are sharing.|This field is plain text and limited to 255 characters.|
 |Date|As exact a date as possible is preferred to help other scholars working with the same Knowledge Keeper to identify which teaching was being cited. This can also be key if there are temporal or seasonal restrictions to knowledge, which should be discussed in depth with the Knowledge Keeper if they are considering including that knowledge in a publication that may be read at any time. |YYYY, YYYY-MM, or YYYY-MM-DD value.|
-
-
-## Embedding media in formatted text fields
-
-Users can include media assets in formatted text fields such as the Description, Cultural Heritage, Traditional Knowledge, or Location Description fields using the following syntax. The syntax are presented in order of our recommended methods. 
-
-|Syntax|Lookup|Attributes|
-|---|---|---|
-|`{{media:My Image}}` or `{{media:photo.jpg}}`|Name, then filename fallback|Default view mode|
-|`[media name="My Image"]`|Name only|view-mode, align, caption, alt|
-|`[media filename="photo.jpg"]`|Filename only|view-mode, align, caption, alt|
-|`<drupal-media data-entity-name="...">`|Name only|Full tag control|
-|`<drupal-media data-entity-filename="...">`|Filename only|Full tag control|
-
-!!! tip
-    We do not recommend using the `<drupal-media data-entity-name="...">` or `<drupal-media data-entity-filename="...">` syntax unless full tag control is required.

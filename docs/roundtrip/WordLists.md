@@ -34,19 +34,3 @@ Import templates can be created and downloaded from your own site at `/admin/imp
 |Local Contexts Labels and Notices|This field allows selective application of one or more Labels from any available Local Contexts Project to the collection.|Label or notice names, separated by your selected multi-value delimiter.|
 |**Related Content**|
 |Related content|Word lists can be related to any other site content when there is a connection that is important to show. Eg: a digital heritage lesson plan that is supplemented by the word list. Note that this field is not used to indicate words in the word list. See the words field instead.|IDs, UUIDs, or titles of the references, separated by your selected multi-value delimiter. Each title must be exact and match only one item.|
-
-
-## Embedding media in formatted text fields
-
-Users can include media assets in formatted text fields such as the Description or Location description fields using the following syntax. The syntax are presented in order of our recommended methods. 
-
-|Syntax|Lookup|Attributes|
-|---|---|---|
-|`{{media:My Image}}` or `{{media:photo.jpg}}`|Name, then filename fallback|Default view mode|
-|`[media name="My Image"]`|Name only|view-mode, align, caption, alt|
-|`[media filename="photo.jpg"]`|Filename only|view-mode, align, caption, alt|
-|`<drupal-media data-entity-name="...">`|Name only|Full tag control|
-|`<drupal-media data-entity-filename="...">`|Filename only|Full tag control|
-
-!!! tip
-    We do not recommend using the `<drupal-media data-entity-name="...">` or `<drupal-media data-entity-filename="...">` syntax unless full tag control is required.
