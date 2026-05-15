@@ -17,6 +17,10 @@ This allows users to:
 - Easily export a CSV template with the correct field headers for their site. They can choose which fields to include as well, to minimize confusion.
 - View the formatting requirements for all fields in one place (eg: text, ID)
 
+To download an import template, select the link for the content type, paragraph, or media asset type you want to import. Select the checkboxes to the left of the fields you want to include in your template, then select the "Download CSV Template" button to download your template. 
+
+![Screenshot of the digital heritage import template selection form, with checkboxes and the download csv template button highlighted.](../_embeds/roundtripimports.png)
+
 ## Identifiers: Name, ID, UUID, Import ID
 
 There are four kinds of identifiers that are used in various roundtrip tasks. A spreadsheet used in import should only ever include one of these identifier fields at a time.
