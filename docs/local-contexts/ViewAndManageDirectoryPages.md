@@ -24,11 +24,9 @@ To view project directories within a community or protocol, navigate to the comm
 
 ![A community manage page with the local contexts directly link highlighted in red.](../_embeds/lc-directory-03.png)
 
-To view the site project directory, go to the dashboard and select **Local Contexts Projects**. 
+To view the site project directory, go to the dashboard. In the **Site Settings** section, select **Local Contexts Projects**. 
 
-SCREENSHOT OF SITE PROJECT DIRECTORY LINK
-![Screenshot of site project directory link](../_embeds/placeholderscreenshot.png)
-
+![Screenshot of site project directory link](../_embeds/lc-directory-07.png)
 ## Manage project directories
 
 The information displayed in directories are managed in two locations: the Local Contexts Hub and the Mukurtu site. 
@@ -51,16 +49,15 @@ Select "Save". The community or protocol page will load with a success message.
 
 ![The community page with a success message displayed](../_embeds/lc-directory-06.png)
 
-The description will be visible on the project directory page.
+The description will be visible on the group's project directory page.
 
-![The project directory page showing the description that was added in the community edit form](../_embeds/placeholderscreenshot.png)
+![The project directory page showing the description that was added in the community edit form](../_embeds/lc-directory-08.png)
 
 ### Site-wide project directory
 
-1. To manage the site project directory, go to the dashboard and select **Manage Local Contexts Projects**.
+1. To manage the site project directory, as a Mukurtu Manager, go to the dashboard. In the **Site Settings** section, select **Manage Local Contexts Projects**.
 
-SCREENSHOT OF DASHBOARD LINK
-![The Mukurtu dashboard with the Manage Local Contexts Projects link highlighted.](../_embeds/placeholderscreenshot.png)
+![The Mukurtu dashboard with the Manage Local Contexts Projects link highlighted.](../_embeds/lc-directory-09.png)
 
 2. You should see your API key and list of Local Contexts projects associated with the API. 
 
@@ -71,4 +68,4 @@ SCREENSHOT OF DASHBOARD LINK
 ![Screenshot of reloaded manage directory page with sucess message](../_embeds/lc-directory-02.png)
 
 5. Updates to the description are visible on the directory page.
-![Screenshot of directory page with updated description](../_embeds/placeholderscreenshot.png)
+![Screenshot of directory page with updated description](../_embeds/lc-directory-10.png)
