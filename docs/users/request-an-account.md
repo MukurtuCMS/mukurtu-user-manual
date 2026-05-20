@@ -14,7 +14,7 @@ As a visitor to a Mukurtu site, you may be allowed to create an account yourself
 1) From the homepage, select "Log in" in the main menu.
 ![The homepage with the log in button highlighted](../_embeds/request-account-01.png)
 
-2) Select "Create new account". If you do not see this option, contact the site administrator to request an account.
+2) Select "Request new account". If you do not see this option, contact the site administrator to request an account.
 ![The log in page with the Create new account button highlighted.](../_embeds/request-account-02.png)
 
 3) A registration form will open. Enter your email address and desired username.
