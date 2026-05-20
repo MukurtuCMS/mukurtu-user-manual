@@ -19,10 +19,10 @@ As a visitor to a Mukurtu site, you may be allowed to create an account yourself
 
 3) A registration form will open. Enter your email address and desired username.
 
-4) Enter an optional display name. This will display in comments on content, and may be useful if your usename does not easily identify you and you would like to be identified on the site.
+4) When you are finished, select "Request new account".
 
 ![The email address, username and display name fields filled out](../_embeds/request-account-03.png)
 
-8) When you are finished, select "Create new account". The home page will reload with a success message. If the site allows you to create an account without administrative approval, you will be able to log in immediately. If approval is required, your account will be blocked until it is approved and set to active. 
+5) The form will reload with a success message. If the site allows you to create an account without administrative approval, you will be able to log in immediately. If approval is required, your account will be blocked until it is approved and set to active. 
 
 ![The home page with a success message displayed](../_embeds/request-account-05.png)
