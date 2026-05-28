@@ -191,6 +191,7 @@ nav:
     - roundtrip/RoundtripFormatting.md
     - roundtrip/GeneralImportInformation.md
     - roundtrip/MediaFormatsFields.md
+    - roundtrip/MediaTextFields.md
     - roundtrip/ImportingContent.md
     - roundtrip/DHItems.md
     - roundtrip/PersonRecords.md

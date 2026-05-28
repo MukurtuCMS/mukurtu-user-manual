@@ -25,15 +25,16 @@ This article provides a basic overview of how to create media assets, including 
 
 ## Overview 
 
-There are multiple ways to start creating a media asset: from your dashboard, from the top Create Content menu, from the left-hand sidebar Media or Create menus, or while creating content. Some elements will look different depending on where you are starting from, but the workflow is the same.
+You can create media assets from your dashboard, from the Create Content menu, or while creating content. Some elements will look different depending on where you are starting from, but the workflow is the same.
 
-![Screenshot with the different locations you can start from to add media assets highlighted](../_embeds/addmedia1a.png)
+![Screenshot with the create content menu and media assets link highlighted](../_embeds/addmedia1a.png)
+
+![Screenshot with the add media link in the dashboard highlighted.](../_embeds/addmedia1a1.png)
 
 To start adding media:
 
 - When adding media from your dashboard, select "Add Media". 
 - When adding media from your top Create Content menu, select **+ Media**. 
-- When adding media from your left-hand sidebar, you can use either the **Media** icon or the Create menu, represented by the **+** icon.  
 - When adding media from content, selecting "Add Media" in the *Media Assets* field allows you to add different media types. 
 	- When adding media from content, the media type may be restricted by the type of content that is being created.
 

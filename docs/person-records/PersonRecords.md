@@ -11,9 +11,9 @@ tags:
 
 Person Records allow for rich biographical records to be integrated into Mukurtu CMS. Person records can include birth and death dates as well as custom text and media sections. They can identify relationships between people, and aggregate all digital heritage items where a person is referenced. They can also act as authority records, referencing all the names that a person is known by. Follow the instructions below to create a person record.
 
-From any of your **Dashboard** or **Add Content** links, select **Person Record**.
+From your **Dashboard** or **Create Content** link, select **Person Record**.
 
-![Screenshot of the Mukurtu landing page with the Dashboard links highlighted and the Add Content + highlighted, as well as the Create Content dropdown with Person Record highlighted.](../_embeds/person1.png)
+![Screenshot of the Mukurtu landing page with the Create Content dropdown with Person Record highlighted.](../_embeds/person1.png)
 
 ## Mukurtu Essentials
 

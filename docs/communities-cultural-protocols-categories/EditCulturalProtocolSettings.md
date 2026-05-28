@@ -90,5 +90,5 @@ Featured content gives users a preview of selected content. It displays the titl
 
 When you are satisfied with your changes, select "Save." A success message will be displayed on the cultural protocols page. 
 
-![Screenshot of cultural protocols page with success message](../_embeds/edit-protocol-03.png)
+![Screenshot of cultural protocols page with success message](../_embeds/edit-protocol-03.jpg)
 
