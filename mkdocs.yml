@@ -212,6 +212,9 @@ nav:
     - users/log-in.md
     - users/UnderstandingDashboard.md
     - users/reset-password.md
+  - Search:
+    - search/UnderstandingSearch.md
+    - search/ConfigureSearch.md
   - Site Maintenance:
     - site-maintenance/CheckErrorLogs.md
     - site-maintenance/ClearDrupalCaches.md
