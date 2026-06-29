@@ -74,3 +74,20 @@ To delete multiple media assets:
 ## Other actions
 
 You can use the Action dropdown menu to batch add media assets to an export list or remove them, or to batch publish or unpublish media assets. 
+
+## Additional media settings
+
+Optionally, users can use Mukurtu Media Settings to include placeholder images for content that does not have any media assets or in the event that a user cannot view a media asset due to protocol restrictions.
+
+To add these placeholder images, navigate to your **Dashboard** and select the *Media settings* link.
+
+![Screenshot of the dashboard with the media settings link highlighted.](../_embeds/mediasettings1.png)
+
+Select the "Choose File" or "Browse" button. 
+
+!!! tip
+	Depending on your browser, the text of the button may vary.
+
+Select "Save configuration" to save your placeholder image.
+
+![Screenshot of the Mukurtu Media Settings page.](../_embeds/mediasettings2.png)
