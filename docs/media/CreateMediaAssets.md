@@ -19,13 +19,13 @@ Mukurtu supports the following media types:
 - [Video files](../../media/ByTypeMediaUpload/Video)
 - [YouTube and Vimeo embeds](../../media/ByTypeMediaUpload/RemoteVideo)
 
-The workflow for creating media assets varies somewhat for different media types, but is generally consistent.
+The workflow for creating media assets varies somewhat for different media types or for bulk upload, but is generally consistent.
 
 This article provides a basic overview of how to create media assets, including format-specific notes. For detailed instructions on creating each type of media asset, refer to the individual articles linked above.
 
 ## Overview 
 
-You can create media assets from your dashboard, from the Create Content menu, or while creating content. Some elements will look different depending on where you are starting from, but the workflow is the same.
+You can create media assets from your dashboard, from the Create Content menu, or while creating content. Some elements will look different depending on where you are starting from, but the workflow is the same. 
 
 ![Screenshot with the create content menu and media assets link highlighted](../_embeds/addmedia1a.png)
 
@@ -40,12 +40,13 @@ To start adding media:
 
 To add media:
 
-- To upload audio, document, image, or video files, select the "Choose File" or "Browse" button. 
+- To add a single media asset from the **Add media item** menu, select the media type on the left. 
+- To upload audio, document, image, or video files, select the "Choose File" or "Browse" button, then select one or more files. 
 
 !!! tip
 	Depending on your browser, the text of the button may vary.
 
-- To insert remote video, SoundCloud, or external embeds, copy and paste the URL or embed code.
+- To insert remote video, SoundCloud, or external embeds, copy and paste the URL or embed code. 
 - Media asset metadata for the different media types is briefly described below. For a more detailed overview, refer to the [Media Asset Metadata](MediaAssetMetadata.md) or the individual Upload Media Asset support documents.
 - Once your media assets are part of your media library, they can easily be added to your content.
 
@@ -53,6 +54,20 @@ To add media:
 
 !!! warning 
 	Note that while the media asset will be managed by cultural protocols, the originating website may not have similar privacy settings. 
+
+## Bulk media creation
+
+Mukurtu 4 has the option to bulk add media assets. To add more than one media asset, select the bulk add option for the media type on the right. Then you can add your media asset metadata. Please note that there is no bulk upload option for external embeds.
+	
+	![Screenshot of the add media item page](../_embeds/singlevsbulkmedia.png)
+
+- To bulk upload audio, document, image, or video files, select the "Choose File" or "Browse" button, then select one or more files. Select "Continue to metadata" to input your media asset metadata.
+
+	![Screenshot of the bulk upload images page](../_embeds/bulkadd1.png)
+
+- To bulk upload remote video or SoundCloud assets, select the bulk add option and paste your URLs in the text box. Select "Continue to metadata" to input your media asset metadata.
+
+	![Screenshot of the bulk upload remote video page](../_embeds/bulkadd2.png)
 
 ## Locally hosted media
 
