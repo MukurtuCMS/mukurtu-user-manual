@@ -17,7 +17,7 @@ From the **Dashboard**, navigate to the Media section and select **Manage Media*
 
 ![Screenshot of the dashboard with manage media highlighted](../_embeds/medialibrary1.5.png)
 
-You can use the *Media name* field to search for media assets by name, or you can filter by type or published status.
+You can use the *Media name* field to search for media assets by name, or you can filter by type, published status, identifier, community, or other facets.
 
 ![Screenshot of the media library with the search and filter functions highlighted](../_embeds/medialibrary2.png)
 
@@ -30,10 +30,6 @@ You can use the *Media name* field to search for media assets by name, or you ca
 - Make your edits in the form and select Save when done.
 
 ![Screenshot of the edit media asset form with the Save button highlighted.](../_embeds/medialibrary4.png)
-
-- You can also edit media assets in content by selecting the "Edit" icon in the top right-hand corner of the media asset. 
-
-![Screenshot of a digital heritage item with the Edit media icon highlighted.](../_embeds/medialibrary5.png)
 
 ## Delete media assets
 
@@ -67,11 +63,11 @@ To delete multiple media assets:
 
 ![Screenshot of the apply to selected items button highlighted.](../_embeds/medialibrary11.png)
 
-- You will recieve a conformation message asking if you are sure you want to delete the media assets. If you are sure, select "Delete".
+- You will recieve a conformation message asking if you are sure you want to delete the media assets. If you are sure, select "Execute action".
 
 ![Screenshot of the delete media assets confirmation page.](../_embeds/medialibrary12.png)
 
-- You will see a status message confirming your media asset has been deleted.
+- You will see a status message confirming your media assets have been deleted.
 
 ![Screenshot of the status message confirming that the media asset was deleted.](../_embeds/medialibrary13.png)
 
