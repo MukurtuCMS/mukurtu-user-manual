@@ -31,6 +31,8 @@ You can create media assets from your dashboard, from the Create Content menu, o
 
 ![Screenshot with the add media link in the dashboard highlighted.](../_embeds/addmedia1a1.png)
 
+![Screenshot with the add media link in content highlighted.](../_embeds/addmedia1a2.png)
+
 To start adding media:
 
 - When adding media from your dashboard, select "Add Media". 

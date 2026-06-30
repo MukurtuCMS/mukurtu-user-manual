@@ -73,7 +73,13 @@ To delete multiple media assets:
 
 ## Other actions
 
-You can use the Action dropdown menu to batch add media assets to an export list or remove them, or to batch publish or unpublish media assets. 
+You can use the Operations or Action dropdown menus to singly or batch add media assets to an export list or remove them, or to batch publish or unpublish media assets. 
+
+In the Operations menu you can also find the "Found in" feature, which compiles a list of content entities where the media is used. To use the *Found in* feature, select "Found In" from the dropdown.
+
+![Screenshot of the media library with Found In highlighted on a content item.](../_embeds/foundin1.png)
+
+![Screenshot of the found in page for Al Khazneh - the treasury at Petra.](../_embeds/foundin2(1).png)
 
 ## Additional media settings
 
