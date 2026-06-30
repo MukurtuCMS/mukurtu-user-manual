@@ -63,7 +63,7 @@ To add media:
 
 Mukurtu 4 has the option to bulk add media assets. To add more than one media asset, select the bulk add option for the media type on the right. Then you can add your media asset metadata. Please note that there is no bulk upload option for external embeds.
 	
-	![Screenshot of the add media item page](../_embeds/singlevsbulkmedia.png)
+![Screenshot of the add media item page](../_embeds/singlevsbulkmedia.png)
 
 - To bulk upload audio, document, image, or video files, select the "Choose File" or "Browse" button, then select one or more files. Select "Continue to metadata" to input your media asset metadata.
 
