@@ -83,6 +83,8 @@ In the Operations menu you can also find the "Found in" feature, which compiles 
 
 ## Additional media settings
 
+### Mukurtu media settings
+
 Optionally, users can use Mukurtu Media Settings to include placeholder images for content that does not have any media assets or in the event that a user cannot view a media asset due to protocol restrictions.
 
 To add these placeholder images, navigate to your **Dashboard** and select the *Media settings* link.
@@ -97,3 +99,13 @@ Select the "Choose File" or "Browse" button.
 Select "Save configuration" to save your placeholder image.
 
 ![Screenshot of the Mukurtu Media Settings page.](../_embeds/mediasettings2.png)
+
+### Enable media download
+
+Mukurtu managers can optionally enable or disable a media asset download button. To configure media download, navigate to the **Media** section of your **Dashboard** and select the *Media Download Settings* link, or go directly to `/admin/config/mukurtu/media-download-settings`.
+
+![Screenshot of the dashboard with the media download settings link highlighted.](../_embeds/download1.png)
+
+Select either the "Show download button" or "Hide download button" option, then select the "Save Configuration" button to save your media download configuration.
+
+![Screenshot of the media download settings page with the radio buttons and the save configuration button highlighted.](../_embeds/download2.png)
