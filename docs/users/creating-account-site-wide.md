@@ -5,7 +5,7 @@ tags:
 - getting started
 ---
 
-# Create User Accounts from a Site-Wide Role
+# Create User Accounts as a Mukurtu Manager
 
 !!! Roles "User roles" 
     Administrator, Mukurtu manager
@@ -38,7 +38,7 @@ Once the form is open, fill out the form.
 
 2. Add a username for the user.
 
-3. You can add a generic password, or leave the *password* field blank. If left blank, the system will auto-generate a password. The user will be prompted to change the password when they first log in. 
+3. The system will auto-generate a password and send a reset link to the user to log in and change their password. If you prefer to manually set a password (i.e for security purposes or ease of troubleshooting), you can do so here. 
 
     ![The add user form with email address, username and password filled out](../_embeds/add-user-account-05.png)
 
@@ -47,13 +47,15 @@ Once the form is open, fill out the form.
     ![The status, role, notify user and display fields filled out and or toggled on](../_embeds/add-user-account-06.png)
 
 5. Select the appropriate status. 
-    - Active members can act as normal, based on their user role and permissions.
-    - Blocked members cannot log in to the site. They are typically blocked for two reasons:
+    - **Active** if you want the user to be able to login right away.
+    - **Pending** use this status to create the account without activating it. The user will not be able to login. This is helpful if additional set up is required.
+    - **Blocked** this status also prevents users from logging in, but is typically used when the user has taken inappropriate action that warrants a temporary loss of access. As we are creating a new user, this status is generally not necessary.
 
-        1. When a user submits an account request, their account is created and their status is set to "Blocked" until the Mukurtu manager approves the account and changes their status to "Active".
-        2. When a user takes inappropriate actions that warrant a temporary loss of access to the site. To access the site again, their status must be changed to "Active."
-
-6. Select a site-wide role for the user. By default, all users are assigned the authenticated user role, and this is the correct setting for the majority of users. This role allows them to view public material and save content to their own personal collections. The administrator and Mukurtu manager roles are for users who manage the site and therefore have additional access to controls and settings. The Roundtrip manager role can be assigned to users who need access to roundtrip (import/export) tools. Assign these roles with extreme caution.
+6. Select a site-wide role for the user.
+    - **Authenticated User** By default, all users are assigned the authenticated user role, and this is the correct setting for the majority of users. Users that have not been assigned to a role can view any pages, browse pages, and community pages under open protocols. Users can create their own personal collections out of existing content.
+    - **Roundtrip Manager** Roundtrip managers have access to Mukurtu's import and export tools. These permissions are isolated from other site-level access and tools. Any user can be assigned the Roundtrip manager role and they will be able to import and export metadata and media based on their existing permissions to create and edit content as determined by their role(s) in cultural protocols.
+    - **Mukurtu Manager** Mukurtu managers handle most of the site-wide management. They create and manage user accounts, review and approve user account requests, assign site-wide roles, create and delete communities, assign community manager roles, manage taxonomies, and have access to Roundtrip tools for import and export.
+    - **Administrator** Administrators have full access to Drupal options (the platform upon which Mukurtu is built). Assign this role with extreme caution.
 
     !!! tip
 	    For detailed information about user account requests, see [Request an Account](request-an-account.md).
@@ -61,7 +63,9 @@ Once the form is open, fill out the form.
     !!! tip
 	    For more information on user roles, see [User Roles](user-role-types.md)
 
-7. To notify the user of their new account, set the toggle to green. This is optional.
+7. By default the new user will be notified of their account. Use the toggle to disable this setting.
+
+    ![Use the toggle to disable the new user notification setting](../_embeds/add-user-account-48.png)
 
 8. To notify other users of this account, expand the **Notify other users of this account** section. Use the toggle/checkboxes to:
     - Notify all Mukurtu managers
