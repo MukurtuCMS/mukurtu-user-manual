@@ -61,11 +61,11 @@ Mukurtu Managers who also manage communities and protocols can add users to thos
 
 #### Unblock or approve
 
-Use this option to unblock blocked users and approve pending users. Their accounts will be set to "acive" and they will be able to login to their account.
+Use this option to unblock blocked users and approve pending users. Their accounts will be set to "active" and they will be able to log in to their account.
 
 #### Set pending
 
-Use this option to set a user account to pending if they require additional approvals. They will not be able to login to their accounts.
+Use this option to set a user account to pending if they require additional approvals. They will not be able to log in to their accounts.
 
 #### View
 
@@ -80,19 +80,19 @@ This option exposes four additional options for blocking and deleting users:
 
 This option will block the user and keep any content they created available on the site.They will be listed as the creator of the content item. You can unblock the user at any time.
 
-##### Block the user account(s) and unpublish their content.
+##### Block the user account(s) and archive their content.
 
-Blocking the account and unpublishing its content will block the user. Any content they created will be unpublished. Administrators can view this content by adding admin/content to the end of your web address (i.e. http://mysite.org/admin/content). 
+This option blocks the user and archives any content they've created. They will be unable to log in. Administrators can view this content by adding admin/content to the end of your web address (i.e. http://mysite.org/admin/content). 
 
-You can unblock the user at any time. If their account is restored to "acive," the user will be able to republish their content. They will continue to be listed as the author of the content.
+You can unblock the user at any time. If their account is restored to "active," the user will be able to republish their content. They will continue to be listed as the author of the content.
 
 ##### Delete the user account(s), keep their content and assign it to the Anonymous user account. This cannot be undone.
 
-This options deletes the user accounts and assigns their content to the Anonymous user account. Should you re-create their account(s), you will not be able to reassign their content to them.
+This options deletes the user accounts and assigns their content to the Anonymous user account. This cannot be undone. Use this option with extreme caution.
 
 ##### Delete the user account(s) and their content. This cannot be undone and is high risk.
 
-This option deletes the user account(s) and all of their content. This cannot be undone. User with extreme caution.
+This option deletes the user account(s) and all of their content. This cannot be undone. Use with extreme caution.
 
 ## Bulk manage user accounts
 You can apply several actions to users in bulk using the bulk action menu at the bottom of other page:
@@ -145,7 +145,7 @@ There are several options for blocking and deleting accounts. Refer to [Block an
     
     - Block the user account(s), do not change their content
 
-    - Block the user account(s) and unpublish their content.
+    - Block the user account(s) and archive their content.
 
     - Delete the user account(s), keep their content and assign it to the Anonymous user account. This cannot be undone.
 
