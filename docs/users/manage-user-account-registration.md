@@ -96,18 +96,17 @@ Different settings combinations create different registration flows. The followi
 
 ## Configure email notifications
 
-6. Use the *Notification Email Address* field to specify an email address for notifications. All automated email messages will be sent from this address. This email will also receive notifications if 'Visitors, but administrator approval required' is selected above. Leave this field blank to use the default system email address.
+1. Use the *Notification Email Address* field to specify an email address for notifications. All automated email messages will be sent from this address. This email will also receive notifications if 'Visitors, but administrator approval required' is selected above. Leave this field blank to use the default system email address.
 
-7. You can customize the automatic email messages that are triggered by registration activities. Select the message you would like to edit and make any desired changes. 
+2. You can customize the automatic email messages that are triggered by registration activities. Select the message you would like to edit and make any desired changes. 
 
     ![The notification email address field and email templates](../_embeds/manage-user-registration-12.png)
 
-    Below are descriptions of each email:
+    These emails will send by default when the appropriate settings are configured:
 
     - Welcome - New User Created by administrator - This message is sent when a new member account is created by an administrator.
-    - **Maybe remove?** Welcome - (awaiting approval) - This message is sent to new users upon registering when administrative approval is required. 
     - Admin - (User awaiting approval) - This message is sent to administrators when a user creates an account that requires approval.
-    - **Maybe remove?** Welcome - (No approval required) - This message is sent when a user creates an account that does not require approval, but does require email verification. 
+    - Welcome - (No approval required) - This message is sent when a user creates an account that does not require approval, but does require email verification. 
     - Account Activation (optional - use toggle to turn on/off) - This message is sent to a registered user after an administrator or Mukurtu manager approves an account request. 
     - Account blocked (optional - use toggle to turn on/off) - This message is sent to users when their account is blocked.
     - Account cancellation confirmation - This message is sent to users when they attempt to cancel their accounts.
@@ -115,4 +114,5 @@ Different settings combinations create different registration flows. The followi
     - Password recovery - This message is sent to users who request a new password.
 
 7. When you are finished, select "Save Configuration." The form will reload and a success message will be displayed.
+
     ![The account settings form with a success message displayed](../_embeds/manage-user-registration-08.png) 
