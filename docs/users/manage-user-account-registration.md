@@ -24,7 +24,7 @@ There are three options in the *Who can register accounts* field that provide va
 
 - **Visitors, but administrator approval is required:** This option allows visitors to create an account, but it will be blocked until an administrator approves the account and sets it to "active." 
 
-- Visitors: This option allows visitors to create an account without any administrator approval. They can log into the site as soon as their account is made. They won't have any community or protocol membership and can only view public content. In general we DO NOT recommend this setting. 
+- **Visitors:** This option allows visitors to create an account without any administrator approval. They can log into the site as soon as their account is made. They won't have any community or protocol membership and can only view public content. In general we DO NOT recommend this setting. 
 
     ![The Administrators Only option is selected under "Who can register accounts?"](../_embeds/manage-user-registration-11.png)
 
