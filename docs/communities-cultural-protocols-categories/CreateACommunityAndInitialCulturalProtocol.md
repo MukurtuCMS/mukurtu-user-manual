@@ -77,8 +77,24 @@ Once you have created a community, you will be directed to create a cultural pro
     - **Strict**: Items under strict protocol are only visible to logged in protocol members. The protocol page will not be visible to the public.
     - **Open**: Items under open protocol are accessible to all visitors, including those without user accounts.
 
-!!! Note
-    If community page visibility is set to "community only", and that community includes an open protocol, visitors will be able to see the community name, although they won't be able to access the community page itself. Unless that difference in access between the community and protocol pages is something you intentionally want, we recommend setting the community page visibility to "public" if it includes any open protocols.
+    !!! Note
+        If community page visibility is set to "community only", and that community includes an open protocol, visitors will be able to see the community name, although they won't be able to access the community page itself. Unless that difference in access between the community and protocol pages is something you intentionally want, we recommend setting the community page visibility to "public" if it includes any open protocols.
+
+3. The *communities* field lists all parent communities. By default the protocol belongs to the community that was just created in the previous form. At times, however, related families, villages, clans, or other communities might want to manage access to certain shared pieces of content with the same set of protocols while keeping their communities distinct. This is possible by adding multiple communities to a protocol. This creates a shared protocol. 
+
+    To create a shared protocol, select "Select communities."
+
+    ![The select communities field with select communities selected.](../_embeds/create-community-16.png)
+        
+    In the community selection modal, select each additional community that will be sharing the protocol. Selected communities are outlined in green. You do not need to select the default parent community.
+    
+    ![The select community modal with a shared community selected in green](../_embeds/create-community-17.png)
+    
+    Select "Add communities."
+
+    Two parent communities should now be listed in the *communities* field - the default parent community, and the newly added community.
+
+    ![Communities field with two parent communities](../_embeds/create-community-18.png)
 
 3. Add an optional description. Descriptions display on the protocol page and may include information about the purpose of the protocol, the type of content under this protocol, and who to contact if you have questions.
 
