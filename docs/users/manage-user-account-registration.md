@@ -20,11 +20,11 @@ Method 2: From the dashboard, scroll down to the Users section, and select **Man
 
 There are three options in the *Who can register accounts* field that provide varying degrees of control over how new accounts are created. Select the option that best suits your needs. By default, Administrators Only is selected and provides the highest degree of security for your site. 
 
-- Administrators Only: This is the default setting, and it prevents visitors from creating their own accounts. Administrators or Mukurtu managers will have to manually create each user account. This is useful if spam accounts are being made or if you want to control who can make an account on the site. If you choose this setting, we recommend displaying an email address where visitors can request an account. 
+- **Administrators Only:** This is the default setting, and it prevents visitors from creating their own accounts. Administrators or Mukurtu managers will have to manually create each user account. This is useful if spam accounts are being made or if you want to control who can make an account on the site. If you choose this setting, we recommend displaying an email address where visitors can request an account. 
 
-- Visitors, but administrator approval is required: This option allows visitors to create an account, but it will be listed as "blocked" until an administrator approves the account and sets it to "active." 
+- **Visitors, but administrator approval is required:** This option allows visitors to create an account, but it will be blocked until an administrator approves the account and sets it to "active." 
 
-- Visitors: This option allows visitors to create an account without any administrator approval. They can log into the site as soon as their account is made. They won't have any community or protocol membership and can only view public content. In general we DO NOT recommend this setting. 
+- **Visitors:** This option allows visitors to create an account without any administrator approval. They can log into the site as soon as their account is made. They won't have any community or protocol membership and can only view public content. In general we DO NOT recommend this setting. 
 
     ![The Administrators Only option is selected under "Who can register accounts?"](../_embeds/manage-user-registration-11.png)
 
