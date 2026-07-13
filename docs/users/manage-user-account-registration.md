@@ -45,13 +45,13 @@ This setting determines whether vistor password entry is required, optional, or 
 
 Select one of:
 
-- Visitors must enter a password on registration. This option is not available if email verification is enabled.
+- Visitors **must** enter a password on registration.This option is not available if email verification is enabled.
 The password field will display in the account request form as a required field.
 
-- Visitors may enter a password on registration. If left empty, a random password will be generated. This option is not available if email verification is enabled.
+- Visitors **may** enter a password on registration. If left empty, a random password will be generated. This option is not available if email verification is enabled.
 The password field will display in the account request form as an optional field.
 
-- Visitors cannot enter a password at account request; a random password will be generated. This option is the only valid choice if email verification is enabled above.
+- Visitors **cannot** enter a password at account request; a random password will be generated. This option is the only valid choice if email verification is enabled above.
 The password field will not display in the account request form.
 
 ### Admin password entry 
