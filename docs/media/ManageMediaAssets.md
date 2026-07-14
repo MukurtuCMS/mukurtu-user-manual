@@ -63,7 +63,7 @@ To delete multiple media assets:
 
 ![Screenshot of the apply to selected items button highlighted.](../_embeds/medialibrary11.png)
 
-- You will recieve a conformation message asking if you are sure you want to delete the media assets. If you are sure, select "Execute action".
+- You will recieve a confirmation message asking if you are sure you want to delete the media assets. If you are sure, select "Execute action".
 
 ![Screenshot of the delete media assets confirmation page.](../_embeds/medialibrary12.png)
 
