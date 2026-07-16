@@ -85,7 +85,12 @@ In the Operations menu you can also find the "Found in" feature, which compiles 
 
 ### Mukurtu media settings
 
-Optionally, users can use Mukurtu Media Settings to include placeholder images for content that does not have any media assets or in the event that a user cannot view a media asset due to protocol restrictions.
+Optionally, users can use Mukurtu Media Settings to include placeholder images for content that does not have any media assets or in the event that a user cannot view a media asset due to protocol restrictions. For more information about managing media assets using protocol restrictions, refer to [Manage Media Access with Protocols](ManageMediaAccessWithProtocols.md).
+
+If content does not have a media asset or users do not have access to view the media asset, there is no media asset shown in previews or on the content page. 
+
+![Screenshot of a digital heritage browse page featuring an item with no media asset.](../_embeds/MEDIAExampleProtocol4.png)
+![Screenshot of a digital heritage item with no media asset.](../_embeds/MEDIAExampleProtocol3.png)
 
 To add these placeholder images, navigate to your **Dashboard** and select the *Media settings* link.
 
