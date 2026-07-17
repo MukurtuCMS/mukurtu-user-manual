@@ -106,7 +106,7 @@ Select "Save configuration" to save your placeholder image(s).
 
 ![Screenshot of the Mukurtu Media Settings page.](../_embeds/mediasettings2.png)
 
-![Screenshot of the Mukurtu Media Settings page with images uploaded.](../_embeds/mediasettings2.png)
+This is an example of a digital heritage item showing a restricted media asset placeholder.
 
 ![Screenshot of a digital heritage item with a restricted media asset placeholder.](../_embeds/restricted.png)
 
