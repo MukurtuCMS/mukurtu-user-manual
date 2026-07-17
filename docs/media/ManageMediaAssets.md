@@ -102,9 +102,11 @@ Select the "Choose File" or "Browse" button.
 !!! tip
 	Depending on your browser, the text of the button may vary.
 
-Select "Save configuration" to save your placeholder image.
+Select "Save configuration" to save your placeholder image(s).
 
 ![Screenshot of the Mukurtu Media Settings page.](../_embeds/mediasettings2.png)
+
+![Screenshot of the Mukurtu Media Settings page with images uploaded.](../_embeds/mediasettings2.png)
 
 ![Screenshot of a digital heritage item with a restricted media asset placeholder.](../_embeds/restricted.png)
 
