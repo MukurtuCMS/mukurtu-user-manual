@@ -90,6 +90,7 @@ Optionally, users can use Mukurtu Media Settings to include placeholder images f
 If content does not have a media asset or users do not have access to view the media asset, there is no media asset shown in previews or on the content page. 
 
 ![Screenshot of a digital heritage browse page featuring an item with no media asset.](../_embeds/MEDIAExampleProtocol4.png)
+
 ![Screenshot of a digital heritage item with no media asset.](../_embeds/MEDIAExampleProtocol3.png)
 
 To add these placeholder images, navigate to your **Dashboard** and select the *Media settings* link.
@@ -105,6 +106,8 @@ Select "Save configuration" to save your placeholder image.
 
 ![Screenshot of the Mukurtu Media Settings page.](../_embeds/mediasettings2.png)
 
+![Screenshot of a digital heritage item with a restricted media asset placeholder.](../_embeds/restricted.png)
+
 ### Enable media download
 
 Mukurtu managers can optionally enable or disable a media asset download button. To configure media download, navigate to the **Media** section of your **Dashboard** and select the *Media Download Settings* link, or go directly to `/admin/config/mukurtu/media-download-settings`.
@@ -114,3 +117,11 @@ Mukurtu managers can optionally enable or disable a media asset download button.
 Select either the "Show download button" or "Hide download button" option, then select the "Save Configuration" button to save your media download configuration.
 
 ![Screenshot of the media download settings page with the radio buttons and the save configuration button highlighted.](../_embeds/download2.png)
+
+This is how your content will appear with the "Hide download button" option selected. Please note that hiding the download button does not guarantee that users will be unable to view or download your site's local media assets.
+
+![Screenshot of a digital heritage item where the media download button is hidden.](../_embeds/download1a.png)
+
+This is how your content will appear with the "Show download button" option selected. Please note that only local media can be downloaded.
+
+![Screenshot of a digital heritage item where the media download button is shown.](../_embeds/download2a.png)
