@@ -8,191 +8,148 @@ tags:
 !!! Roles "User roles" 
     Administrator, Mukurtu manager
 
-## Manage individual user accounts
-Once a user account has been created, you can return to that user's form and edit their account information. To do this, select the **people** icon on the left-hand sidebar. 
+## The user management page
+Administrators and Mukurtu managers can view and manage all site users. This can be done by appending `/admin/people` to your url (mysite.com/admin/people) or by selecting **People** in the left sidebar menu.
+
 ![Dashboard with sidebar menu and people icon highlighted in red](../_embeds/add-user-account-01.png)
 
-You will see a list of all site users. Find their username, and select the **edit** button in their row. 
+A table lists all site users. Use the search bar at the top of the page to search for individual user accounts by name or email address. The filters allow you to filter by status, site role or community membership. 
+
+The columns display the username, email, status, site role(s) community memberships, the date the account was created, and date and time of last access. 
+
+On the far right, the operations menu contains additional controls that you can apply individually to users. Finally, the bulk action menu at the bottom of the page allows you to apply actions to multiple users at once.
+
+![The people page. This allows administrators and Mukurtu managers to manage user accounts across the site.](../_embeds/add-user-account-49.png)
+
+## Managing users individually
+
+To edit a user's account, find their username, and select the **edit** button in their row. 
 ![User list with edit button highlighted](../_embeds/add-user-account-12.png)
 
 Make any desired edits and select **Save**. Refer to the [Create a new user account](../users/creating-account-site-wide.md) article for detail on each field.
 
 You will be returned to the user list and a success message will be displayed.
+
 ![User list with success message displayed](../_embeds/add-user-account-13.png)
 
+### Operations menu
+
+The operations menu can be exposed by selecting the arrow next to the edit button for each user. It exposes several actions that can be applied to users individually. Continue reading for more detail on each action.
+
+![The People page with the operations drop down menu exposed ](../_embeds/add-user-account-55.png)
+
+
+#### View memberships
+
+This allows you to see the communities and protocols to which the user belongs.
+
+![The memberships page showing the user's community and protocol memberships](../_embeds/add-user-account-50.png)
+
+
+#### Add to community
+
+Mukurtu Managers who also manage communities and protocols can add users to those groups with this option. 
+
+1. For each community to which you would like to add the user, select the role you with to assign, then select "Next: Assign Protocols"
+    ![A table with all available communities and all community roles with checkboxes under each role](../_embeds/add-user-account-51.png)
+
+2. On the following page, add users to protocols by selecting the roles you wish to assign to the user for each protocol. If you do not wish to add a user to a particular protocol, do not select any roles. Note that if you are a community manager, but not a protocol steward, you will not be able to add users to protocols.
+
+    ![A table with all available protocols and all protocols roles with checkboxes under each role](../_embeds/add-user-account-52.png)
+
+3. Select save. You will be returned to the People page and a success message will display.
+
+#### Unblock or approve
+
+Use this option to unblock blocked users and approve pending users. Their accounts will be set to "active" and they will be able to log in to their account.
+
+#### Set pending
+
+Use this option to set a user account to pending if they require additional approvals. They will not be able to log in to their accounts.
+
+#### View
+
+View the user's account page. 
+
+#### Block or delete
+This option exposes four additional options for blocking and deleting users:
+
+![Four additional block and delete options](../_embeds/add-user-account-56.png)
+
+##### Block the user account(s), do not change their content
+
+This option will block the user and keep any content they created available on the site.They will be listed as the creator of the content item. You can unblock the user at any time.
+
+##### Block the user account(s) and archive their content.
+
+This option blocks the user and archives any content they've created. They will be unable to log in. Administrators can view this content by adding admin/content to the end of your web address (i.e. http://mysite.org/admin/content). 
+
+You can unblock the user at any time. If their account is restored to "active," the user will be able to republish their content. They will continue to be listed as the author of the content.
+
+##### Delete the user account(s), keep their content and assign it to the Anonymous user account. This cannot be undone.
+
+This options deletes the user accounts and assigns their content to the Anonymous user account. This cannot be undone. Use this option with extreme caution.
+
+##### Delete the user account(s) and their content. This cannot be undone and is high risk.
+
+This option deletes the user account(s) and all of their content. This cannot be undone. Use with extreme caution.
+
 ## Bulk manage user accounts
-You can also make certain changes to user accounts in bulk. Available changes are:
+You can apply several actions to users in bulk using the bulk action menu at the bottom of other page:
 
-- Send notifications daily
-    - A digest of notifications will be sent on a daily basis.
-- Send notifications immediately 
-    - Notifications will be sent immediately as they are generated.
-- Send notifications weekly 
-    - A digest of notifications will be sent on a weekly basis.
-- Add the administrator role to the selected users 
-    - The selected users will be assigned the administrator role 
-- Add the Mukurtu Manager role to the selected users (use with extreme caution!)
-    - The selected users will be assigned the Mukurtu manager role.
-- Add the Roundtrip manager role to the selected user(s)
-    - The selected users will be assigned the Roundtrip manager role.
-- Block the selected user(s) 
-    - The status of the user will be changed from "active" to "blocked"
-- Cancel the selected user account(s)
-    - Applying this action will open a secondary page where you will select a cancellation method.
-- Remove the administrator role from the selected user(s) 
-    - The administrator role and associated acceess and capabilities will be removed from the user(s)
-- Remove the Mukurtu Manager role from the selected user(s) 
-    - The Mukurtu Manager role and associated access and capabiltiites will be removed from the user(s)
-- Remove the Roundtrip manager role from the selected user(s)
-- Unblock the selected user(s) 
-    - The user's status will be changed from "blocked" to "active"
+![The people page with the bulk action menu highlighted](../_embeds/add-user-account-60.png)
 
-1. To use any of these actions on one or more members, from the manage members page, check the box next to each name you wish to manage. 
+1. To use any of these actions on one or more users, check the box next to each name you wish to manage. 
 
 2. Using the action menu at the bottom of the page, select the action you wish to apply. 
 
-3. Select **Apply to selected items**. The action will be applied to all selected members.
-![The people page, with two users selected, and action menu item selected. These, along with the apply button are highlighted](../_embeds/add-user-account-14.png)
+3. Select **Apply to selected items**. The action will be applied to all selected users.
 
 4. You will receive different results depending on the action item you select. Below are descriptions of the results of applying steps 1-3 above for each action item, and any additional instructions as needed.
 
-### Send notifications daily 
-1. Complete steps 1-3.
-![People page with two users selected and the "Send notifications daily" action selected](../_embeds/add-user-account-15.png)
-
-2. A success message is displayed. (Verify this)
-SCREENSHOT 16
-![People page with success message displayed](../_embeds/placeholderscreenshot.png)
-
-### Send notifications immediately
+### Set new random passwords for users.
 1. Complete steps 1-3.
 
-![People page with two users selected and the "Send notifications immediately" action selected](../_embeds/add-user-account-17.png)
+    ![People page with two users selected and the "set new random passwords" action selected](../_embeds/add-user-account-15.png)
 
-2. A success message is displayed. (Verify this)
-SCREENSHOT 18
-![People page with success message displayed](../_embeds/placeholderscreenshot.png)
+2. An email with a password reset link will be sent to the users.
+    ![People page with success message displayed](../_embeds/add-user-account-47.png)
 
-### Send notifications weekly
+### Set pending
 1. Complete steps 1-3.
-![People page with two users selected and the "Send notifications weekly" action selected](../_embeds/add-user-account-19.png)
 
-2. A success message is displayed. (verify this)
-SCREENSHOT 20
-![People page with success message displayed](../_embeds/placeholderscreenshot.png)
+    ![The people page with two users selected and the "set pending" action selected](../_embeds/add-user-account-53.png)
 
-### Add the administrator role to the selected users
+2. A success message displays. The user accounts are set to pending and they will be unable to log in.
+
+    ![The people page with a success message](../_embeds/add-user-account-54.png)
+
+### Unblock or approve
 1. Complete steps 1-3.
-![The people page with two users selected and the action item "Add the administrator role to the selected users" selected](../_embeds/add-user-account-21.png)
 
-2. A success message is displayed, and the administrator role is applied to the selected users.
-![The people page reloaded with a success message. The added administrator role is highlighted](../_embeds/add-user-account-22.png)
+    ![The people page with two users selected and the "Unblock or approve" action selected](../_embeds/add-user-account-58.png)
 
-### Add the Mukurtu manager role to the selected users
-1. Complete steps 1-3.
-![The people page with two users selected and the action item "Add the Mukurtu manager role to the selected users" is selected](../_embeds/add-user-account-23.png)
+2. A success message displays. The user accounts are set to active and they will be able to log in.
 
-2. A success message is displayed, and the Mukurtu manager role is applied to the selected users.
-![The people page reloaded with a success message. The added Mukurtu manager role is highlighted](../_embeds/add-user-account-24.png)
-
-### Add the Roundtrip manager role to the selected users
-1. Complete steps 1-3.
-![The people page with two users selected and the action item "Add the Roundtrip manager role to the selected users" us selected](../_embeds/add-user-account-42.png)
-
-2. A success message is displayed, and the Roundtrip manager role is applied to the selected users.
-![The people page reloaded with a success message. The added Roundtrip manager role is highlighted](../_embeds/add-user-account-43.png)
-
-### Block the selected user(s)
-1. Complete steps 1-3.
-![The people page with two users selected and the action item "Block the selected user(s)" is selected](../_embeds/add-user-account-25.png)
+    ![The people page with a success message](../_embeds/add-user-account-59.png)
 
 
-2. A success message is displayed, and the selected users are blocked.
-![The people page reloaded with a success message. The selected users are blocked. Their status is highlighted.](../_embeds/add-user-account-26.png)
+### Block or delete
+There are several options for blocking and deleting accounts. Refer to [Block and delete](#block-or-delete) above for descriptions of each option.
 
-### Cancel the selected user account(s)
-There are several cancellation methods that yield different results.
+1. Complete steps 1-3
 
-1. Complete steps 1-3, then select one of the cancellation methods on the next page. Below are additional details about each cancellation method.
-![The people page with two users selected and the action item Cancel the select user account(s) selected.](../_embeds/add-user-account-27.png)
+    ![The people page with two users selected and the Block and delete action selected](../_embeds/add-user-account-61.png)
 
-#### Disable the account and keep its content
-Disabling the account and keeping its content will block the user and keep any content they created available on the site.They will be listed as the creator of the content item. You can unblock the user at any time.
+2. On the following page, select one of the following:
+    
+    - Block the user account(s), do not change their content
 
-2. Select **Disable the account and keep its content.**
-![The cancellation methods form with Disable the account and keep its content selected](../_embeds/add-user-account-28.png)
+    - Block the user account(s) and archive their content.
 
-3. Use the toggle to notify the user of the cancellation. This is optional.
+    - Delete the user account(s), keep their content and assign it to the Anonymous user account. This cannot be undone.
 
-4. Select **Confirm**. You will be returned to the people page and a success message will be displayed. The user's status will be set to "blocked".
-![The people page with a confirmation message displayed. The users' status is set to blocked.](../_embeds/add-user-account-29.png)
+    - Delete the user account(s) and their content. This cannot be undone and is high risk.
 
-#### Disable the account and unpublish its content
-Disabling the account and unpublishing its content will block the user. Any content they created will be unpublished. Administrators can view this content by adding `admin/content` to the end of your web address (i.e. http://mysite.org/admin/content). Note that the content page is inaccessible to Mukurtu managers.
+See [Block or Delete](#block-or-delete) for detailed explanations of each option. 
 
-You can unblock the user at any time. If the content is republished, the user will still be listed as the author of the content items.
-
-2. Select **Disable the account and unpublish its content**.
-![The cancellation methods form with Disable the account and unpublish its content selected](../_embeds/add-user-account-30.png)
-
-3. Use the toggle to notify the user of the cancellation. This is optional.
-
-4. Select **Confirm**. You will be returned to the people page and a success message will be displayed. The user's status will be set to "blocked," and any content they created will be unpublished. 
-![The people page with a confirmation message displayed. The users status is set to blocked.](../_embeds/add-user-account-31.png)
-
-#### Delete the account and make its content belong to the Anonymous User. 
-
-!!! Warning 
-    This cannot be undone
-
-Deleting the account and assigning its content to the Anonymous user will completely delete the user(s). Any content they created will remain available, but will be listed as created by "Anonymous User". Proceed with caution, as this cannot be undone.
-
-1. Select **Delete the account and make its content belong to the Anonymous User**.
-![The cancellation methods form with delete the account and make its content belong to the Anonymous User selected.](../_embeds/add-user-account-32.png)
-
-2. Use the toggle to notify the user of the cancellation. This is optional.
-
-3. Select **Confirm**. You will be returned to the people page and a success message will be displayed. The user will be deleted and their account no longer visible or accessible. Any content they created will be assigned to "Anonymous User."
-![The people page with a confirmation message displayed. The users is deleted.](../_embeds/add-user-account-33.png)
-
-#### Delete the account and its content
-!!! Warning 
-    This cannot be undone
-
-Deleting the account and its content will completely delete the user(s) and all associated content. Proceed with caution, as this cannot be undone.
-
-1. Select **Delete the account and its content**.
-![The cancellation methods form with Delete the account and its content selected.](../_embeds/add-user-account-34.png)
-
-2. Use the toggle to notify the user of the cancellation. This is optional.
-
-3. Select **Confirm**. You will be returned to the people page and a success message will be displayed. The user will be deleted and their account no longer visible or accessible. Any content they created will also be deleted.
-![The people page with a confirmation message displayed. The users is deleted.](../_embeds/add-user-account-35.png)
-
-### Remove the administrator role from the selected user(s) 
-1. Complete steps 1-3.
-![The people page with two users selected and the action item "Remove the administrator role from the selected user(s)" is selected](../_embeds/add-user-account-36.png)
-
-2. A success message is displayed, and the administrator role is removed from the selected users.
-![The people page reloaded with a success message. The selected users are are no longer administrators](../_embeds/add-user-account-37.png)
-
-### Remove the Mukurtu manager role from the selected user(s) 
-1. Complete steps 1-3.
-![The people page with two users selected and the action item "Remove the Mukurtu manager role from the selected user(s)" is selected](../_embeds/add-user-account-38.png)
-
-2. A success message is displayed, and the Mukurtu manager role is removed from the selected users.
-![The people page reloaded with a success message. The selected users are no longer Mukurtu anagers. Their role is highlighted](../_embeds/add-user-account-39.png)
-
-### Remove the Roundtrip manager Role from the selected user(s) 
-1. Complete steps 1-3.
-![The people page with two users selected and the action item "Remove the Roundtrip manager role from the selected user(s)" is selected](../_embeds/add-user-account-44.png)
-
-2. A success message is displayed, and the Roundtrip manager role is removed from the selected users.
-![The people page reloaded with a success message. The selected users are no longer Mukurtu Managers. Their role is highlighted](../_embeds/add-user-account-45.png)
-
-### Unblock the selected user(s)
-1. Complete steps 1-3.
-![The people page with two users selected and the action item "Unblock the selected user(s)" is selected](../_embeds/add-user-account-40.png)
-
-2. A success message is displayed, and the selected users are now set to active.
-![The people page reloaded with a success message. The selected users are set to active. Their status is highlighted.](../_embeds/add-user-account-41.png)
