@@ -21,7 +21,7 @@ Mukurtu supports several different types of media assets. These include:
 
 You can apply media assets to content and taxonomic records, such as digital heritage items, dictionary words, person records, and other facets of Mukurtu. Most items do not have a limit on the number of associated media assets. 
 
-Digital heritage items generally feature at least one media asset, though they are not required. Media assets help provide a more tangible connection to the digital heritage item's metadata, and can aid in facilitating discovery and interest. When multiple media assets are included in a digital heritage item, they are displayed in a media carousel for ease of navigation. Media assets can also be included in full HTML fields, such as the Cultural Narrative field, as descriptive metadata.
+Digital heritage items generally feature at least one media asset, though they are not required. Media assets help provide a more tangible connection to the digital heritage item's metadata, and can aid in facilitating discovery and interest. Some media assets, such as PDF documents, are indexed to enable full-text search. When multiple media assets are included in a digital heritage item, they are displayed in a media carousel for ease of navigation. Media assets can also be included in full HTML fields, such as the Cultural Narrative field, as descriptive metadata.
 
 ![Screenshot of the media asset and carousel for several ](../_embeds/carousel1.png)
 

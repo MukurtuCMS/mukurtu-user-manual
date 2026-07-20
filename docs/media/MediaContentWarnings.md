@@ -7,7 +7,7 @@ tags:
 !!! roles "User role"
     Mukurtu manager
 
-Media content warnings are a tool used to flag potentially sensitive or triggering media assets, and allow a user to choose whether or not to interact with them before viewing or accessing the media. They can be used with all media types, and are configured to display with thumbnails, full-size media, and other display modes.
+Media content warnings are a tool used to flag potentially sensitive or triggering media assets, and allow a user to choose whether or not to interact with them before viewing or accessing the media. They can be used with all media types, and can be configured to display with thumbnails, full-size media, and other display modes.
 
 When a user is presented with a media asset that has a content warning, it will be replaced with a blacked-out box and descriptive warning text. At that point, the user can choose to dismiss the warning and access the media, or leave the warning in place. This feature does not replace or bypass cultural protocols on media assets, rather it presents users the choice to access it if they want to after being made aware of its sensitive nature. This also does not affect the rest of the page contents, so if a digital heritage item includes a media asset with a content warning, that does not extend to the metadata or other media assets in that item.
 
@@ -119,13 +119,20 @@ Follow these steps to apply a media content warning to a media asset.
 
     - From your dashboard, navigate to the **Media** section and select the **Manage Media** link. 
         - Under the **Operations** heading, select the "Edit" button from the dropdown button menu.
-    - From a content item, select a content item. 
-        - Select the small, round edit icon on the top right of the media asset. When you select it, it will present a dropdown menu with the options edit or delete the media asset. Select the **Edit** link.
-
-        ![Screenshot of a media asset showing the location of the edit button](../_embeds/mediawarnings5.png)
 
     - From a new media asset, follow the steps outlined in the [Create Media Assets](../media/CreateMediaAssets.md) articles to apply media tags.
 
 2. To enter a taxonomy triggered media content warning, navigate to the **Media Tags** section of your media asset. As you type, existing media tags will be displayed. Select an existing media tag or enter a new term. To include additional media tags, select "Add another item".
 3. To enter a deceased person content warning, navigate to the *People* field in your media asset. As you type, names of existing people will be displayed. Select an existing person or enter a new name. To include additional people, select "Add another item".
 5. Select the "Save" button to save your media asset.
+
+## Warning media settings
+
+Media content warnings are automatically configured to display on all media view modes, but can be configured to only display on selected view modes. This can be helpful in the event that you want your site to display media content warnings on certain media assets, like images of a deceased person, but not on others, like the dictionary audio player with a recording of the deceased person as contributor.
+
+To select which media view modes should display content warnings, navigate to `/admin/config/mukurtu/content-warnings` and select the toggle to the left of any media asset view mode that you do not want to display content warnings. 
+
+Select "Save configuration" to save your options.
+
+![Screenshot of the warning media settings section of the mukurtu content warnings settings page with all of the options for view modes selected.](../_embeds/warnings3.png)
+
