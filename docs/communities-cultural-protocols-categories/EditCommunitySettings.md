@@ -69,13 +69,16 @@ This is what a community page looks like with a banner.
 
 1. Under the image type (banner or thumbnail) you want to add, select "Add media."
 
-![The add media button for banner and thumbnail images](../_embeds/community-settings-14.png)
+	![The add media button for banner and thumbnail images](../_embeds/community-settings-14.png)
 
 2. Browse for image files on your computer or select existing images. If you cannot upload media, make sure you are a member of a relevant cultural protocol with permission to upload media. 
- ![The add media modal. Browse your computer for files, or select from existing image files.](../_embeds/community-settings-15.png)
+ 	
+	![The add media modal. Browse your computer for files, or select from existing image files.](../_embeds/community-settings-15.png)
 
 3. Add alt text and protocols to any new images. Make sure you choose protocols that enable visibility to your target audience. 
+
 4. Populate optional fields as needed.
+
 5. Save your changes. Then, with your image selected, select "Insert Selected." 
 
 	![Screenshot of the media upload modal](../_embeds/community-settings-05.png)
