@@ -27,6 +27,7 @@ Communities can have a range of settings that can be updated once the community 
 2. From the community menu options, select **edit**. The community form will open with its current settings.
 
 	![The community page with the edit form highlighted](../_embeds/community-settings-12.jpg)
+
 ## Community name and description
 
 Edit the *community name* and *description* as needed.
@@ -37,18 +38,18 @@ Local Contexts provides labels and notices that are applied to content. These ar
 
 ## Community page visibility
 
-You can change the community page visibility by toggling between **Community Only** or **Public**. 
+You can change the community page visibility by selecting one of: 
 
-## Community Types
+- **Community Only** - The community page will only be visible to community members who are logged in.
+- **Public** - The page will be visible to the public regardless of login.
 
-!!! requirement
-	A Mukurtu administrator must configure community types before they can be used here. See [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md) for more information.
+## Membership display
 
-Community types help to organize the communities on your Mukurtu site. For example, a site might have tribal communities, libraries, and families contributing to a site. These can all be assigned a type for streamlined display and easy browse and search. 
+Determine which, if any, community members are displayed on the community page by selecting one of:
 
-From the *community type* dropdown menu, select the appropriate type for your community. 
-
-![Screenshot of the community type field with a dropdown menu of available community types](../_embeds/community-settings-02.png)
+- **Do not display any community members** does not display any community members on the community page.
+- **Only display community managers** displays community managers and not community members on the community page.
+- **Display all community members** displays all members on the community page.
 
 ## Banner and thumbnail images
 
@@ -66,10 +67,18 @@ This is what a community page looks like with a banner.
 
 ![Screenshot of a community page with banner displayed](../_embeds/community-settings-04.png)
 
-1. Under the image type you want to add, select "Add media."
-2. Browse for image files on your computer or select existing images.
-3. Add alt text and protocols to any new images. Make sure you choose protocols that enable visibility to your target audience.
+1. Under the image type (banner or thumbnail) you want to add, select "Add media."
+
+	![The add media button for banner and thumbnail images](../_embeds/community-settings-14.png)
+
+2. Browse for image files on your computer or select existing images. If you cannot upload media, make sure you are a member of a relevant cultural protocol with permission to upload media. 
+ 	
+	![The add media modal. Browse your computer for files, or select from existing image files.](../_embeds/community-settings-15.png)
+
+3. Add alt text and protocols to any new images. Make sure you choose protocols that enable visibility to your target audience. 
+
 4. Populate optional fields as needed.
+
 5. Save your changes. Then, with your image selected, select "Insert Selected." 
 
 	![Screenshot of the media upload modal](../_embeds/community-settings-05.png)
@@ -85,20 +94,24 @@ Featured content gives users a preview of selected content contributed by the co
 
 	![Screenshot of the featured content modal](../_embeds/community-settings-07.png)
 
-5. Remove featured content by selecting the grey trash can icon in the right corner of each piece of content.
+5. Remove featured content by selecting the grey trash can icon on the right of each content item.
 
 	![The featured content field with selected featured content](../_embeds/community-settings-09.png)
 
 !!! tip
 	Protocols still apply to this content and media assets, so make sure to choose content that will be viewable by your target audience.
 
-## Sub-communities
+## Community types
 
-Communities can be organized into sub-communities to add additional structure and organization to your site. To read more about sub-communities and community struture, see [Manage Community Organization](../communities-cultural-protocols-categories/ManageCommunityOrganization.md)
+!!! requirement
+	A Mukurtu administrator must configure community types before they can be used here. See [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md) for more information.
 
-If your community has sub-communities, they will be listed here. Note that this field is read-only. You cannot add or remove sub-communities from this form.
+Community types help to organize the communities on your Mukurtu site. For example, a site might have tribal communities, libraries, and families contributing to a site. These can all be assigned a type for streamlined display and easy browse and search. 
 
-![Screenshot of adding a sub-community](../_embeds/community-settings-08.png)
+Select the appropriate type for your community. 
+
+![Screenshot of the community type field with a dropdown menu of available community types](../_embeds/community-settings-02.png)
+
 
 ## Save
 When your changes are complete, select "Save." You will be taken to your community page and all changes will be displayed.
