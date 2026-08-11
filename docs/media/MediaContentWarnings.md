@@ -11,7 +11,7 @@ Media content warnings are a tool used to flag potentially sensitive or triggeri
 
 When a user is presented with a media asset that has a content warning, it will be replaced with a blacked-out box and descriptive warning text. At that point, the user can choose to dismiss the warning and access the media, or leave the warning in place. This feature does not replace or bypass cultural protocols on media assets, rather it presents users the choice to access it if they want to after being made aware of its sensitive nature. This also does not affect the rest of the page contents, so if a digital heritage item includes a media asset with a content warning, that does not extend to the metadata or other media assets in that item.
 
-![Screenshot of taxonomy triggered warning](../_embeds/warning1.png)
+![Screenshot of taxonomy triggered warning](../_embeds/warnings1.png)
 
 There are two types of media content warnings: taxonomy triggered warnings and deceased person warnings. Both can be active on one site, and they are configured separately.
 
@@ -23,7 +23,7 @@ Some example uses of taxonomy triggered warnings include boarding or residential
 
 A completed taxonomy triggered content warning can look like this:
 
-![Screenshot of a taxonomy triggered media content warning applied to a media asset in a digital heritage item](../_embeds/mediawarnings3.png)
+![Screenshot of a taxonomy triggered media content warning applied to a media asset in a digital heritage item](../_embeds/warnings1.png)
 
 **Deceased person warnings**
 
@@ -47,9 +47,6 @@ To begin, navigate to your dashboard.
 ### Create a media tag
 
 1. Under the **Taxonomies** section of the dashboard, select the **Manage Taxonomies** link or go directly to `/admin/structure/taxonomy`
-
-    ![Screenshot of where the manage taxonomies link is located in the dashboard](../_embeds/warnings1.png)
-
 2. Navigate to the **Media Tag** link. Your media tag will act as the term, or name, for your content warning, so choose a tag that clearly communicates the type of warning you want to apply.
 3. Select the "Add a new term in Media Tag" button.
 4. Use the *Name* field to enter a name for your media content warning.
