@@ -23,7 +23,7 @@ Some example uses of taxonomy triggered warnings include boarding or residential
 
 A completed taxonomy triggered content warning can look like this:
 
-![Screenshot of a taxonomy triggered media content warning applied to a media asset in a digital heritage item](../_embeds/mediawarnings3.png)
+![Screenshot of a taxonomy triggered media content warning applied to a media asset in a digital heritage item](../_embeds/warning1.png)
 
 **Deceased person warnings**
 
