@@ -13,13 +13,17 @@ tags:
 !!! Requirement
 	Users must be enrolled as a member of the protocol's parent community before they can be enrolled and assigned roles in the protocol.
 
-1. To add a new member to a protocol, as a protocol steward, navigate to the desired protocol and select "Manage", then select **Add Member**.
+1. To add a new member to a protocol, as a protocol steward, navigate to the desired protocol and select "Manage users."
 
-![The protocol page with the manage button highlighted](../_embeds/manage-protocol-members-01.png)
+![The protocol page with the manage members button highlighted](../_embeds/manage-protocol-members-01.png)
 
-![The members page with the add member link highlighted](../_embeds/manage-protocol-members-02.png)
+A table displays all protocol members. You can see their user name, length of membership, their membership state and protocol roles. An operations menu on the far right allows you to manage their roles. The dropdown arrow in the operations menu allows you to block and remove users from the protocol.
 
-A blank **Add member** form will load.
+Select the "Add new member" button at the top right.
+
+![The protocol manage page with table headers highlighted](../_embeds/manage-protocol-members-23.png)
+
+A blank **Add Member** form will load.
 
 2. In the *Username* field, begin entering their username. A list of community members will autopopulate. Select the correct user. If you do not see the user you're looking for, make sure they have been added to the protocol's community. See [Manage Community Members](../communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md).
 
@@ -42,9 +46,10 @@ A blank **Add member** form will load.
     - Active members can act as normal, based on their user role and permissions.
     - Blocked members cannot view the protocol page of a strict protocol, or take protocol related actions until they are changed back to active members. This may be useful if a user takes unapproved actions and their account should be temporarily suspended within this protocol (accounts can also be blocked at the site level by a Mukurtu Manager see [Manage User Accounts from a Site-wide Role](../users/manage-user-accounts-site-wide.md)).
 
-5. Select "Save".
-
     ![Screenshot of the add a new member form filled out with save button highlighted](../_embeds/manage-protocol-members-03.png)
+
+
+5. Select "Save".
 
 A blank form will load and a success message will be displayed. If you wish to add additional users, you may continue to do so.
 
@@ -52,25 +57,22 @@ A blank form will load and a success message will be displayed. If you wish to a
 
 ## Manage members individually
 
-To manage existing protocol members, return to the protocol manage page and select **Manage members**.
+Existing protocol members are managed from the membership page.
 
-![The protocol manage page with manage members highlighted](../_embeds/manage-protocol-members-20.png)
+### Manage protocol roles
 
-A table displays all protocol members. You can see their user name, length of membership, their membership state and protocol roles. An operations menu on the far right allows you to manage their roles. The dropdown in the menu allows for additional actions:
+1. To view the user's protocol membership settings, select the "Manage roles" button.
 
-- Block/unblock the user 
-- Remove the user from the protocol
-- View (view and edit the member's protocol settings)
+    ![The members page with the manager roles button highlighted](../_embeds/manage-protocol-members-25.png)
 
-![The protocol manage page with table headers highlighted](../_embeds/manage-protocol-members-23.png)
+2. The user's membership page will open. You can remove and assign roles, and change their state. When you're finished, select "Save."
 
-The following instructions walks you through the operations dropdown menu.
 
 ### Block/Unblock User
 
 To block a user, select "block user" from the operations dropdown menu. The user will be blocked and the protocol page and content will be inaccessible to the user (if the protocol is strict). Protocol related actions are also restricted.
 
-![The manage members page with block user selected in the operations menu](../_embeds/manage-protocol-members-23.png)
+![The manage members page with block user selected in the operations menu](../_embeds/manage-protocol-members-21.png)
 
 Perform the same action to unblock the user.
 
@@ -85,14 +87,6 @@ Perform the same action to unblock the user.
     ![A pop-up warning that this action cannot be undone, with delete and cancel buttons](../_embeds/manage-protocol-members-07.3.png)
 
     ![The members page with a success message displayed](../_embeds/manage-protocol-members-07.4.png)
-
-### View membership settings
-
-1. To view the user's protocol membership settings, select "View" in the operations menu.
-
-    ![The members page with view selected in the operations menu](../_embeds/manage-protocol-members-21.png)
-
-2. The user's membership page will open. You can remove and assign roles, and change their state. When you're finished, select "Save." **What's up the the request membership field?**
 
 3. You will be returned to the protocol members page and a success message will display. Any changes you made to the user will be reflected in the table. 
 
