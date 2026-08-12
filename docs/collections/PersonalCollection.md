@@ -63,7 +63,7 @@ To manage a personal collection, navigate to "Personal Collections" through the 
 1. Select the collection you want to manage.
 2. Select "Edit" at the top of the collection. 
 
-    ![Screenshot of a personal collection page with the Edit button highlighted.](../_embeds/placeholderscreenshot.png)
+    ![Screenshot of a personal collection page with the Edit button highlighted.](../_embeds/personal7.png)
 
 3. Either edit the personal collection information in the **Mukurtu Essentials** tab or add new items to the personal collection in the **Items** tab.
 4. Select "Save" to save any changes to the personal collection.
