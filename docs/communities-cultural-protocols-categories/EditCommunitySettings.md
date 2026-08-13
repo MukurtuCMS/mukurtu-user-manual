@@ -23,10 +23,9 @@ Communities can have a range of settings that can be updated once the community 
 	![The dashboard with manage communities and protocols highlighted](../_embeds/community-settings-11.png)
 
 
-
 2. From the community menu options, select **edit**. The community form will open with its current settings.
 
-	![The community page with the edit form highlighted](../_embeds/community-settings-12.jpg)
+	![The community page with the edit form highlighted](../_embeds/community-settings-12.png)
 
 ## Community name and description
 
