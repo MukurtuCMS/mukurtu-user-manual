@@ -9,9 +9,9 @@ tags:
 !!! Roles "User roles" 
     Drupal administrator, Mukurtu manager
 
-You can include recommended citation templates for your content in Mukurtu CMS to appear on content pages. To start configuring your citation templates, navigate to the **Site settings** section of the Dashboard and select the **Citation formats and default image** link, or go directly to `/admin/config/mukurtu/settings`.
+You can include citations for your content in Mukurtu CMS on content pages using Drupal tokens.
 
-![Screenshot of the Dashboard with the Citation formats and default image link highlighted.](../_embeds/citation10.png)
+![Screenshot of the Dashboard with the Citation templates link highlighted.](../_embeds/citation10.png)
 
 ## Sample citation formats
 
@@ -55,23 +55,17 @@ Included below are some common citation formats that you can use for your conten
 
 Mukurtu CMS allows you to configure the citation field templates for all content types using tokens. Tokens act as in-text placeholders with contextual values that allow the content to auto-generate a specific citation. 
 
-!!! tip
-    Tokens are only available for Drupal fields. 
+1. To start configuring your citation templates, navigate to the **Site settings** section of the Dashboard and select the **Citation templates** link, or go directly to `/admin/config/mukurtu/citation-templates`.
 
-1. Navigate to the **Citation Field Templates** section of the page and select the dropdown to open the section.
+    ![Screenshot of the Browse available tokens modal link highlighted.](../_embeds/citation1.png)
 
-    ![The Mukurtu Settings page with the Citation Field Templates dropdown section highlighted.](../_embeds/citation1.png)
+2. Under any citation template field, select the **Browse available tokens** to browse pre-set tokens. You will generally find your fields under the **Node** section.
 
-2. Under any citation template field, select the **Browse available tokens** to browse pre-set tokens.
-
-    ![Screenshot of the Browse available tokens modal link highlighted.](../_embeds/citation2.png)
+    ![Screenshot of the Browse available tokens modal with Node highlighted.](../_embeds/citation2.png)
     
-    !!! warning
-        When adding tokens to your site, use the `current-site` or `current-date` tokens. Use of the `node` tokens has the ability to break your site. 
+3. Select the pre-set tokens you wish to include in your citation. These can include tokens referencing title, creator, date, URL, or other fields.
 
-3. Select the pre-set tokens you wish to include in your citation. These can include tokens referencing title, date, URL, or other fields.
-
-    ![Screenshot of the Browse tokens modal with the current-site:title option highlighted.](../_embeds/citation3.png)
+    ![Screenshot of the Browse tokens modal with the node:title option highlighted.](../_embeds/citation3.png)
 
 4. Select the "Save Configuration" button to save your citation template.
 
