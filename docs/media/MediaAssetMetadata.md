@@ -24,6 +24,7 @@ Media assets are the core element of digital heritage items and other content. T
 - Cultural protocols must be applied directly to media assets and determine which users can access the media asset. 
 - Cultural protocols are managed by their parent community, which represents a group of contributors.
 - All media assets must be assigned at least one cultural protocol. Most media assets only require one cultural protocol, but more granular access can be specified by selecting multiple protocols or protocols from multiple communities.
+- Media created within a content form will automatically inherit content protocols. Inherited protocols can be edited. Media created elsewhere require protocol selection.
 - These are required fields.  
 
 #### Cultural Protocol 
@@ -39,6 +40,13 @@ Media assets are the core element of digital heritage items and other content. T
     
     !!!tip
         All is the default setting.
+
+#### Sync Protocols with Content
+
+- When enabled, this optional setting ensures the media asset's protocols will always match those of it's parent content to keep content and media access in sync. 
+- Media created within a content form will automatically inherit content protocols. 
+- Media created elsewhere require protocol selection, but will sync once added to content. 
+- You can disable the sync setting to set media protocols independent of parent content.
 
 ![Screenshot of the cultural protocol and sharing settings widget with a community and cultural protocol selected](../_embeds/mediaassetmetadata1.png)
 
