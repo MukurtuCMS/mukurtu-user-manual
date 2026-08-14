@@ -20,21 +20,21 @@ Use this field to edit the protocol name. It's helpful to name the community ass
     
 There are two types of protocols, strict and open. Select the appropriate protocol type.
     
-Strict - Content that uses this cultural protocol is only visible to members of this cultural protocol. The cultural protocol page is also only visible to cultural protocol members.
+**Strict** - Content that uses this cultural protocol is only visible to members of this cultural protocol. The cultural protocol page is also only visible to cultural protocol members.
 
-Open - Content that uses this cultural protocol is visible to all site members and visitors, with no login required. The cultural protocol page is also visible.
+**Open** - Content that uses this cultural protocol is visible to all site members and visitors, with no login required. The cultural protocol page is also visible.
 
 ![Protocol name and protocol type fields](../_embeds/edit-protocol-01.png)
 
 ## Add/Remove communities
 
-Each protocol is managed by at least one parent community. Protocols can also be managed jointly by multiple communities. If this is the case, additional parent communities can be assigned here. All parent communities will be displayed on the protocol page.
+Each protocol is managed by at least one parent community. Protocols can also be managed jointly by multiple communities. If this is the case, additional parent communities can be assigned here. All parent communities will be displayed on the protocol page. See [Understanding Shared Protocols](../communities-cultural-protocols-categories/SharedProtocols.md) for more information.
  
 1. To add a parent community, select "Select Communities". 
 
-2. Check the box next to each community you would like to add. Select "Add Communities".
+2. Select each community you would like to add. Select "Add Communities".
 
-![Screenshot of community selection modal. Three communities are listed, two are selected. The add communities button is located in the bottom-left corner.](../_embeds/create-protocol-05.png)
+![Screenshot of community selection modal. Three communities are listed, two are selected, indicated by a green outline. The add communities button is located in the bottom-left corner.](../_embeds/edit-protocol-06.png)
 
 3. To remove a community, select the trash can icon in the top right corner of each community.
 
@@ -55,9 +55,9 @@ Local Contexts provides labels and notices that are applied to content. These ar
 
 Use this setting to determine how members are displayed on a cultural protocol page:
 
-- Do not display: does not display protocol members
-- Display protocol stewards: displays only users assigned to the protocol steward role
-- Display all members: displays all protocol members regardless of role
+- **Do not display:** does not display protocol members
+- **Display protocol stewards:** displays only users assigned to the protocol steward role
+- **Display all members:** displays all protocol members regardless of role
 
 ## Banner image
 
@@ -80,15 +80,30 @@ Featured content gives users a preview of selected content. It displays the titl
 3. All available content is displayed below the search bar. Check the box next to each piece of content you wish to feature.
 4. Select "Add Content".
 
-    ![Screenshot of featured content modal with checkboxes next to selected items and add content button highlighted in red.](../_embeds/edit-protocol-05.png)
+    ![Screenshot of featured content modal with checkboxes next to selected items and add content button highlighted in red.](../_embeds/edit-protocol-05.png) UPDATE WHEN MODAL IS FIXED
 
 5. Remove featured content by selecting the grey trash can icon on the top right corner of each piece of content.
 
     ![Featured content field with a sample content item and trash can icon highlighted in red](../_embeds/edit-protocol-04.png)
 
+## Comment Settings
+
+The comment settings allow you to control comments for content within this protocol. You can:
+
+- **Enable/disable commenting** - Enable or disable commenting for items in this cultural protocol. For items with multiple cultural protocols, any 'disable' setting will disable commenting.
+
+- **Require approval for comments**- If disabled, items in this cultural protocol will allow comments to be immediately published without approval. For items with multiple cultural protocols, any 'enabled' setting will require comment approval.
+
+- **Choose who can view comments** - visitors, site users with access, and protocol members only. For items with multiple cultural protocols, the most restrictive protocol wins.
+
+- **Choose who can leave comments** - visitors, site users with access, and protocol members only. For items with multiple cultural protocols, the most restrictive protocol wins. Available options will depend on who can view comments (i.e. if visitors can't view comments, they won't be allowed to leave comments.)
+
+![The comment settings in the protocol edit form](../_embeds/edit-protocol-07.png)
+
+
 ## Save
 
 When you are satisfied with your changes, select "Save." A success message will be displayed on the cultural protocols page. 
 
-![Screenshot of cultural protocols page with success message](../_embeds/edit-protocol-03.jpg)
+![Screenshot of cultural protocols page with success message](../_embeds/edit-protocol-03.png)
 
