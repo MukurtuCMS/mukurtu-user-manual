@@ -142,7 +142,7 @@ This article covers two other methods for creating a cultural protocol: from the
 
     ![A screenshot of all the protocol user roles, each with a "select user" button beneath them.](../_embeds/create-community-09.png)
 
-    In order of responsibilitiy, protocol user roles are: 
+    In order of increasing responsibility, protocol user roles are: 
 
     - Protocol members can view content but cannot add or edit.
     - Protocol affiliates can view content but cannot add or edit. This is a designation for community partners that mirrors the community affiliate role.
