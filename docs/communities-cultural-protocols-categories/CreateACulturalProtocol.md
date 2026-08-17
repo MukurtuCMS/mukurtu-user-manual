@@ -10,7 +10,7 @@ tags:
 
 There are several ways to create a new cultural protocol. A separate article discusses [creating a community and initial cultural protocol](CreateACommunityAndInitialCulturalProtocol.md).
 
-This article covers two other methods for creating a cultural protocol - from the dashboard and through an existing community.
+This article covers two other methods for creating a cultural protocol: from the dashboard, and from a community page.
 
 ## Create a cultural protocol from the dashboard
 
@@ -58,7 +58,7 @@ This article covers two other methods for creating a cultural protocol - from th
 
     ![A list of protocol role descriptions](../_embeds/create-protocol-23.png)
 
-    In order of responsibilitiy, protocol user roles are: 
+    In order of increasing responsibility, protocol user roles are: 
 
     - Protocol members can view content but cannot add or edit.
     - Protocol affiliates can view content but cannot add or edit. This is a designation for community partners that mirrors the community affiliate role.
@@ -91,7 +91,7 @@ This article covers two other methods for creating a cultural protocol - from th
     ![The community page with a success message indicating that the protocol was successfully created.](../_embeds/create-protocol-09.png)
 
 
-## Create a cultural protocol through an existing community
+## Create a cultural protocol from a community page
 
 !!! roles "User Roles"
     Community Manager
@@ -142,7 +142,7 @@ This article covers two other methods for creating a cultural protocol - from th
 
     ![A screenshot of all the protocol user roles, each with a "select user" button beneath them.](../_embeds/create-community-09.png)
 
-    In order of responsibilitiy, protocol user roles are: 
+    In order of increasing responsibility, protocol user roles are: 
 
     - Protocol members can view content but cannot add or edit.
     - Protocol affiliates can view content but cannot add or edit. This is a designation for community partners that mirrors the community affiliate role.
