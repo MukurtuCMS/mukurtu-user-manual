@@ -10,7 +10,7 @@ tags:
     
     Protocol steward
 
-Cultural protocols can have a range of settings that can be updated once the protocol is created. Certain fields and settings are only available after the protocol has been created. To edit an existing protocol, navigate to the protocol, and select **edit**.
+Cultural protocols have some settings that are only available after the protocol has been created. To edit an existing protocol, navigate to the protocol, and select **edit**.
 
 ## Protocol Name
 
