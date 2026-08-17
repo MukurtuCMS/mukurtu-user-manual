@@ -70,11 +70,27 @@ Existing protocol members are managed from the membership page.
 
 ### Block/Unblock User
 
-To block a user, select "block user" from the operations dropdown menu. The user will be blocked and the protocol page and content will be inaccessible to the user (if the protocol is strict). Protocol related actions are also restricted.
+To block a user, select "block user" from the operations dropdown menu. 
 
 ![The manage members page with block user selected in the operations menu](../_embeds/manage-protocol-members-21.png)
 
-Perform the same action to unblock the user.
+A message will confirm that you wish to block the user. Select "block" to continue.
+
+![A message confirming the user should be blocked. The block button on the top right is highlighted](../_embeds/manage-protocol-members-27.png)
+
+A success message will display. The user will be blocked and the protocol page and content will be inaccessible to the user (if the protocol is strict). Protocol related actions are also restricted.
+
+![A success message displays. The user is blocked.](../_embeds/manage-protocol-members-28.png)
+
+Repeat the same steps to unblock the user.
+
+![The manage members page with unblock user selected in the operations menu](../_embeds/manage-protocol-members-26.png)
+
+![A message confirming the user should be unblocked. The unblock button on the top right is highlighted](../_embeds/manage-protocol-members-30.png) 
+
+A success message will display. The user will be unblocked and access to the protocol page and content will be restored. Protocol related actions are also restored.
+
+![A success message displays. The user is unblocked.](../_embeds/manage-protocol-members-31.png)
 
 ### Remove Users
 
