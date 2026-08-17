@@ -10,7 +10,7 @@ tags:
 
 There are several ways to create a new cultural protocol. A separate article discusses [creating a community and initial cultural protocol](CreateACommunityAndInitialCulturalProtocol.md).
 
-This article covers two other methods for creating a cultural protocol - from the dashboard and through an existing community.
+This article covers two other methods for creating a cultural protocol: from the dashboard, and from a community page.
 
 ## Create a cultural protocol from the dashboard
 
