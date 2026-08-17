@@ -15,7 +15,7 @@ There are two ways to access the new user form as a community manager:
 
     ![The community manager dashboard with "Create user with community membership" highlighted](../_embeds/add-user-cm-05.png)
 
-2. Add `admin/communities/create-user` to the end of your URL (i.e. `mymukurtusite.org/admin/communities/create-user`).
+2. Or by going directly to `admin/communities/create-user` (e.g. `mymukurtusite.org/admin/communities/create-user`).
 
     ![A web browser with mymukurtusite.org/admin/communities/create-user shown in the search bar](../_embeds/add-user-cm-01.png)
 
