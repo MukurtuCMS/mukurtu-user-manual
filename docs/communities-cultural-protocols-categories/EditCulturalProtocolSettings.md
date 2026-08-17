@@ -12,6 +12,8 @@ tags:
 
 Cultural protocols have some settings that are only available after the protocol has been created. To edit an existing protocol, navigate to the protocol, and select **edit**.
 
+![A protocol page with the edit button highlighted](../_embeds/edit-protocol-08.png)
+
 ## Protocol Name
 
 Use this field to edit the protocol name. It's helpful to name the community associated with this protocol and indicate type of access provided. For example, public collections at the Washington State University Library Manuscripts, Archives and Special Collections (WSU-MASC) might use the protocol, WSU-MASC Public.
@@ -49,7 +51,7 @@ Add or edit the protocol description. Descriptions display on the protocol page 
 
 ## Local Contexts Description
 
-Local Contexts provides labels and notices that are applied to content. These are a combination of graphics and text that communicate standards for respectful interaction with heritage collections and data as dictated by Indigenous communities. If you are using Local Contexts labels for content within this protocol, you may add or update a description for Local Contexts projects. This will be displayed in the protocol's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md).
+If you are using Local Contexts labels for content within this protocol, you may add or update a description for Local Contexts projects. This will be displayed in the protocol's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md).
 
 ## Membership display
 
