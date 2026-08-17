@@ -51,7 +51,7 @@ A blank **Add Member** form will load.
 
 5. Select "Save".
 
-A blank form will load and a success message will be displayed. If you wish to add additional users, you may continue to do so.
+6. A blank form will load and a success message will be displayed. If you wish to add additional users, you may continue to do so.
 
 ![Screenshot of the add a new member form with a success message displayed.](../_embeds/manage-protocol-members-04.png)
 
