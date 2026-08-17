@@ -91,7 +91,7 @@ This article covers two other methods for creating a cultural protocol: from the
     ![The community page with a success message indicating that the protocol was successfully created.](../_embeds/create-protocol-09.png)
 
 
-## Create a cultural protocol through an existing community
+## Create a cultural protocol from a community page
 
 !!! roles "User Roles"
     Community Manager
