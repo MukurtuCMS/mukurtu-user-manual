@@ -16,8 +16,6 @@ Community managers are responsible for adding and managing community members. Th
 
 To begin, navigate to the community you wish to manage and select "Manage users."
 
-![Site communities page with communities menu item and one community highlighted](../_embeds/community-membership-13.png)
-
 ![Community page with the manage users button highlighted](../_embeds/community-membership-06.png)
 
 
@@ -86,22 +84,16 @@ By selecting the dropdown menu in the operations links, you can also block and r
 
 You can manage multiple members by using the action menu. Use this menu to:
 
-Manage user roles in community 
-- This option assigns community roles (manager, affiliate, member) to users.
+**Manage user roles in community**: This option assigns community roles (manager, affiliate, member) to users.
 
-Block user(s) in community
-- This option blocks community members from viewing the community page.
+**Block user(s) in community**: This option blocks community members from viewing the community page.
 
-Remove user(s) from community
-- This option removes users from the community.
+**Remove user(s) from community**: This option removes users from the community.
     
-Unblock user(s) in community
-- This option restores access to the community page.
-
+**Unblock user(s) in community**: This option restores access to the community page.
 
 1. To use any of these actions on one or more members, from the manage members page, check the box next to each name you wish to manage. 
-
-![Manage members page with checkboxes checked beside User 1 and User 2, manage user roles in community selected, and the apply to selected items box highlighted](../_embeds/community-membership-10.png)
+    ![Manage members page with checkboxes checked beside User 1 and User 2, manage user roles in community selected, and the apply to selected items box highlighted](../_embeds/community-membership-10.png)
 
 2. Using the action menu, select the action you wish to apply. 
 
@@ -113,15 +105,15 @@ Unblock user(s) in community
 
 1. Complete steps 1-3. 
 
-![Manage members page with action item "manage user roles in community" highlighted](../_embeds/community-membership-18.png)
+    ![Manage members page with action item "manage user roles in community" highlighted](../_embeds/community-membership-18.png)
 
 2. A table will list the selected users and the community user roles. The users' current roles are selected. Uncheck the role you wish to remove. Check the role you wish to assign and select **Submit**.
 
-![Role selection form with community affiliate role checked.](../_embeds/community-membership-29.png)
+    ![Role selection form with community affiliate role checked.](../_embeds/community-membership-29.png)
 
 3. The manage members page will reload with a sucess message. User roles for each selected member will be updated.
 
-![Manage members page with updates highlighted and a success message displayed](../_embeds/community-membership-30.png)
+    ![Manage members page with updates highlighted and a success message displayed](../_embeds/community-membership-30.png)
 
 ### Block user(s) in community
 
