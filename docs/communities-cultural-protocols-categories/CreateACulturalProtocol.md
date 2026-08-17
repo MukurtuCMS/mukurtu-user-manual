@@ -60,14 +60,14 @@ This article covers two other methods for creating a cultural protocol: from the
 
     In order of increasing responsibility, protocol user roles are: 
 
-    - Protocol members can view content but cannot add or edit.
-    - Protocol affiliates can view content but cannot add or edit. This is a designation for community partners that mirrors the community affiliate role.
-    - Contributors can create, edit and delete their own digital heritage items, person records and media assets.
-    - Curators can create, edit and delete their own collections and upload media assets. 
-    - Community record stewards can add community records to content, as well as edit and delete them.
-    - Language contributors can add, edit and delete their own dictionary words and word lists.
-    - Language stewards can add, edit and delete ALL dictonary words and word lists and also add media assets.
-    - Protocol stewards can manage protocol membership, add edit and delete all content and media assets, manage the look and feel of the protocol page, and manage Local Contexts labels and notices.
+    - **Protocol members** can view content but cannot add or edit.
+    - **Protocol affiliates** can view content but cannot add or edit. This is a designation for community partners that mirrors the community affiliate role.
+    - **Contributors** can create, edit and delete their own digital heritage items, person records and media assets.
+    - **Curators** can create, edit and delete their own collections and upload media assets. 
+    - **Community record stewards** can add community records to content, as well as edit and delete them.
+    - **Language contributors** can add, edit and delete their own dictionary words and word lists.
+    - **Language stewards** can add, edit and delete ALL dictonary words and word lists and also add media assets.
+    - **Protocol stewards** can manage protocol membership, add edit and delete all content and media assets, manage the look and feel of the protocol page, and manage Local Contexts labels and notices.
 
 7. To add new members, use the search bar to search for users. Existing community members will display, and options will narrow as you type. 
 
@@ -88,7 +88,7 @@ This article covers two other methods for creating a cultural protocol: from the
 
 11. The community page will load with a success message. 
 
-    ![The community page with a success message indicating that the protocol was successfully created.](../_embeds/create-protocol-09.png)
+    ![The community page with a success message indicating that the protocol was successfully created.](../_embeds/create-protocol-25.png)
 
 
 ## Create a cultural protocol from a community page
@@ -99,12 +99,9 @@ This article covers two other methods for creating a cultural protocol: from the
 1. To add a protocol through an existing community, navigate to that community's page. 
 
     You can view community pages by selecting **Communities** in the main menu.
-
-    ![The main menu with the communities link highlighted](../_embeds/create-protocol-20.png)
-
+    
     Select the appropriate community, then select **Create Protocol**.
 
-    ![The communities browse page with a community highlighted in red](../_embeds/create-protocol-11.png)
     ![The community page with Create protocol highlighted in red](../_embeds/create-protocol-15.png)
 
 2. Add a *protocol name*, and select a *protocol type* by selecting one of:
