@@ -41,7 +41,7 @@ tags:
     !!! tip
         All is the default setting.
 
-7. Optionally, you may select the **Sync protocols with content** setting. When enabled, this setting ensures the media asset's protocols will always match those of it's parent content to keep content and media access in sync. Media created within a content form will automatically inherit content protocols. Media created elsewhere require protocol selection, but will sync once added to content. You can disable the sync setting to set media protocols independent of parent content. 
+7. When enabled, the **Sync protocols with content** setting ensures the media asset's protocols will always match those of it's parent content to keep content and media access in sync. Media with synced protocols created within a content form will sync and inherit protocols from that content. Media created elsewhere require protocol selection, but will sync once added to content. You can disable the sync setting to set media protocols independent of parent content. 
 
     ![Screenshot of the cultural protocols and sharing settings fields](../../_embeds/mediaprotocols.png)
 
