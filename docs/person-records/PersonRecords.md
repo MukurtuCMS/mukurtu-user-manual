@@ -87,7 +87,7 @@ To add a related person, navigate to the **Related People** section and select t
 
 ![Screenshot of the add related person button in the related people section](../_embeds/person6.png)
 
-#### Add an extant person record
+#### Connect an existing person record
 
 1. Select the "Select person" button. 
 
