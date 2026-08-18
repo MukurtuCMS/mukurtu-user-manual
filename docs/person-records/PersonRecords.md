@@ -41,7 +41,7 @@ Select a **Sharing setting**. Sharing setting has two options: you can select **
 
 People may be identified by multiple names, monikers, identities, and with inconsistent spellings across different content. This field is used to aggregate and display all content where the person is identified by connecting those disparate names. 
 
-1. In the *Other Names* field, use the text box to select existing terms or add new ones. 
+1. In the *Other Names* field, use the text box to select existing terms or add new ones. New names will be added to the People taxonomy.
 
 ![Screenshot showing the other names section with the fields filled out and content selected.](../_embeds/person2.png)
 
