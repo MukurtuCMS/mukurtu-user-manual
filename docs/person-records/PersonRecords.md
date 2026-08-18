@@ -81,7 +81,7 @@ In the *Place of Death* field enter the location the person died. You can select
 !!! requirement
     Interpersonal relationships are not automatically bi-directional, and must be added to both person records. 
 
-You can add a related person to a person record by adding an extant person record or by creating one on the fly. Related people is used to reflect real-world relationships between people. Examples include family, professional, cultural, educational, or any other kind of interpersonal relationships. 
+You can add a related person to a person record by selecting an existing person record or by creating one on the fly. Related people is used to reflect real-world relationships between people. Examples include family, professional, cultural, educational, or any other kind of interpersonal relationships. 
 
 To add a related person, navigate to the **Related People** section and select the "Add Related Person" button. For information on creating a related person record on the fly, refer to the [Create a person record on the fly](#create-a-person-record-on-the-fly) section of this article. 
 
