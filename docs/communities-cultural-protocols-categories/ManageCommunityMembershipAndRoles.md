@@ -26,7 +26,7 @@ The **Manage Members** page displays a table that lists all of the community mem
 ## Add a new member
 
 !!! Requirement
-    Users need to be registered on the site before they can be added to a community. See [Create User Accounts](/docs/users/create-user-accounts-community-manager.md) for detailed instructions.
+    Users need to be registered on the site before they can be added to a community. See [Create User Accounts](../users/create-user-accounts-community-manager.md) for detailed instructions.
     
 1) To add a new member, select "Add New Member".
 
