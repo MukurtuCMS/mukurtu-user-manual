@@ -44,7 +44,7 @@ Media assets are the core element of digital heritage items and other content. T
 #### Sync Protocols with Content
 
 - When enabled, this optional setting ensures the media asset's protocols will always match those of it's parent content to keep content and media access in sync. 
-- Media created within a content form will automatically inherit content protocols. 
+- Media with synced protocols created within a content form will automatically inherit content protocols. 
 - Media created elsewhere require protocol selection, but will sync once added to content. 
 - You can disable the sync setting to set media protocols independent of parent content.
 
