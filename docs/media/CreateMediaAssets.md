@@ -82,7 +82,7 @@ Mukurtu 4 has the option to bulk add media assets. To add more than one media as
 
 - Enter the URL to link to your media asset.  
 - Filenames automatically generate for remotely hosted media.
-- Make sure you select a *Sharing Setting* and *Cultural Protocol* to apply to your media, or select the **Sync Protocols with content** setting. For more information on this setting, refer to [Manage Media Access with Cultural Protocols](ManageMediaAccessWithProtocols.md).
+- *Cultural protocols* and *Sharing settings* are required. See [Manage Media Access with Cultural Protocols](ManageMediaAccessWithProtocols.md) for more information.
 
 ## Embedded media
 
