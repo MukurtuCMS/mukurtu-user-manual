@@ -7,7 +7,7 @@ tags:
 # Configure Citation Field Templates
 
 !!! Roles "User roles" 
-    Drupal administrator, Mukurtu manager
+    Administrator, Mukurtu manager
 
 You can include citations for your content in Mukurtu CMS on content pages using Drupal tokens.
 
