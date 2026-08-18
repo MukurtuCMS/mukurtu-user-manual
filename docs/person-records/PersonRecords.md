@@ -19,7 +19,7 @@ From your **Dashboard** or **Create Content** link, select **Person Record**.
 
 ### Name
 
-Enter the person's name as they should be primarily identified in the *Name* field. Names can be formatted as `Last, First, Middle`, `Last, First (Nickname)`, `Family name, Given name`, or any other format that makes sense for your community.
+Enter the person's name as they should be primarily identified in the *Name* field. Names can be formatted as `Last, First, Middle`, `Last, First (Nickname)`, `Family name, Given name`, or any other format that is appropriate for the person.
 
 - This is a required field.
 
