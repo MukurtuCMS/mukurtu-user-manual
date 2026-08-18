@@ -9,7 +9,7 @@ tags:
 !!! Roles "User roles" 
     Administrator, Mukurtu manager
 
-You can include citations for your content in Mukurtu CMS on content pages using Drupal tokens.
+You can configure citation templates so that users can easily copy and paste an appropriate citation when referencing site content.
 
 ![Screenshot of the Dashboard with the Citation templates link highlighted.](../_embeds/citation10.png)
 
