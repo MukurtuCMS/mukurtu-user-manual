@@ -91,8 +91,8 @@ To add a related person, navigate to the **Related People** section and select t
 
 1. Select the "Select person" button. 
    
-   !!! tip 
-        You can use the search field to search for other person records by name.
+     !!! tip 
+         You can use the search field to search for other person records by name.
 
 2. Select the checkbox beside the person record you wish to add as a related person, then scroll down and select "Add Content". You can only add one related person at a time.
 
