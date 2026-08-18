@@ -120,8 +120,8 @@ This opens a new tab in your browser where you can create a person record.
 
 ![Screenshot of the add related person section with the related person and relationship type filled in.](../_embeds/person16.png)
 
-!!! requirement
-     Interpersonal relationships can only be added to the on-the-fly person record after saving the original person record. 
+!!! tip
+     Relationships are created on person records separately. Once you save your original person record, you will be prompted to add a paired relationship to the person record you created on the fly. 
    
 ### Biography sections
 
