@@ -28,7 +28,7 @@ tags:
 
     ![Screenshot of the file and filename showing how it automatically filled in.](../../_embeds/audiofiles2.png)
 
-5. Use the toggle(s) to apply cultural protocols to the media asset. Media created within a content form will automatically inherit content protocols. 
+5. Use the toggle(s) to apply cultural protocols to the media asset. By default, media assets created within a content form will sync and inherit protocols from that content. 
 
     - This is a required field.
 
