@@ -9,9 +9,35 @@ tags:
 !!! Roles "User roles" 
     Administrator, Mukurtu manager
 
-You can configure citation templates so that users can easily copy and paste an appropriate citation when referencing site content.
+You can configure citation templates so that your site automatically generates appropriate citations. This makes it easy for users to use the copy button to copy and paste citations that reference site content.
 
-![Screenshot of the Dashboard with the Citation templates link highlighted.](../_embeds/citation10.png)
+![Screenshot of a digital heritage item with the citation copy icon highlighted.](../_embeds/citation11.png)
+
+## Configuring templates with tokens
+
+Mukurtu CMS allows you to configure the citation field templates for all content types using tokens. Tokens act as in-text placeholders with contextual values that allow the content to auto-generate a specific citation. 
+
+1. To start configuring your citation templates, navigate to the **Site settings** section of the Dashboard and select the **Citation templates** link, or go directly to `/admin/config/mukurtu/citation-templates`.
+
+    ![Screenshot of the Dashboard with the Citation templates link highlighted.](../_embeds/citation10.png)
+
+2. Under any citation template field, select the **Browse available tokens** to browse pre-set tokens. You will generally find your fields under the **Node** section.
+
+    ![Screenshot of the Browse available tokens modal link highlighted.](../_embeds/citation1.png)
+
+    ![Screenshot of the Browse available tokens modal with Node highlighted.](../_embeds/citation2.png)
+    
+3. Select the pre-set tokens you wish to include in your citation. These can include tokens referencing title, creator, date, URL, or other fields.
+
+    ![Screenshot of the Browse tokens modal with the node:title option highlighted.](../_embeds/citation3.png)
+
+4. Select the "Save Configuration" button to save your citation template.
+
+    ![Screenshot of the citation field page with the save configuration button highlighted.](../_embeds/citation9.png)
+
+5. When users browse your site's digital heritage items, the Citation field will populate with the citation template, including the auto-generated metadata from the tokens. 
+
+    ![Screenshot of the citation field on a digital heritage item.](../_embeds/citation8.png)
 
 ## Sample citation formats
 
@@ -35,7 +61,7 @@ Included below are some common citation formats that you can use for your conten
 
 ### Digital Heritage items
 
-- APA: `[Creator's Lastname, Firstname]. [Title]. [Original date]. [Website name], [URL].`
+- APA: `[Creator's Lastname, Firstname]. [Title]. [Original date]. [Website name], [URL].` 
 - Chicago: `[Creator's Lastname, Firstname]. [Title]. [Contributor(s)]. [Publisher]. [Original date]. [Format, running time (for audio or video files; only use if applicable)]. [URL].`
 - MLA: `[Creator's Lastname, Firstname]. [Title]. [Publisher], [Original date], [URL].`
 
@@ -50,28 +76,3 @@ Included below are some common citation formats that you can use for your conten
 - APA: `[Community], [Cultural Protocol]. [Word list name], [Language]. [Website name]. [URL].`
 - Chicago: `[Word list name], [Language]. [Source]. [Website name]. [URL].`
 - MLA: `[Word list name], [Language]. [Source]. [Website name]. [URL].` 
-
-## Configuring templates with tokens
-
-Mukurtu CMS allows you to configure the citation field templates for all content types using tokens. Tokens act as in-text placeholders with contextual values that allow the content to auto-generate a specific citation. 
-
-1. To start configuring your citation templates, navigate to the **Site settings** section of the Dashboard and select the **Citation templates** link, or go directly to `/admin/config/mukurtu/citation-templates`.
-
-    ![Screenshot of the Browse available tokens modal link highlighted.](../_embeds/citation1.png)
-
-2. Under any citation template field, select the **Browse available tokens** to browse pre-set tokens. You will generally find your fields under the **Node** section.
-
-    ![Screenshot of the Browse available tokens modal with Node highlighted.](../_embeds/citation2.png)
-    
-3. Select the pre-set tokens you wish to include in your citation. These can include tokens referencing title, creator, date, URL, or other fields.
-
-    ![Screenshot of the Browse tokens modal with the node:title option highlighted.](../_embeds/citation3.png)
-
-4. Select the "Save Configuration" button to save your citation template.
-
-    ![Screenshot of the citation field page with the save configuration button highlighted.](../_embeds/citation9.png)
-
-5. When users browse your site's digital heritage items, the Citation field will populate with the citation template, including the auto-generated metadata from the tokens. 
-
-    ![Screenshot of the citation field on a digital heritage item.](../_embeds/citation8.png)
-
