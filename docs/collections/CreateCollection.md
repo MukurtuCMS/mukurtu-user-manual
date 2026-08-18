@@ -43,7 +43,7 @@ Select **Collection** to begin creating your collection. The remaining steps to 
 
     ![Screenshot of the summary and description fields with example text](../_embeds/createcollections3.png)
 
-6. Use the *Image* field to select a featured thumbnail image. This image is used on the collection page and in previews across the site, and may be drawn from content in the collection or selected to complement the collection. For instructions on how to add a thumbnail image, refer to the [Upload Media Assets: Image](../../media/ByTypeMediaUpload/Image) article. 
+6. Use the *Image* field to select a featured thumbnail image. This image is used on the collection page and in previews across the site, and may be drawn from content in the collection or selected to complement the collection. For instructions on how to add a thumbnail image, refer to the [Upload Media Assets: Image](../media/ByTypeMediaUpload/Image.md)
 
     !!! tip
         The summary, description, and thumbnail fields help users browse your collections by providing context and a more curated experience.

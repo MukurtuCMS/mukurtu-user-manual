@@ -54,7 +54,7 @@ If including **Related People** and **Biography Section** paragraphs, the Person
 
 |Field Name|Description|Format Information|
 |---|---|---|
-|Import ID, ID, or UUID|When importing a person record and corresponding related people paragraph at the same time, use an *Import ID*|See [General Import Information > Identifiers](../roundtrip/GeneralImportInformation.md/#identifiers-id-uuid-import-id) for more information.|
+|Import ID, ID, or UUID|When importing a person record and corresponding related people paragraph at the same time, use an *Import ID*|See [General Import Information > Identifiers](./GeneralImportInformation.md#identifiers-name-id-uuid-import-id) for more information.|
 |Related Person|A person that has a relationship with the subject of the person record. |IDs, UUIDs, or titles of the references, separated by your selected multi-value delimiter. Each title must be exact and match only one item.|
 |Relationship type|The type of relationship between the related person and the subject of the person record.|Taxonomy term name, ID, or UUID. The name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
 
@@ -62,6 +62,6 @@ If including **Related People** and **Biography Section** paragraphs, the Person
 
 |Field Name|Description|Format Information|
 |---|---|---|
-|Import ID, ID, or UUID|When importing a person record and corresponding biography section paragraph at the same time, use an *Import ID*|See [General Import Information > Identifiers](../roundtrip/GeneralImportInformation.md/#identifiers-id-uuid-import-id) for more information.|
+|Import ID, ID, or UUID|When importing a person record and corresponding biography section paragraph at the same time, use an *Import ID*|See [General Import Information > Identifiers](./GeneralImportInformation.md#identifiers-name-id-uuid-import-id) for more information.|
 |Title|The title of the section.|Plain text value.|
 |Body|The body of the section.|Formatted text.|
