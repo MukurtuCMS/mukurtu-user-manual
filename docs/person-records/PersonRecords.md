@@ -19,7 +19,7 @@ From your **Dashboard** or **Create Content** link, select **Person Record**.
 
 ### Name
 
-Enter the person's name as they should be primarily identified in the *Name* field. Names can be formatted as `Last, First, Middle`, `Last, First (Nickname)`, `Family name, Given name`, or any other format that makes sense for your community.
+Enter the person's name as they should be primarily identified in the *Name* field. Names can be formatted as `Last, First, Middle`, `Last, First (Nickname)`, `Family name, Given name`, or any other format that is appropriate for the person.
 
 - This is a required field.
 
@@ -41,7 +41,7 @@ Select a **Sharing setting**. Sharing setting has two options: you can select **
 
 People may be identified by multiple names, monikers, identities, and with inconsistent spellings across different content. This field is used to aggregate and display all content where the person is identified by connecting those disparate names. 
 
-1. In the *Other Names* field, use the text box to select existing terms or add new ones. 
+1. In the *Other Names* field, use the text box to select existing terms or add new ones. New names will be added to the People taxonomy.
 
 ![Screenshot showing the other names section with the fields filled out and content selected.](../_embeds/person2.png)
 
@@ -51,7 +51,7 @@ People may be identified by multiple names, monikers, identities, and with incon
 
 ### Media assets
 
-Media assets are a key element of most person records, though they are not required. Supported media types are images, documents, video, audio, and embed code. Person records can include more than one media asset, and each media asset can be a different media type. Media assets can be assigned a different cultural protocol from the person record to allow differential access to the media assets and metadata. For instructions on how to add a media asset, refer to the [Create Media Assets](../media/CreateMediaAssets.md) article.
+Media assets are often included in person records, though they are not required. Supported media types are images, documents, video, audio, and embed code. Person records can include more than one media asset, and each media asset can be a different media type. Media assets can be assigned a different cultural protocol from the person record to allow differential access to the media assets and metadata. For instructions on how to add a media asset, refer to the [Create Media Assets](../media/CreateMediaAssets.md) article.
 
 - You can add multiple media assets by selecting more than one media asset from the media modal. 
 - To reorder your media assets, select your media assets and drag them into the order you prefer.
@@ -79,20 +79,18 @@ In the *Place of Death* field enter the location the person died. You can select
 ### Related people
 
 !!! requirement
-    Related person records must have already been created in order to be added to the related people section. Note that these relationships are not automatically bi-directional, and must be added to both person records. 
+    Interpersonal relationships are not automatically bi-directional, and must be added to both person records. 
 
-In the **Related People** section, select the "Add Related Person" button to add a related individual to your person record. Related people is used to reflect real-world relationships between people. Examples include family, professional, cultural, educational, or any other kind of interpersonal relationships. 
+You can add a related person to a person record by selecting an existing person record or by creating one on the fly. Related people is used to reflect real-world relationships between people. Examples include family, professional, cultural, educational, or any other kind of interpersonal relationships. 
 
-1. Select the "Select content" button. 
+To add a related person, navigate to the **Related People** section and select the "Add Related Person" button. For information on creating a related person record on the fly, refer to the [Create a person record on the fly](#create-a-person-record-on-the-fly) section of this article. 
 
-    ![Screenshot of the add related person button in the related people section](../_embeds/person6.png)
+![Screenshot of the add related person button in the related people section](../_embeds/person6.png)
 
-    !!! tip 
-        You can use the search field to search for other person records by name.
+#### Connect an existing person record
 
+1. Select the "Select person" button. 
 2. Select the checkbox beside the person record you wish to add as a related person, then scroll down and select "Add Content". You can only add one related person at a time.
-
-    ![Screenshot of the related person field with the select content button highlighted.](../_embeds/person7.png)
 
     ![Screenshot of the add related person field with a name selected and the add content button highlighted](../_embeds/person8.png)
 
@@ -105,6 +103,22 @@ In the **Related People** section, select the "Add Related Person" button to add
 
 4. Select and drag the arrows to reorder your related people if necessary. To remove a related person, select the "Remove" button.
 
+#### Create a person record on the fly
+
+To create a person record on the fly, select the "Can't find the person? Create a new person record." button. 
+
+![Screenshot of the related person selection field with the can't find the person create a new person record button highlighted.](../_embeds/person15.png)
+
+This opens a new tab in your browser where you can create a person record. 
+
+- Create a person record as outlined in this article, then select the "Save" button. 
+- The tab will close and your page will open on the Select Person modal, where you can select the person record you just created and add the *Relationship type* information as outlined in the [Connect an existing person record](#connect-an-existing-person-record) section of this article.
+
+![Screenshot of the add related person section with the related person and relationship type filled in.](../_embeds/person16.png)
+
+!!! tip
+     Relationships are created on person records separately. Once you save your original person record, you will be prompted to add a paired relationship to the person record you created on the fly. 
+   
 ### Biography sections
 
 The biography is an account of the person's life, whether written or compiled by others, an autobiography, or both. While they are primarily written, they may include media assets as well. Biography sections can be rearranged and collapsed for easier editing. To add additional biography sections, select "Add Biography section".
