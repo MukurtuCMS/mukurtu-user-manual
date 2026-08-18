@@ -90,10 +90,8 @@ To add a related person, navigate to the **Related People** section and select t
 #### Connect an existing person record
 
 1. Select the "Select person" button. 
-
-    ![Screenshot of the related person field with the select content button highlighted.](../_embeds/person7.png)
-
-    !!! tip 
+   
+   !!! tip 
         You can use the search field to search for other person records by name.
 
 2. Select the checkbox beside the person record you wish to add as a related person, then scroll down and select "Add Content". You can only add one related person at a time.
@@ -118,10 +116,13 @@ To create a person record on the fly, select the "Can't find the person? Create 
 This opens a new tab in your browser where you can create a person record. 
 
 - Create a person record as outlined in this article, then select the "Save" button. 
-- The tab will close and your page will open on the Select Person modal, where you can select the person record you just created and add the *Relationship type* information as outlined in the [Add an extant person record](#add-an-extant-person-record) section of this article.
+- The tab will close and your page will open on the Select Person modal, where you can select the person record you just created and add the *Relationship type* information as outlined in the [Connect an existing person record](#connect-an-existing-person-record) section of this article.
 
 ![Screenshot of the add related person section with the related person and relationship type filled in.](../_embeds/person16.png)
 
+!!! requirement
+     Interpersonal relationships can only be added to the on-the-fly person record after saving the original person record. 
+   
 ### Biography sections
 
 The biography is an account of the person's life, whether written or compiled by others, an autobiography, or both. While they are primarily written, they may include media assets as well. Biography sections can be rearranged and collapsed for easier editing. To add additional biography sections, select "Add Biography section".
