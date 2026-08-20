@@ -159,16 +159,14 @@ nav:
   - Migration from Mukurtu 3:
     - migration/MigrationOverview.md
     - Self-Hosted:
-      - migration/SH02UpdateMukurtu3.md
-      - migration/SH03Pre-Migration.md
-      - migration/SH01MigrationPlanning.md
+      - migration/SH01UpdateMukurtu3.md
+      - migration/SH02Pre-Migration.md
+      - migration/SH03PrepareDatabaseCredentials.md
       - migration/SH04InstallMukurtu4.md
       - migration/SH05CopyMediaDirectory.md
       - migration/SH06RunMigrationTool.md
       - migration/SH07VerifyMigration.md
-      - migration/SH08CompleteConfiguration.md
-      - migration/SH09ConfirmSiteOperation.md
-      - migration/SH10DecommissionMukurtu3.md
+      - migration/SH08DecommissionMukurtu3.md
     - Reclaim Hosting:
       - migration/Reclaim01MigrationPlanning.md
       - migration/Reclaim02UpdateMukurtu3.md
