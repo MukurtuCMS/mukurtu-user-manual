@@ -97,7 +97,7 @@ Select the "Save" button to save your collection.
 
 ## Create a Collection from Content
 
-To create a collection from content, select the "Add to Collection" button above the content you want to add to a collection. 
+While viewing content, you can add that content to an existing collection or create a new collection. To create a collection from content, select the "Add to Collection" button above the content you want to add to a collection. 
 
 ![Screenshot of a digital heritage item with the add to collection button highlighted.](../_embeds/createcollections1.6.png)
 
