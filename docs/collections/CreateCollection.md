@@ -101,7 +101,7 @@ While viewing content, you can add that content to an existing collection or cre
 
 ![Screenshot of a digital heritage item with the add to collection button highlighted.](../_embeds/createcollections1.6.png)
 
-Use the Collection Name field to name your collection, then scroll down and add cultural protocols and a sharing setting.
+Use the Collection Name field to name your collection, then scroll down and add cultural protocols and a sharing setting. Only these limited fields are included here, but when editing the new collection later, the full set of fields will be available.
 
 ![Screenshot of the create collection modal with the collection name filled in and the name field highlighted.](../_embeds/fromcontent1.png)
 
