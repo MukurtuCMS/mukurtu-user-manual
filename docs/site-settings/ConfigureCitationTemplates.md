@@ -9,13 +9,11 @@ tags:
 !!! Roles "User roles" 
     Administrator, Mukurtu manager
 
-You can configure citation templates so that your site automatically generates appropriate citations. This makes it easy for users to use the copy button to copy and paste citations that reference site content.
+Mukurtu CMS allows you to configure the citation field templates for all content types using a combination of text and tokens. Tokens act as in-text placeholders with contextual values that allow the content to auto-generate a specific citation. This enables users to easily select the copy button to copy and paste citations that reference site content.
 
 ![Screenshot of a digital heritage item with the citation copy icon highlighted.](../_embeds/citation11.png)
 
 ## Configuring templates with tokens
-
-Mukurtu CMS allows you to configure the citation field templates for all content types using tokens. Tokens act as in-text placeholders with contextual values that allow the content to auto-generate a specific citation. 
 
 1. To start configuring your citation templates, navigate to the **Site settings** section of the Dashboard and select the **Citation templates** link, or go directly to `/admin/config/mukurtu/citation-templates`.
 
