@@ -68,7 +68,7 @@ In the content section of the dashboard, select the **add word list** link.
 
         ![The word field with two dictionary words. The trashcan icon on one of them is highlighted.](../_embeds/word-lists-06.png)
 
-7. Use the *Image* field to add a featured image. This image is used on the word list page and in previews across the site, and may be drawn from available content on the site. For instructions on how to add a thumbnail image, refer to the [Upload Media Assets: Image](../../media/ByTypeMediaUpload/Image) article.
+7. Use the *Image* field to add a featured image. This image is used on the word list page and in previews across the site, and may be drawn from available content on the site. For instructions on how to add a thumbnail image, refer to the [Upload Media Assets: Image](../media/ByTypeMediaUpload/Image.md) article.
 
 8. Use the *Source* field to refer to the source of the language knowledge. This could include dictionaries, speakers, songs, oral histories, language learning mateirals, or other language sources. 
 

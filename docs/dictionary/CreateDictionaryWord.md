@@ -11,7 +11,7 @@ tags:
 This article will walk you through creating a dictionary word and using word entries.
 
 !!! Requirement
-    Before you can create a dictionary word, you must first configure the dictionary. See [Configuring the Dictonary](./ConfiguringTheDictionary.md)
+    Before you can create a dictionary word, you must first configure the dictionary. See [Configuring the Dictonary](../dictionary/ConfigureTheDictionary.md)
 
 To create a dictionary word, as a protocol steward, language steward, or language contributor, from the Create Content menu, select **Dictionary word**.
 
@@ -56,7 +56,7 @@ For content with multiple protocols assigned, sharing settings help to determine
 ### Language
 
 !!! Requirement
-    Dictionary languages must first be configured by Mukurtu Manager. To learn how to configure a language, see [Configuring the Dictionary](./ConfigureTheDictionary.md)
+    Dictionary languages must first be configured by Mukurtu Manager. To learn how to configure a language, see [Configuring the Dictionary](../dictionary/ConfigureTheDictionary.md)
     
 Select a language. If only one language is available, it will be pre-selected. 
 
@@ -67,7 +67,7 @@ Select a language. If only one language is available, it will be pre-selected.
 ### Glossary Entry
 
 !!! Tip
-    Custom indexing can be applied by configuring glossary settings. See [Configuring the Dictionary](./ConfiguringTheDictionary.md) for detailed instructions.
+    Custom indexing can be applied by configuring glossary settings. See [Configuring the Dictionary](../dictionary/ConfigureTheDictionary.md) for detailed instructions.
 
 The glossary entry field can be used in cases where you do not want the term to be indexed under the first character of the term. This field allows you to choose a different character under which to index the term. To use this field, enter the character you would like the term to be indexed under.
 

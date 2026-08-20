@@ -46,7 +46,7 @@ plugins:
   - exporter:
       formats:
         pdf:
-          enabled: !ENV [MKDOCS_EXPORTER_PDF, true] #re-enable as true when ready
+          enabled: !ENV [MKDOCS_EXPORTER_PDF, false] #re-enable as true when ready
           concurrency: 8
           aggregator:
             enabled: false #re-enable as true when ready
@@ -135,6 +135,7 @@ nav:
     - look-and-feel/CreateBasicPage.md
     - look-and-feel/ConfigureColors.md
     - look-and-feel/ConfigureFont.md 
+    - look-and-feel/ConfigureSubtheme.md
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
@@ -192,6 +193,7 @@ nav:
     - roundtrip/GeneralImportInformation.md
     - roundtrip/MediaFormatsFields.md
     - roundtrip/MediaTextFields.md
+    - roundtrip/ImportFormatInformation.md
     - roundtrip/ImportingContent.md
     - roundtrip/DHItems.md
     - roundtrip/PersonRecords.md
