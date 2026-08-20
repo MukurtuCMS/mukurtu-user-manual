@@ -12,13 +12,14 @@ Collections are a tool to group and arrange content. They can be used to provide
 
 ## Create a new collection 
 
-You can create a collection from the **Create Content** dropdown menu or from your **Dashboard**. 
+You can create a collection from the **Create Content** dropdown menu or from your **Dashboard**.
 
 ![Screenshot of the Mukurtu 4 home page with the create content and collection link highlighted.](../_embeds/createcollections1.png)
 
 ![Screenshot of the Dashboard with the add collection link highlighted in the content section.](../_embeds/createcollections1.5.png)
     
 Select **Collection** to begin creating your collection. The remaining steps to create a collection are the same.
+
 
 ## Mukurtu essentials
 
@@ -93,3 +94,17 @@ Use the "Select Content" button in the **Related Content** section to add any re
 Select the "Save" button to save your collection.
 
 ![Screenshot of the published collection page.](../_embeds/createcollections8.png)
+
+## Create a Collection from Content
+
+While viewing content, you can add that content to an existing collection or create a new collection. To create a collection from content, select the "Add to Collection" button above the content you want to add to a collection. 
+
+![Screenshot of a digital heritage item with the add to collection button highlighted.](../_embeds/createcollections1.6.png)
+
+Use the Collection Name field to name your collection, then scroll down and add cultural protocols and a sharing setting. Only these limited fields are included here, but when editing the new collection later, the full set of fields will be available.
+
+![Screenshot of the create collection modal with the collection name filled in and the name field highlighted.](../_embeds/fromcontent1.png)
+
+Select the "Save" button to save your collection. 
+
+![Screenshot of the create collection modal with the save button highlighted.](../_embeds/fromcontent2.png)
