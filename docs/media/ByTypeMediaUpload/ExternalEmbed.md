@@ -24,7 +24,7 @@ tags:
 
     ![Screenshot of the external embed field and name field with text filled in.](../../_embeds/embed1.png)
 
-4. Use the toggle(s) to apply cultural protocols to the media asset.
+4. Use the toggle(s) to apply cultural protocols to the media asset. By default, media assets created within a content form will sync and inherit protocols from that content. 
 
     - This is a required field.
     
@@ -40,9 +40,11 @@ tags:
     !!! tip
         All is the default setting.
 
+6. When enabled, the **Sync protocols with content** setting ensures the media asset's protocols will always match those of it's parent content to keep content and media access in sync. Media with synced protocols created within a content form will sync and inherit protocols from that content. Media created elsewhere require protocol selection, but will sync once added to content. You can disable the sync setting to set media protocols independent of parent content. 
+
     ![Screenshot of the cultural protocols and sharing settings fields](../../_embeds/mediaprotocols.png)        
 
-6. External embeds are represented by a thumbnail image. This must be added manually as it is not automatically generated, and are often a screenshot of the embedded content.
+7. External embeds are represented by a thumbnail image. This must be added manually as it is not automatically generated, and are often a screenshot of the embedded content.
 
     - Select "Choose file" to upload an image.
     - Provide alternative text for your thumbnail. This is required for all thumbnail images. 
@@ -53,8 +55,8 @@ tags:
     ![Screenshot of the thumbnail with alternative text filled in.](../../_embeds/embed3.png)
     
 
-7. In the *Identifier* field, provide a unique identifier for the external embed. This identifier is usually an accession number, catalogue number, or other unique identifier.
-8. Use the *People* field to enter the name of anyone present, named, or referenced in the media asset. 
+8. In the *Identifier* field, provide a unique identifier for the external embed. This identifier is usually an accession number, catalogue number, or other unique identifier.
+9. Use the *People* field to enter the name of anyone present, named, or referenced in the media asset. 
     
     !!! tip
         This field feeds into the "deceased person" media content warnings.
@@ -63,7 +65,7 @@ tags:
     - Select and drag to reorder if necessary. 
     - To remove a person, select the "X".
     
-9. Select a *Media tag* by entering text in the text box and selecting from the provided options. Include as many media tags as needed. Select from existing media tags or add new ones.
+10. Select a *Media tag* by entering text in the text box and selecting from the provided options. Include as many media tags as needed. Select from existing media tags or add new ones.
 
     !!! tip 
         Media tags can be used to tag and locate assets within the media library (for example, `oral history` or `newspaper`). They can also be used to trigger media content warnings when that tool is enabled.
@@ -73,4 +75,4 @@ tags:
 
     ![Screenshot of the people and media tag fields, with the appropriate information filled in.](../../_embeds/embed4.png)
 
-10. Select the "Save" button to save your media asset.
+11. Select the "Save" button to save your media asset.

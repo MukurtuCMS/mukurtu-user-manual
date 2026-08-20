@@ -76,13 +76,13 @@ Mukurtu 4 has the option to bulk add media assets. To add more than one media as
 ## Locally hosted media
 
 - Names are automatically generated from the filename of the media. 
-- *Cultural protocols* and *Sharing settings* are required. In most cases they should match the protocol and sharing setting of the content they will be used in.
+- *Cultural protocols* and *Sharing settings* are required. See [Manage Media Access with Cultural Protocols](ManageMediaAccessWithProtocols.md) for more information.
 
 ## Remotely hosted media 
 
 - Enter the URL to link to your media asset.  
 - Filenames automatically generate for remotely hosted media.
-- Make sure you select a *Sharing Setting* and *Cultural Protocol* to apply to your media. 
+- *Cultural protocols* and *Sharing settings* are required. See [Manage Media Access with Cultural Protocols](ManageMediaAccessWithProtocols.md) for more information.
 
 ## Embedded media
 
