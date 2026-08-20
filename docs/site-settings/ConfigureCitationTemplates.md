@@ -39,7 +39,7 @@ Mukurtu CMS allows you to configure the citation field templates for all content
 
     ![Screenshot of the citation field on a digital heritage item.](../_embeds/citation8.png)
 
-## Sample citation
+## Sample citations
 
 Included below are some example citation formats that you can use for your content. You can create your own citation format or modify these so that they are appropriate for the content on your site. The citation formats that we are basing these examples on are:
 
@@ -47,26 +47,45 @@ Included below are some example citation formats that you can use for your conte
 - Chicago: [The Chicago Manual of Style Online](https://www.chicagomanualofstyle.org/home.html)
 - MLA: [MLA General Formatting and Style Guide from Purdue OWL](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html)
 
-**Collection**
+### Collection
 
-- `[node:title]. [node:field_source]. [site:name], [current-page:url]. Accessed [current-date:html_date]`
+- `[node:title]. [node:field_source]. [site:name], [current-page:url]. Accessed [current-date:html_date].`
 
-**Dictionary words**
+### Dictionary words
 
 - `"[node:title]". [node:field_contributor]. In the [site:name] [node:field_dictionary_word_language] Dictionary. [site:name], [current-page:url]. Accessed [current-date:html_date].`
 
-**Digital Heritage items**
+### Digital Heritage items
 
 - `[node:field_creator]. [node:title]. [node:field_original_date]. [site:name], [current-page:url]. Accessed [current-date:html_date].`
 
-**Person records**
+### Person records
 
 - `[node:title]. [node:mukurtu_communities]. [site:name], [current-page:url]. Accessed [current-date:html_date].`
 
-**Place records**
+### Place records
 
 - `[node:title]. [node:mukurtu_communities]. [site:name], [current-page:url]. Accessed [current-date:html_date].`
 
-**Word lists**
+### Word lists
 
 - `[node:title]. [site:name], [current-page:url]. Accessed [current-date:html_date].`
+
+### Applicable tokens
+
+If you choose to create your own citation format, some of the tokens you might find helpful include:
+
+- Category: [node:field_category]
+- Communities: [node:mukurtu_communities]
+- Contributor: [node:field_contributor]
+- Creator: [node:field_creator]
+- Cultural Protocols: [node:mukurtu_protocols]
+- Current Date: [current-date:html_date]
+- Current Page URL: [current-page:url]
+- Dictionary Language: [node:field_dictionary_word_language]
+- Original Date: [node:field_original_date]
+- Publisher: [node:field_publisher]
+- Source: [node:field_source]
+- Title: [node:title]
+- Website Name: [site:name]
+- Website URL (landing page): [site:url]
