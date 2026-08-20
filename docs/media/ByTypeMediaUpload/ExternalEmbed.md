@@ -24,7 +24,7 @@ tags:
 
     ![Screenshot of the external embed field and name field with text filled in.](../../_embeds/embed1.png)
 
-4. Use the toggle(s) to apply cultural protocols to the media asset. Media created within a content form will automatically inherit content protocols.  
+4. Use the toggle(s) to apply cultural protocols to the media asset. By default, media assets created within a content form will sync and inherit protocols from that content. 
 
     - This is a required field.
     
@@ -40,7 +40,7 @@ tags:
     !!! tip
         All is the default setting.
 
-6. Optionally, you may select the **Sync protocols with content** setting. When enabled, this setting ensures the media asset's protocols will always match those of it's parent content to keep content and media access in sync. Media created within a content form will automatically inherit content protocols. Media created elsewhere require protocol selection, but will sync once added to content. You can disable the sync setting to set media protocols independent of parent content. 
+6. When enabled, the **Sync protocols with content** setting ensures the media asset's protocols will always match those of it's parent content to keep content and media access in sync. Media with synced protocols created within a content form will sync and inherit protocols from that content. Media created elsewhere require protocol selection, but will sync once added to content. You can disable the sync setting to set media protocols independent of parent content. 
 
     ![Screenshot of the cultural protocols and sharing settings fields](../../_embeds/mediaprotocols.png)        
 

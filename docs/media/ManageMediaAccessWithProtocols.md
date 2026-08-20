@@ -23,6 +23,6 @@ When the **Sync protocols with content** toggle is selected, the cultural protoc
 
 You can have different protocols between content and media if this is appropriate or preferred for your site. This allows you to further manage access to media assets for your site users while keeping the metadata more widely accessible. For example, a digital heritage item under an open protocol featuring a media asset under a strict protocol would make the metadata and item discoverable, but limit access to the media assets.
 
-![Screenshot of the menu view of a digital heritage item with an open protocol featuring a media asset with a strict cultural protocol.](../_embeds/mediaadminreview.png)
+![Screenshot of the menu view of a digital heritage item with an open protocol featuring a media asset with a strict cultural protocol.](../_embeds/adminreview.png)
 
 ![Screenshot of the page view of a digital heritage item with an open protocol featuring a media asset with a strict cultural protocol](../_embeds/MEDIAExampleProtocol3.png)
