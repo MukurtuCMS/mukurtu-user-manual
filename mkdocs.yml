@@ -156,18 +156,30 @@ nav:
     - media/YoutubePrivacySettings.md
     - media/SoundCloudPrivacySettings.md 
     - media/MediaContentWarnings.md
-  - Migration from Mukurtu 3 to Mukurtu 4: 
-    - migration/00MigrationOverview.md
-    - migration/01MigrationPlanning.md
-    - migration/02UpdateMukurtu3.md
-    - migration/03Pre-Migration.md
-    - migration/04InstallMukurtu4.md
-    - migration/05CopyMediaDirectory.md
-    - migration/06RunMigrationTool.md
-    - migration/07VerifyMigration.md
-    - migration/08CompleteConfiguration.md
-    - migration/09ConfirmSiteOperation.md
-    - migration/10DecommissionMukurtu3.md
+  - Migration from Mukurtu 3:
+    - migration/MigrationOverview.md
+    - Self-Hosted:
+      - migration/SH02UpdateMukurtu3.md
+      - migration/SH03Pre-Migration.md
+      - migration/SH01MigrationPlanning.md
+      - migration/SH04InstallMukurtu4.md
+      - migration/SH05CopyMediaDirectory.md
+      - migration/SH06RunMigrationTool.md
+      - migration/SH07VerifyMigration.md
+      - migration/SH08CompleteConfiguration.md
+      - migration/SH09ConfirmSiteOperation.md
+      - migration/SH10DecommissionMukurtu3.md
+    - Reclaim Hosting:
+      - migration/Reclaim01MigrationPlanning.md
+      - migration/Reclaim02UpdateMukurtu3.md
+      - migration/Reclaim03Pre-Migration.md
+      - migration/Reclaim04InstallMukurtu4.md
+      - migration/Reclaim05CopyMediaDirectory.md
+      - migration/Reclaim06RunMigrationTool.md
+      - migration/Reclaim07VerifyMigration.md
+      - migration/Reclaim08CompleteConfiguration.md
+      - migration/Reclaim09ConfirmSiteOperation.md
+      - migration/Reclaim10DecommissionMukurtu3.md
   - Multilingual:
     - multilingual/UnderstandingMultilingual.md 
     - multilingual/TranslationWorkflow.md

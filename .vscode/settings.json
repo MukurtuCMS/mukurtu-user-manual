@@ -1,5 +1,16 @@
 {
     "cSpell.words": [
         "Mukurtu"
-    ]
+    ],
+    "yaml.disableSchemaDetection": [
+        "**/.github/workflows/*.yml",
+        "**/.github/workflows/*.yaml",
+        "**/.gitea/workflows/*.yml",
+        "**/.gitea/workflows/*.yaml",
+        "**/.forgejo/workflows/*.yml",
+        "**/.forgejo/workflows/*.yaml"
+    ],
+    "yaml.schemas": {
+        "https://squidfunk.github.io/mkdocs-material/schema.json": "file:///Users/michael.wynne/GitHub/mukurtu-user-manual/mkdocs.yml"
+    }
 }
