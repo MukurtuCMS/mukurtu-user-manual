@@ -20,7 +20,6 @@ You can create a collection from the **Create Content** dropdown menu or from yo
     
 Select **Collection** to begin creating your collection. The remaining steps to create a collection are the same.
 
-You can also create a collection from the "Add to Collection" button in content, though the steps will look slightly different. Refer to the [Create a Collection from Content](#create-a-collection-from-content)section of this article for instructions.
 
 ## Mukurtu essentials
 
