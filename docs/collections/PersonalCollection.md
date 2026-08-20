@@ -35,7 +35,7 @@ tags:
     ![Screenshot of the personal collections creation page with the Privacy settings fields highlighted.](../_embeds/personal4.png)
 
 5. Enter a *Summary* and a *Description* for your personal collection. 
-6. You may choose to add a thumbnail to your personal collection. Select "Add media" to upload an image or select one from the media library. For instructions on how to add a thumbnail image, refer to the [Upload Media Assets: Image](../../media/ByTypeMediaUpload/Image) article. 
+6. You may choose to add a thumbnail to your personal collection. Select "Add media" to upload an image or select one from the media library. For instructions on how to add a thumbnail image, refer to the [Upload Media Assets: Image](../media/ByTypeMediaUpload/Image.md) article. 
 
     !!! tip
         You may choose to add a summary, description, and thumbnail to your personal collection. These are helpful for keeping multiple private personal collections organized. If your personal collections are public these fields can help other users browse your personal collection.
