@@ -196,7 +196,7 @@ Finally a confirmation message will be displayed. You can then return to the pre
 - In Mukurtu 4 the markdown and display suite code formats are no longer supported by default. Plain text, basic HTML, and Full HTML are still supported.
 - Markdown and display suite code were most commonly used to implement custom styling in the description field of basic pages and community pages, and in additional fields of some content types (eg: description, cultural narrative, traditional knowledge, additional media).
 - If you have used either format to achieve specific styling, it may be replicable with one of the HTML settings in Mukurtu 4. We recommend taking screenshots of the pages and copying the code you wrote so that it can be reviewed and re-implemented after migration.
-- This setting will need to manually changed on all fields that use markdown or display suite code. The system cannot infer the correct setting to use, so there are no bulk tools available for this operation.
+- This setting will need to be manually changed on all fields that use markdown or display suite code. The system cannot infer the correct setting to use, so there are no bulk tools available for this operation.
 
 From the Text formats Markdown and Display Suite code report page, select on the title of the page or content to be reviewed. Opening links in a new tab is helpful so you don't have to navigate back to this page as often.
 
