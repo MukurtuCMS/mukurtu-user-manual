@@ -31,9 +31,8 @@ You will need the complete directory of the Mukurtu 3 site so that the media ass
 ## Export/dump the Mukurtu 3 database
 
 You need to dump or export the SQL database from your Mukurtu 3 site so that the contents can be migrated into Mukurtu 4.
-From a terminal
 
-This is usually done with a command like export-db -f my_v3_db.sql from the project root in a terminal.
+This is usually done with a command `like export-db -f my_v3_db.sql` from the project root in a terminal.
 
 ## Preparing migration credentials
 
