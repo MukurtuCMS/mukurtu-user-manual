@@ -78,6 +78,7 @@ nav:
     - communities-cultural-protocols-categories/UnderstandingCommunitiesAndCulturalProtocols.md
     - Communities:
       - communities-cultural-protocols-categories/CreateACommunityAndInitialCulturalProtocol.md
+      - communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md
       - communities-cultural-protocols-categories/EditCommunitySettings.md
       - communities-cultural-protocols-categories/ManageCommunityOrganization.md
     - Cultural Protocols:
@@ -85,12 +86,11 @@ nav:
       - communities-cultural-protocols-categories/UnderstandingSharingSettings.md
       - communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md
       - communities-cultural-protocols-categories/SharedProtocols.md
-    - communities-cultural-protocols-categories/EditCulturalProtocolSettings.md
+      - communities-cultural-protocols-categories/EditCulturalProtocolSettings.md
     - Categories:
       - communities-cultural-protocols-categories/UnderstandingCategories.md
       - communities-cultural-protocols-categories/CreateCategories.md 
       - communities-cultural-protocols-categories/CategoryTaxonomy.md
-      - communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md
   - Content Types:
     - Digital Heritage Items:
       - digital-heritage-items/UnderstandingDigitalHeritage.md
