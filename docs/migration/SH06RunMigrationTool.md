@@ -3,7 +3,7 @@ tags:
     - migration
 ---
 
-# 6) Running the Mukurtu 3 to Mukurtu 4 Migration
+# 6. Running the Mukurtu 3 to Mukurtu 4 Migration
 
 !!! warning
     New screenshots needed here

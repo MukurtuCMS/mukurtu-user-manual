@@ -3,7 +3,7 @@ tags:
     - migration
 ---
 
-# 3) Prepare Mukurtu 3 database and credentials
+# 3. Prepare Mukurtu 3 database and credentials
 
 ## Documenting customization
 

@@ -3,7 +3,7 @@ tags:
     - migration
 ---
 
-# 5) Stage and import Mukurtu 3 files and database
+# 5. Stage and import Mukurtu 3 files and database
 
 ## Configure database settings
 
