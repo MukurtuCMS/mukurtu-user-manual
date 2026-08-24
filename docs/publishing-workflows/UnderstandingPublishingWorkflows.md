@@ -6,7 +6,7 @@ tags:
 
 # Understanding Publishing Workflows
 
-!!! Roles "User roles" 
+!!! roles "User roles" 
     Mukurtu manager, Protocol steward, Language steward, Contributor, Curator, Language contributor
 
 ## Default content workflow
