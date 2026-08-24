@@ -3,7 +3,7 @@ tags:
     - dictionary
 ---
 
-# Create a Word List
+# Word Lists
 
 !!! roles "User roles"
     Protocol steward, language steward, language contributor

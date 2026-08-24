@@ -95,16 +95,12 @@ nav:
       - digital-heritage-items/UnderstandingDigitalHeritage.md
       - digital-heritage-items/DHMetadataFields.md
       - digital-heritage-items/CreateDHItem.md
-      - digital-heritage-items/UnderstandCommunityRecords.md
-      - digital-heritage-items/CreateCommunityRecord.md
-      - digital-heritage-items/MultipageItems.md 
     - Dictionary Words:
       - dictionary/UnderstandingTheDictionary.md
       - dictionary/ConfigureTheDictionary.md
       - dictionary/DictionaryRoles.md
       - dictionary/DictionaryWordMetadata.md
       - dictionary/CreateDictionaryWord.md
-      - dictionary/WordLists.md
     - Person Records:
       - person-records/UnderstandingPersonRecords.md
       - person-records/PersonRecords.md
@@ -119,8 +115,15 @@ nav:
       - collections/AddandArrangeCollections.md
       - collections/SubcollectionOrganization.md
       - collections/PersonalCollection.md
+    - dictionary/WordLists.md
+    - Community Records:
+      - digital-heritage-items/UnderstandCommunityRecords.md
+      - digital-heritage-items/CreateCommunityRecord.md
+    - Multipage Items:
+        - digital-heritage-items/MultipageItems.md 
+        - content-settings/MultipageItemConfiguration.md
   - Content Settings:
-    - content-settings/MultipageItemConfiguration.md
+    - TBD
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
@@ -155,14 +158,6 @@ nav:
     - users/log-in.md
     - users/UnderstandingDashboard.md
     - users/reset-password.md
-  - Infrastructure and Maintenance:
-    - infrastructure/WhyDrupal.md
-    - infrastructure/SystemRequirements.md
-    - infrastructure/PHPConfiguration.md
-    - infrastructure/InstallModule.md
-    - site-maintenance/CheckErrorLogs.md
-    - site-maintenance/ClearDrupalCaches.md
-    - site-maintenance/CronConfiguration.md
   - Site Settings:
     - site-settings/ConfigureBasicSettings.md
     - site-settings/ConfigureCitationTemplates.md
@@ -226,6 +221,14 @@ nav:
     - migration/08CompleteConfiguration.md
     - migration/09ConfirmSiteOperation.md
     - migration/10DecommissionMukurtu3.md
+  - Infrastructure and Maintenance:
+    - infrastructure/WhyDrupal.md
+    - infrastructure/SystemRequirements.md
+    - infrastructure/PHPConfiguration.md
+    - infrastructure/InstallModule.md
+    - site-maintenance/CheckErrorLogs.md
+    - site-maintenance/ClearDrupalCaches.md
+    - site-maintenance/CronConfiguration.md
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Tags: tags.md
