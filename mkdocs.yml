@@ -69,10 +69,9 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       
 nav:
-  - Style Guide: styleguide.md
-  - Preview Videos: previewvideos.md
   - About Mukurtu: 
     - about-mukurtu/WhatDoesMukurtuMean.md
+  - Getting Started:
     - about-mukurtu/GettingStartedWithMukurtuCMS.md 
   - Communities, Cultural Protocols, Categories:
     - communities-cultural-protocols-categories/UnderstandingCommunitiesAndCulturalProtocols.md
@@ -122,32 +121,6 @@ nav:
       - collections/PersonalCollection.md
   - Content Settings:
     - content-settings/MultipageItemConfiguration.md
-  - FAQs:
-    - faqs/DatabasePrivacy.md
-  - Infrastructure:
-    - infrastructure/WhyDrupal.md
-    - infrastructure/SystemRequirements.md
-    - infrastructure/PHPConfiguration.md
-    - infrastructure/InstallModule.md
-  - Local Contexts:
-    - local-contexts/LevelsOfLocalContextsProjects.md
-    - local-contexts/ManageLocalContextsProjects.md
-    - local-contexts/UnderstandingTheLocalContextsHub.md
-    - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
-    - local-contexts/ViewAndManageDirectoryPages.md
-    - local-contexts/UnderstandingLegacyTKLabels.md
-  - Location and Mapping:
-    - location-data/UnderstandingLocationFields.md
-    - location-data/CreateMapPoints.md
-  - Look and Feel:
-    - look-and-feel/ConfigureLogo.md
-    - look-and-feel/ConfigureSiteNavigation.md
-    - look-and-feel/ConfigureLandingPage.md
-    - look-and-feel/ConfigureConsentPopup.md
-    - look-and-feel/CreateBasicPage.md
-    - look-and-feel/ConfigureColors.md
-    - look-and-feel/ConfigureFont.md 
-    - look-and-feel/ConfigureSubtheme.md
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
@@ -168,18 +141,42 @@ nav:
     - media/YoutubePrivacySettings.md
     - media/SoundCloudPrivacySettings.md 
     - media/MediaContentWarnings.md
-  - Migration from Mukurtu 3 to Mukurtu 4: 
-    - migration/00MigrationOverview.md
-    - migration/01MigrationPlanning.md
-    - migration/02UpdateMukurtu3.md
-    - migration/03Pre-Migration.md
-    - migration/04InstallMukurtu4.md
-    - migration/05CopyMediaDirectory.md
-    - migration/06RunMigrationTool.md
-    - migration/07VerifyMigration.md
-    - migration/08CompleteConfiguration.md
-    - migration/09ConfirmSiteOperation.md
-    - migration/10DecommissionMukurtu3.md
+  - Taxonomies:
+    - taxonomies/UnderstandingTaxonomies.md
+    - taxonomies/ManagingTaxonomies.md
+  - Users:
+    - users/user-role-types.md 
+    - users/creating-account-site-wide.md 
+    - users/create-user-accounts-community-manager.md
+    - users/manage-user-account-registration.md
+    - users/request-an-account.md
+    - users/review-user-account-requests.md
+    - users/manage-user-accounts-site-wide.md
+    - users/log-in.md
+    - users/UnderstandingDashboard.md
+    - users/reset-password.md
+  - Infrastructure and Maintenance:
+    - infrastructure/WhyDrupal.md
+    - infrastructure/SystemRequirements.md
+    - infrastructure/PHPConfiguration.md
+    - infrastructure/InstallModule.md
+    - site-maintenance/CheckErrorLogs.md
+    - site-maintenance/ClearDrupalCaches.md
+    - site-maintenance/CronConfiguration.md
+  - Site Settings:
+    - site-settings/ConfigureBasicSettings.md
+    - site-settings/ConfigureCitationTemplates.md
+    - site-settings/UnderstandingTextFormats.md
+    - site-settings/ConfigureGoogleAnalytics.md
+  - Look and Feel:
+    - look-and-feel/ConfigureLogo.md
+    - look-and-feel/ConfigureSiteNavigation.md
+    - look-and-feel/ConfigureLandingPage.md
+    - look-and-feel/ConfigureConsentPopup.md
+    - look-and-feel/CreateBasicPage.md
+    - look-and-feel/ConfigureColors.md
+    - look-and-feel/ConfigureFont.md 
+    - look-and-feel/ConfigureSubtheme.md
   - Multilingual:
     - multilingual/UnderstandingMultilingual.md 
     - multilingual/TranslationWorkflow.md
@@ -191,6 +188,16 @@ nav:
     - multilingual/TranslateContent.md    
     - multilingual/ConfigureSiteLanguage.md 
     - multilingual/UserLanguage.md
+  - Local Contexts:
+    - local-contexts/LevelsOfLocalContextsProjects.md
+    - local-contexts/ManageLocalContextsProjects.md
+    - local-contexts/UnderstandingTheLocalContextsHub.md
+    - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
+    - local-contexts/ViewAndManageDirectoryPages.md
+    - local-contexts/UnderstandingLegacyTKLabels.md
+  - Location and Mapping:
+    - location-data/UnderstandingLocationFields.md
+    - location-data/CreateMapPoints.md
   - Roundtrip:
     - roundtrip/RoundtripOverview.md
     - roundtrip/RoundtripFormatting.md
@@ -207,28 +214,19 @@ nav:
     - roundtrip/WordLists.md
     - roundtrip/ExportingContent.md
     - roundtrip/ExportSettings.md
-  - Users:
-    - users/user-role-types.md 
-    - users/creating-account-site-wide.md 
-    - users/create-user-accounts-community-manager.md
-    - users/manage-user-account-registration.md
-    - users/request-an-account.md
-    - users/review-user-account-requests.md
-    - users/manage-user-accounts-site-wide.md
-    - users/log-in.md
-    - users/UnderstandingDashboard.md
-    - users/reset-password.md
-  - Site Maintenance:
-    - site-maintenance/CheckErrorLogs.md
-    - site-maintenance/ClearDrupalCaches.md
-    - site-maintenance/CronConfiguration.md
-  - Site Settings:
-    - site-settings/ConfigureBasicSettings.md
-    - site-settings/ConfigureCitationTemplates.md
-    - site-settings/UnderstandingTextFormats.md
-    - site-settings/ConfigureGoogleAnalytics.md
-  - Taxonomies:
-    - taxonomies/UnderstandingTaxonomies.md
-    - taxonomies/ManagingTaxonomies.md
+  - Mukurtu 3 Migration:
+    - migration/00MigrationOverview.md
+    - migration/01MigrationPlanning.md
+    - migration/02UpdateMukurtu3.md
+    - migration/03Pre-Migration.md
+    - migration/04InstallMukurtu4.md
+    - migration/05CopyMediaDirectory.md
+    - migration/06RunMigrationTool.md
+    - migration/07VerifyMigration.md
+    - migration/08CompleteConfiguration.md
+    - migration/09ConfirmSiteOperation.md
+    - migration/10DecommissionMukurtu3.md
+  - FAQs:
+    - faqs/DatabasePrivacy.md
   - Tags: tags.md
-  - Download the User Manual: DownloadManual.md
+  # - Download the User Manual: DownloadManual.md
