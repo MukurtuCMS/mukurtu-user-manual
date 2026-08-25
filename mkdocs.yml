@@ -69,73 +69,61 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       
 nav:
-  - Style Guide: styleguide.md
-  - Preview Videos: previewvideos.md
   - About Mukurtu: 
     - about-mukurtu/WhatDoesMukurtuMean.md
+  - Getting Started:
     - about-mukurtu/GettingStartedWithMukurtuCMS.md 
   - Communities, Cultural Protocols, Categories:
     - communities-cultural-protocols-categories/UnderstandingCommunitiesAndCulturalProtocols.md
-    - communities-cultural-protocols-categories/CreateACommunityAndInitialCulturalProtocol.md
-    - communities-cultural-protocols-categories/CreateACulturalProtocol.md 
-    - communities-cultural-protocols-categories/UnderstandingSharingSettings.md
-    - communities-cultural-protocols-categories/UnderstandingCategories.md
-    - communities-cultural-protocols-categories/CreateCategories.md 
-    - communities-cultural-protocols-categories/CategoryTaxonomy.md
-    - communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md
-    - communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md
-    - communities-cultural-protocols-categories/SharedProtocols.md
-    - communities-cultural-protocols-categories/EditCommunitySettings.md
-    - communities-cultural-protocols-categories/EditCulturalProtocolSettings.md
-    - communities-cultural-protocols-categories/ManageCommunityOrganization.md
-  - Collections:
-    - collections/UnderstandingCollections.md
-    - collections/CreateCollection.md 
-    - collections/AddandArrangeCollections.md
-    - collections/SubcollectionOrganization.md
-    - collections/PersonalCollection.md
-  - Content Settings:
-    - content-settings/MultipageItemConfiguration.md
-  - Digital Heritage Items:
-    - digital-heritage-items/UnderstandingDigitalHeritage.md
-    - digital-heritage-items/DHMetadataFields.md
-    - digital-heritage-items/CreateDHItem.md
-    - digital-heritage-items/UnderstandCommunityRecords.md
-    - digital-heritage-items/CreateCommunityRecord.md
-    - digital-heritage-items/MultipageItems.md
-  - Dictionary:
-    - dictionary/UnderstandingTheDictionary.md
-    - dictionary/ConfigureTheDictionary.md
-    - dictionary/DictionaryRoles.md
-    - dictionary/DictionaryWordMetadata.md
-    - dictionary/CreateDictionaryWord.md
+    - Communities:
+      - communities-cultural-protocols-categories/CreateACommunityAndInitialCulturalProtocol.md
+      - communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md
+      - communities-cultural-protocols-categories/EditCommunitySettings.md
+      - communities-cultural-protocols-categories/ManageCommunityOrganization.md
+    - Cultural Protocols:
+      - communities-cultural-protocols-categories/CreateACulturalProtocol.md 
+      - communities-cultural-protocols-categories/UnderstandingSharingSettings.md
+      - communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md
+      - communities-cultural-protocols-categories/SharedProtocols.md
+      - communities-cultural-protocols-categories/EditCulturalProtocolSettings.md
+    - Categories:
+      - communities-cultural-protocols-categories/UnderstandingCategories.md
+      - communities-cultural-protocols-categories/CreateCategories.md 
+      - communities-cultural-protocols-categories/CategoryTaxonomy.md
+  - Content Types:
+    - Digital Heritage Items:
+      - digital-heritage-items/UnderstandingDigitalHeritage.md
+      - digital-heritage-items/DHMetadataFields.md
+      - digital-heritage-items/CreateDHItem.md
+    - Dictionary Words:
+      - dictionary/UnderstandingTheDictionary.md
+      - dictionary/ConfigureTheDictionary.md
+      - dictionary/DictionaryRoles.md
+      - dictionary/DictionaryWordMetadata.md
+      - dictionary/CreateDictionaryWord.md
+    - Person Records:
+      - person-records/UnderstandingPersonRecords.md
+      - person-records/PersonRecords.md
+      - person-records/ConfigurePersonRecord.md
+    - Place Records:
+      - place-records/UnderstandingPlaceRecords.md
+      - place-records/CreatePlaceRecord.md
+      - place-records/ConfigurePlaceRecord.md
+    - Collections:
+      - collections/UnderstandingCollections.md
+      - collections/CreateCollection.md 
+      - collections/AddandArrangeCollections.md
+      - collections/SubcollectionOrganization.md
+      - collections/PersonalCollection.md
     - dictionary/WordLists.md
-  - FAQs:
-    - faqs/DatabasePrivacy.md
-  - Infrastructure:
-    - infrastructure/WhyDrupal.md
-    - infrastructure/SystemRequirements.md
-    - infrastructure/PHPConfiguration.md
-    - infrastructure/InstallModule.md
-  - Local Contexts:
-    - local-contexts/LevelsOfLocalContextsProjects.md
-    - local-contexts/ManageLocalContextsProjects.md
-    - local-contexts/UnderstandingTheLocalContextsHub.md
-    - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
-    - local-contexts/ViewAndManageDirectoryPages.md
-    - local-contexts/UnderstandingLegacyTKLabels.md
-  - Location and Mapping:
-    - location-data/UnderstandingLocationFields.md
-    - location-data/CreateMapPoints.md
-  - Look and Feel:
-    - look-and-feel/ConfigureLogo.md
-    - look-and-feel/ConfigureSiteNavigation.md
-    - look-and-feel/ConfigureLandingPage.md
-    - look-and-feel/ConfigureConsentPopup.md
-    - look-and-feel/CreateBasicPage.md
-    - look-and-feel/ConfigureColors.md
-    - look-and-feel/ConfigureFont.md 
-    - look-and-feel/ConfigureSubtheme.md
+    - Community Records:
+      - digital-heritage-items/UnderstandCommunityRecords.md
+      - digital-heritage-items/CreateCommunityRecord.md
+    - Multipage Items:
+        - digital-heritage-items/MultipageItems.md 
+        - content-settings/MultipageItemConfiguration.md
+  - Content Settings:
+    - TBD
   - Media:
     - media/UnderstandingMediaAssets.md 
     - media/CreateMediaAssets.md 
@@ -156,53 +144,9 @@ nav:
     - media/YoutubePrivacySettings.md
     - media/SoundCloudPrivacySettings.md 
     - media/MediaContentWarnings.md
-  - Migration from Mukurtu 3 to Mukurtu 4: 
-    - migration/00MigrationOverview.md
-    - migration/01MigrationPlanning.md
-    - migration/02UpdateMukurtu3.md
-    - migration/03Pre-Migration.md
-    - migration/04InstallMukurtu4.md
-    - migration/05CopyMediaDirectory.md
-    - migration/06RunMigrationTool.md
-    - migration/07VerifyMigration.md
-    - migration/08CompleteConfiguration.md
-    - migration/09ConfirmSiteOperation.md
-    - migration/10DecommissionMukurtu3.md
-  - Multilingual:
-    - multilingual/UnderstandingMultilingual.md 
-    - multilingual/TranslationWorkflow.md
-    - multilingual/EnableMultilingualModule.md
-    - multilingual/UITranslation.md
-    - multilingual/ConfigurationTranslation.md
-    - multilingual/TranslateTaxonomies.md
-    - multilingual/TranslateLocalContexts.md
-    - multilingual/TranslateContent.md    
-    - multilingual/ConfigureSiteLanguage.md 
-    - multilingual/UserLanguage.md
-  - Person Records:
-    - person-records/UnderstandingPersonRecords.md
-    - person-records/PersonRecords.md
-    - person-records/ConfigurePersonRecord.md
-  - Place Records:
-    - place-records/UnderstandingPlaceRecords.md
-    - place-records/CreatePlaceRecord.md
-    - place-records/ConfigurePlaceRecord.md
-  - Roundtrip:
-    - roundtrip/RoundtripOverview.md
-    - roundtrip/RoundtripFormatting.md
-    - roundtrip/GeneralImportInformation.md
-    - roundtrip/MediaFormatsFields.md
-    - roundtrip/MediaTextFields.md
-    - roundtrip/ImportFormatInformation.md
-    - roundtrip/ImportingContent.md
-    - roundtrip/DHItems.md
-    - roundtrip/PersonRecords.md
-    - roundtrip/PlaceRecords.md
-    - roundtrip/Dictionary.md
-    - roundtrip/Collections.md
-    - roundtrip/WordLists.md
-    - roundtrip/ExportingContent.md
-    - roundtrip/ExportSettings.md
+  - Taxonomies:
+    - taxonomies/UnderstandingTaxonomies.md
+    - taxonomies/ManagingTaxonomies.md
   - Users:
     - users/user-role-types.md 
     - users/creating-account-site-wide.md 
@@ -214,17 +158,80 @@ nav:
     - users/log-in.md
     - users/UnderstandingDashboard.md
     - users/reset-password.md
-  - Site Maintenance:
-    - site-maintenance/CheckErrorLogs.md
-    - site-maintenance/ClearDrupalCaches.md
-    - site-maintenance/CronConfiguration.md
   - Site Settings:
     - site-settings/ConfigureBasicSettings.md
     - site-settings/ConfigureCitationTemplates.md
     - site-settings/UnderstandingTextFormats.md
     - site-settings/ConfigureGoogleAnalytics.md
-  - Taxonomies:
-    - taxonomies/UnderstandingTaxonomies.md
-    - taxonomies/ManagingTaxonomies.md
+  - Look and Feel:
+    - look-and-feel/ConfigureLogo.md
+    - look-and-feel/ConfigureSiteNavigation.md
+    - look-and-feel/ConfigureLandingPage.md
+    - look-and-feel/ConfigureConsentPopup.md
+    - look-and-feel/CreateBasicPage.md
+    - look-and-feel/ConfigureColors.md
+    - look-and-feel/ConfigureFont.md 
+    - look-and-feel/ConfigureSubtheme.md
+  - Multilingual:
+    - multilingual/UnderstandingMultilingual.md 
+    - multilingual/TranslationWorkflow.md
+    - multilingual/EnableMultilingualModule.md
+    - multilingual/UITranslation.md
+    - multilingual/ConfigurationTranslation.md
+    - multilingual/TranslateTaxonomies.md
+    - multilingual/TranslateLocalContexts.md
+    - multilingual/TranslateContent.md    
+    - multilingual/ConfigureSiteLanguage.md 
+    - multilingual/UserLanguage.md
+  - Local Contexts:
+    - local-contexts/LevelsOfLocalContextsProjects.md
+    - local-contexts/ManageLocalContextsProjects.md
+    - local-contexts/UnderstandingTheLocalContextsHub.md
+    - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
+    - local-contexts/ViewAndManageDirectoryPages.md
+    - local-contexts/UnderstandingLegacyTKLabels.md
+  - Location and Mapping:
+    - location-data/UnderstandingLocationFields.md
+    - location-data/CreateMapPoints.md
+  - Roundtrip:
+    - roundtrip/RoundtripOverview.md
+    - roundtrip/RoundtripFormatting.md
+    - roundtrip/GeneralImportInformation.md
+    - roundtrip/MediaFormatsFields.md
+    - roundtrip/MediaTextFields.md
+    - Import:
+      - roundtrip/ImportFormatInformation.md
+      - roundtrip/ImportingContent.md
+      - roundtrip/DHItems.md
+      - roundtrip/PersonRecords.md
+      - roundtrip/PlaceRecords.md
+      - roundtrip/Dictionary.md
+      - roundtrip/Collections.md
+      - roundtrip/WordLists.md
+    - Export:
+      - roundtrip/ExportingContent.md
+      - roundtrip/ExportSettings.md
+  - Mukurtu 3 Migration:
+    - migration/00MigrationOverview.md
+    - migration/01MigrationPlanning.md
+    - migration/02UpdateMukurtu3.md
+    - migration/03Pre-Migration.md
+    - migration/04InstallMukurtu4.md
+    - migration/05CopyMediaDirectory.md
+    - migration/06RunMigrationTool.md
+    - migration/07VerifyMigration.md
+    - migration/08CompleteConfiguration.md
+    - migration/09ConfirmSiteOperation.md
+    - migration/10DecommissionMukurtu3.md
+  - Infrastructure and Maintenance:
+    - infrastructure/WhyDrupal.md
+    - infrastructure/SystemRequirements.md
+    - infrastructure/PHPConfiguration.md
+    - infrastructure/InstallModule.md
+    - site-maintenance/CheckErrorLogs.md
+    - site-maintenance/ClearDrupalCaches.md
+    - site-maintenance/CronConfiguration.md
+  - FAQs:
+    - faqs/DatabasePrivacy.md
   - Tags: tags.md
-  - Download the User Manual: DownloadManual.md
+  # - Download the User Manual: DownloadManual.md
