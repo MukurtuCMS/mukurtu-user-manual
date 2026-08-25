@@ -196,18 +196,18 @@ nav:
   - Roundtrip:
     - roundtrip/RoundtripOverview.md
     - roundtrip/RoundtripFormatting.md
-    - roundtrip/GeneralImportInformation.md
-    - roundtrip/MediaFormatsFields.md
-    - roundtrip/MediaTextFields.md
     - Import:
       - roundtrip/ImportFormatInformation.md
       - roundtrip/ImportingContent.md
+      - roundtrip/GeneralImportInformation.md
       - roundtrip/DHItems.md
       - roundtrip/PersonRecords.md
       - roundtrip/PlaceRecords.md
       - roundtrip/Dictionary.md
       - roundtrip/Collections.md
       - roundtrip/WordLists.md
+      - roundtrip/MediaFormatsFields.md
+      - roundtrip/MediaTextFields.md
     - Export:
       - roundtrip/ExportingContent.md
       - roundtrip/ExportSettings.md
