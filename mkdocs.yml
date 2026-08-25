@@ -199,16 +199,18 @@ nav:
     - roundtrip/GeneralImportInformation.md
     - roundtrip/MediaFormatsFields.md
     - roundtrip/MediaTextFields.md
-    - roundtrip/ImportFormatInformation.md
-    - roundtrip/ImportingContent.md
-    - roundtrip/DHItems.md
-    - roundtrip/PersonRecords.md
-    - roundtrip/PlaceRecords.md
-    - roundtrip/Dictionary.md
-    - roundtrip/Collections.md
-    - roundtrip/WordLists.md
-    - roundtrip/ExportingContent.md
-    - roundtrip/ExportSettings.md
+    - Import:
+      - roundtrip/ImportFormatInformation.md
+      - roundtrip/ImportingContent.md
+      - roundtrip/DHItems.md
+      - roundtrip/PersonRecords.md
+      - roundtrip/PlaceRecords.md
+      - roundtrip/Dictionary.md
+      - roundtrip/Collections.md
+      - roundtrip/WordLists.md
+    - Export:
+      - roundtrip/ExportingContent.md
+      - roundtrip/ExportSettings.md
   - Mukurtu 3 Migration:
     - migration/00MigrationOverview.md
     - migration/01MigrationPlanning.md
