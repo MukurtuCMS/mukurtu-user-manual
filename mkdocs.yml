@@ -219,6 +219,8 @@ nav:
       - publishing-workflows/UsingEditorialWorkflow.md
     - Submission Forms:
       - submission-forms/UnderstandingSubmissionForms.md
+      - submission-forms/UsingSubmissionForms.md
+      - submission-forms/ReviewingSubmittedContent.md
   - Mukurtu 3 Migration:
     - migration/00MigrationOverview.md
     - migration/01MigrationPlanning.md
