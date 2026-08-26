@@ -211,11 +211,14 @@ nav:
     - Export:
       - roundtrip/ExportingContent.md
       - roundtrip/ExportSettings.md
-  - Publishing Workflows:
-    - publishing-workflows/UnderstandingPublishingWorkflows.md
-    - publishing-workflows/ConfiguringPublishingWorkflows.md
-    - publishing-workflows/UsingDefaultWorkflow.md
-    - publishing-workflows/UsingEditorialWorkflow.md
+  - Publication Tools:
+    - Publishing Workflows:
+      - publishing-workflows/UnderstandingPublishingWorkflows.md
+      - publishing-workflows/ConfiguringPublishingWorkflows.md
+      - publishing-workflows/UsingDefaultWorkflow.md
+      - publishing-workflows/UsingEditorialWorkflow.md
+    - Submission Forms:
+      - submission-forms/UnderstandingSubmissionForms.md
   - Mukurtu 3 Migration:
     - migration/00MigrationOverview.md
     - migration/01MigrationPlanning.md
