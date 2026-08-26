@@ -121,4 +121,4 @@ The process is largely the same as importing content and related paragraphs at t
 
 ## Converting Mapping Formats to GeoJSON for Map Points
 
-If your Map Points metadata comes from ESRI Shapefiles (.shp), OpenStreetMaps (.osm), Google Maps, or other mapping software, you will need to convert it to GeoJSON format before you can import it. There are several tools to do this, including web-based programs like [QuickMapTools](https://www.quickmaptools.com/convert) or command line programs like [ogr2ogr](https://ogre.adc4gis.com/) (which also has a web client). 
+If your Map Points metadata is in another format, such as ESRI Shapefiles (.shp), OpenStreetMaps (.osm), or basic latitude/longitude (usually generated from Google Maps or other mapping software), you will need to convert it to GeoJSON format before you can import it. There are several tools to do this, including web-based programs like [QuickMapTools](https://www.quickmaptools.com/convert) or command line programs like [ogr2ogr](https://ogre.adc4gis.com/) (which also has a web client). 
