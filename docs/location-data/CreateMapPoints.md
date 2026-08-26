@@ -15,11 +15,11 @@ Mukurtu allows users to create and manage map points and areas using the embedde
 
 If you have location settings enabled in your browser, your map will automatically center on your location. You can also use the locate icon in the top right to center the map on your location.
 
-![Screenshot of the map points field with the locate icon highlighted.](../_embeds/mapping41.png)
+![Screenshot of the map points field with the locate icon highlighted.](../_embeds/Mapping41.png)
 
 If you do not have location settings enabled in your browser, the map will automatically center on a zoomed out world map. Zoom in or out by selecting the "+" or "-" icons, or select and drag the map to center a different location.
 
-![Screenshot of the map points field with the zoom icons highlighted.](../_embeds/mapping42.png)
+![Screenshot of the map points field with the zoom icons highlighted.](../_embeds/Mapping42.png)
 
 Use the *Address search* field to search for a specific address by entering the address into the text field, then select from the options in the dropdown menu. This will not add a point to your map, but will center your map on the address. You can then add points or objects to your map.
 
