@@ -118,3 +118,7 @@ The process is largely the same as importing content and related paragraphs at t
 - If the content already has a paragraph referenced and more paragraphs are being added, then the ID/UUID/Import ID for ALL paragraphs must be included.
 
 ![Screenshot of dictionary word and word entry spreadsheets with the import ID fields indicated.](../_embeds/paragraph-import-04.png)
+
+## Converting Mapping Formats to GeoJSON for Map Points
+
+If your Map Points metadata comes from ESRI Shapefiles (.shp), OpenStreetMaps (.osm), Google Maps, or other mapping software, you will need to convert it to GeoJSON format before you can import it. There are several tools to do this, including web-based programs like [QuickMapTools](https://www.quickmaptools.com/convert) or command line programs like [ogr2ogr](https://ogre.adc4gis.com/) (which also has a web client). 
