@@ -3,7 +3,7 @@ tags:
     - migration
 ---
 
-# 10. Decommission Mukurtu 3 Site
+# Decommission Mukurtu 3 Site
 
 When you are satisfied with with configuration and performance of the new Mukurtu 4 site, you can decommission the Mukurtu 3 site. The exact steps for this will depend on your hosting environment, but in general you will want to:
 
