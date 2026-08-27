@@ -16,7 +16,7 @@ To learn more about Local Contexts, and the Local Contexts Hub see [Understandin
 !!! Requirement
     The following steps can only be applied after you've created a Local Contexts profile and account, configured your labels within projects, and generated a unique API key. To learn more about this process, and configure your labels, visit [Getting Started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/).
 
-## Get API key
+## Get API key from Local Contexts Hub
 
 API keys can be generated from the settings page in your Local Contexts account. 
 
