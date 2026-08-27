@@ -185,12 +185,12 @@ nav:
     - multilingual/ConfigureSiteLanguage.md 
     - multilingual/UserLanguage.md
   - Local Contexts:
+    - local-contexts/UnderstandingTheLocalContextsHub.md
+    - local-contexts/UnderstandingLegacyTKLabels.md
     - local-contexts/LevelsOfLocalContextsProjects.md
     - local-contexts/ManageLocalContextsProjects.md
-    - local-contexts/UnderstandingTheLocalContextsHub.md
-    - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
     - local-contexts/ViewAndManageDirectoryPages.md
-    - local-contexts/UnderstandingLegacyTKLabels.md
+    - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
   - Location and Mapping:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md

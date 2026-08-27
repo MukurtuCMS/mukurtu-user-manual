@@ -7,7 +7,7 @@ tags:
 
 !!! roles "User roles"
     
-    Mukurtu administrator, Community manager, Protocol steward
+    Mukurtu manager, Community manager, Protocol steward
 
 Local Contexts projects can be managed at three different levels: site-wide, per community, and per protocol. This article provides instructions for adding and managing projects at each level. For more about how projects work in Mukurtu, see [Levels of Local Contexts Projects](./LevelsOfLocalContextsProjects.md).
 
