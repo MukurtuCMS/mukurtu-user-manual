@@ -65,7 +65,7 @@ The description will be visible on the group's project directory page.
 
 ![The Mukurtu dashboard with the Manage Local Contexts Projects link highlighted.](../_embeds/lc-directory-09.png)
 
-2. You should see your API keys and list of associated Local Contexts projects. 
+2. A list of added API keys and associated Local Contexts projects will display.
 
 3. Select the Project Directory Settings tab. 
 ![The Local Contexts manage page with the Project Directory Settings tab highlighted](../_embeds/lc-directory-01.png)
