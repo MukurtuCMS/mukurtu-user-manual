@@ -47,7 +47,7 @@ To add an API key to a protocol, as a protocol steward, navigate to the protocol
 
 ## Add projects
 
-3. A list of projects associated with the API key displays below. If you've added multiple API keys, you will see the projects grouped under each API key along with the API key name if added. Select the projects you wish to add to the site by checking the box next to the appropriate projects. From the dropdown menu, select **Add/Sync.**
+3. A list of projects associated with the API key displays below. They are linked to the project's page in the Local Contexts hub. If you've added multiple API keys, you will see the projects grouped under each API key along with the API key name if added. Select the projects you wish to add to the site by checking the box next to the appropriate projects. From the dropdown menu, select **Add/Sync.**
 
     ![Screenshot of the project list with a few projects selected](../_embeds/manage-local-contexts-04.png)
 
