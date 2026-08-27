@@ -3,7 +3,7 @@ tags:
     - migration
 ---
 
-# 2) Mukurtu 3 Pre-Migration Activities
+# Mukurtu 3 Pre-Migration Activities
 
 !!! warning "Migration Warnings to Update"
     - Community and Cultural Protocol banner and thumbnail images will not migrate. Plan to download from v3 and upload to v4 post-migration.
