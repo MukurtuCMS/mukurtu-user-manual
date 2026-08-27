@@ -9,7 +9,7 @@ tags:
     
     Mukurtu manager, community manager, protocol steward
 
-The Local Contexts directory provides information about Local Contexts projects and their accompanying labels and notices. 
+The Local Contexts directory provides information about Local Contexts projects and their accompanying labels and notices. Each directory page displays all the relevant projects, along with their labels and notices, grouped by project and type. 
 
 To learn more about Local Contexts, and the Local Contexts Hub see [Understanding the Local Contexts Hub](./UnderstandingTheLocalContextsHub.md)
 
@@ -18,20 +18,26 @@ To learn more about Local Contexts, and the Local Contexts Hub see [Understandin
 
 ## View project directories
 
-Project directory pages exist at the site level and within each community and protocol. Each directory page displays all the relevant projects, along with their labels and notices, grouped by type. 
+Project directory pages exist at the site level and within each community and protocol.
 
-To view project directories within a community or protocol, navigate to the community or protocol you wish to view and select **Local Contexts Project Directory**. 
+To view project directories within a community or protocol, navigate to the community or protocol you wish to view and select **View Local Contexts Projects** in the right-hand sidebar.
 
-![A community manage page with the local contexts directly link highlighted in red.](../_embeds/lc-directory-03.png)
+![A community page with the local contexts directly link highlighted in red.](../_embeds/lc-directory-03.png)
 
-To view the site project directory, go to the dashboard. In the **Site Settings** section, select **Local Contexts Projects**. 
+To view the site project directory, go to the dashboard. In the **Site Settings** section, select **View site-wide Local Contexts Projects**. 
 
 ![Screenshot of site project directory link](../_embeds/lc-directory-07.png)
 ## Manage project directories
 
 The information displayed in directories are managed in two locations: the Local Contexts Hub and the Mukurtu site. 
 
-The API will pull in project names, labels, and notices from the Local Contexts Hub. Your Mukurtu site provides you with a project directory description where you can include information about the project, how labels are being used, people or organizations working on the project, etc. 
+The API will pull in project names, labels, and notices from the Local Contexts Hub. Your Mukurtu site provides you with a **project directory description** field where you can include information about the project, how labels are being used, people or organizations working on the project, etc. This will display at the top of the project directory.
+
+![Screenshot of directory page with updated description](../_embeds/lc-directory-10.png)
+
+Descriptions for individual labels and notices are synced from the Local Contexts Hub. If you've added multiple translations or recordings to the labels, they will display alongside the label. 
+
+![Local contexts labels with descriptions. Tabs allow users to view available translations. An audio player displays if a recording is available.](../_embeds/lc-directory-11.png)
 
 ### Community or Protocol directories
 
@@ -59,7 +65,7 @@ The description will be visible on the group's project directory page.
 
 ![The Mukurtu dashboard with the Manage Local Contexts Projects link highlighted.](../_embeds/lc-directory-09.png)
 
-2. You should see your API key and list of Local Contexts projects associated with the API. 
+2. You should see your API keys and list of associated Local Contexts projects. 
 
 3. Select the Project Directory Settings tab. 
 ![The Local Contexts manage page with the Project Directory Settings tab highlighted](../_embeds/lc-directory-01.png)
@@ -68,4 +74,4 @@ The description will be visible on the group's project directory page.
 ![Screenshot of reloaded manage directory page with sucess message](../_embeds/lc-directory-02.png)
 
 5. Updates to the description are visible on the directory page.
-![Screenshot of directory page with updated description](../_embeds/lc-directory-10.png)
+
