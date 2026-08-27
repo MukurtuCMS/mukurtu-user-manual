@@ -212,9 +212,10 @@ nav:
       - roundtrip/ExportingContent.md
       - roundtrip/ExportSettings.md
   - Mukurtu 3 Migration:
-    - migration/MigrationOverview.md
-    - migration/PM01UpdateMukurtu3.md
-    - migration/PM02Activities.md
+    - Pre-Migration:
+      - migration/MigrationOverview.md
+      - migration/PM01UpdateMukurtu3.md
+      - migration/PM02Activities.md
     - Self-Hosted:
       - migration/SH01Preparation.md
       - migration/SH02InstallMukurtu4.md
