@@ -3,15 +3,12 @@ tags:
     - migration
 ---
 
-# 6. Running the Mukurtu 3 to Mukurtu 4 Migration
+# Running the Mukurtu 3 to Mukurtu 4 Migration
 
 !!! warning
-    New screenshots needed here
+    This documentation assumes that you are installing your new Mukurtu 4 site on the same server as your current Mukurtu 3 site. If you are installing your new Mukurtu 4 site on a different server, please contact us at [support@mukurtu.org](mailto:support@mukurtu.org?subject=Mukurtu%204%20migration%20support)
 
-!!! tip
-    These steps assume that you are migrating within the same hosting environment. If you are changing hosting providers or hosting environments please contact [support@mukurtu.org](mailto:support@mukurtu.org).
-
-Go to `/dashboard/migrate` or from the dashboard, click on "Migrate from Mukurtu CMS version 3"
+Go to `/dashboard/migrate` or from the dashboard, select "Migrate from Mukurtu CMS version 3"
 
 ![migrate-01](../_embeds/migrate-01.png)
 
@@ -20,28 +17,28 @@ Go to `/dashboard/migrate` or from the dashboard, click on "Migrate from Mukurtu
 
 ![migrate-02](../_embeds/migrate-02.png)
 
-Review the preparation steps and click "Continue" when ready.
+Review the preparation steps and select "Continue" when ready.
 
 ![migrate-03](../_embeds/migrate-03.png)
 
-Enter the Mukurtu 3 database credentials you identified earlier (Preparing Migration Credentials). 
+Enter the Mukurtu 3 database credentials you identified earlier
 
-- **Database Type**: If you are using Reclaim Hosting and your current database was "mysql", select "MariaDB".
-- **Database Host**: If you are using Reclaim Hosting it will probably be "localhost".
-- **Database Name**: It will probably be a randomly generated username.
-- **Database Username**: It will probably be the same as the database name.
-- **Database Password**: It will be a randomly generated password.
-- **Document root for public files**: It may be something like `/var/www/html/[sitename]`
-- **Document root for private files**: It may be something like `/var/www/html/[sitename]/sites/default/files/private`
+- **Database Type**: Likely MySQL or MariaDB.
+- **Database Host**: 
+- **Database Name**: 
+- **Database Username**: 
+- **Database Password**: 
+- **Document root for public files**: Likely `/var/www/html/your_site/sites/default/files`.
+- **Document root for private files**: Likely unused.
 
-Click "Review migration".
+Select "Review migration".
 
 ![migrate-04](../_embeds/migrate-04.png)
 
 ![migrate-05](../_embeds/migrate-05.png)
 
-The migration steps will be displayed. You likely do not need to review these in depth, but the item counts should match your Mukurtu 3 site (eg: number of media assets by type, number of DH items). You may want to take a screenshot of these to comapre with the migration results.
-When ready, click "Begin migration".
+The migration steps will be displayed. You likely do not need to review these in depth, but the item counts should match your Mukurtu 3 site (eg: number of media assets by type, number of DH items). You may want to take note of these to compare with the migration results.
+When ready, select "Begin migration".
 
 ![migrate-06](../_embeds/migrate-06.png)
 

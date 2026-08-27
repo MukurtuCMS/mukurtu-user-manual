@@ -21,31 +21,20 @@ The migration tools have been developed to migrate all site content. This does N
 
 Before starting the migration process, regardless of your hosting environment, you must complete the following activities to ensure a smooth migration:
 
-1. [Update existing Mukurtu 3 site](PMUpdateMukurtu3.md)
-2. [Complete the Mukurtu 3 pre-migration activities](PMActivities.md)
+1. [Update existing Mukurtu 3 site](PM01UpdateMukurtu3.md)
+2. [Complete the Mukurtu 3 pre-migration activities](PM02Activities.md)
 
 ## Self-hosting migration steps
 
-
-3. [Prepare database credentials](SH03PrepareDatabaseCredentials.md)
-4. [Install new Mukurtu 4 site](SH04InstallMukurtu4.md)
-5. [Copy media directory](SH05CopyMediaDirectory.md)
-6. [Run the Mukurtu 4 migration tool](SH06RunMigrationTool.md)
-7. [Ensure that the migration was successful](SH07VerifyMigration.md)
-8. [Decommission the Mukurtu 3 site](SH08DecommissionMukurtu3.md)
+1. [Prepare migration information](SH01Preparation.md)
+2. [Install new Mukurtu 4 site](SH02InstallMukurtu4.md)
+3. [Run the Mukurtu 4 migration tool](SH03RunMigrationTool.md)
+4. [Ensure that the migration was successful](SH04VerifyMigration.md)
+5. [Decommission the Mukurtu 3 site](SH05DecommissionMukurtu3.md)
 
 ## Reclaim Hosting migration steps
 
-1. [Migration planning](Reclaim01MigrationPlanning.md)
-2. [Update existing Mukurtu 3 site](Reclaim02UpdateMukurtu3.md)
-3. [Complete the Mukurtu 3 pre-migration activities](Reclaim03Pre-Migration.md)
-4. [Install new Mukurtu 4 site](Reclaim04InstallMukurtu4.md)
-5. [Copy media directory](Reclaim05CopyMediaDirectory.md)
-6. [Run the Mukurtu 4 migration tool](Reclaim06RunMigrationTool.md)
-7. [Ensure that the migration was successful](Reclaim07VerifyMigration.md)
-8. [Complete any required configuration updates](Reclaim08CompleteConfiguration.md)
-9. [Confirm that the site is operating as expected](Reclaim09ConfirmSiteOperation.md)
-10. [Decommission the Mukurtu 3 site](Reclaim10DecommissionMukurtu3.md)
+TBD pending Reclaim release.
 
 If you have any questions, please contact us at [support@mukurtu.org](mailto:support@mukurtu.org?subject=Mukurtu%204%20migration%20support).
 

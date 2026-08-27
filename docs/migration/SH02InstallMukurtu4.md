@@ -3,7 +3,7 @@ tags:
     - migration
 ---
 
-# 4. Install Mukurtu 4
+# Install Mukurtu 4
 
 We recommend familiarizing yourself with the Drupal 11 installation process before beginning the Mukurtu 4 installation. The [Drupal 11 Installation Guide](https://www.drupal.org/docs/installing-drupal) provides a good overview of the process, and the recommended system settings are a good starting point for Mukurtu as well.
 
