@@ -17,10 +17,16 @@ The migration tools have been developed to migrate all site content. This does N
     - Added, removed, or modified any Mukurtu features or tools.
     - Added, removed, or modified any Drupal 7 modules.
 
+## Pre-migration requirements
+
+Before starting the migration process, regardless of your hosting environment, you must complete the following activities to ensure a smooth migration:
+
+1. [Update existing Mukurtu 3 site](PMUpdateMukurtu3.md)
+2. [Complete the Mukurtu 3 pre-migration activities](PMActivities.md)
+
 ## Self-hosting migration steps
 
-1. [Update existing Mukurtu 3 site](SH01UpdateMukurtu3.md)
-2. [Complete the Mukurtu 3 pre-migration activities](SH02Pre-Migration.md)
+
 3. [Prepare database credentials](SH03PrepareDatabaseCredentials.md)
 4. [Install new Mukurtu 4 site](SH04InstallMukurtu4.md)
 5. [Copy media directory](SH05CopyMediaDirectory.md)
