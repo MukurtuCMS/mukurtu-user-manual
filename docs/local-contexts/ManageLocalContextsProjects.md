@@ -20,7 +20,12 @@ To learn more about Local Contexts, and the Local Contexts Hub see [Understandin
 
 API keys can be generated from the settings page in your Local Contexts account. 
 
-1. In the API key manager, select "Generate API Key".
+1. Log in to your [Local Contexts Hub](http://localcontexts.org/login) account.
+
+2. From the dashboard, select the settings cog on the far right to view your account settings
+    ![The Local Contexts dashboard with the setting cog highlighted.](../_embeds/manage-local-contexts-15.png)
+
+1. In the account settings section, select the API key manager tab, then select "Generate API Key".
     ![Local Contexts API key manager with generate API key button highlighted](../_embeds/manage-local-contexts-08.png)
 
 2. Add a name for your API key, then select "Generate API Key".
@@ -56,28 +61,29 @@ To add an API key to a protocol, as a protocol steward, navigate to the protocol
 
 ## Delete projects
 
+!!! Requirement
+    Only projects with labels that are not in use can be removed. Remove labels from all items before attempting to delete a project. 
+   
+!!! Tip
+    Use the filters on the content manage page to find content using labels from projects you wish to remove. See [Manage Content](../content-settings/manage-content.md)
+
 6. To remove a project, select the box next to the project name. 
 
 7. Select **Delete** from the dropdown menu, then select "Apply Action." 
         ![The project list with added projects set to active in the status column](../_embeds/manage-local-contexts-06.png)
 
-    !!! Requirement
-        Only projects with labels that are not in use can be removed. Remove labels from all items before attempting to delete a project. 
-    
-    !!! Tip
-        Use the filters on the content manage page to find content using labels from projects you wish to remove. See [Manage Content](../content-settings/manage-content.md)
-
-    The project list will reload with an updated status of "Not added" and a success message.
+8. The project list will reload with an updated status of "Not added" and a success message.
         ![The project list showing the removed project with a status of "Not added"](../_embeds/manage-local-contexts-07.png)
 
 ## Remove API key
 
-To remove an API key, select "Remove" next to the API key you wish to remove. THe page will reload with the API removed.
-
-    ![The API keys with the remove button highlighted](../_embeds/manage-local-contexts-14.png)
-
 !!! Requirement
     Only API keys whose projects are deleted can be removed. Delete all associated projects, then use the "Remove" button.
+
+To remove an API key, select "Remove" next to the API key you wish to remove. The page will reload with the API removed.
+
+![The API keys with the remove button highlighted](../_embeds/manage-local-contexts-14.png)
+
 
 ## View projects
 
