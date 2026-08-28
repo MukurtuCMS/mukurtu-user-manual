@@ -72,7 +72,9 @@ To add an API key to a protocol, as a protocol steward, navigate to the protocol
 
 ## Remove API key
 
-To remove an API key, select "Remove" next to the API key you wish to remove.
+To remove an API key, select "Remove" next to the API key you wish to remove. THe page will reload with the API removed.
+
+    ![The API keys with the remove button highlighted](../_embeds/manage-local-contexts-14.png)
 
 !!! Requirement
     Only API keys whose projects are deleted can be removed. Delete all associated projects, then use the "Remove" button.
