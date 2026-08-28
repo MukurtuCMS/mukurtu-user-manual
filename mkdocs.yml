@@ -213,17 +213,16 @@ nav:
       - roundtrip/ExportingContent.md
       - roundtrip/ExportSettings.md
   - Mukurtu 3 Migration:
-    - migration/00MigrationOverview.md
-    - migration/01MigrationPlanning.md
-    - migration/02UpdateMukurtu3.md
-    - migration/03Pre-Migration.md
-    - migration/04InstallMukurtu4.md
-    - migration/05CopyMediaDirectory.md
-    - migration/06RunMigrationTool.md
-    - migration/07VerifyMigration.md
-    - migration/08CompleteConfiguration.md
-    - migration/09ConfirmSiteOperation.md
-    - migration/10DecommissionMukurtu3.md
+    - Pre-Migration:
+      - migration/MigrationOverview.md
+      - migration/PM01UpdateMukurtu3.md
+      - migration/PM02Activities.md
+    - Self-Hosted:
+      - migration/SH01Preparation.md
+      - migration/SH02InstallMukurtu4.md
+      - migration/SH03RunMigrationTool.md
+      - migration/SH04VerifyMigration.md
+      - migration/SH05DecommissionMukurtu3.md
   - Infrastructure and Maintenance:
     - infrastructure/WhyDrupal.md
     - infrastructure/SystemRequirements.md
