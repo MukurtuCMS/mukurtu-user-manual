@@ -16,6 +16,7 @@ Person records are a content type that allows for rich, in-depth biographical re
 - Identification of relationships between the individual in the person record and other individuals. Users can use the interpersonal relationship taxonomy to provide terms naming the type of the relationship.
 - Other names a person has been known by throughout their life can be linked to the individual in the person record. This allows the individual to be properly identified by the name or names they are known by in their community, and can help to remove confusion caused by misnamings, misspellings, or mistaken attributions. 
 - When properly configured, person records automatically aggregate all the digital heritage items and other content in which an individual is referenced.
+- Referenced content can be filtered by All, Related Content, Creator, Contributor, or Person. 
 
 For more information about how to create person records, see [Create Person Records](PersonRecords.md).
 
