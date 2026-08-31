@@ -7,7 +7,7 @@ tags:
 # Configure Consent Popup
 
 !!! roles "User roles"
-    Drupal administrator, Mukurtu manager
+    Administrator, Mukurtu manager
 
 Some Mukurtu CMS sites may choose to use consent popups that appear when their site is accessed. These can require users and visitors to their site consent to certain terms of use in order to access the site or can require visitors to acknowledge something about the content on the site. Follow the instructions below to enable and configure your site's consent popup.
 

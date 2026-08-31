@@ -148,6 +148,7 @@ nav:
   - Taxonomies:
     - taxonomies/UnderstandingTaxonomies.md
     - taxonomies/ManagingTaxonomies.md
+    - taxonomies/ManageTaxonomyPages.md
   - Users:
     - users/user-role-types.md 
     - users/creating-account-site-wide.md 
