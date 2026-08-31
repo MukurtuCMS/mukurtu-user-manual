@@ -9,7 +9,7 @@ tags:
     
     Mukurtu manager, community manager, protocol steward
 
-The Local Contexts directory provides information about Local Contexts projects and their accompanying labels and notices. Each directory page displays all the relevant projects, along with their labels and notices, grouped by project and type. 
+The Local Contexts directory provides information about Local Contexts projects and their accompanying labels and notices. Each directory page displays all the relevant projects, along with their labels and notices, grouped by project and type.
 
 To learn more about Local Contexts, and the Local Contexts Hub see [Understanding the Local Contexts Hub](./UnderstandingTheLocalContextsHub.md)
 
@@ -24,7 +24,7 @@ Project directory pages exist at the site level and within each community and pr
 
     ![A community page with the local contexts directly link highlighted in red.](../_embeds/lc-directory-03.png)
 
-2. To view the site project directory, go to the dashboard. In the **Site Settings** section, select **View site-wide Local Contexts Projects**. 
+2. To view the site project directory, go to the dashboard. In the **Site Settings** section, select **View site-wide Local Contexts Projects**. While the directory does not require specific permissions to view, the link to the directory is not available on the front-end of the site. Consider adding the directory link to the menu, basic pages, or other publicly accessible location if access is a priority.
 
     ![Screenshot of site project directory link](../_embeds/lc-directory-07.png)
 
