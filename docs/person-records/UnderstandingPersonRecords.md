@@ -23,3 +23,5 @@ For more information about how to create person records, see [Create Person Reco
 To browse person records, navigate to **Browse** or go directly to `/browse`. To filter by person records, navigate to the **Content type** header on the right-hand side of the page and select the checkbox beside *Person*. 
 
 ![Screenshot showing where the content type header and person checkbox are on the browse content page.](../_embeds/person14.png)
+
+![Screenshot of a complete person record showing a full person record including referenced content and a biography section.](../_embeds/personfull1.png)
