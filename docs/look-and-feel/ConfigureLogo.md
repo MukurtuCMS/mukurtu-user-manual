@@ -7,7 +7,7 @@ tags:
 # Configure Logos
 
 !!! roles "User roles"
-    Drupal administrator, Mukurtu manager
+    Administrator, Mukurtu manager
 
 ## Configure your logo
 
