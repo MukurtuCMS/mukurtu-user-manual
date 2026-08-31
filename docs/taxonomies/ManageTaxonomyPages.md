@@ -33,3 +33,4 @@ To edit your taxonomy term page, navigate to the taxonomy term page. From your D
 
     ![Screenshot of the taxonomy term edit page with the save button highlighted.](../_embeds/taxonomy4.png)
 
+![Screenshot of a taxonomy term page with a description including an image of a manuscript and aggregated content.](../_embeds/taxonomy5.png)
