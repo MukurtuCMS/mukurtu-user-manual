@@ -24,7 +24,7 @@ Project directory pages exist at the site level and within each community and pr
 
     ![A community page with the local contexts directly link highlighted in red.](../_embeds/lc-directory-03.png)
 
-2. To view the site project directory, go to the dashboard. In the **Site Settings** section, select **View site-wide Local Contexts Projects**. While the directory does not require specific permissions to view, the link to the directory is not available on the front-end of the site. Consider adding the directory link to the menu, basic pages, or other publicly accessible location if access is a priority.
+2. To view the site project directory, go to the dashboard. In the **Site Settings** section, select **View site-wide Local Contexts Projects**. The site-wide directory is public, but the link isn't shown anywhere by default. You can add the link to the main menu, a basic page, the site footer, or anywhere else as needed.
 
     ![Screenshot of site project directory link](../_embeds/lc-directory-07.png)
 
