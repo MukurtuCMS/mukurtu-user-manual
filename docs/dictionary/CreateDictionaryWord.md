@@ -230,7 +230,7 @@ The **related content** field can help provide connections between your dictiona
 
     ![The related content modal with the type and title fields highlighted](../_embeds/dictionary-word-15.png)
 
-4. The item will appear under Related Content. To remove content, select the trashcan icon in the top right corner of the item.
+4. The item will appear under Related Content. To remove content, select the trashcan icon to the right of the item.
 
     ![A related content item with the trashcan icon highlighted.](../_embeds/dictionary-word-16.png)
 
