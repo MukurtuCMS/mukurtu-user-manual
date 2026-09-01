@@ -3,10 +3,10 @@ tags:
     - site settings
 ---
 
+# Configure Google Analytics
+
 !!! Roles "User roles" 
     Administrator, Mukurtu manager
-
-# Configure Google Analytics
 
 Google Tags can be added to generate metrics about visitors to your site. It's free to sign up and generate tags. You will need a Google Account, and a Google Analytics Acount. 
 

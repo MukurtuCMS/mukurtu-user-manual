@@ -152,18 +152,18 @@ Include as many contributors as needed. Select existing contributors or add new 
 
 Word entries are multiple entries that appear under one term. This allows you to capture additional meanings, conjugations, gendered or plural forms, etc. The metadata for a word entry is the same metadata in the Mukurtu Essentials tab, with the exception of cultural protocols, sharing setting, language, and glossary entry since those apply to the dictionary word as a whole. Please refer to [Mukurtu Essentials](CreateDictionaryWord.md#mukurtu-essentials)
 
-You can add an unlimited amount of word entries by selecting **Add Word Entries** at the bottom of the word entry page.
+You can add an unlimited amount of word entries by selecting **Add Word Entries** at the bottom of the word entry tab.
 
 
 ## Additional Fields
 
 ### Thumbnail
 
-Thumbnails can help you quickly identify a term. Select **Add media** to select from previously uploaded images or upload a new image. Thumbnail images generally maintain a 4:3 ratio. Anything larger than this will be cropped to that size in display. The image files themselves will not be altered. Thumbnails will resize responsively to smaller screen sizes. We recommend minimum dimensions of 800x600px for best rendering.
+Thumbnails can help you quickly identify a term. Select **Add media** to select from previously uploaded images or upload a new image. Thumbnail images generally maintain a 4:3 ratio. Anything larger than this will be cropped to that size in display. The image files themselves will not be altered. Thumbnails will resize responsively to smaller screen sizes. We recommend minimum dimensions of 800x600px for best rendering. 
 
 ### Media Assets
 
-You can add media assets to your dictionary word. Select **Add media** to select from previously uploaded media or upload a new media asset. There is no limit to the number of media assets you can add. 
+You can add media assets to your dictionary word. Select **Add media** to select from previously uploaded media or upload a new media asset. There is no limit to the number of media assets you can add. See [Create Media Assets](../media/CreateMediaAssets.md) for more information.
 
 ### Keywords
 
@@ -205,16 +205,16 @@ Include as many locations as needed. Select existing locations or add new ones. 
 
 Use the **Local Contexts** field to apply Traditional Knowledge labels to your dictionary word. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
 
-Select your Local Contexts project from the list. This field will apply all of the Labels from the selected Local Contexts Project(s) to the dictionary word.
+To apply all the labels of a project to your item, select a project listed under **Local Contexts Projects**
 
 ### Local Contexts Labels
 
-Select one or more Labels from the appropriate Local Contexts Project. 
+To select one or more labels from a project, expand one of the projects listed under **Local Contexts Labels and Notices** and select the label you would like to apply.
 
 !!! tip
-    If a complete project has already been selected, do not also select individual Labels from the same project. 
+    If a complete project has already been selected, you will not be able to select individual labels from that project, since those labels have already been applied.
 
-![Screenshot of Local Contexts project and labels fields highlighted](../_embeds/dh10.png)
+![Screenshot of Local Contexts project and labels fields highlighted](../_embeds/dictionary-word-21.png)
 
 ## Related Content
 
@@ -224,7 +224,7 @@ The **related content** field can help provide connections between your dictiona
 
     ![Related content field with selected content button highlighted](../_embeds/dictionary-word-17.png)
     !!! tip 
-        You can filter content by type or search by title.
+        Filter content by type or search by title.
 
 - Select the checkbox beside all the content you wish to include as related content, then scroll down and select "Add Content".
 
@@ -240,7 +240,7 @@ When you are finished filling out all relevant metadata fields, select "Save" wh
 
 ![Dictionary word form with save button highlighted in the top right corner](../_embeds/dictionary-word-18.png)
 
-The term will display along with a success message.
+The term will display along with a success message. Word entries display as tabs next to the base word.
 
 ![Completed dictionary word with success message](../_embeds/dictionary-word-19.png)
 
