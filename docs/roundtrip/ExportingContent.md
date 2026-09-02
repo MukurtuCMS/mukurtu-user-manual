@@ -67,5 +67,6 @@ Once the export finishes, the Export Results page lists how many items of each t
 
 ## Related articles
 
+- [Exporting Media](ExportingMedia.md)
 - [Export Settings](ExportSettings.md)
 - [Roundtrip Overview](RoundtripOverview.md)

@@ -8,9 +8,30 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-A CSV export setting is a saved, reusable configuration that controls exactly which fields are included in an export and how the resulting CSV file is formatted. You can save several settings for different purposes, for example one for updating your own site and another for sharing a limited set of fields with an outside institution. See [Exporting Content](ExportingContent.md) for how a saved setting is chosen when you run an export.
+A CSV export setting is a saved, reusable configuration that controls exactly which fields are included in an export and how the resulting CSV file is formatted. You can save several settings for different purposes, for example one for updating your own site and another for sharing a limited set of fields with an outside institution.
+
+## Default export settings
+
+Mukurtu ships with four ready-to-use CSV export settings, shared with **All export users** so anyone with export access can use them right away. Each combines one of the two *identifier format* choices with one of the two *media asset packaging* choices described under [Configuration](#configuration) below:
+
+| Setting | Identifiers | Media assets | Use it for |
+|---|---|---|---|
+| Default local settings (metadata only) | ID | Not included | Re-importing to the same site, metadata only |
+| Default local settings (with media assets) | ID | Packaged | Re-importing to the same site, including media |
+| Default external settings (metadata only) | UUID | Not included | Sharing metadata with an outside institution, no media |
+| Default external settings (with media assets) | UUID | Packaged | Sharing with another site or organization, including media |
+
+All four cover every content type, media type, taxonomy term, and other supported entity, so they're a good starting point to duplicate rather than build a setting from scratch.
 
 ## Create a CSV export setting
+
+The four default settings export every field for every content type, using a fixed set of choices for how references are exported. Create a custom setting instead when you need something different, for example:
+
+- Exporting only a curated subset of fields, rather than everything.
+- Renaming CSV headers to match a specific partner's or tool's expected format.
+- Changing how deeply a particular reference type is followed, such as exporting media as just an identifier instead of packaging the full asset.
+- Using different CSV formatting, such as a different delimiter, for a specific downstream tool.
+- Keeping the setting visible to only you, rather than sharing it with all export users.
 
 From your **Dashboard**, under **Roundtrip**, select **Export Settings**, then select "New CSV export setting".
 
@@ -73,4 +94,5 @@ Users with the *Administer Import Templates* permission can select "Manage saved
 ## Related articles
 
 - [Exporting Content](ExportingContent.md)
+- [Exporting Media](ExportingMedia.md)
 - [Roundtrip Overview](RoundtripOverview.md)

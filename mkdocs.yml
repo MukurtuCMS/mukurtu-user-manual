@@ -212,6 +212,7 @@ nav:
       - roundtrip/MediaTextFields.md
     - Export:
       - roundtrip/ExportingContent.md
+      - roundtrip/ExportingMedia.md
       - roundtrip/ExportSettings.md
   - Mukurtu 3 Migration:
     - Pre-Migration:
