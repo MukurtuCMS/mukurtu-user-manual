@@ -11,6 +11,8 @@ tags:
 
 Basic pages can be used as About pages or as other static pages on your site. Follow the instructions below to create a Basic page.
 
+## Create a basic page
+
 1. From the **Dashboard**, navigate to the **Look and Feel** section and select the **Add a basic page** link.
 
     ![Screenshot of the add a basic page link in the look and feel section of the dashboard. The link has been highlighted.](../_embeds/basic1.png)
@@ -67,6 +69,12 @@ Layout Builder uses sections and blocks to structure the layout of your page. Se
 5. Select the "Add section" button to add your section.
 
     ![Screenshot of the new section with the add block buttons.](../_embeds/layout5.png)
+
+6. Edit or delete your section by selecting the **Edit** or **Delete** icons in the top left-hand side of the section.
+
+    ![Screenshot of the edit and delete icons in section 1.](../_embeds/layout27.png)
+
+7. Select the "Save" button in the top right-hand corner to save your layout.
 
 ### Add blocks
 
@@ -143,3 +151,57 @@ To add a Local Contexts labels and notices block, select the **Local Contexts** 
 5. You can continue to add blocks, or select the "Save" button in the top right-hand side of the page to save your layout.
 
     ![Screenshot of the about page example basic page with the save button in the top right-hand corner highlighted.](../_embeds/layout17.png)
+
+#### Media assets
+
+To add a media assets block to your basic page, select the **Media assets** section.
+
+1. Add a title to your Media assets block using the *Title* field. Use the **Display title** toggle to choose whether your title is displayed.
+2. In the **Media items** section, select "Add media" to add media assets to your block. Multiple media assets display as a carousel.
+
+    ![Screenshot of the media assets configure block modal with the add media button highlighted.](../_embeds/layout18.png)
+
+3. Select your media assets using the checkboxes, then select the "Insert selected" button.
+
+    ![Screenshot of the add or select media modal with two media assets checked.](../_embeds/layout19.png)
+    
+4. Select the "Add block" button to add your media asset block.
+
+    ![Screenshot of the add media assets configure block modal with the add block button highlighted.](../_embeds/layout20.png)
+
+5. You can continue to add blocks, or select the "Save" button in the top right-hand side of the page to save your layout.
+
+#### Text
+
+To add a text block to your basic page, select the **Text** section.
+
+1. Add a title to your text block using the *Title* field. Use the **Display title** toggle to choose whether your title is displayed.
+2. Use the full text HTML field to add text or embedded media to your block.
+3. Select the "Add block" button to add your text block.
+4. You can continue to add blocks, or select the "Save" button in the top right-hand side of the page to save your layout.
+
+### Edit blocks
+
+You can edit, move, or remove blocks from your basic page by navigating to the **Layout** tab. 
+
+- To edit a block, select the **Edit** icon in the top left-hand corner of the block, then select the **Configure** option to edit your block.
+
+    ![Screenshot of the layout builder tab of the basic page with the edit icon highlighted.](../_embeds/layout21.png)
+
+    ![Screenshot of the layout builder tab of the basic page with the edit icon expanded and the Configure option highlighted.](../_embeds/layout22.png)
+
+- To move a block, select the **Edit** icon in the top left-hand corner of the block, then select the **Move** option to select and drag your block. You can also select and drag your block using the **Move** icon.
+
+    ![Screenshot of the layout builder tab of the basic page with the edit icon expanded and the Move option highlighted.](../_embeds/layout23.png)
+
+- To delete a block, select the **Edit** icon in the top left-hand corner of the block, then select the **Remove** option. 
+
+    ![Screenshot of the layout builder tab of the basic page with the edit icon expanded and the remove option highlighted.](../_embeds/layout24.png)
+
+You will receive a confirmation message confirming that you want to remove the block. Select the "Remove" button to finish removing the block.
+
+![Screenshot of the remove modal with the Remove button highlighted.](../_embeds/layout25.png)
+
+Select the "Save" button in the top right-hand corner of the page to save any changes you make to your basic page layout.
+
+![Screenshot of a page with all of the different block types from layout builder.](../_embeds/layout26.png)
