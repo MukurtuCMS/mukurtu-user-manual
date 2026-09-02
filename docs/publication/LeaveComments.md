@@ -9,7 +9,7 @@ tags:
 
 
 ## Leave a comment
-Comments are managed at the site and protocol levels. This means that some content items will allow commenting, and others will not. 
+Comments are managed at the site and protocol levels. This means that comment permissions depend on the user's protocol membership and site and protocol settings.
 
 A user with permission to leave comments will see a comment box at the bottom of a content page.
 
