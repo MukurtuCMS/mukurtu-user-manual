@@ -19,8 +19,12 @@ Media items don't have their own full page with an "Add to Export List" option t
 
 From your **Dashboard**, under **Media**, select **Manage Media**.
 
+![The Manage Media page listing a media item, with an "Add to export list" button in its Operations column.](../_embeds/exporting-media-manage-media-01.png)
+
 - To add a single item, select "Add to export list" from its actions menu, or, if it's shown directly on the item, select the "Add to export list" toggle.
 - To add multiple items at once, select the items you want, then choose "Add to Export List" from the bulk actions menu.
+
+![The Operations menu for a media item expanded, showing Export, Remove from export list, and Found In.](../_embeds/exporting-media-manage-media-02.png)
 
 Both work the same way as adding content: you'll choose an existing export list, or create a new one. See [Add a single item](ExportingContent.md#add-a-single-item) for that form.
 
