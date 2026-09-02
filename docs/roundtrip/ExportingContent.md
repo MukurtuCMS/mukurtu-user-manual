@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-There are two ways to export content. An export list lets you gather items over time into a named, reusable, and shareable group before exporting them. An ad hoc export skips that step and exports one or more items right away. Either way, the export itself uses an export setting that controls exactly which fields are included. This article covers both approaches. For how to configure what an export includes, see [Export Settings](ExportSettings.md).
+There are two ways to export content. An export list lets you gather items over time into a named, reusable, and shareable group before exporting them. An ad hoc export skips that step and exports one or more items right away. Either way, the export itself uses an export setting that controls exactly which fields are included. This article covers both approaches. 
 
 !!! requirement
     Users must be an Administrator, Mukurtu manager, or Roundtrip manager to access export tools. See [Manage User from a Site-wide role](../users/manage-user-accounts-site-wide.md) for more information.
