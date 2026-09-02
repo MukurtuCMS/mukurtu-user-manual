@@ -14,10 +14,12 @@ Before running an import, use the import format information pages to see exactly
 
 From your **Dashboard**, under **Roundtrip**, select **Import format information**, or go directly to `/admin/import/format`.
 
-Select a content type, media type, or other importable type to see its field list. Types are grouped by category, including Content, Media, Communities, Cultural Protocols, Multipage Items, Compound Types (paragraphs), File, and Taxonomy. If you have permission to import user accounts, a User Accounts group is also listed.
+Select a content type, media type, or other importable type to see its field list. Types are grouped by category, including Content, Media, Community, Multipage Item, Cultural Protocol, Compound Types (paragraphs), File, and Taxonomy. If you have permission to import user accounts, a User group is also listed.
+
+![The Import - File Formats page, listing every importable type grouped by category.](../_embeds/import-format-listing-01.png)
 
 !!! tip
-    Taxonomy vocabularies are grouped into two representative entries: **Category** (which has its own thumbnail image field) and **Other Taxonomies** (covering every other vocabulary, which all share the same fields).
+    Taxonomy vocabularies are grouped into two representative entries: **Category** (which has its own thumbnail image field) and **Other Taxonomies** (covering every other vocabulary, which all share the same fields). This grouping is specific to this reference page — when configuring an actual import, you'll choose the real vocabulary. See [Importing Taxonomy Terms](ImportingTaxonomyTerms.md).
 
 ## Required and optional fields
 
@@ -25,6 +27,8 @@ Each type's field list is split into **Required Fields** and **Optional Fields**
 
 !!! requirement
     At least one field must be mapped to uniquely identify each row: ID, UUID, or a unique field such as the title or name. ID and UUID always appear as optional individually, since leaving both blank means the row will be treated as new content, but you still need one of the three to identify existing rows if you're updating content.
+
+![The Required Fields table for Digital Heritage, showing the identifier note and the Field, Field Description, and Import Format Description columns.](../_embeds/import-format-fields-01.png)
 
 ## Download a CSV template
 

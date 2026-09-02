@@ -19,6 +19,8 @@ The list shows, for each file processed by an import: *Date*, *Status* (Success 
 !!! requirement
     By default you only see your own import history. Users with the *Administer Import Templates* permission can see everyone's, with an added *User* column showing who ran each import.
 
+![The Import Logs page listing several past imports, including a failed run.](../_embeds/import-logs-list-01.png)
+
 ## Review a single import
 
 Select "Details" next to an entry to see:
@@ -26,3 +28,5 @@ Select "Details" next to an entry to see:
 - A summary of the filename, destination, status, date, and row counts.
 - A list of the items created and updated, linked to each one where possible.
 - For a failed run, a table of the failed rows, with the row identifier and the error message for each.
+
+![The detail page for a failed import, showing the failed row and its error message.](../_embeds/import-logs-detail-01.png)

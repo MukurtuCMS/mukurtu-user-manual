@@ -18,6 +18,8 @@ User accounts can be created and updated in bulk the same way as content, throug
 
 When configuring your import, select **User** as the import type.
 
+![The import configuration page with User selected as Type.](../_embeds/importing-users-configure-01.png)
+
 ## Fields
 
 - *Username*, *Email*, *Display Name*: standard account fields.
@@ -39,6 +41,8 @@ Granting a user membership in a community or protocol through an import requires
 ## Send account setup emails
 
 On the review step, select the "Send account setup emails to newly created users" checkbox to email each newly created account with an email address the standard "set your password" link. Existing accounts that are updated never receive this email.
+
+![The import review page showing the Send account setup emails to newly created users checkbox.](../_embeds/importing-users-review-01.png)
 
 ## Results
 
