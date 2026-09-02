@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-Media assets, images, audio, video, and other files attached to your content, can be exported on their own, in addition to being included automatically when you export the content they belong to. This article covers both. For the general export process, see [Exporting Content](ExportingContent.md); for what the settings below control, see [Export Settings](ExportSettings.md).
+Media assets, images, audio, video, and other files attached to your content, can be exported on their own, in addition to being included automatically when you export the content they belong to. This article covers both. 
 
 !!! requirement
     Users must be an Administrator, Mukurtu manager, or Roundtrip manager to access export tools.
@@ -23,6 +23,8 @@ From your **Dashboard**, under **Media**, select **Manage Media**.
 - To add multiple items at once, select the items you want, then choose "Add to Export List" from the bulk actions menu.
 
 Both work the same way as adding content: you'll choose an existing export list, or create a new one. See [Add a single item](ExportingContent.md#add-a-single-item) for that form.
+
+![The Add to Export List form for a media item, with an existing export list selected.](../_embeds/exporting-media-add-to-list-01.png)
 
 !!! tip
     Select "Export" from a media item's actions menu to export just that item right away, without adding it to a list first.
