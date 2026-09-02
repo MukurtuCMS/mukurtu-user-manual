@@ -15,6 +15,11 @@ Communities and cultural protocols can be created and updated in bulk the same w
 
 When configuring your import, select **Community** or **Cultural Protocol** as the import type.
 
+![The import configuration page with Cultural Protocol selected as Type.](../_embeds/importing-protocols-configure-01.png)
+
+!!! requirement
+    Creating a new cultural protocol requires Community Manager access to the community it will belong to, the same as creating one manually. Users without that access won't see **Cultural Protocol** as an available import type.
+
 ## Fields
 
 Communities and cultural protocols share most of the same fields:

@@ -17,6 +17,8 @@ Multipage items, such as yearbooks, scrapbooks, or photo albums, can be created 
 
 When configuring your import, select **Multipage Item** as the import type.
 
+![The import configuration page with Multipage Item selected as Type.](../_embeds/importing-multipage-configure-01.png)
+
 ## Fields
 
 - *Title*: if left blank, this defaults to the title of the first page.
