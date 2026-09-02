@@ -90,9 +90,3 @@ Select "Save" when done.
 Users with the *Administer Import Templates* permission can select "Manage saved CSV export settings" from the export page to see every saved setting, its visibility, and description in one place, with actions to edit, duplicate, or delete each one.
 
 ![The CSV Exporter Settings page listing a saved setting named Standard export.](../_embeds/export-settings-collection-01.png)
-
-## Related articles
-
-- [Exporting Content](ExportingContent.md)
-- [Exporting Media](ExportingMedia.md)
-- [Roundtrip Overview](RoundtripOverview.md)

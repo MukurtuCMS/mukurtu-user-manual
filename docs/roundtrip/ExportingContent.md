@@ -64,9 +64,3 @@ Either way, you'll land on the same export page. From here:
 Once the export finishes, the Export Results page lists how many items of each type were exported and provides a "Download Export" link. Select "Back to Settings" to run another export with the same list, or "New Export" to start over with a different one.
 
 ![The Export Results page showing 2 content items exported and a Download Export link.](../_embeds/exporting-content-results-01.png)
-
-## Related articles
-
-- [Exporting Media](ExportingMedia.md)
-- [Export Settings](ExportSettings.md)
-- [Roundtrip Overview](RoundtripOverview.md)

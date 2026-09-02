@@ -38,9 +38,3 @@ Whether the actual file is bundled with the export, or just an identifier, is co
 ## Supported media types
 
 Mukurtu can export all of its media types: Image, Audio, Video, Document, Remote Video, SoundCloud, and External Embed. Each has its own field mapping table in [Export Settings](ExportSettings.md#field-mappings).
-
-## Related articles
-
-- [Exporting Content](ExportingContent.md)
-- [Export Settings](ExportSettings.md)
-- [Roundtrip Overview](RoundtripOverview.md)
