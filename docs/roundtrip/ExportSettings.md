@@ -21,7 +21,9 @@ From your **Dashboard**, under **Roundtrip**, select **Export Settings**, then s
 
 - *Label*: the name shown when choosing between saved settings.
 - *Description*: optional text shown alongside the name.
-- **Visibility**: share the setting with "All Export Users", or keep it visible to "Only Me".
+- **Visibility**: share the setting with "All export users", or keep it visible to "Only me".
+
+![The general settings for a new CSV export setting: Label, Description, and Visibility.](../_embeds/export-settings-general-01.png)
 
 ### Field mappings
 
@@ -32,6 +34,8 @@ Fields are grouped by content and media type (Digital Heritage, Dictionary Word,
 - A drag-and-drop *Weight* to reorder columns.
 
 Only fields with **Export** checked are included in the CSV for that content or media type.
+
+![The expanded Digital Heritage field mapping group, listing its fields with Export checkboxes and editable CSV header labels.](../_embeds/export-settings-field-mappings-01.png)
 
 ### Configuration
 
@@ -45,6 +49,8 @@ These settings control how references to other content are written in exported c
 
 - *Media asset packaging* controls whether binary files (audio, video, documents, images, and thumbnails) are bundled with the export when media is included, and whether the file's own metadata is exported as well.
 
+![The Configuration section, showing the identifier format and reference-depth options.](../_embeds/export-settings-configuration-01.png)
+
 ### CSV file format settings
 
 - *Field delimiter*: separates columns. Defaults to a comma (`,`).
@@ -54,11 +60,15 @@ These settings control how references to other content are written in exported c
 - *Local Contexts delimiter*: separates parts of an exported Local Contexts label or notice value. Defaults to `>`.
 - *Default text format*: the text format exported content is written in. Set the matching import template to the same value.
 
+![The CSV File Format Settings section, showing the field delimiter, enclosure, escape character, and other formatting fields.](../_embeds/export-settings-csv-format-01.png)
+
 Select "Save" when done.
 
 ## Manage saved CSV export settings
 
 Users with the *Administer Import Templates* permission can select "Manage saved CSV export settings" from the export page to see every saved setting, its visibility, and description in one place, with actions to edit, duplicate, or delete each one.
+
+![The CSV Exporter Settings page listing a saved setting named Standard export.](../_embeds/export-settings-collection-01.png)
 
 ## Related articles
 

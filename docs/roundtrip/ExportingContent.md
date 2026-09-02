@@ -24,6 +24,8 @@ Content is gathered into a named export list before you export it, similar to a 
 3. Under *Select an export list*, choose an existing list, or select "Create a new list..." and enter a *New list name*.
 4. Select "Add to List".
 
+![The Add to Export List form for a digital heritage item, with "Create a new list..." selected and a New list name field.](../_embeds/exporting-content-add-to-list-01.png)
+
 !!! tip
     Depending on the item, you may see additional options here, such as including the other items in a collection or word list, related community records, an original record, or other pages of a multipage item.
 
@@ -36,6 +38,8 @@ While browsing or searching content, select the items you want, then choose "Add
 From your **Dashboard**, under **Roundtrip**, select **Export Lists**.
 
 This page lists every export list you own or that's been shared with you, showing its *Name*, *Description*, number of *Items*, and *Visibility*. Select "Create new export list" to start a new one directly, or use the actions menu next to a list to edit or delete it.
+
+![The Export Lists page showing a list named Sample export with 2 items and visibility set to Only You.](../_embeds/exporting-content-export-lists-01.png)
 
 !!! tip
     Setting a list's visibility to "All Export Users" shares it with other users who have export access. Otherwise it's visible to "Only You".
@@ -53,9 +57,13 @@ Either way, you'll land on the same export page. From here:
 2. If your list includes a collection or word list, you can select the checkbox to also include everything inside it.
 3. Select "Start Export".
 
+![The export page with a list selected under Export list, a saved CSV export setting selected under Export Settings, and the Start Export button.](../_embeds/exporting-content-run-export-01.png)
+
 ## Download your export
 
 Once the export finishes, the Export Results page lists how many items of each type were exported and provides a "Download Export" link. Select "Back to Settings" to run another export with the same list, or "New Export" to start over with a different one.
+
+![The Export Results page showing 2 content items exported and a Download Export link.](../_embeds/exporting-content-results-01.png)
 
 ## Related articles
 
