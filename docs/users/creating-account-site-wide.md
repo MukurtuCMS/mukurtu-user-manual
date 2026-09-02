@@ -5,7 +5,7 @@ tags:
 - getting started
 ---
 
-# Create User Accounts as a Mukurtu Manager
+# Create User Accounts from a Site-wide Role
 
 !!! Roles "User roles" 
     Administrator, Mukurtu manager
