@@ -27,7 +27,7 @@ Content is gathered into a named export list before you export it, similar to a 
 ![The Add to Export List form for a digital heritage item, with "Create a new list..." selected and a New list name field.](../_embeds/exporting-content-add-to-list-01.png)
 
 !!! tip
-    Depending on the item, you may see additional options here, such as including the other items in a collection or word list, related community records, an original record, or other pages of a multipage item.
+    Depending on the item, you may see additional options here, such as including the other items in a collection or word list, related community records, an original record, or other pages of a multipage item. See [Exporting Complex Content](ExportingComplexContent.md) for what these options do.
 
 ### Add multiple items
 
@@ -66,7 +66,7 @@ There are two ways to start an export from a saved list:
 Either way, you'll land on the same export page. From here:
 
 1. Under *Export Settings*, choose which saved CSV export setting to use for this export. See [Export Settings](ExportSettings.md) for what these control. If you don't have one yet, select "New CSV export setting" to create one.
-2. If your list (or ad hoc selection) includes a collection or word list, you can select the checkbox to also include everything inside it.
+2. If your list or ad hoc selection includes a collection, word list, original record, community record, or multipage item, you may see additional options here for how much connected content to include. See [Exporting Complex Content](ExportingComplexContent.md) for what these options do.
 3. Select "Start Export".
 
 ![The export page with a list selected under Export list, a saved CSV export setting selected under Export Settings, and the Start Export button.](../_embeds/exporting-content-run-export-01.png)

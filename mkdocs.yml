@@ -212,6 +212,7 @@ nav:
       - roundtrip/MediaTextFields.md
     - Export:
       - roundtrip/ExportingContent.md
+      - roundtrip/ExportingComplexContent.md
       - roundtrip/ExportingMedia.md
       - roundtrip/ExportingTaxonomies.md
       - roundtrip/ExportSettings.md
