@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-Exporting content is a two-step process: first you gather the items you want into an export list, then you run the export using an export setting that controls exactly which fields are included. This article walks through both steps. For how to configure what an export includes, see [Export Settings](ExportSettings.md).
+There are two ways to export content. An export list lets you gather items over time into a named, reusable, and shareable group before exporting them. An ad hoc export skips that step and exports one or more items right away. Either way, the export itself uses an export setting that controls exactly which fields are included. This article covers both approaches. For how to configure what an export includes, see [Export Settings](ExportSettings.md).
 
 !!! requirement
     Users must be an Administrator, Mukurtu manager, or Roundtrip manager to access export tools. See [Manage User from a Site-wide role](../users/manage-user-accounts-site-wide.md) for more information.
@@ -44,9 +44,21 @@ This page lists every export list you own or that's been shared with you, showin
 !!! tip
     Setting a list's visibility to "All Export Users" shares it with other users who have export access. Otherwise it's visible to "Only You".
 
-## Run an export
+## Run an ad hoc export
 
-There are two ways to start an export:
+An ad hoc export skips export lists entirely: you export one or more items right away, without saving them anywhere first. Use this when you just need a one-off export and don't need to reuse or share the selection later.
+
+- From a single content item, select "Export" instead of "Add to Export List".
+- While browsing or searching content, select the items you want, then choose "Export" from the bulk actions menu instead of "Add to Export List".
+
+Either way, you'll land on the same export page described below, except instead of an *Export list* dropdown you'll see a summary of the items you selected.
+
+!!! tip
+    Select "Clear Selection" on the export page to start over with a different ad hoc selection.
+
+## Run an export from a list
+
+There are two ways to start an export from a saved list:
 
 - From **Export Lists**, select "Export" next to the list you want to export.
 - From your **Dashboard**, under **Roundtrip**, select **Export Settings**, then choose a list from the *Export list* dropdown.
@@ -54,7 +66,7 @@ There are two ways to start an export:
 Either way, you'll land on the same export page. From here:
 
 1. Under *Export Settings*, choose which saved CSV export setting to use for this export. See [Export Settings](ExportSettings.md) for what these control. If you don't have one yet, select "New CSV export setting" to create one.
-2. If your list includes a collection or word list, you can select the checkbox to also include everything inside it.
+2. If your list (or ad hoc selection) includes a collection or word list, you can select the checkbox to also include everything inside it.
 3. Select "Start Export".
 
 ![The export page with a list selected under Export list, a saved CSV export setting selected under Export Settings, and the Start Export button.](../_embeds/exporting-content-run-export-01.png)
