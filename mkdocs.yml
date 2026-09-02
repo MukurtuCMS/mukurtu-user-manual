@@ -145,6 +145,10 @@ nav:
     - media/YoutubePrivacySettings.md
     - media/SoundCloudPrivacySettings.md 
     - media/MediaContentWarnings.md
+  - Publication:
+    - publication/CommentSettings.md
+    - publication/LeaveComments.md
+    - publication/ManageComments.md
   - Taxonomies:
     - taxonomies/UnderstandingTaxonomies.md
     - taxonomies/ManagingTaxonomies.md
