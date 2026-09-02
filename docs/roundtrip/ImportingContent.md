@@ -5,7 +5,7 @@ tags:
 
 # Importing Content
 
-!!! Roles "User roles" 
+!!! roles "User roles" 
     Administrator, Mukurtu manager, Roundtrip manager
 
 This article will walk you through the general steps to import a .csv metadata sheet and accompanying media assets. While the basic steps are the same for each content type, there are specifics about each type that are discussed in dedicated articles. Please refer to the article for the content type you are importing for more detail:
@@ -17,8 +17,12 @@ This article will walk you through the general steps to import a .csv metadata s
 - [Importing Word Lists](../roundtrip/WordLists.md)
 - [Importing Collections](../roundtrip/Collections.md)
 - [Importing Media Assets](../roundtrip/MediaFormatsFields.md)
+- [Importing Communities and Cultural Protocols](../roundtrip/ImportingCommunitiesAndCulturalProtocols.md)
+- [Importing Multipage Items](../roundtrip/ImportingMultipageItems.md)
+- [Importing Taxonomy Terms](../roundtrip/ImportingTaxonomyTerms.md)
+- [Importing User Accounts](../roundtrip/ImportingUserAccounts.md)
 
-!!!Requirement 
+!!! requirement
     Users must either be a Mukurtu manager or a Roundtrip manager to access roundtrip tools. Users will only be able to upload according to their protocol permissions. See [Manage User from a Site-wide role](../users/manage-user-accounts-site-wide.md) for more information.
 
 ## Upload content
@@ -29,7 +33,7 @@ To import content, go to `/admin/import` or from the dashboard, select **Import*
 
 The import page has two upload fields. The **metadata files** field is for .csv sheets only. The **media/binary files** field is for media or binary files that are referenced in the csv sheets. You can upload multiple files in each field. 
 
-!!! Requirement
+!!! requirement
     To upload media, you must upload an accompanying metadata sheet for the media asset that is separate from the content item. See [Importing Media Assets](../roundtrip/MediaFormatsFields.md) for instructions.
 
 1. Under **metadata files** select "choose files." Select the file(s) you would like to upload. 
@@ -82,7 +86,7 @@ For each column name you wish to map, open the corresponding menu and select the
 
 ![The protocol column is now mapped correctly to Cultural Protocols > Protocols](../_embeds/import-content-09.png)
 
-!!! Tip
+!!! tip
     Note that you cannot map two columns to the same field. For example, if you have two columns labeled "source," you cannot select "source" twice as a target field.
 
 #### File settings
@@ -113,4 +117,6 @@ The import review page lists all included metadata, media files and configuratio
 The import will run. When complete, a results page will populate with a success message and a list of items that imported successfully. Select the titles to view each item.
 
 ![The results page with a success message and list of imported items](../_embeds/import-content-14.png)
+
+This results page is only available right after the import runs. For a permanent history of every import you've run, see [Import Logs](ImportLogs.md).
 

@@ -210,6 +210,11 @@ nav:
       - roundtrip/WordLists.md
       - roundtrip/MediaFormatsFields.md
       - roundtrip/MediaTextFields.md
+      - roundtrip/ImportingCommunitiesAndCulturalProtocols.md
+      - roundtrip/ImportingMultipageItems.md
+      - roundtrip/ImportingTaxonomyTerms.md
+      - roundtrip/ImportingUserAccounts.md
+      - roundtrip/ImportLogs.md
     - Export:
       - roundtrip/ExportingContent.md
       - roundtrip/ExportSettings.md
