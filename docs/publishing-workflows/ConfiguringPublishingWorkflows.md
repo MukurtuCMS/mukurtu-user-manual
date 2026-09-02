@@ -13,7 +13,7 @@ Mukurtu ships with two ready-to-use publishing workflows: the [default content w
 
 ## Choose the active workflow
 
-1. From your **Dashboard**, under **Site Settings**, select **Publishing workflow**.
+1. From your **Dashboard**, under **Publication Tools**, select **Publishing workflow**.
 2. Select the radio button next to the workflow you want to activate.
 3. Select "Save".
 

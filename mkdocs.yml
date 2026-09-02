@@ -221,6 +221,11 @@ nav:
       - submission-forms/UnderstandingSubmissionForms.md
       - submission-forms/UsingSubmissionForms.md
       - submission-forms/ReviewingSubmittedContent.md
+    - Comments:
+      - comments/UnderstandingComments.md
+      - comments/ConfiguringComments.md
+      - comments/UsingComments.md
+      - comments/ReviewingComments.md
   - Mukurtu 3 Migration:
     - migration/00MigrationOverview.md
     - migration/01MigrationPlanning.md
