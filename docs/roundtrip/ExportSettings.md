@@ -40,53 +40,64 @@ From your **Dashboard**, under **Roundtrip**, select **Export Settings**, then s
 
 ### General settings
 
-- *Label*: the name shown when choosing between saved settings.
-- *Description*: optional text shown alongside the name.
-- **Visibility**: share the setting with "All export users", or keep it visible to "Only me".
+- **Label**: the name shown when choosing between saved settings.
+- **Description**: optional text shown alongside the name.
+- **Visibility**: share the setting with all users who have roundtrip permissions, or keep it visible to "Only me".
 
 ![The general settings for a new CSV export setting: Label, Description, and Visibility.](../_embeds/export-settings-general-01.png)
+
+### Configuration
+
+These settings control how references to other content are written in exported cells (for example, a taxonomy term or related content field). They don't affect the exported item's own ID or UUID columns, which are controlled per content type in *Field mappings* below.
+
+- **Select the identifier format to export**: export the **ID** (suitable for importing back into the same site) or the **UUID** (preferable when sharing data with other sites).
+- **Referenced content**, **Media**, **Taxonomy Terms**, **Users**, **Paragraphs**, and **Multipage Items** each control how that kind of reference is written to its cell. **Referenced content**, **Media**, and **Paragraphs** share the same three depth options:
+    - **Export the identifier only**: only the ID or UUID is written to the cell. The referenced item itself is not included in the export.
+    - **Export the identifier and include one level of referenced items**: the ID or UUID is written to the cell, and the referenced item is also exported. References within that item are not followed further.
+    - **Export the identifier and include referenced items recursively**: the ID or UUID is written to the cell, and the referenced item is also exported, following its own references in turn.
+
+    **Taxonomy Terms** offer those same three depth options, plus a fourth: exporting the term's **label** instead of its identifier, useful when sharing data across sites where IDs may differ. **Users** only offer two choices, with no depth option: the identifier, or the **username**. **Multipage Items** also only offer two choices: the identifier, or the identifier with the referenced item included as a separate row (there's no recursive option, since multipage items don't reference each other).
+
+![The Configuration section, showing the identifier format and reference-depth options.](../_embeds/export-settings-configuration-01.png)
+
+!!! warning
+    Following references recursively can produce very large exports. Use it with caution.
+
+- **Media asset packaging**: controls how binary files (audio, video, documents, images, and thumbnails) are included when media entities are exported. Only applies when **Media** above is set to include the referenced media.
+    - **Export the identifier only (no binary files)**: suitable when the files already exist on the destination site.
+    - **Package the binary files and export the relative path**: bundles all binary files into the export archive. Use this when moving content to another site or making a portable backup.
+    - **Package the binary files and export the referenced file entity**: bundles all binary files and also exports each file entity as a structured row. Use this for full round-trip imports where file metadata must also be imported.
+
+![The Media reference-depth options and the three Media asset packaging options.](../_embeds/export-settings-configuration-02.png)
+
+### CSV file format settings
+
+- **Field delimiter**: separates columns. Defaults to a comma (`,`).
+- **Field enclosure**: wraps field values. Defaults to a double quote (`"`).
+- **Escape character**: escapes the enclosure character within a value. Defaults to a backslash (`\`).
+- **Multi-value delimiter**: separates multiple values within a single field. Defaults to a semicolon (`;`).
+- **Local Contexts delimiter**: separates parts of an exported Local Contexts label or notice value. Defaults to `>`.
+- **Default text format**: the text format exported content is written in. Set the matching import template to the same value.
+
+![The CSV File Format Settings section, showing the field delimiter, enclosure, escape character, and other formatting fields.](../_embeds/export-settings-csv-format-01.png)
 
 ### Field mappings
 
 Fields are grouped by content and media type (Digital Heritage, Dictionary Word, Person, Place, Collection, Word List, Media, Users, Taxonomy Terms, and others). Open a group to see its fields, each with:
 
 - An **Export** checkbox to include or exclude that field.
-- Its *CSV header label*, which you can edit to rename the column in the exported file.
-- A drag-and-drop *Weight* to reorder columns.
+- Its **CSV header label**, which you can edit to rename the column in the exported file.
+
+You can drag-and-drop the field order to reorder columns.
 
 Only fields with **Export** checked are included in the CSV for that content or media type.
 
 ![The expanded Digital Heritage field mapping group, listing its fields with Export checkboxes and editable CSV header labels.](../_embeds/export-settings-field-mappings-01.png)
 
-### Configuration
-
-These settings control how references to other content are written in exported cells (for example, a taxonomy term or related content field). They don't affect the exported item's own ID or UUID columns, which are controlled per content type in *Field mappings* above.
-
-- *Select the identifier format to export*: export the **ID** (suitable for importing back into the same site) or the **UUID** (preferable when sharing data with other sites).
-- *Referenced content*, *Media*, *Taxonomy Terms*, *Users*, *Paragraphs*, and *Multipage Items* each let you choose how deeply to follow that kind of reference: export just the identifier, or also include the referenced item itself. Content, media, and paragraph references can also be followed recursively (including their own references in turn), and taxonomy terms can be exported by label instead of identifier.
-
-!!! warning
-    Following references recursively can produce very large exports. Use it with caution.
-
-- *Media asset packaging* controls whether binary files (audio, video, documents, images, and thumbnails) are bundled with the export when media is included, and whether the file's own metadata is exported as well.
-
-![The Configuration section, showing the identifier format and reference-depth options.](../_embeds/export-settings-configuration-01.png)
-
-### CSV file format settings
-
-- *Field delimiter*: separates columns. Defaults to a comma (`,`).
-- *Field enclosure*: wraps field values. Defaults to a double quote (`"`).
-- *Escape character*: escapes the enclosure character within a value. Defaults to a backslash (`\`).
-- *Multi-value delimiter*: separates multiple values within a single field. Defaults to a semicolon (`;`).
-- *Local Contexts delimiter*: separates parts of an exported Local Contexts label or notice value. Defaults to `>`.
-- *Default text format*: the text format exported content is written in. Set the matching import template to the same value.
-
-![The CSV File Format Settings section, showing the field delimiter, enclosure, escape character, and other formatting fields.](../_embeds/export-settings-csv-format-01.png)
-
 Select "Save" when done.
 
 ## Manage saved CSV export settings
 
-Users with the *Administer Import Templates* permission can select "Manage saved CSV export settings" from the export page to see every saved setting, its visibility, and description in one place, with actions to edit, duplicate, or delete each one.
+Every saved setting appears directly on the export page, each with **Edit**, **Duplicate**, and **Delete** actions. Users with the *Administer Import Templates* permission can also select "Manage saved CSV export settings" from the export page to see every saved setting, its visibility, and description in one place.
 
-![The CSV Exporter Settings page listing a saved setting named Standard export.](../_embeds/export-settings-collection-01.png)
+![The Export Settings page, listing the four default settings with their Edit, Duplicate, and Delete actions.](../_embeds/export-settings-collection-01.png)
