@@ -26,7 +26,7 @@ From your **Dashboard**, under **Media**, select **Manage Media**.
 
 ![The Operations menu for a media item expanded, showing Export, Remove from export list, and Found In.](../_embeds/exporting-media-manage-media-02.png)
 
-Both work the same way as adding content: you'll choose an existing export list, or create a new one. See [Add a single item](ExportingContent.md#add-a-single-item) for that form.
+Both work the same way as adding content: you'll choose an existing export list, or create a new one. See [Add a single item](UsingExportLists.md#add-a-single-item) for that form.
 
 ![The Add to Export List form for a media item, with an existing export list selected.](../_embeds/exporting-media-add-to-list-01.png)
 
