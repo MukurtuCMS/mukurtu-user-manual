@@ -14,17 +14,17 @@ Taxonomy terms, the vocabularies used for categories, languages, media tags, and
 
 From your **Dashboard**, under **Roundtrip**, select **Export Taxonomy**.
 
-1. Under *Taxonomies*, select the checkbox next to each vocabulary you want to export. You can select more than one.
+1. Under **Taxonomies**, select the checkbox next to each vocabulary you want to export. You can select more than one.
 2. Select "Configure Export".
 
 ![The Export Taxonomy page, listing every vocabulary as a checkbox, with Category selected.](../_embeds/exporting-taxonomies-start-01.png)
 
 ## Run the export
 
-You'll land on the same export page used for [ad hoc](ExportingContent.md#run-an-ad-hoc-export) content and media exports, showing a summary of your selected vocabularies instead of an export list. Choose a saved CSV export setting and select "Start Export". Once the export finishes, you'll reach the same Export Results page described in [Download your export](ExportingContent.md#download-your-export).
+You'll land on the same export page used for [ad hoc](ExportingContent.md#run-an-ad-hoc-export) content and media exports, showing a summary of the selected terms instead of an export list. Choose a saved CSV export setting and select "Start Export", then wait for the export to finish. You'll reach the same Export Results page described in [Run an ad hoc export](ExportingContent.md#run-an-ad-hoc-export).
 
 ![The export page showing "Exporting 1 selected item" for the selected vocabulary, with a saved CSV export setting selected and the Start Export button.](../_embeds/exporting-taxonomies-adhoc-01.png)
 
 ## Field mappings for taxonomy terms
 
-Taxonomy terms need a saved CSV export setting to run an export, the same as content and media. Each vocabulary has its own field mapping table under *Field mappings* in that setting. See [Export Settings](ExportSettings.md#field-mappings) for details.
+Taxonomy terms need a saved CSV export setting to run an export, the same as content and media. Each vocabulary has its own field mapping table under **Field mappings** in that setting. See [Export Settings](ExportSettings.md#field-mappings) for details.
