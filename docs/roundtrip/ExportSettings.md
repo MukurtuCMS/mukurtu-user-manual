@@ -56,7 +56,11 @@ These settings control how references to other content are written in exported c
     - **Export the identifier and include one level of referenced items**: the ID or UUID is written to the cell, and the referenced item is also exported. References within that item are not followed further.
     - **Export the identifier and include referenced items recursively**: the ID or UUID is written to the cell, and the referenced item is also exported, following its own references in turn.
 
-    **Taxonomy Terms** offer those same three depth options, plus a fourth: exporting the term's **label** instead of its identifier, useful when sharing data across sites where IDs may differ. **Users** only offer two choices, with no depth option: the identifier, or the **username**. **Multipage Items** also only offer two choices: the identifier, or the identifier with the referenced item included as a separate row (there's no recursive option, since multipage items don't reference each other).
+    **Taxonomy Terms** offer those same three depth options, plus a fourth: exporting the term's **label** instead of its identifier, useful when sharing data across sites where IDs may differ. 
+    
+    **Users** only offer two choices, with no depth option: the identifier, or the **username**. 
+    
+    **Multipage Items** also only offer two choices: the identifier, or the identifier with the referenced item included as a separate row (there's no recursive option, since multipage items don't reference each other).
 
 ![The Configuration section, showing the identifier format and reference-depth options.](../_embeds/export-settings-configuration-01.png)
 
