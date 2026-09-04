@@ -7,7 +7,7 @@ tags:
 # Create and Edit Basic Pages
 
 !!! roles "User roles"
-    Drupal administrator, Mukurtu manager
+    Administrator, Mukurtu manager
 
 Basic pages can be used as About pages or as other static pages on your site. Follow the instructions below to create a Basic page.
 

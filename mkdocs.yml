@@ -91,6 +91,7 @@ nav:
       - communities-cultural-protocols-categories/CreateCategories.md 
       - communities-cultural-protocols-categories/CategoryTaxonomy.md
   - Content Types:
+    - content-settings/manage-content.md
     - Digital Heritage Items:
       - digital-heritage-items/UnderstandingDigitalHeritage.md
       - digital-heritage-items/DHMetadataFields.md
@@ -147,6 +148,7 @@ nav:
   - Taxonomies:
     - taxonomies/UnderstandingTaxonomies.md
     - taxonomies/ManagingTaxonomies.md
+    - taxonomies/ManageTaxonomyPages.md
   - Users:
     - users/user-role-types.md 
     - users/creating-account-site-wide.md 
@@ -184,12 +186,12 @@ nav:
     - multilingual/ConfigureSiteLanguage.md 
     - multilingual/UserLanguage.md
   - Local Contexts:
+    - local-contexts/UnderstandingTheLocalContextsHub.md
+    - local-contexts/UnderstandingLegacyTKLabels.md
     - local-contexts/LevelsOfLocalContextsProjects.md
     - local-contexts/ManageLocalContextsProjects.md
-    - local-contexts/UnderstandingTheLocalContextsHub.md
-    - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
     - local-contexts/ViewAndManageDirectoryPages.md
-    - local-contexts/UnderstandingLegacyTKLabels.md
+    - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
   - Location and Mapping:
     - location-data/UnderstandingLocationFields.md
     - location-data/CreateMapPoints.md
@@ -209,8 +211,11 @@ nav:
       - roundtrip/MediaFormatsFields.md
       - roundtrip/MediaTextFields.md
     - Export:
-      - roundtrip/ExportingContent.md
       - roundtrip/ExportSettings.md
+      - roundtrip/UsingExportLists.md
+      - roundtrip/ExportingContent.md
+      - roundtrip/ExportingMedia.md
+      - roundtrip/ExportingTaxonomies.md
   - Publication Tools:
     - Publishing Workflows:
       - publishing-workflows/UnderstandingPublishingWorkflows.md
@@ -227,17 +232,16 @@ nav:
       - comments/UsingComments.md
       - comments/ReviewingComments.md
   - Mukurtu 3 Migration:
-    - migration/00MigrationOverview.md
-    - migration/01MigrationPlanning.md
-    - migration/02UpdateMukurtu3.md
-    - migration/03Pre-Migration.md
-    - migration/04InstallMukurtu4.md
-    - migration/05CopyMediaDirectory.md
-    - migration/06RunMigrationTool.md
-    - migration/07VerifyMigration.md
-    - migration/08CompleteConfiguration.md
-    - migration/09ConfirmSiteOperation.md
-    - migration/10DecommissionMukurtu3.md
+    - Pre-Migration:
+      - migration/MigrationOverview.md
+      - migration/PM01UpdateMukurtu3.md
+      - migration/PM02Activities.md
+    - Self-Hosted:
+      - migration/SH01Preparation.md
+      - migration/SH02InstallMukurtu4.md
+      - migration/SH03RunMigrationTool.md
+      - migration/SH04VerifyMigration.md
+      - migration/SH05DecommissionMukurtu3.md
   - Infrastructure and Maintenance:
     - infrastructure/WhyDrupal.md
     - infrastructure/SystemRequirements.md

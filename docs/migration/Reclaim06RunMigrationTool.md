@@ -51,8 +51,7 @@ When ready, click "Begin migration".
 
 ![migrate-07](../_embeds/migrate-07.png)
 
-The migration will run, showing the progress as it goes. This may take some time to run, especially on large sites. 
-DO NOT reload, refresh, close, or navigate away from this page until it is complete.
+The migration will run, showing the progress as it goes. DO NOT reload, refresh, close, or navigate away from this page until it is complete.
 
 ![migrate-08](../_embeds/migrate-08.png)
 

@@ -13,17 +13,21 @@ Mukurtu allows users to create and manage map points and areas using the embedde
 
 ## Location settings
 
-If you have location settings enabled in your browser, your map will automatically center on your location. If you do not have location settings enabled in your browser, the map will automatically center in the middle of the Atlantic Ocean. Zoom out by selecting the "-" icon to enlarge your map, or select and drag the map to a different location.
+If you have location settings enabled in your browser, your map will automatically center on your location. You can also use the locate icon in the top right to center the map on your location.
 
-![Screenshot of the map points field with location settings enabled. ](../_embeds/Mapping30.png)
+![Screenshot of the map points field with the locate icon highlighted.](../_embeds/Mapping41.png)
 
-Use the *Address search* field to search for a specific address by entering the address into the text field, then select from the options in the dropdown menu. This will not add a point to your map, but will center your map on the address.
+If you do not have location settings enabled in your browser, the map will automatically center on a zoomed out world map. Zoom in or out by selecting the "+" or "-" icons, or select and drag the map to center a different location.
+
+![Screenshot of the map points field with the zoom icons highlighted.](../_embeds/Mapping42.png)
+
+Use the *Address search* field to search for a specific address by entering the address into the text field, then select from the options in the dropdown menu. This will not add a point to your map, but will center your map on the address. You can then add points or objects to your map.
 
 ![Screenshot of the map points field with the address search highlighted.](../_embeds/Mapping40.png)
 
 ## Add map layers
 
-You can easily add map points and objects, which are referred to as "markers" and "layers" in Leaflet, to highlight features on your map, including markers, polylines, rectangles, and polygons. 
+You can easily add map points and objects, which are referred to as "markers" and "layers" in Leaflet, to highlight features on your map, including markers, polylines, rectangles, polygons, and circles. 
 
 ### Add a marker
 
@@ -59,7 +63,7 @@ Polylines are lines that consist of multiple joined points to create a path. Thi
 
 4. To finish your line, select an existing marker or select the "Finish" button. 
 
-    ![Screenshot of a polyline with the icon hovering over an existing marker.](../_embeds/Mapping7.png)
+    ![Screenshot of a polyline with an existing marker and the Finish button highlighted.](../_embeds/Mapping7.png)
 
     ![Screenshot of a completed polyline.](../_embeds/Mapping9.png)
 
@@ -132,13 +136,40 @@ Polygons can indicate a specific area. Follow the directions to add a polygon la
     !!! tip
         Label your layers as you go. You cannot select an object to label if it is underneath another layer. 
 
+### Add a circle
+
+Circles can indicate a specific area. Follow the directions to add a circle layer to your map. 
+
+1. To add a circle to your map, select the "Draw Circle" icon from the right-hand edge of your map.
+
+    ![Screenshot showing the draw circle icon.](../_embeds/circle1.png) 
+
+2. Select a location to place the center of your circle. This is similar to the process for adding a rectangle.
+
+    ![Screenshot showing the vertex with the click to place the circle's center.](../_embeds/circle2.png) 
+
+3. Move your cursor out from the circle's center to determine the size of the circle. 
+    
+    ![Screenshot of the circle with the cursor moved out to the right of center.](../_embeds/circle3.png) 
+
+4. Select the marker or the "Finish" button to finish drawing your circle. 
+
+    ![Screenshot of a circle with the marker highlighted.](../_embeds/circle4.png) 
+
+    ![Screenshot of a completed circle.](../_embeds/circle5.png) 
+
+6. For instructions on labeling your circle, see the [Label map layers](#label-map-layers) section of this article. 
+
+    !!! tip
+        Label your layers as you go. You cannot select an object to label if it is underneath another layer. 
+
 ## Label map layers
 
-Label your points, polylines, rectangles, and polygons by selecting the marker or layer and entering a location description in the *Map points description* field on the map. You must select the field to enter your text. If you do not label your marker or layer, the label will default to the name of your content on the **Browse** pages. To relabel objects or layers, simply select the object or layer you want to relabel and replace the text in the text box.
+Label your points, polylines, rectangles, polygons, and circles by selecting the marker or layer and entering a location description in the *Map points description* field on the map. You must select the field to enter your text. If you do not label your marker or layer, the label will default to the name of your content on the **Browse** pages. To relabel objects or layers, simply select the object or layer you want to relabel and replace the text in the text box.
 
 ![Screenshot of selecting a polygon to add a label.](../_embeds/Mapping37.png) 
     
-![Screenshot of adding a label to a polygon. The label says Path 1.](../_embeds/Mapping38.png)
+![Screenshot of adding a label to a polygon. The label says Polygon 1.](../_embeds/Mapping38.png)
 
 ## Edit and remove map layers
 
