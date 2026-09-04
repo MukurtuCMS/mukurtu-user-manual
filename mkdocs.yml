@@ -216,6 +216,21 @@ nav:
       - roundtrip/ExportingContent.md
       - roundtrip/ExportingMedia.md
       - roundtrip/ExportingTaxonomies.md
+  - Publication Tools:
+    - Publishing Workflows:
+      - publishing-workflows/UnderstandingPublishingWorkflows.md
+      - publishing-workflows/ConfiguringPublishingWorkflows.md
+      - publishing-workflows/UsingDefaultWorkflow.md
+      - publishing-workflows/UsingEditorialWorkflow.md
+    - Submission Forms:
+      - submission-forms/UnderstandingSubmissionForms.md
+      - submission-forms/UsingSubmissionForms.md
+      - submission-forms/ReviewingSubmittedContent.md
+    - Comments:
+      - comments/UnderstandingComments.md
+      - comments/ConfiguringComments.md
+      - comments/UsingComments.md
+      - comments/ReviewingComments.md
   - Mukurtu 3 Migration:
     - Pre-Migration:
       - migration/MigrationOverview.md
