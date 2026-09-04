@@ -97,9 +97,15 @@ Select the "Save" button to save your collection.
 
 ## Create a Collection from Content
 
-While viewing content, you can add that content to an existing collection or create a new collection. To create a collection from content, select the "Add to Collection" button above the content you want to add to a collection. 
+While browsing or viewing content, you can add that content to an existing collection or create a new collection. 
 
-![Screenshot of a digital heritage item with the add to collection button highlighted.](../_embeds/createcollections1.6.png)
+- To create a collection while browsing, select the quick action kebab menu, then select **Add to collection** from the dropdown.
+
+    ![Screenshot of the quick action kebab menu expanded and highlighted.](../_embeds/icon1.png)
+
+- To create a collection from content, select the "Add to Collection" button above the content you want to add to a collection. 
+
+    ![Screenshot of a digital heritage item with the add to collection button highlighted.](../_embeds/createcollections1.6.png)
 
 Use the Collection Name field to name your collection, then scroll down and add cultural protocols and a sharing setting. Only these limited fields are included here, but when editing the new collection later, the full set of fields will be available.
 
