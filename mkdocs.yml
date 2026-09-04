@@ -149,7 +149,7 @@ nav:
     - taxonomies/UnderstandingTaxonomies.md
     - taxonomies/ManagingTaxonomies.md
     - taxonomies/ManageTaxonomyPages.md
-  - Users:
+  - User Management:
     - users/user-role-types.md 
     - users/creating-account-site-wide.md 
     - users/create-user-accounts-community-manager.md
@@ -157,8 +157,11 @@ nav:
     - users/request-an-account.md
     - users/review-user-account-requests.md
     - users/manage-user-accounts-site-wide.md
+  - My Account:
     - users/log-in.md
     - users/UnderstandingDashboard.md
+    - users/ManageEmailNotificationPreferences.md
+    - users/ViewNotifications.md
     - users/reset-password.md
   - Site Settings:
     - site-settings/ConfigureBasicSettings.md

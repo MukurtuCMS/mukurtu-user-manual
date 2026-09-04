@@ -95,6 +95,7 @@ tags:
      - mapping
      - migration
      - multilingual
+     - notifications
      - person records
      - search
      - security
