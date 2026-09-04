@@ -187,7 +187,6 @@ nav:
     - multilingual/UserLanguage.md
   - Local Contexts:
     - local-contexts/UnderstandingTheLocalContextsHub.md
-    - local-contexts/UnderstandingLegacyTKLabels.md
     - local-contexts/LevelsOfLocalContextsProjects.md
     - local-contexts/ManageLocalContextsProjects.md
     - local-contexts/ViewAndManageDirectoryPages.md
@@ -199,17 +198,25 @@ nav:
     - roundtrip/RoundtripOverview.md
     - roundtrip/RoundtripFormatting.md
     - Import:
-      - roundtrip/ImportFormatInformation.md
-      - roundtrip/ImportingContent.md
       - roundtrip/GeneralImportInformation.md
-      - roundtrip/DHItems.md
-      - roundtrip/PersonRecords.md
-      - roundtrip/PlaceRecords.md
-      - roundtrip/Dictionary.md
-      - roundtrip/Collections.md
-      - roundtrip/WordLists.md
+      - roundtrip/ImportTemplates.md
+      - roundtrip/CSVTemplates.md
+      - Importing Content:
+        - roundtrip/ImportingContent.md
+        - roundtrip/DHItems.md
+        - roundtrip/Dictionary.md
+        - roundtrip/PersonRecords.md
+        - roundtrip/PlaceRecords.md
+        - roundtrip/Collections.md
+        - roundtrip/WordLists.md
+        - roundtrip/ImportingMultipageItems.md 
       - roundtrip/MediaFormatsFields.md
-      - roundtrip/MediaTextFields.md
+      - roundtrip/ImportingTaxonomyTerms.md
+      - Other Import Information: 
+        - roundtrip/MediaTextFields.md
+        - roundtrip/ImportingCommunitiesAndCulturalProtocols.md
+        - roundtrip/ImportingUserAccounts.md
+      - roundtrip/ImportLogs.md
     - Export:
       - roundtrip/ExportSettings.md
       - roundtrip/UsingExportLists.md

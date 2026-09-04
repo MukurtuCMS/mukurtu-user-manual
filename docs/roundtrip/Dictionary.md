@@ -10,7 +10,7 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information"). For more information on dictionary word metadata fields, refer to [Dictionary Word Metadata](../dictionary/DictionaryWordMetadata.md)
+CSV templates can be downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information"). For more information on dictionary word metadata fields, refer to [Dictionary Word Metadata](../dictionary/DictionaryWordMetadata.md)
 
 ## Dictionary words
 
@@ -52,7 +52,7 @@ Import templates can be created and downloaded from your own site at `/admin/imp
 
 ## Word entries and sample sentences
 
-Word entries and sample sentences are groups of repeatable fields that are handled as "paragraphs" in import. To include sample sentences or word entries in a dictionary word, you will need to include a corresponding spreadsheet as well. Those spreadsheets are included in this article, but please review [General Import Information > Importing Paragraphs](./GeneralImportInformation.md#paragraphs) for more information on how to format and connect the spreadsheets during an import.
+Word entries and sample sentences are groups of repeatable fields that are handled as "paragraphs" in import. To include sample sentences or word entries in a dictionary word, you will need to include a corresponding spreadsheet as well. Those spreadsheets are included in this article, but please review [General Field Information > Importing Paragraphs](./GeneralImportInformation.md#paragraphs) for more information on how to format and connect the spreadsheets during an import.
 
 - If including **Sample Sentences** and **Word Entries**, the Dictionary Word CSV and associated paragraph CSVs must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraphs to the proper dictionary word. 
 - You can use the same CSV for sample sentences that are in the main entry and in word entries. To do this, ensure they are connected properly via an ID.
@@ -61,7 +61,7 @@ Word entries and sample sentences are groups of repeatable fields that are handl
 
 |Field Name|Description|Format Information|
 |---|---|---|
-|Import ID, ID, or UUID|When importing a dictionary word and corresponding sample sentences at the same time, use an *Import ID*|See [General Import Information > Identifiers](./GeneralImportInformation.md#identifiers-name-id-uuid-import-id) for more information.|
+|Import ID, ID, or UUID|When importing a dictionary word and corresponding sample sentences at the same time, use an *Import ID*|See [General Field Information > Identifiers](./GeneralImportInformation.md#identifiers-name-id-uuid-import-id) for more information.|
 |Sample Sentence|Text entry of the sample sentence|This field is plain text and limited to 255 characters.|
 |Recording|Audio recording of the sample sentence.|ID, UUID, or title of the reference. The title must be exact and match only one item.|
 
@@ -69,7 +69,7 @@ Word entries and sample sentences are groups of repeatable fields that are handl
 
 |Field Name|Description|Format Information|
 |---|---|---|
-|Import ID, ID, or UUID|When importing a dictionary word and corresponding sample sentences at the same time, use an *Import ID*|See [General Import Information > Identifiers](./GeneralImportInformation.md#identifiers-name-id-uuid-import-id)
+|Import ID, ID, or UUID|When importing a dictionary word and corresponding sample sentences at the same time, use an *Import ID*|See [General Field Information > Identifiers](./GeneralImportInformation.md#identifiers-name-id-uuid-import-id)
 |Term|A word, term, phrase, or other language element.|This field is plain text and limited to 255 characters.|
 |Alternate Spelling|An alternate spelling of the term. Examples include historic or current variant spellings, spellings from different dialects or in different writing systems, or any other alternate spelling that will help find the dictionary word when searching.|This field is plain text and limited to 255 characters.|
 |Translation|Translations of the entry into other languages. Consider indicating the language of the translation, eg: Apple (English).|This field is plain text and limited to 255 characters, separated by your selected multi-value delimiter.|
