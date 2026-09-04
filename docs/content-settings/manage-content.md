@@ -44,7 +44,7 @@ Content filters include:
 
 - **Title**: The title of the content item - use partial or full titles
 
-- C**ontent ID**: Each content item is automatically assigned a unique ID number at creation. It can be found in the URL when editing an existing item.
+- **Content ID**: Each content item is automatically assigned a unique ID number at creation. It can be found in the URL when editing an existing item.
 
     ![The URL of an existing item shwoing the content ID](../_embeds/manage-content-03.png)
 
