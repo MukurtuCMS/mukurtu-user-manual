@@ -188,6 +188,7 @@ nav:
   - Local Contexts:
     - local-contexts/UnderstandingTheLocalContextsHub.md
     - local-contexts/UnderstandingLegacyTKLabels.md
+    - local-contexts/ConvertLegacyTKLabelsToHubLabels.md
     - local-contexts/LevelsOfLocalContextsProjects.md
     - local-contexts/ManageLocalContextsProjects.md
     - local-contexts/ViewAndManageDirectoryPages.md
