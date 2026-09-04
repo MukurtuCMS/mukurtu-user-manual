@@ -9,7 +9,7 @@ tags:
 
 ## Accessing the content Page
 
-The content page is accessible through the dashboard in the Content section, in the left-hand menu (if you're a Mukurtu manager or administrator) or by appending /admin/content to your URL (i.e. `http://mymukurtusite.org/admin/content`)
+The content page is accessible through the dashboard in the Content section, in the left-hand menu or by appending /admin/content to your URL (i.e. `http://mymukurtusite.org/admin/content`)
 
 From the dashboard:
 ![The content section of the dashboard with Manage Content highlighted](../_embeds/manage-content-01.png)
@@ -70,7 +70,7 @@ Content filters include:
 
 - **Multipage item**: Determine whether search results include all pages of a multipage item, or the first page only.
 
-- **Status**: Display all the content with the selected publishing status. Available statuses will vary depending on your publishing workflow. See: LINK to publishing worksflows
+- **Status**: Display all the content with the selected publishing status. Available statuses will vary depending on your publishing workflow. See: [Understanding Publishing Workflows](../publishing-workflows/UnderstandingPublishingWorkflows.md)
 
 To use the filters, select the parameters you want to search by, select how many items per page you want to display, and select "Search."
 
@@ -129,7 +129,7 @@ This action walks you through the export settings to export metadata, or metadat
 4. Your export results will load. Select "Download Export." Your export will download.
  
 #### Add to export list
-Export lists are lists of content that are curated with the intent of exporting the content together. Selecting "Add to export list" opens a page with options to create a new export list, or add the item to an existing export list.  LINK TO EXPORT LIST ARTICLE covers this in greater detail.
+Export lists are lists of content that are curated with the intent of exporting the content together. Selecting "Add to export list" opens a page with options to create a new export list, or add the item to an existing export list. See [Using Export Lists](../roundtrip/UsingExportLists.md) covers this in greater detail.
 
 1. Select "Add to export list" from the action menu
 
@@ -198,7 +198,7 @@ If an action is not working as expected, ensure you have the proper permission t
 
 **Delete**: This action deletes the item completely. After selecting "delete", a message will ask for confirmation. Select "execute action" and the content page will reload with a success message. The item is no longer listed.
 
-**Export**: This action walks you through the same [export](./manage-content.md#export) settings detailed above, to export your content. See also [Exporting Content]ADD LINK
+**Export**: This action walks you through the same [export](./manage-content.md#export) settings detailed above, to export your content. See also [Exporting Content](../roundtrip/ExportingContent.md)
 
 
 
