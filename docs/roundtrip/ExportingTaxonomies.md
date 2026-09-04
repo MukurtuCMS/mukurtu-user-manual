@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-Taxonomy terms, the vocabularies used for categories, languages, media tags, and other structured lists, are exported differently from content and media: there's no export list for taxonomy terms. Instead, you choose which vocabularies to export and run the export right away, similar to an [ad hoc export](ExportingContent.md#run-an-ad-hoc-export) of content or media. For what a CSV export setting controls, see [Export Settings](ExportSettings.md).
+Taxonomy terms, the vocabularies used for categories, languages, media tags, and other structured lists, are exported differently from content and media: there's no export list for taxonomy terms. Instead, you choose which vocabularies to export and run the export right away, similar to an [on the fly export](ExportingContent.md#run-an-on-the-fly-export-from-a-content-page) of content or media. For what a CSV export setting controls, see [Export Settings](ExportSettings.md).
 
 ## Choose vocabularies to export
 
@@ -21,7 +21,7 @@ From your **Dashboard**, under **Roundtrip**, select **Export Taxonomy**.
 
 ## Run the export
 
-You'll land on the same export page used for [ad hoc](ExportingContent.md#run-an-ad-hoc-export) content and media exports, showing a summary of the selected terms instead of an export list. Choose a saved CSV export setting and select "Start Export", then wait for the export to finish. You'll reach the same Export Results page described in [Run an ad hoc export](ExportingContent.md#run-an-ad-hoc-export).
+You'll land on the same export page used for [on the fly](ExportingContent.md#run-an-on-the-fly-export-from-a-content-page) content and media exports, showing a summary of the selected terms instead of an export list. Choose a saved CSV export setting and select "Start Export", then wait for the export to finish. You'll reach the same Export Results page described in [Run an on the fly export from a content page](ExportingContent.md#run-an-on-the-fly-export-from-a-content-page).
 
 ![The export page showing "Exporting 1 selected item" for the selected vocabulary, with a saved CSV export setting selected and the Start Export button.](../_embeds/exporting-taxonomies-adhoc-01.png)
 

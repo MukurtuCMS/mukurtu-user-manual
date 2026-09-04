@@ -55,7 +55,7 @@ You'll land on an Add to Export List page listing your selected items, where you
 
 ## Exporting complex content
 
-Some content is made up of, or connected to, other content: a collection contains items, a word list contains words, an item can have community records built from an original record, and a multipage item is made up of individual pages. When you add one of these to an export list, or include it in an ad hoc export, Mukurtu offers additional options for how much of the connected content to bring along.
+Some content is made up of, or connected to, other content: a collection contains items, a word list contains words, an item can have community records built from an original record, and a multipage item is made up of individual pages. When you add one of these to an export list, or include it in an on the fly export, Mukurtu offers additional options for how much of the connected content to bring along.
 
 ### Collections and word lists
 

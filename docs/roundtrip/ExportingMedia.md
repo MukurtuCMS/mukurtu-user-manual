@@ -27,14 +27,14 @@ Next, choose an existing export list, or create a new one. See [Add a single ite
 
 ![The Add to Export List form for a media item, with an existing export list selected.](../_embeds/exporting-media-add-to-list-01.png)
 
-## Run an ad hoc export
+## Run an on the fly export
 
-An ad hoc export skips export lists entirely: you export one or more media items right away, without saving them anywhere first.
+An on the fly export skips export lists entirely: you export one or more media items right away, without saving them anywhere first.
 
 - Select "Export" from a media item's actions menu.
 - To export multiple items at once, select the items you want, then choose "Export" from the bulk actions menu.
 
-Either way, you'll land on the same export page, progress screen, and results page described in [Run an ad hoc export](ExportingContent.md#run-an-ad-hoc-export).
+Either way, you'll land on the same export page, progress screen, and results page described in [Run an on the fly export from a content page](ExportingContent.md#run-an-on-the-fly-export-from-a-content-page).
 
 ## Media included with content
 
