@@ -51,7 +51,8 @@ From your **Dashboard**, under **Roundtrip**, select **Export Settings**, then s
 These settings control how references to other content are written in exported cells (for example, a taxonomy term or related content field). They don't affect the exported item's own ID or UUID columns, which are controlled per content type in *Field mappings* below.
 
 - **Select the identifier format to export**: export the **ID** (suitable for importing back into the same site) or the **UUID** (preferable when sharing data with other sites).
-- **Referenced content**, **Media**, **Taxonomy Terms**, **Users**, **Paragraphs**, and **Multipage Items** each control how that kind of reference is written to its cell. **Referenced content**, **Media**, and **Paragraphs** share the same three depth options:
+- **Referenced content**, **Media**, **Taxonomy Terms**, **Users**, **Paragraphs**, and **Multipage Items** each control how that kind of reference is written to its cell. 
+- **Referenced content**, **Media**, and **Paragraphs** share the same three depth options:
     - **Export the identifier only**: only the ID or UUID is written to the cell. The referenced item itself is not included in the export.
     - **Export the identifier and include one level of referenced items**: the ID or UUID is written to the cell, and the referenced item is also exported. References within that item are not followed further.
     - **Export the identifier and include referenced items recursively**: the ID or UUID is written to the cell, and the referenced item is also exported, following its own references in turn.
