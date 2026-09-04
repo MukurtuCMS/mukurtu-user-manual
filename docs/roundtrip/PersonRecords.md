@@ -9,7 +9,7 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information"). For more information on person records metadata fields, refer to [Create Person Records](../person-records/PersonRecords.md).
+CSV templates can be downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information"). For more information on person records metadata fields, refer to [Create Person Records](../person-records/PersonRecords.md).
 
 ## Person records
 
@@ -46,7 +46,7 @@ Include as many locations as needed.|Taxonomy term names, IDs, or UUIDs, separat
 
 ## Related People and Biography Sections
 
-Related People and Biography sections are a group of repeatable fields that are handled as "paragraphs" in import. To include this citation, you will need to include corresponding spreadsheets as well. Those spreadsheets are included in this article, but please review [General Import Information > Importing Paragraphs](../roundtrip/GeneralImportInformation.md/#paragraphs) for more information on how to format and connect the spreadsheets during an import.
+Related People and Biography sections are a group of repeatable fields that are handled as "paragraphs" in import. To include this citation, you will need to include corresponding spreadsheets as well. Those spreadsheets are included in this article, but please review [General Field Information > Importing Paragraphs](../roundtrip/GeneralImportInformation.md/#paragraphs) for more information on how to format and connect the spreadsheets during an import.
 
 If including **Related People** and **Biography Section** paragraphs, the Person record CSV and associated paragraph CSV must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraphs to the proper person record. 
 
@@ -54,7 +54,7 @@ If including **Related People** and **Biography Section** paragraphs, the Person
 
 |Field Name|Description|Format Information|
 |---|---|---|
-|Import ID, ID, or UUID|When importing a person record and corresponding related people paragraph at the same time, use an *Import ID*|See [General Import Information > Identifiers](./GeneralImportInformation.md#identifiers-name-id-uuid-import-id) for more information.|
+|Import ID, ID, or UUID|When importing a person record and corresponding related people paragraph at the same time, use an *Import ID*|See [General Field Information > Identifiers](./GeneralImportInformation.md#identifiers-name-id-uuid-import-id) for more information.|
 |Related Person|A person that has a relationship with the subject of the person record. |IDs, UUIDs, or titles of the references, separated by your selected multi-value delimiter. Each title must be exact and match only one item.|
 |Relationship type|The type of relationship between the related person and the subject of the person record.|Taxonomy term name, ID, or UUID. The name must be exact and match only one term in that vocabulary. New terms will be created if they do not already exist.|
 
@@ -62,6 +62,6 @@ If including **Related People** and **Biography Section** paragraphs, the Person
 
 |Field Name|Description|Format Information|
 |---|---|---|
-|Import ID, ID, or UUID|When importing a person record and corresponding biography section paragraph at the same time, use an *Import ID*|See [General Import Information > Identifiers](./GeneralImportInformation.md#identifiers-name-id-uuid-import-id) for more information.|
+|Import ID, ID, or UUID|When importing a person record and corresponding biography section paragraph at the same time, use an *Import ID*|See [General Field Information > Identifiers](./GeneralImportInformation.md#identifiers-name-id-uuid-import-id) for more information.|
 |Title|The title of the section.|Plain text value.|
 |Body|The body of the section.|Formatted text.|

@@ -3,12 +3,12 @@ tags:
     - roundtrip
 ---
 
-# General Import Information
+# General Field Information
 
 !!! roles "User roles" 
     Administrator, Mukurtu manager, Roundtrip manager
 
-See [Import Format Information](ImportFormatInformation.md) for how to look up a content type's fields and download a ready-made CSV template before you start.
+See [CSV Templates](CSVTemplates.md) for how to look up a content type's fields and download a ready-made CSV template before you start.
 
 ## Identifiers: Name, ID, UUID, Import ID
 
@@ -31,7 +31,8 @@ There are four kinds of identifiers that are used in various roundtrip tasks. A 
     - These are unique strings that are never repeated within the same site, and will likely never be repeated across any site ever (eg: `550e8400-e29b-41d4-a716-446655440000`).
     - They are used to reference and identify content when sending information between the site and other sites/systems without risk of repetition.
 
-> This is unrelated to the *Identifier* metadata field present in most content and media assets which is descriptive and not structural.
+!!! tip
+    This is unrelated to the *Identifier* metadata field present in most content and media assets which is descriptive and not structural.
 
 ## "Authored by" field
 
@@ -57,10 +58,6 @@ All import sheets can include an optional *Authored by* field. This is used to i
 
 - The user running the import is listed as the author.
 
-## Draft field
-
-At this time if draft field is present, all content must include a value in that field. If it is not required, omit the field entirely.
-
 ## Paragraphs
 
 Certain Mukurtu content types reference paragraphs as part of their metadata structure. Paragraphs are groups of fields that can be repeated within content allowing for more complex or nuanced content. Each type of paragraph is imported as a separate spreadsheet from it's corresponding content.
@@ -84,7 +81,7 @@ When including both a content spreadsheet and a related paragraph spreadsheet in
 1. In the paragraph spreadsheet, include an *Import ID* field (you can name it whatever you like). This is not the same as the regular ID or UUID field, it is a field that is ONLY used to connect the content during import and is not retained in the database.
 2. Assign each paragraph an identifier in that field. These identifiers can be anything that is easy to view and reference in the corresponding content spreadsheet. 
 3. In the content spreadsheet, in the appropriate paragraph field, reference the paragraphs by their *Import ID* identifiers, separating multiple paragraphs with semicolons.
-4. When mapping the paragraph import settings: 
+4. When configuring the paragraph import template: 
     - In the *Identifier Column* setting, select the *Import ID* field.
     - In the field mapping table, confirm that the *Import ID* field is set to "Ignore - Do not import".
 5. When mapping the content spreadsheet, confirm that the paragraph reference field is mapped correctly.
@@ -108,6 +105,6 @@ The process is largely the same as importing content and related paragraphs at t
 
 ![Screenshot of dictionary word and word entry spreadsheets with the import ID fields indicated.](../_embeds/paragraph-import-04.png)
 
-## Converting Mapping Formats to GeoJSON for Map Points
+## GeoJSON for Map Points
 
 If your Map Points metadata is in another format, such as ESRI Shapefiles (.shp), OpenStreetMaps (.osm), or basic latitude/longitude (usually generated from Google Maps or other mapping software), you will need to convert it to GeoJSON format before you can import it. There are several tools to do this, including web-based programs like [QuickMapTools](https://www.quickmaptools.com/convert) or command line programs like [ogr2ogr](https://ogre.adc4gis.com/) (which also has a web client). 

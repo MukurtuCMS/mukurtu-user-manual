@@ -41,4 +41,4 @@ Community-specific:
 
 - *Community Type*: the community's type taxonomy term.
 
-See [Import Format Information](ImportFormatInformation.md) for the full, current field list.
+See [CSV Templates](CSVTemplates.md) for the full, current field list.

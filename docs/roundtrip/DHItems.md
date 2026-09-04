@@ -9,7 +9,7 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information"). For more information on digital heritage metadata fields, refer to [Digital Heritage Item Metadata Fields](../digital-heritage-items/DHMetadataFields.md).
+CSV templates can be downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information"). For more information on digital heritage metadata fields, refer to [Digital Heritage Item Metadata Fields](../digital-heritage-items/DHMetadataFields.md).
 
 ## Digital heritage items
 
@@ -61,13 +61,13 @@ Import templates can be created and downloaded from your own site at `/admin/imp
 
 ## Citing Indigenous Elders and Knowledge Keepers
 
-Citing Indigenous Elders and Knowledge Keepers is a group of repeatable fields that is handled as "paragraphs" in import. To include this citation, you will need to include a corresponding spreadsheet as well. That spreadsheets are included in this article, but please review [General Import Information > Importing Paragraphs](../roundtrip/GeneralImportInformation.md/#paragraphs) for more information on how to format and connect the spreadsheets during an import.
+Citing Indigenous Elders and Knowledge Keepers is a group of repeatable fields that is handled as "paragraphs" in import. To include this citation, you will need to include a corresponding spreadsheet as well. That spreadsheets are included in this article, but please review [General Field Information > Importing Paragraphs](../roundtrip/GeneralImportInformation.md/#paragraphs) for more information on how to format and connect the spreadsheets during an import.
 
 If including **Citing Indigenous Elders and Knowledge Keepers**, the Digital Heritage Item CSV and associated paragraph CSV must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraphs to the proper digital heritage item. 
 
 |Field Name|Description|Format Information|
 |---|---|---|
-|Import ID, ID, or UUID|When importing a digital heritage item and corresponding Citing Indigenous Elders and Knowledge Keepers paragraph at the same time, use an *Import ID*|See [General Import Information > Identifiers](../roundtrip/GeneralImportInformation.md#identifiers-name-id-uuid-import-id) for more information.|
+|Import ID, ID, or UUID|When importing a digital heritage item and corresponding Citing Indigenous Elders and Knowledge Keepers paragraph at the same time, use an *Import ID*|See [General Field Information > Identifiers](../roundtrip/GeneralImportInformation.md#identifiers-name-id-uuid-import-id) for more information.|
 |Name of the Elder or Knowledge Keeper|The Knowledge Keeper's name(s), according to their personal or community preferences. This may include their appropriate title or status.|This field is plain text and limited to 255 characters.|
 |Nation or Community|Including the Knowledge Keeper's Nation or community foregrounds the importance of relationships when it comes to Indigenous knowledges and recognizes which nations hold which teachings. The nation/community element of the citation not only recognizes the important relationship of an Elder or Knowledge Keeper to their nation or community, it helps celebrate the nuances between different community teachings.|This field is plain text and limited to 255 characters.|
 |Treaty Territory|For some individuals, or in relation to some teachings, it may be important for the Knowledge Keeper to acknowledge their relationship to a treaty. This may be particularly important regarding oral teachings about land or treaty rights. Only used if applicable and indicated by the Knowledge Keeper.|This field is plain text and limited to 255 characters.|

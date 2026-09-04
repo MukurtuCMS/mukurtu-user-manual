@@ -3,12 +3,12 @@ tags:
     - roundtrip
 ---
 
-# Import Format Information
+# CSV Templates
 
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-Before running an import, use the import format information pages to see exactly which fields are available for the content type you're importing, and to download a ready-made CSV template.
+Before running an import, use these pages to see exactly which fields are available for the content type you're importing, and to download a ready-made CSV template.
 
 ## Find the format for a content type
 

@@ -19,13 +19,13 @@ To import media assets, users will use both upload fields on the import page. Th
 1. Select "Browse" from the **Metadata Files** field, then select the file(s) you would like to upload. A separate CSV sheet is required for each media asset type included in the import. For example, an import that only includes image files only needs an image metadata sheet, while an import with images, PDFs, and audio files needs three sheets, one for each media type.
 2. Select "Browse" from the **Media/Binary Files** field. Select the media file(s) you would like to upload.
 
-When you are done, select "Next" to continue on to the file configuration page. Media asset metadata imports are configured the same way as content. For specific instructions on how to configure imports, refer to the [Configure Import Settings section of the Importing Content](ImportingContent.md#configure-import-settings) article.
+When you are done, select "Next" to continue on to the file configuration page. Media asset metadata imports are configured the same way as content. For specific instructions on how to configure imports, refer to the [Import Templates](ImportTemplates.md) article.
 
 ## Media types and core metadata fields
 
 For most media imports, the following fields are the most relevant. Technical metadata fields, which apply to all media types but are not generally required for most imports, are outlined in the [Technical Metadata Fields](#technical-metadata-fields) section of this article.
 
-You can also access this information within your site following the instructions at [Import Format Information](ImportFormatInformation.md). 
+You can also access this information within your site following the instructions at [CSV Templates](CSVTemplates.md). 
 
 !!! Note
     Semicolon (;) is the default delimiter in all multi-value fields.
