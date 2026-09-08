@@ -32,7 +32,7 @@ When configuring your import, select **User** as the import type.
     Passwords are never importable. There's no field for one, and no plaintext password is ever read from or written to an import file.
 
 !!! requirement
-    The Administrator role can never be assigned through an import, and the site's original superuser account can never be created or updated this way, regardless of who runs the import.
+    The Administrator role can never be assigned through an import, and the site's original UID1 administrator account can never be created or updated this way, regardless of who runs the import.
 
 ## Community and protocol membership
 
