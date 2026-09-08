@@ -40,7 +40,7 @@ CSV templates can be downloaded from your own site at `/admin/import/format` (li
 
 ## Text Sections
 
-Text sections is a group of repeatable fields that are handled as "paragraphs" in import. To include this citation, you will need to include corresponding spreadsheets as well. That spreadsheet is included in this article, but please review [General Field Information > Importing Paragraphs](../roundtrip/GeneralImportInformation.md/#paragraphs) for more information on how to format and connect the spreadsheets during an import.
+Text sections is a group of repeatable fields that are handled as "paragraphs" in import. To include this section, you will need to include corresponding spreadsheets as well. That spreadsheet is included in this article, but please review [General Field Information > Importing Paragraphs](../roundtrip/GeneralImportInformation.md/#paragraphs) for more information on how to format and connect the spreadsheets during an import.
 
 If including **Text Sections** paragraphs, the Place record CSV and associated paragraph CSV must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraphs to the proper person record. 
 
