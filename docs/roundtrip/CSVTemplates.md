@@ -12,7 +12,7 @@ Before running an import, use these pages to see exactly which fields are availa
 
 ## Find the format for a content type
 
-From your **Dashboard**, under **Roundtrip**, select **Import format information**, or go directly to `/admin/import/format`.
+From your **Dashboard** under **Roundtrip** select **Import format information**, or go directly to `/admin/import/format`.
 
 Select a content type, media type, or other importable type to see its field list. Types are grouped by category, including Content, Media, Community, Multipage Item, Cultural Protocol, Compound Types (paragraphs), File, and Taxonomy. If you have permission to import user accounts, a User group is also listed.
 
