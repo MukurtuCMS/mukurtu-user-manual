@@ -48,7 +48,7 @@ This is useful for building a mapping ahead of time or for standardizing one for
 
 While uploading a spreadsheet during an active import, the file configuration page lists each spreadsheet you've uploaded. The custom configuration dropdown menu lists any templates whose mappings match your spreadsheet's columns, including default and custom templates. If one of those templates is close but not completely correct for the current import, you may want to select a relevant template and edit it on the fly here. You can also create a whole new import template here.
 
-Either way, you can customize your settings by selecting "customize settings."
+Either way, you can customize your settings by selecting "Customize settings."
 
 If you uploaded multiple spreadsheets, each spreadsheet will need to be configured individually following the steps below.
 
