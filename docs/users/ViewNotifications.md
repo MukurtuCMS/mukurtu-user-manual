@@ -37,4 +37,4 @@ Administrators and Mukurtu managers can view a combined log of every notificatio
 
 ![The All notifications admin log showing notifications from every user, including a Recipient column.](../_embeds/notifications-admin-01.png)
 
-This page includes the same *Date*, *Notification type*, *Activity*, and *User* columns as your personal notifications feed, plus a *Recipient* column showing who each notification was sent to. Like the personal feed, this is a permanent, read-only log.
+This page includes the same *Date*, *Notification type*, *Activity*, and *User* columns as your personal notifications feed, plus a *Recipient* column showing who each notification was sent to. Like the personal notifications feed, this is a permanent, read-only log.
