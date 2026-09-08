@@ -23,8 +23,8 @@ Mukurtu keeps a running record of activity related to your account and content i
     - **Content** – content created or deleted
     - **Roundtrip** – batch import reports
 
-!!! tip
-    Users will receive notifications and emails based on their permissions, responsibilities, and site settings. For example, only community managers and protocol stewards will receive "Memberships" notifications.
+    !!! tip
+        Users will receive notifications and emails based on their permissions, responsibilities, and site settings. For example, only community managers and protocol stewards will receive "Memberships" notifications.
 
     Clearing a checkbox only stops emails for that activity type. You'll still see all activity in your [notifications feed](ViewNotifications.md) regardless of these settings.
 
