@@ -61,7 +61,7 @@ CSV templates can be downloaded from your own site at `/admin/import/format` (li
 
 ## Citing Indigenous Elders and Knowledge Keepers
 
-Citing Indigenous Elders and Knowledge Keepers is a group of repeatable fields that is handled as "paragraphs" in import. To include this citation, you will need to include a corresponding spreadsheet as well. That spreadsheets are included in this article, but please review [General Field Information > Importing Paragraphs](../roundtrip/GeneralImportInformation.md/#paragraphs) for more information on how to format and connect the spreadsheets during an import.
+Citing Indigenous Elders and Knowledge Keepers is a group of repeatable fields that is handled as "paragraphs" in import. To include this citation, you will need to include a corresponding spreadsheet as well. That spreadsheet is included in this article, but please review [General Field Information > Importing Paragraphs](../roundtrip/GeneralImportInformation.md/#paragraphs) for more information on how to format and connect the spreadsheets during an import.
 
 If including **Citing Indigenous Elders and Knowledge Keepers**, the Digital Heritage Item CSV and associated paragraph CSV must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraphs to the proper digital heritage item. 
 
