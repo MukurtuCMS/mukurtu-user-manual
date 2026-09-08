@@ -14,7 +14,7 @@ Every import you run is recorded permanently, so you can look back at what was i
 
 From your **Dashboard**, under **Roundtrip**, select **Import Logs**.
 
-The list shows, for each file processed by an import: *Date*, *Status* (Success or Failed), *Filename*, *Destination* (the content or entity type and bundle it targeted), and a summary of *Rows* (how many were created, updated, failed, or ignored).
+The list shows for each file processed by an import: *Date*, *Status* (Success or Failed), *Filename*, *Destination* (the content or entity type and bundle it targeted), and a summary of *Rows* (how many were created, updated, failed, or ignored).
 
 !!! requirement
     By default you only see your own import history. Users with the *Administer Import Templates* permission can see everyone's, with an added *User* column showing who ran each import.
