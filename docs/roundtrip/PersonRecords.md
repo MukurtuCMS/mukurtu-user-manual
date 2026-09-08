@@ -46,7 +46,7 @@ Include as many locations as needed.|Taxonomy term names, IDs, or UUIDs, separat
 
 ## Related People and Biography Sections
 
-Related People and Biography sections are a group of repeatable fields that are handled as "paragraphs" in import. To include this citation, you will need to include corresponding spreadsheets as well. Those spreadsheets are included in this article, but please review [General Field Information > Importing Paragraphs](../roundtrip/GeneralImportInformation.md/#paragraphs) for more information on how to format and connect the spreadsheets during an import.
+Related People and Biography sections are a group of repeatable fields that are handled as "paragraphs" in import. To include these sections, you will need to include corresponding spreadsheets as well. Those spreadsheets are included in this article, but please review [General Field Information > Importing Paragraphs](../roundtrip/GeneralImportInformation.md/#paragraphs) for more information on how to format and connect the spreadsheets during an import.
 
 If including **Related People** and **Biography Section** paragraphs, the Person record CSV and associated paragraph CSV must be given unique IDs. Those IDs do not have to be uploaded, but are what you will use to tie the paragraphs to the proper person record. 
 
