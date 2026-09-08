@@ -114,3 +114,19 @@ Use the Collection Name field to name your collection, then scroll down and add 
 Select the "Save" button to save your collection. 
 
 ![Screenshot of the create collection modal with the save button highlighted.](../_embeds/fromcontent2.png)
+
+## Browse a Collection
+
+There are three different views that can be used to browse a collection: List, Grid, and Map view. The map view aggregates all of the map points data from any content in the collection and displays it on the map. 
+
+List View:
+
+![The collection page with the list view highlighted.](../_embeds/list.png)
+
+Grid View:
+
+![The collection page with the grid view highlighted.](../_embeds/grid.png)
+
+Map View: 
+
+![The collection page with the map view highlighted.](../_embeds/map.png)
