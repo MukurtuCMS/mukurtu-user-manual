@@ -32,7 +32,7 @@ There are four kinds of identifiers that are used in various roundtrip tasks. A 
     - They are used to reference and identify content when sending information between the site and other sites/systems without risk of repetition.
 
 !!! tip
-    This is unrelated to the *Identifier* metadata field present in most content and media assets which is descriptive and not structural.
+    This is unrelated to the *Identifier* metadata field present in most content and media assets, which is descriptive and not structural.
 
 ## "Authored by" field
 
