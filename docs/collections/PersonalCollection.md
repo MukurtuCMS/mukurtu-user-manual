@@ -74,7 +74,7 @@ To manage a personal collection, navigate to "Personal Collections" through the 
 
 ## Add content to a personal collection
 
-- To add content to a personal collection while browsing, select the quick action kebab menu, then select **Add to Personal Collection** from the dropdown. Then select your personal collection from the dropdown menu in the modal.
+- To add content to a personal collection while browsing, select the quick action kebab menu, then select **Add to Personal Collection** from the dropdown. Select your personal collection from the autocomplete menu in the modal.
 
     ![Screenshot of the quick action kebab menu expanded and highlighted.](../_embeds/icon2.png)
 
@@ -83,7 +83,7 @@ To manage a personal collection, navigate to "Personal Collections" through the 
 - To add content to a personal collection from content, select **Browse** or **Browse Digital Heritage** to navigate to content. 
 
     - Select the content you want to add to your personal collection.
-    - Select the "Add to personal collection" button from the menu bar of the content.
+    - Select the "Add to Personal Collection" button from the menu bar of the content.
 
     ![Screenshot of a content item with the Add to personal collection field highlighted.](../_embeds/personal2.png)
 
