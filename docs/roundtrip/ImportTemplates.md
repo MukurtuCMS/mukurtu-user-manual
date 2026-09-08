@@ -93,7 +93,7 @@ For example, if you are using "||" as a multi-value delimeter, replace
 ![The default file settings](../_embeds/import-content-11.png)
 
 ### Saving a template
-If you will be uploading other sheets that match these settings, you can save this as a template for future uploads, and these configuration steps won't have to be repeated.
+If you will be uploading other sheets that match these settings, you can save this as a template for future uploads and these configuration steps won't have to be repeated.
 
 To save a template, toggle the "Save this import configuration as a template for future imports" on and give your template a descriptive title. When you are done, select "Save." You will be returned to the file configuration page. 
 
