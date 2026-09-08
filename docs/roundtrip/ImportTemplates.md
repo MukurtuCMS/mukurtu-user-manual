@@ -42,7 +42,7 @@ Select "Add Import Template" to create a new one from scratch.
 
 ![The Add an Import Template form, showing the Label, Description, Type, Identifier Column, and source/target mapping fields.](../_embeds/import-templates-02.png)
 
-This is useful for building a mapping ahead of time, or for standardizing one for your team to reuse, without needing a sample file in hand.
+This is useful for building a mapping ahead of time or for standardizing one for your team to reuse without needing a sample file in hand.
 
 ## Configuring a template while running an import
 
