@@ -162,14 +162,15 @@ Enter a *Location*. This is a named place, or places, that are closely connected
 
 Use the **Local Contexts** field to apply Traditional Knowledge labels to your person record. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
 
-Select your Local Contexts project from the list. This field will apply all of the Labels from the selected Local Contexts Project(s) to the person record.
+To apply all of the Labels in a project, select a project from the **Local Contexts Projects** list.
+
 
 ### Local Contexts Labels and Notices
 
-Select one or more Labels from the appropriate Local Contexts Project. 
+To apply one or more labels from a project, expand one of the projects listed under **Local Contexts Labels and Notices** and select the label(s) you would like to apply.
 
 !!! tip
-    If a complete project has already been selected, do not also select individual Labels from the same project. 
+    If a complete project has already been selected, you will not be able to select individual labels from that project, since those labels have already been applied.
 
 ![Screenshot of Local Contexts project and labels fields highlighted](../_embeds/person13.png)
 

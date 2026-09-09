@@ -77,13 +77,15 @@ Select **Collection** to begin creating your collection. The remaining steps to 
 
 3. Add a *Location Description* to provide additional context and depth to the location(s) connected to the collection. This is a full HTML field that also supports additional media.
 4. Use the *Location* field to provide a taxonomic location term for your collection. This can be a named place, or places, that are closely connected to the collection. Examples include the location where a photo was taken, places named in a story, or the site where an object was created.
-5. Use the *Local Contexts* field to apply Traditional Knowledge labels to your collection. 
-    
-    !!! tip
-        To start a project or for more information on Local Contexts projects, labels, and notices, visit [Local Contexts](https://localcontexts.org/).
 
-    - Select your Local Contexts project from the dropdown. 
-    - Select Local Contexts labels and notices to assign to the collection.  
+5. Use the **Local Contexts** field to apply Traditional Knowledge labels to your collection. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
+
+    To apply all of the Labels in a project, select a project from the **Local Contexts Projects** list.
+
+    To apply one or more labels from a project, expand one of the projects listed under **Local Contexts Labels and Notices** and select the label(s) you would like to apply.
+
+    !!! tip
+        If a complete project has already been selected, you will not be able to select individual labels from that project, since those labels have already been applied.
 
     ![Screenshot of the Local Contexts field with labels and notices assigned](../_embeds/createcollections7.png)
       
