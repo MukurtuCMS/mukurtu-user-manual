@@ -12,13 +12,14 @@ Collections are a tool to group and arrange content. They can be used to provide
 
 ## Create a new collection 
 
-You can create a collection from the **Create Content** dropdown menu or from your **Dashboard**. 
+You can create a collection from the **Create Content** dropdown menu or from your **Dashboard**.
 
 ![Screenshot of the Mukurtu 4 home page with the create content and collection link highlighted.](../_embeds/createcollections1.png)
 
 ![Screenshot of the Dashboard with the add collection link highlighted in the content section.](../_embeds/createcollections1.5.png)
     
 Select **Collection** to begin creating your collection. The remaining steps to create a collection are the same.
+
 
 ## Mukurtu essentials
 
@@ -43,7 +44,7 @@ Select **Collection** to begin creating your collection. The remaining steps to 
 
     ![Screenshot of the summary and description fields with example text](../_embeds/createcollections3.png)
 
-6. Use the *Image* field to select a featured thumbnail image. This image is used on the collection page and in previews across the site, and may be drawn from content in the collection or selected to complement the collection. For instructions on how to add a thumbnail image, refer to the [Upload Media Assets: Image](../../media/ByTypeMediaUpload/Image) article. 
+6. Use the *Image* field to select a featured thumbnail image. This image is used on the collection page and in previews across the site, and may be drawn from content in the collection or selected to complement the collection. For instructions on how to add a thumbnail image, refer to the [Upload Media Assets: Image](../media/ByTypeMediaUpload/Image.md)
 
     !!! tip
         The summary, description, and thumbnail fields help users browse your collections by providing context and a more curated experience.
@@ -76,13 +77,15 @@ Select **Collection** to begin creating your collection. The remaining steps to 
 
 3. Add a *Location Description* to provide additional context and depth to the location(s) connected to the collection. This is a full HTML field that also supports additional media.
 4. Use the *Location* field to provide a taxonomic location term for your collection. This can be a named place, or places, that are closely connected to the collection. Examples include the location where a photo was taken, places named in a story, or the site where an object was created.
-5. Use the *Local Contexts* field to apply Traditional Knowledge labels to your collection. 
-    
-    !!! tip
-        To start a project or for more information on Local Contexts projects, labels, and notices, visit [Local Contexts](https://localcontexts.org/).
 
-    - Select your Local Contexts project from the dropdown. 
-    - Select Local Contexts labels and notices to assign to the collection.  
+5. Use the **Local Contexts** field to apply Traditional Knowledge labels to your collection. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
+
+    To apply all of the Labels in a project, select a project from the **Local Contexts Projects** list.
+
+    To apply one or more labels from a project, expand one of the projects listed under **Local Contexts Labels and Notices** and select the label(s) you would like to apply.
+
+    !!! tip
+        If a complete project has already been selected, you will not be able to select individual labels from that project, since those labels have already been applied.
 
     ![Screenshot of the Local Contexts field with labels and notices assigned](../_embeds/createcollections7.png)
       
@@ -93,3 +96,39 @@ Use the "Select Content" button in the **Related Content** section to add any re
 Select the "Save" button to save your collection.
 
 ![Screenshot of the published collection page.](../_embeds/createcollections8.png)
+
+## Create a Collection from Content
+
+While browsing or viewing content, you can add that content to an existing collection or create a new collection. 
+
+- To create a collection while browsing, select the quick action kebab menu, then select **Add to collection** from the dropdown.
+
+    ![Screenshot of the quick action kebab menu expanded and highlighted.](../_embeds/icon1.png)
+
+- To create a collection from content, select the "Add to Collection" button above the content you want to add to a collection. 
+
+    ![Screenshot of a digital heritage item with the add to collection button highlighted.](../_embeds/createcollections1.6.png)
+
+Use the Collection Name field to name your collection, then scroll down and add cultural protocols and a sharing setting. Only these limited fields are included here, but when editing the new collection later, the full set of fields will be available.
+
+![Screenshot of the create collection modal with the collection name filled in and the name field highlighted.](../_embeds/fromcontent1.png)
+
+Select the "Save" button to save your collection. 
+
+![Screenshot of the create collection modal with the save button highlighted.](../_embeds/fromcontent2.png)
+
+## Browse a Collection
+
+There are three different views that can be used to browse a collection: List, Grid, and Map view. The map view aggregates all of the map points data from any content in the collection and displays it on the map. 
+
+List View:
+
+![The collection page with the list view highlighted.](../_embeds/list.png)
+
+Grid View:
+
+![The collection page with the grid view highlighted.](../_embeds/grid.png)
+
+Map View: 
+
+![The collection page with the map view highlighted.](../_embeds/map.png)

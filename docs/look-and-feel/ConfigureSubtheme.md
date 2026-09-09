@@ -6,7 +6,7 @@ tags:
 # Configure Subtheme
 
 !!! roles "User role"
-    Drupal administrator
+    Administrator
 
 The most effective way to customize the look and feel of your site without having to reimplement changes is to install a subtheme. Subthemes are built off the main Mukurtu_v4 theme, and inherit the parent theme's resources while functioning like any other theme.
 

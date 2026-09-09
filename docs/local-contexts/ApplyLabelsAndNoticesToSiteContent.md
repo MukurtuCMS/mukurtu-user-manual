@@ -40,14 +40,12 @@ There are two ways to select Local Contexts labels and notices:
 
 You can apply entire projects to content, select labels and notices from within projects, or a combination of the two. 
 
-!!! Warning
-    If you select an entire project, do not also select individual labels or notices from that project, since they will be displayed twice.
 
 ## Apply an entire project
 
-The *Local Contexts Projects* field allows you to apply ALL the labels and notices within a project to your content.
+The *Local Contexts Projects* field allows you to apply ALL the labels and notices within a project to your content. 
 
-In the *Local Contexts Projects* field, select the project you wish to apply. 
+In the *Local Contexts Projects* field, select the project you wish to apply. If you select a project, you will not be able to select the projectʻs individual labels, since they have already been added.
 
 ![Local Contexts projects field with all available projects listed](../_embeds/apply-labels-01.png)
 
@@ -56,7 +54,7 @@ In the *Local Contexts Projects* field, select the project you wish to apply.
 
 The *Local Contexts Labels and Notices* field allows you to select individual labels and notices to apply to your content. 
 
-In the *Local Contexts Labels and Notices* field, select the labels and notices you wish to apply. 
+In the *Local Contexts Labels and Notices* field, select the labels and notices you wish to apply. If you select a label, then select the project the label belongs to, the label will be automatically deselected.
 
 ![Local Contexts labels and notices field with all available labels listed](../_embeds/apply-labels-02.png)
 

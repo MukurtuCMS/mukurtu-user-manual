@@ -7,7 +7,7 @@ tags:
 # Configure Font
 
 !!! roles "User role"
-    Drupal admin
+    Administrator
 
 The primary font on Mukurtu CMS is BC Sans, which was selected for its wide support of Indigenous languages. If your site requires a custom font, you can update your font from code or by installing a module such as @font-your-face.
 

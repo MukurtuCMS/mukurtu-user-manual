@@ -11,13 +11,13 @@ tags:
 
 Mukurtu supports the following media types:
 
-- [Audio files](../../media/ByTypeMediaUpload/Audio)
-- [Document files](../../media/ByTypeMediaUpload/Document)
-- [Embedded code, such as iframe embeds](../../media/ByTypeMediaUpload/ExternalEmbed)
-- [Image files](../../media/ByTypeMediaUpload/Image)
-- [SoundCloud embeds](../../media/ByTypeMediaUpload/SoundCloud)
-- [Video files](../../media/ByTypeMediaUpload/Video)
-- [YouTube and Vimeo embeds](../../media/ByTypeMediaUpload/RemoteVideo)
+- [Audio files](./ByTypeMediaUpload/Audio.md)
+- [Document files](./ByTypeMediaUpload/Document.md)
+- [Embedded code, such as iframe embeds](./ByTypeMediaUpload/ExternalEmbed.md)
+- [Image files](./ByTypeMediaUpload/Image.md)
+- [SoundCloud embeds](./ByTypeMediaUpload/SoundCloud.md)
+- [Video files](./ByTypeMediaUpload/Video.md)
+- [YouTube and Vimeo embeds](./ByTypeMediaUpload/RemoteVideo.md)
 
 The workflow for creating media assets varies somewhat for different media types or for bulk upload, but is generally consistent.
 
@@ -51,7 +51,7 @@ To add media:
 	Depending on your browser, the text of the button may vary.
 
 - To insert remote video, SoundCloud, or external embeds, copy and paste the URL or embed code. 
-- Media asset metadata for the different media types is briefly described below. For a more detailed overview, refer to the [Media Asset Metadata](MediaAssetMetadata.md) or the individual Upload Media Asset support documents.
+- Media asset metadata for the different media types is briefly described below. For a more detailed overview, refer to the [Media Asset Metadata](../media/MediaAssetMetadata.md) or the individual Upload Media Asset support documents.
 - Once your media assets are part of your media library, they can easily be added to your content.
 
 	![Screenshot of media library.](../_embeds/Media-Mukurtu.png)
@@ -76,13 +76,13 @@ Mukurtu 4 has the option to bulk add media assets. To add more than one media as
 ## Locally hosted media
 
 - Names are automatically generated from the filename of the media. 
-- *Cultural protocols* and *Sharing settings* are required. In most cases they should match the protocol and sharing setting of the content they will be used in.
+- *Cultural protocols* and *Sharing settings* are required. See [Manage Media Access with Cultural Protocols](ManageMediaAccessWithProtocols.md) for more information.
 
 ## Remotely hosted media 
 
 - Enter the URL to link to your media asset.  
 - Filenames automatically generate for remotely hosted media.
-- Make sure you select a *Sharing Setting* and *Cultural Protocol* to apply to your media. 
+- *Cultural protocols* and *Sharing settings* are required. See [Manage Media Access with Cultural Protocols](ManageMediaAccessWithProtocols.md) for more information.
 
 ## Embedded media
 

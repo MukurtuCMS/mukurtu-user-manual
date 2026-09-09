@@ -7,7 +7,7 @@ tags:
 # Configure Color Settings
 
 !!! roles "User roles"
-    Drupal administrator, Mukurtu manager
+    Administrator, Mukurtu manager
 
 Mukurtu includes two stock color palettes: Blue and Gold and Red and Bone. There is also an experimental palette customizer that allows you to configure custom colors. You can configure your color palette settings in the **Dashboard** by navigating to **Look and Feel** and selecting the **Color settings** link.
 
@@ -17,11 +17,11 @@ Mukurtu includes two stock color palettes: Blue and Gold and Red and Bone. There
 
 1. Select the radio button to the left of the **Blue Gold** or **Red Bone** palette.
 
-    ![Screenshot of the blue gold, red bone, and custom palette options with the blue gold palette selected.](../_embeds/color2.png)
+    ![Screenshot of the blue gold, red bone, and custom palette options with the red bone palette selected.](../_embeds/color2.png)
 
 2. Select the "Save" button to apply your color palette site-wide.
 
-    ![Screenshot of the edit config page design settings with the save button highlighted.](../_embeds/color8.png)
+    ![Screenshot of the edit config page design settings with the blue gold color palette selected and the save button highlighted.](../_embeds/color8.png)
 
 ## Configure the custom palette
 

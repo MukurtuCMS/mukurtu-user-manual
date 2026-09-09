@@ -7,7 +7,7 @@ tags:
 # Configure Landing Page
 
 !!! roles "User roles"
-    Drupal administrator, Mukurtu manager
+    Administrator, Mukurtu manager
 
 Mukurtu CMS includes a preconfigured landing page layout that users can personalize to reflect their organizational branding. The default layout consists of:
 

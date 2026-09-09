@@ -7,71 +7,27 @@ tags:
 # Configure Citation Field Templates
 
 !!! Roles "User roles" 
-    Drupal administrator, Mukurtu manager
+    Administrator, Mukurtu manager
 
-You can include recommended citation templates for your content in Mukurtu CMS to appear on content pages. To start configuring your citation templates, navigate to the **Site settings** section of the Dashboard and select the **Citation formats and default image** link, or go directly to `/admin/config/mukurtu/settings`.
+Mukurtu CMS allows you to configure the citation field templates for all content types using a combination of text and tokens. Tokens act as in-text placeholders with contextual values that allow the content to auto-generate a specific citation. This enables users to easily select the copy button to copy and paste citations that reference site content.
 
-![Screenshot of the Dashboard with the Citation formats and default image link highlighted.](../_embeds/citation10.png)
-
-## Sample citation formats
-
-Included below are some common citation formats that you can use for your content. You can also create your own citation format or modify these so that they are appropriate for the content on your site. The citation formats that we are basing these examples on are:
-
-- APA: [APA Formatting and Style Guide (7th Edition) from Purdue OWL](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html)
-- Chicago: [The Chicago Manual of Style Online](https://www.chicagomanualofstyle.org/home.html)
-- MLA: [MLA General Formatting and Style Guide from Purdue OWL](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html)
-
-### Collection
-
-- APA: `[Community], [Cultural Protocol]. [Collection name]. [Website name]. [URL].`
-- Chicago: `[Collection name]. [Source]. [Website name]. [URL].`
-- MLA: `[Collection name]. [Source]. [Website name]. [URL].` 
-
-### Dictionary words
-
-- APA: `[Contributor's Lastname, Firstname]. [Original date]. [Word]. In [Website name] [Language] Dictionary. [Website or organization name]. [URL].`
-- Chicago: `[Website name] [Language] Dictionary, s.v. "[Word]", [URL].`
-- MLA: `[Word]. [Contributor's Lastname, Firstname]. [Website name] [Language] Dictionary, [URL].`
-
-### Digital Heritage items
-
-- APA: `[Creator's Lastname, Firstname]. [Title]. [Original date]. [Website name], [URL].`
-- Chicago: `[Creator's Lastname, Firstname]. [Title]. [Contributor(s)]. [Publisher]. [Original date]. [Format, running time (for audio or video files; only use if applicable)]. [URL].`
-- MLA: `[Creator's Lastname, Firstname]. [Title]. [Publisher], [Original date], [URL].`
-
-### Person records
-
-- APA: `[Name]. [Biography section Title]. [Website name]. [URL].`
-- Chicago: `[Community, Cultural Protocol]. [Name]. "[Biography section Title]". [Website name]. [URL].`
-- MLA: `Name. Biography section Title. Website name. URL.`
-
-### Word lists
-
-- APA: `[Community], [Cultural Protocol]. [Word list name], [Language]. [Website name]. [URL].`
-- Chicago: `[Word list name], [Language]. [Source]. [Website name]. [URL].`
-- MLA: `[Word list name], [Language]. [Source]. [Website name]. [URL].` 
+![Screenshot of a digital heritage item with the citation copy icon highlighted.](../_embeds/citation11.png)
 
 ## Configuring templates with tokens
 
-Mukurtu CMS allows you to configure the citation field templates for all content types using tokens. Tokens act as in-text placeholders with contextual values that allow the content to auto-generate a specific citation. 
+1. To start configuring your citation templates, navigate to the **Site settings** section of the Dashboard and select the **Citation templates** link, or go directly to `/admin/config/mukurtu/citation-templates`.
 
-!!! tip
-    Tokens are only available for Drupal fields. 
+    ![Screenshot of the Dashboard with the Citation templates link highlighted.](../_embeds/citation10.png)
 
-1. Navigate to the **Citation Field Templates** section of the page and select the dropdown to open the section.
+2. Under any citation template field, select the **Browse available tokens** to browse pre-set tokens. You will generally find your fields under the **Node** section.
 
-    ![The Mukurtu Settings page with the Citation Field Templates dropdown section highlighted.](../_embeds/citation1.png)
+    ![Screenshot of the Browse available tokens modal link highlighted.](../_embeds/citation1.png)
 
-2. Under any citation template field, select the **Browse available tokens** to browse pre-set tokens.
-
-    ![Screenshot of the Browse available tokens modal link highlighted.](../_embeds/citation2.png)
+    ![Screenshot of the Browse available tokens modal with Node highlighted.](../_embeds/citation2.png)
     
-    !!! warning
-        When adding tokens to your site, use the `current-site` or `current-date` tokens. Use of the `node` tokens has the ability to break your site. 
+3. Select the pre-set tokens you wish to include in your citation. These can include tokens referencing title, creator, date, URL, or other fields.
 
-3. Select the pre-set tokens you wish to include in your citation. These can include tokens referencing title, date, URL, or other fields.
-
-    ![Screenshot of the Browse tokens modal with the current-site:title option highlighted.](../_embeds/citation3.png)
+    ![Screenshot of the Browse tokens modal with the node:title option highlighted.](../_embeds/citation3.png)
 
 4. Select the "Save Configuration" button to save your citation template.
 
@@ -81,3 +37,53 @@ Mukurtu CMS allows you to configure the citation field templates for all content
 
     ![Screenshot of the citation field on a digital heritage item.](../_embeds/citation8.png)
 
+## Sample citations
+
+Included below are some example citation formats that you can use for your content. You can create your own citation format or modify these so that they are appropriate for the content on your site. The citation formats that we are basing these examples on are:
+
+- APA: [APA Formatting and Style Guide (7th Edition) from Purdue OWL](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html)
+- Chicago: [The Chicago Manual of Style Online](https://www.chicagomanualofstyle.org/home.html)
+- MLA: [MLA General Formatting and Style Guide from Purdue OWL](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html)
+
+### Collection
+
+- `[node:title]. [node:field_source]. [site:name], [current-page:url]. Accessed [current-date:html_date].`
+
+### Dictionary words
+
+- `"[node:title]". [node:field_contributor]. In the [site:name] [node:field_dictionary_word_language] Dictionary. [site:name], [current-page:url]. Accessed [current-date:html_date].`
+
+### Digital Heritage items
+
+- `[node:field_creator]. [node:title]. [node:field_original_date]. [site:name], [current-page:url]. Accessed [current-date:html_date].`
+
+### Person records
+
+- `[node:title]. [node:mukurtu_communities]. [site:name], [current-page:url]. Accessed [current-date:html_date].`
+
+### Place records
+
+- `[node:title]. [node:mukurtu_communities]. [site:name], [current-page:url]. Accessed [current-date:html_date].`
+
+### Word lists
+
+- `[node:title]. [site:name], [current-page:url]. Accessed [current-date:html_date].`
+
+### Applicable tokens
+
+If you choose to create your own citation format, some of the tokens you might find helpful include:
+
+- Category: [node:field_category]
+- Communities: [node:mukurtu_communities]
+- Contributor: [node:field_contributor]
+- Creator: [node:field_creator]
+- Cultural Protocols: [node:mukurtu_protocols]
+- Current Date: [current-date:html_date]
+- Current Page URL: [current-page:url]
+- Dictionary Language: [node:field_dictionary_word_language]
+- Original Date: [node:field_original_date]
+- Publisher: [node:field_publisher]
+- Source: [node:field_source]
+- Title: [node:title]
+- Website Name: [site:name]
+- Website URL (landing page): [site:url]

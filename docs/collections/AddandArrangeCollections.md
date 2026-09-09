@@ -15,6 +15,10 @@ Protocol stewards and curators can curate the content within the collections the
 
 ## Add content
 
+You can add content to a collection from the collection page, a content item, or from the quick action menu while browsing.
+
+### From a collection
+
 1. Navigate to the collection you want to manage. Select the **Edit** link below the collection title.
 
     ![Screenshot of the edit link](../_embeds/curatecollections1.png)
@@ -33,6 +37,26 @@ Protocol stewards and curators can curate the content within the collections the
 5. By default, content will be displayed on the collection page in the order it was added to the collection. You can also rearrange the content if needed.
 
     To use the default order select the "Save" button at the top of the page to save your changes.
+
+### From content
+
+You can add content you are viewing to a collection.
+
+1. To add content to a collection from the content page, select the "Add to Collection" button above the content you want to add to a collection. 
+
+    ![Screenshot of a digital heritage item with the add to collection button highlighted.](../_embeds/createcollections1.6.png)
+
+2. Select the collection you want to add the content to, then select the "Add to Collection" button.
+
+### From browse
+
+You can add content to an existing collection while browsing using the quick action kebab menu. 
+
+1. To add content to a collection while browsing, select the quick action kebab menu, then select **Add to collection** from the dropdown.
+
+    ![Screenshot of the quick action kebab menu expanded and highlighted.](../_embeds/icon1.png)
+
+2. Select the collection you want to add the content to, then select the "Add to Collection" button.
 
 ## Arrange a collection 
 

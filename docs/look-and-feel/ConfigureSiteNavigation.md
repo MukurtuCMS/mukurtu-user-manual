@@ -7,7 +7,7 @@ tags:
 # Configure Site Navigation
 
 !!! roles "User roles"
-    Drupal administrator, Mukurtu manager
+    Administrator, Mukurtu manager
 
 You can configure the menus on your Mukurtu CMS site to better reflect your content and help users navigate your site. From the **Dashboard**, navigate to the **Look and Feel** section and select the **Main Navigation Menu** link. You can also navigate directly to `/admin/structure/menu/manage/main`.
 
