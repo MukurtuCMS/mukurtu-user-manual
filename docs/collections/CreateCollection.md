@@ -97,9 +97,15 @@ Select the "Save" button to save your collection.
 
 ## Create a Collection from Content
 
-While viewing content, you can add that content to an existing collection or create a new collection. To create a collection from content, select the "Add to Collection" button above the content you want to add to a collection. 
+While browsing or viewing content, you can add that content to an existing collection or create a new collection. 
 
-![Screenshot of a digital heritage item with the add to collection button highlighted.](../_embeds/createcollections1.6.png)
+- To create a collection while browsing, select the quick action kebab menu, then select **Add to collection** from the dropdown.
+
+    ![Screenshot of the quick action kebab menu expanded and highlighted.](../_embeds/icon1.png)
+
+- To create a collection from content, select the "Add to Collection" button above the content you want to add to a collection. 
+
+    ![Screenshot of a digital heritage item with the add to collection button highlighted.](../_embeds/createcollections1.6.png)
 
 Use the Collection Name field to name your collection, then scroll down and add cultural protocols and a sharing setting. Only these limited fields are included here, but when editing the new collection later, the full set of fields will be available.
 
@@ -108,3 +114,19 @@ Use the Collection Name field to name your collection, then scroll down and add 
 Select the "Save" button to save your collection. 
 
 ![Screenshot of the create collection modal with the save button highlighted.](../_embeds/fromcontent2.png)
+
+## Browse a Collection
+
+There are three different views that can be used to browse a collection: List, Grid, and Map view. The map view aggregates all of the map points data from any content in the collection and displays it on the map. 
+
+List View:
+
+![The collection page with the list view highlighted.](../_embeds/list.png)
+
+Grid View:
+
+![The collection page with the grid view highlighted.](../_embeds/grid.png)
+
+Map View: 
+
+![The collection page with the map view highlighted.](../_embeds/map.png)
