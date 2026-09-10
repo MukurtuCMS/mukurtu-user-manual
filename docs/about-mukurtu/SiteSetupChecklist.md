@@ -77,5 +77,16 @@ You can add, remove, rename, and reorder links in your main navigation menu. For
 
 ### Configure site footer
 
-You can add contact information, logos, links, and other information to your site footer. For instructions, refer to ADD A NEW ARTICLE HERE!!!
+You can add contact information, logos, links, and other information to your site footer. For instructions, refer to [Configure Site Footer](../look-and-feel/ConfigureFooter.md).
 
+## Site operations
+
+The site operations column includes includes structural tasks, such as setting up a private file system path and reviewing spam and bot protection.
+
+Some tasks in the **Site operations** column will be checked off when they are complete. You can also select **Mark as done** or **Dismiss** to mark a task as complete or to dismiss a task if it does not apply to your site.
+
+### Set up automated cron
+
+This is checked off when you build your site because cron is automatically set to run every three hours. However, it is recommended on a live site for cron to run every 15-60 minutes. For more information on configuring cron refer to [Cron Configuration](../site-maintenance/CronConfiguration.md).
+
+### Set up web analytics

@@ -9,7 +9,11 @@ tags:
 !!! roles "User role"
     Administrator, Mukurtu manager
 
-You may choose to configure your Mukurtu site footer by adding contact information, logos, links, and other information. To begin configuring this block, navigate to the **Blocks** menu in the left-hand admin sidebar or go directly to `/admin/content/block/1`.
+You may choose to configure your Mukurtu site footer by adding contact information, logos, links, and other information. To begin configuring this block, navigate to Dashboard and select the **Edit Footer** link. 
+
+![Screenshot of the dashboard with the Edit Footer link highlighted.](../_embeds/footer13.png)
+
+You can also access this setting from the **Blocks** menu in the left-hand admin sidebar or go directly to `/admin/content/block/1`.
 
 ![Screenshot of the font page with the blocks menu highlighted.](../_embeds/footer1.png)
 
