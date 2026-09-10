@@ -201,15 +201,16 @@ Include as many locations as needed. Select existing locations or add new ones. 
 
 ![Screenshot of the locations taxonomy field with terms entered.](../_embeds/dictionary-word-10.png)
 
-### Local Contexts
+### Local Contexts Projects
 
 Use the **Local Contexts** field to apply Traditional Knowledge labels to your dictionary word. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
 
-To apply all the labels of a project to your item, select a project listed under **Local Contexts Projects**
+To apply all of the Labels in a project, select a project from the **Local Contexts Projects** list.
 
-### Local Contexts Labels
 
-To select one or more labels from a project, expand one of the projects listed under **Local Contexts Labels and Notices** and select the label you would like to apply.
+### Local Contexts Labels and Notices
+
+To apply one or more labels from a project, expand one of the projects listed under **Local Contexts Labels and Notices** and select the label(s) you would like to apply.
 
 !!! tip
     If a complete project has already been selected, you will not be able to select individual labels from that project, since those labels have already been applied.

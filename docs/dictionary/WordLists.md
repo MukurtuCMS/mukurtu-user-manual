@@ -9,7 +9,7 @@ tags:
     Protocol steward, language steward, language contributor
 
 
-Word lists behave like collections, but they are exclusively for arranging dictionary words. They can be used to group words by topic, region, part of speech, etc., and provide users a more guided or curated experience. The creator of the word list can arrange the content in a structured way, provide a description of the word list, and select a featured image. Display of individual items within the collection is still controlled by their specific cultural protocols.
+Word lists behave like collections, but they are exclusively for arranging dictionary words. They can be used to group words by topic, region, part of speech, etc., and provide users a more guided or curated experience. The creator of the word list can arrange the content in a structured way, provide a description of the word list, and select a featured image. Display of individual items within the word list is still controlled by their specific cultural protocols.
 
 Follow the steps below to create a word list.
 
@@ -21,20 +21,20 @@ From the create content dropdown menu, select **word list**.
 
 ## From the dashbaord
 
-In the content section of the dashboard, select the **add word list** link.
+In the content section of the dashboard, select **add word list**.
 ![The dashboard showing the content section. The add word list link is lighlighted](../_embeds/word-lists-08.png)
 
 ## Mukurtu essentials
 
-1. Give your word list a short, descriptive name. It should give users useful information about the list when browsing or searching.
+1. Give your word list a short, descriptive *name*. It should give users useful information about the list when browsing or searching.
 
     - Maximum 255 characters
     - This is a required field
 
-2. Use the toggle to select one or more cultural protocols for your word list.
+2. Use the toggle to select one or more *cultural protocols* for your word list.
     - This is a required field
 
-3. Select a sharing setting. Sharing settings determine which users can access content when multiple protocols are applied. By default, the "All" setting will be applied.
+3. Select a *sharing setting.* Sharing settings determine which users can access content when multiple protocols are applied. By default, the "All" setting will be applied.
 
     - **All**: An item with multiple protocols may only be viewed by members of ALL assigned protocols.
 
@@ -44,7 +44,7 @@ In the content section of the dashboard, select the **add word list** link.
 
 ![Word list name, cultural protocols and sharing setting fields all filled out](../_embeds/word-lists-01.png)
 
-4. A short summary of the word list can be added as a supplement to the title. The summary is displayed in the word list preview.
+4. A short *summary* of the word list can be added as a supplement to the title. The summary is displayed in the word list preview.
 
     - Maximum 255 characters.
 
@@ -52,19 +52,17 @@ In the content section of the dashboard, select the **add word list** link.
 
     ![Summary and description fields filled out](../_embeds/word-lists-02.png)
 
-6. To add words to the word list, in the *Words* field, select "Select Content."
+6. To add words to the word list, in the *Words* field, select "Select Dictionary Word."
 
     ![The words field with select content highlighted](../_embeds/word-lists-03.png)
 
     1. A window will open that displays all available dictionary words. Enter a word in the title field and select "Apply" to narrow down your options.
 
-        ![The add words window displaying a list of dictionary words.](../_embeds/word-lists-04.png)
-
     2. Check the box next to each word you want to add to your word list and select "Add Content."
 
         ![The add words window with a list of dictionary words. The checkboxes next to the words have been checked. The add content button is highlighted](../_embeds/word-lists-05.png)
 
-    3. You will be returned to the main form with your selected words displayed. You can reorder the words by selecting and dragging them into a preferred order. To remove a word, select the trashcan icon in the top right-hand corner of each word.
+    3. You will be returned to the main form with your selected words displayed. You can reorder the words by selecting and dragging them into a preferred order. To remove a word, select the trashcan icon to the right of each word.
 
         ![The word field with two dictionary words. The trashcan icon on one of them is highlighted.](../_embeds/word-lists-06.png)
 
@@ -74,28 +72,25 @@ In the content section of the dashboard, select the **add word list** link.
 
 ## Additional Fields
 
-1. Use the *Keywords* to add any keywords to your word list. Keywords are used to tag word lists to ensure they are discoverable when searching or browsing. They are more flexible and specific than categories. Include as many keywords as needed. Select exisitng keywords or add new ones. Drag to reorder keywords. Select the "x" to delete.
+1. Use the *Keywords* to add any keywords to your word list. Keywords are used to tag word lists to ensure they are discoverable when searching or browsing. They are more flexible and specific than categories. Include as many keywords as needed. As you type, suggestions will populate from existing keywords. If the keyword youʻre looking for doesnʻt exist, hit enter to create a new one. Drag keywords to reorder them. Select the "x" to delete.
 
 2. Select *Map Points* for your word list. Map points is a detailed, interactive mapping tool that allows placing and drawing multiple locations related to a word list. This field is also used for the browse by map tools. Refer to [Create Map Points](../location-data/CreateMapPoints.md) for detailed instructions on creating map points.
 
     !!! tip
-        Note that this mapping data will be shared with the same users or visitors as the rest of the word list. If the location is sensitive, carefully consider using this field.You can include points, paths, rectangles, or polygons to indicate physical location references for your word list.
+        Note that this mapping data will be shared with the same users or visitors as the rest of the word list. If the location is sensitive, carefully consider using this field.You can include points, paths, rectangles, or polygons and circles to indicate physical location references for your word list.
 
 3. Add a *Location Description* to provide additional context and depth to the location(s) connected to the word list. This is a full HTML field that also supports additional media.
 
-4. Use the *Location* field to provide a taxonomic location term for your word list. This can be a named place, or places, that are closely connected to the word list. Examples include the place names that use words from the word list and the region where the words of the word list originated. Include as many locasions as needed. Select exisitng locations or add new ones. Drag to reorder locations. Select the "x" to delete.
+4. Use the *Location* field to provide a taxonomic location term for your word list. This can be a named place, or places, that are closely connected to the word list. Examples include the place names that use words from the word list and the region where the words of the word list originated. Include as many locations as needed. Select exisitng locations or add new ones. Drag to reorder locations. Select the "x" to delete.
 
-5. Use the *Local Contexts* field to apply Traditional Knowledge labels to your word list.
+5. Use the **Local Contexts** field to apply Traditional Knowledge labels to your word list. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
+
+    To apply all of the Labels in a project, select a project from the **Local Contexts Projects** list.
+
+    To apply one or more labels from a project, expand one of the projects listed under **Local Contexts Labels and Notices** and select the label(s) you would like to apply.
 
     !!! tip
-        To start a project or for more information on Local Contexts projects, labels, and notices, visit [Local Contexts](https://localcontexts.org/).
-
-    !!! tip
-         See [Apply Labels and Notices to Site Content](../local-contexts/ApplyLabelsAndNoticesToSiteContent.md) for more detail on applying labels and notices.
-
-    1. Select your Local Contexts project from the dropdown.
-
-    2. Select Local Contexts labels and notices to assign to the word list.
+        If a complete project has already been selected, you will not be able to select individual labels from that project, since those labels have already been applied.
 
     ![Screenshot of the Local Contexts field with labels and notices assigned](../_embeds/createcollections7.png)
 

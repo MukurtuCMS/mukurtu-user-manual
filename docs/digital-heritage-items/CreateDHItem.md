@@ -129,16 +129,17 @@ The *Description* field can include physical characteristics (i.e. photograph, m
 
 ### Local Contexts Projects
 
-Use the **Local Contexts** field to apply Traditional Knowledge labels to your collection. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
+Use the **Local Contexts** field to apply Traditional Knowledge labels to your digital heritage item. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
 
-Select your Local Contexts project from the list. This field will apply all of the Labels from the selected Local Contexts Project(s) to the digital heritage item.
+To apply all of the Labels in a project, select a project from the **Local Contexts Projects** list.
 
-### Local Contexts Labels
 
-Select one or more Labels from the appropriate Local Contexts Project. 
+### Local Contexts Labels and Notices
+
+To apply one or more labels from a project, expand one of the projects listed under **Local Contexts Labels and Notices** and select the label(s) you would like to apply.
 
 !!! tip
-    If a complete project has already been selected, do not also select individual Labels from the same project. 
+    If a complete project has already been selected, you will not be able to select individual labels from that project, since those labels have already been applied.
 
 ![Screenshot of Local Contexts project and labels fields highlighted](../_embeds/dh10.png)
 
