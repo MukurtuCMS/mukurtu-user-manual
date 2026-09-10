@@ -87,6 +87,24 @@ Some tasks in the **Site operations** column will be checked off when they are c
 
 ### Set up automated cron
 
-This is checked off when you build your site because cron is automatically set to run every three hours. However, it is recommended on a live site for cron to run every 15-60 minutes. For more information on configuring cron refer to [Cron Configuration](../site-maintenance/CronConfiguration.md).
+This is checked off when you build your site because cron is automatically set to run every hour. However, it is recommended on a live site for cron to run every 15-60 minutes. For more information on configuring cron refer to [Cron Configuration](../site-maintenance/CronConfiguration.md).
 
 ### Set up web analytics
+
+You can connect a Google Analytics or Google Tag Manager to see how visitors use your site. Mukurtu also includes a built-in Visitors report. For more information on configuring Google Analytics or Tags refer to [Configure Google Analytics](../site-settings/ConfigureGoogleAnalytics.md). 
+
+To enable or disable tracking of visitors using the Mukurtu Visitors module, navigate to your **Dashboard** in the **Site settings** section and select the **Analytics settings** link. 
+
+![Screenshot of the Dashboard with the analytics settings link highlighted.](../_embeds/setup4.png)
+
+- Tracking is enabled by default. To disable tracking, select the **Disabled** radio button, then select "Save configuration". 
+
+    ![Screenshot of the visitors configuration page.](../_embeds/setup5.png)
+
+To view analytics provided by the Mukurtu Visitors module, navigate to your **Dashboard** in the **Site settings** section and select the **Analytics** link. 
+
+![Screenshot of the dashboard with the analytics link highlighted.](../_embeds/setup6.png)
+
+### Set the private file system path
+
+Protected media and restricted downloads are served from the private file system. If the private file path is not set, protected files cannot be served safely. This is set in settings.php by whoever hosts your site. For more information refer to 
