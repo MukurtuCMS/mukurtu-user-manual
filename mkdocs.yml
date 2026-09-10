@@ -73,6 +73,7 @@ nav:
     - about-mukurtu/WhatDoesMukurtuMean.md
   - Getting Started:
     - about-mukurtu/GettingStartedWithMukurtuCMS.md 
+    - about-mukurtu/SiteSetupChecklist.md
   - Communities, Cultural Protocols, Categories:
     - communities-cultural-protocols-categories/UnderstandingCommunitiesAndCulturalProtocols.md
     - Communities:
@@ -174,6 +175,7 @@ nav:
     - look-and-feel/ConfigureLandingPage.md
     - look-and-feel/ConfigureConsentPopup.md
     - look-and-feel/CreateBasicPage.md
+    - look-and-feel/ConfigureFooter.md
     - look-and-feel/ConfigureColors.md
     - look-and-feel/ConfigureFont.md 
     - look-and-feel/ConfigureSubtheme.md
