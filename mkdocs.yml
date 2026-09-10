@@ -177,6 +177,7 @@ nav:
     - look-and-feel/ConfigureColors.md
     - look-and-feel/ConfigureFont.md 
     - look-and-feel/ConfigureSubtheme.md
+    - look-and-feel/ConfigureAccessDeniedPage.md
   - Multilingual:
     - multilingual/UnderstandingMultilingual.md 
     - multilingual/TranslationWorkflow.md

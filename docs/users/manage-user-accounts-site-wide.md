@@ -26,7 +26,7 @@ On the far right, the operations menu contains additional controls that you can 
 To edit a user's account, find their username, and select the **edit** button in their row. 
 ![User list with edit button highlighted](../_embeds/add-user-account-12.png)
 
-Make any desired edits and select **Save**. Refer to the [Create a new user account](../users/creating-account-site-wide.md) article for detail on each field.
+Make any desired edits and select **Save**. Refer to the [Create a new user account](../users/creating-account-site-wide.md) and [Manage Email Notification Preferences](../users/ManageEmailNotificationPreferences.md) articles for detail on each field.
 
 You will be returned to the user list and a success message will be displayed.
 
