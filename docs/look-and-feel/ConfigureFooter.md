@@ -93,9 +93,8 @@ You can use this section to add other links to your footer. This can provide lin
 - Use the *Contact email address* to include an email address for users to contact site administrators
 - Optionally use the *Contact email label* field, which includes text before the email address such as "Email us at". Leave this field empty to show the email address alone.
 - Use the *Copyright message* field to include a copyright message for your site. You can use the `[current-date:html_year]` token to automatically include the current year. 
-- If you have Mukurtu multilingual enabled, you may select the language you prefer the footer to appear in. For more information about Mukurtu multilingual refer to our [Mukurtu Multilingual Translation Workflow](../multilingual/TranslationWorkflow.md) article.
 
-![Screenshot of the contact email addres, email label, copyright message, and language fields.](../_embeds/footer11.png)
+![Screenshot of the contact email addres, email label, and copyright message fields.](../_embeds/footer11.png)
 
 Select the "Save" button in the top right of the page to save your footer.
 
