@@ -65,22 +65,22 @@ Use this section to add links to social media profiles. Supported platforms incl
    - Bluesky
    - Mastodon
 
-1. Select the "Add Footer Social Link" button.
+To add a social media profile link, select the "Add Footer Social Link" button.
 
     ![Screenshot of the edit content block Mukurtu footer page with the Add footer social link button highlighted.](../_embeds/footer7.png)
 
-2. Select your **Platform** from the dropdown list. 
+1. Select your **Platform** from the dropdown list. 
 
     ![Screenshot of the platform dropdown extended with all of the included platforms listed.](../_embeds/footer8.png)
 
     !!! tip
         If your platform is not listed, you can still include a link to it using the Footer Link section.
 
-3. Add your profile's URL in the *URL* field and use the *Link text* field to include any link text.
+2. Add your profile's URL in the *URL* field and use the *Link text* field to include any link text.
 
     ![Screenshot of the social media links fields with the platform selected and the URL and link text fields filled in.](../_embeds/footer9.png)
 
-4. You can add additional social media profiles by selecting the "Add Footer Social Link" button.
+3. You can add additional social media profiles by selecting the "Add Footer Social Link" button.
 
 ## Other links
 
