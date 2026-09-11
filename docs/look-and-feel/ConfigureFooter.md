@@ -56,14 +56,14 @@ Use this section to add logos to your footer. Each logo can have an option link 
 
 Use this section to add links to social media profiles. Supported platforms include:
 
-- Twitter / X
-- Facebook
-- Instagram
-- YouTube
-- LinkedIn
-- TikTok
-- Bluesky
-- Mastodon
+   - Twitter / X
+   - Facebook
+   - Instagram
+   - YouTube
+   - LinkedIn
+   - TikTok
+   - Bluesky
+   - Mastodon
 
 1. Select the "Add Footer Social Link" button.
 
