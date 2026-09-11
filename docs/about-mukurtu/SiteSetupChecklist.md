@@ -81,13 +81,13 @@ You can add contact information, logos, links, and other information to your sit
 
 ## Site operations
 
-The site operations column includes includes structural tasks, such as setting up a private file system path and reviewing spam and bot protection.
+The site operations column includes includes structural tasks, such as setting up a private file system path and reviewing spam and bot protection. Some of these settings are configured in your settings.php file by whomever hosts your site, so they should appear as checked off when your site is originally built. If they are not checked off, contact your hosting provider.
 
 Some tasks in the **Site operations** column will be checked off when they are complete. You can also select **Mark as done** or **Dismiss** to mark a task as complete or to dismiss a task if it does not apply to your site.
 
 ### Set up automated cron
 
-This is checked off when you build your site because cron is automatically set to run every hour. However, it is recommended on a live site for cron to run every 15-60 minutes. For more information on configuring cron refer to [Cron Configuration](../site-maintenance/CronConfiguration.md).
+This should be marked as done when you build your site because by default cron is automatically set to run every hour. For more information on configuring cron refer to [Cron Configuration](../site-maintenance/CronConfiguration.md).
 
 ### Set up web analytics
 
@@ -107,11 +107,11 @@ To view analytics provided by the Mukurtu Visitors module, navigate to your **Da
 
 ### Set the private file system path
 
-Protected media and restricted downloads are served from the private file system. If the private file path is not set, protected files cannot be served safely. This file path is set in settings.php by whoever hosts your site. 
+This should be marked as done when you build your site because it is configured in settings.php. Protected media and restricted downloads are served from the private file system. If the private file path is not set, protected files cannot be served safely. This file path is set in settings.php by whoever hosts your site. 
 
 ### Set trusted host patterns
 
-Trusted host patterns tell Drupal which domains may serve your site, blocking Host header spoofing. Set this in settings.php to match your site's real domain instead of leaving it open.
+This should be marked as done when you build your site because it is configured in settings.php. Trusted host patterns tell Drupal which domains may serve your site, blocking Host header spoofing. Set this in settings.php to match your site's real domain instead of leaving it open.
 
 ### Review cookie consent banner
 
@@ -120,3 +120,7 @@ Mukurtu uses Klaro to ask visitors for consent before loading third-party embeds
 ### Review spam and bot protection
 
 Mukurtu ships with CAPTCHA and Honeypot enabled. Review the settings and add reCAPTCHA or Cloudflare Turnstile keys if you want a stronger challenge on public forms.
+
+## Completing the checklist
+
+When all of the tasks on your site setup checklist are marked as complete or dismissed, this link and section on the Dashboard will disappear. 
