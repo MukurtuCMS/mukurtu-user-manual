@@ -169,6 +169,7 @@ nav:
     - site-settings/ConfigureCitationTemplates.md
     - site-settings/UnderstandingTextFormats.md
     - site-settings/ConfigureGoogleAnalytics.md
+    - site-settings/VisitorAnalytics.md
   - Look and Feel:
     - look-and-feel/ConfigureLogo.md
     - look-and-feel/ConfigureSiteNavigation.md
