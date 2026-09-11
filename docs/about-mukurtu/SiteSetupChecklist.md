@@ -107,4 +107,16 @@ To view analytics provided by the Mukurtu Visitors module, navigate to your **Da
 
 ### Set the private file system path
 
-Protected media and restricted downloads are served from the private file system. If the private file path is not set, protected files cannot be served safely. This is set in settings.php by whoever hosts your site. For more information refer to 
+Protected media and restricted downloads are served from the private file system. If the private file path is not set, protected files cannot be served safely. This file path is set in settings.php by whoever hosts your site. 
+
+### Set trusted host patterns
+
+Trusted host patterns tell Drupal which domains may serve your site, blocking Host header spoofing. Set this in settings.php to match your site's real domain instead of leaving it open.
+
+### Review cookie consent banner
+
+Mukurtu uses Klaro to ask visitors for consent before loading third-party embeds and trackers. Review the consent categories and services so the banner matches what your site actually loads.
+
+### Review spam and bot protection
+
+Mukurtu ships with CAPTCHA and Honeypot enabled. Review the settings and add reCAPTCHA or Cloudflare Turnstile keys if you want a stronger challenge on public forms.
