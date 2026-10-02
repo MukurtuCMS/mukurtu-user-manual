@@ -170,6 +170,7 @@ nav:
     - site-settings/UnderstandingTextFormats.md
     - site-settings/ConfigureGoogleAnalytics.md
     - site-settings/VisitorAnalytics.md
+    - site-settings/ConfigureCookiesAndConsentSettings.md
   - Look and Feel:
     - look-and-feel/ConfigureLogo.md
     - look-and-feel/ConfigureSiteNavigation.md
