@@ -53,7 +53,7 @@ To create dictionary words, at least one language must be added. For more inform
 
 ### Update site name and email
 
-If not already set during site installation, you can configure your site name and administrative email. For instructions, refer to [Configure Basic Site Settings](../site-settings/ConfigureBasicSettings.md).
+If not already set during site installation, you can configure your site name and administrative email. For instructions, refer to [Configure Basic Site Settings](../site-settings/index.md).
 
 ### Change site logo
 

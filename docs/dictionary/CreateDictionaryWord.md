@@ -34,7 +34,7 @@ Use the toggle to assign at least one cultural protocol to your dictionary word.
 - This is a required field.
 
 !!! Tip
-    Protocols determine a user or visitorʻs appropriate level of access to the dictionary word. For more on cultural protocols, see [Understanding Communities and Cultural Protocols](../communities-cultural-protocols-categories/UnderstandingCommunitiesAndCulturalProtocols.md).
+    Protocols determine a user or visitorʻs appropriate level of access to the dictionary word. For more on cultural protocols, see [Understanding Communities and Cultural Protocols](../communities-cultural-protocols-categories/index.md).
 
 
 ### Sharing Setting
@@ -203,7 +203,7 @@ Include as many locations as needed. Select existing locations or add new ones. 
 
 ### Local Contexts Projects
 
-Use the **Local Contexts** field to apply Traditional Knowledge labels to your dictionary word. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
+Use the **Local Contexts** field to apply Traditional Knowledge labels to your dictionary word. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/index.md) or visit [Local Contexts](https://localcontexts.org/).
 
 To apply all of the Labels in a project, select a project from the **Local Contexts Projects** list.
 

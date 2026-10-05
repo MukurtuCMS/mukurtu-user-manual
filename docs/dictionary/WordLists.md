@@ -83,7 +83,7 @@ In the content section of the dashboard, select **add word list**.
 
 4. Use the *Location* field to provide a taxonomic location term for your word list. This can be a named place, or places, that are closely connected to the word list. Examples include the place names that use words from the word list and the region where the words of the word list originated. Include as many locations as needed. Select exisitng locations or add new ones. Drag to reorder locations. Select the "x" to delete.
 
-5. Use the **Local Contexts** field to apply Traditional Knowledge labels to your word list. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
+5. Use the **Local Contexts** field to apply Traditional Knowledge labels to your word list. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/index.md) or visit [Local Contexts](https://localcontexts.org/).
 
     To apply all of the Labels in a project, select a project from the **Local Contexts Projects** list.
 

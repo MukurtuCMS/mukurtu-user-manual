@@ -33,7 +33,7 @@ Edit the *community name* and *description* as needed.
 
 ## Local Contexts description
 
-Local Contexts provides labels and notices that are applied to content. These are a combination of graphics and text that communicate standards for respectful interaction with heritage collections and data as dictated by Indigenous communities. If you are using Local Contexts labels for content within this community, you may add or update a description for Local Contexts projects. This will be displayed in the community's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md)
+Local Contexts provides labels and notices that are applied to content. These are a combination of graphics and text that communicate standards for respectful interaction with heritage collections and data as dictated by Indigenous communities. If you are using Local Contexts labels for content within this community, you may add or update a description for Local Contexts projects. This will be displayed in the community's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/index.md)
 
 ## Community page visibility
 

@@ -18,4 +18,4 @@ You can either apply new labels to content using a Local Contexts API key or lea
 Information on managing "legacy" labels in Mukurtu 4 is forthcoming.
 
 !!! Tip 
-    To learn more about Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md). To get started on the Local Contexts Hub, see [Manage Local Contexts Projects](../local-contexts/ManageLocalContextsProjects.md)
+    To learn more about Local Contexts, see [Understanding the Local Contexts Hub](index.md). To get started on the Local Contexts Hub, see [Manage Local Contexts Projects](../local-contexts/ManageLocalContextsProjects.md)

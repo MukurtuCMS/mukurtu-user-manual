@@ -60,7 +60,7 @@ Once the form is open, fill out the form.
     - **Administrator** Administrators have full access to Drupal options (the platform upon which Mukurtu is built). Assign this role with extreme caution. Note that this option is only available to administrators, not Mukurtu managers.
 
     !!! tip
-	    For more information on user roles, see [User Roles](user-role-types.md)
+	    For more information on user roles, see [User Roles](index.md)
 
 7. To notify other users of this account, expand the **Notify other users of this account** section. Use the toggle/checkboxes to:
     - Notify all Mukurtu managers
