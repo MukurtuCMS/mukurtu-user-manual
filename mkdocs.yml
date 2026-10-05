@@ -123,7 +123,7 @@ nav:
     - Multipage Items:
         - digital-heritage-items/MultipageItems.md 
   - Content Settings:
-    - index.md
+    - content-settings/index.md
     - content-settings/MultipageItemConfiguration.md
   - Media:
     - media/index.md 
@@ -251,5 +251,5 @@ nav:
     - site-maintenance/CronConfiguration.md
   - FAQs:
     - faqs/DatabasePrivacy.md
-  - Tags: tags.md
+#  - Tags: tags.md
   - Download the User Manual: DownloadManual.md
