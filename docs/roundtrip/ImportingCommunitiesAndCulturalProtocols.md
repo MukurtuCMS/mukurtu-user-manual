@@ -29,7 +29,7 @@ Communities and cultural protocols share most of the same fields:
 - *Banner Image*, *Thumbnail Image*: File ID and Alternative text for each.
 - *Featured Content*: content featured on the community or protocol page.
 - *Membership Display*: whether the member list is shown publicly.
-- *Local Contexts API key*, *Local Contexts Description*: for connecting to a Local Contexts Hub project. See [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md).
+- *Local Contexts API key*, *Local Contexts Description*: for connecting to a Local Contexts Hub project. See [Understanding the Local Contexts Hub](../local-contexts/index.md).
 - *Authored by*, *Created*, *Published*, *Locale*, *Default translation*, *ID*, *UUID*: standard metadata and identifier fields, the same as content.
 
 Cultural protocols also have:

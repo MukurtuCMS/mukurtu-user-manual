@@ -35,7 +35,7 @@ Unnecessary or unwanted categories can be merged into other categories, so that 
 Follow the instructions to merge your categories. 
 
 !!! tip
-    For more information on taxonomies in Mukurtu, visit [Understanding Taxonomies](../taxonomies/UnderstandingTaxonomies.md). For instructions on how to manage taxonomies, visit [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md).
+    For more information on taxonomies in Mukurtu, visit [Understanding Taxonomies](../taxonomies/index.md). For instructions on how to manage taxonomies, visit [Managing Taxonomies](../taxonomies/ManagingTaxonomies.md).
 
 1. To manage the category taxonomy, navigate to your **Dashboard**. 
 2. Under the **Taxonomies** heading select the **Manage taxonomies** link, then select the "List terms button to the right of the **Category** option. You can also navigate directly to `/admin/structure/taxonomy/manage/category/overview`. 

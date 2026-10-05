@@ -7,7 +7,7 @@ tags:
 
 Local Context projects can be added at three different levels: site-wide, per community, and per protocol. This helps determine who can apply the labels and notices in the project. Users who can create and edit content will be able to apply labels and notices, provided they are in a community or protocol that has projects added.
 
-See [Understanding the Local Contexts Hub](./UnderstandingTheLocalContextsHub.md) for more information on Local Contexts labels and notices.
+See [Understanding the Local Contexts Hub](index.md) for more information on Local Contexts labels and notices.
 
 ## Site-wide projects
 

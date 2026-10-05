@@ -7,6 +7,7 @@ theme:
   custom_dir: docs/_overrides
   features:
     - search.suggest
+    - navigation.indexes
   palette:
     # Light Mode
     - scheme: default
@@ -46,7 +47,7 @@ plugins:
   - exporter:
       formats:
         pdf:
-          enabled: !ENV [MKDOCS_EXPORTER_PDF, false] #re-enable as true when ready
+          enabled: !ENV [MKDOCS_EXPORTER_PDF, true] 
           concurrency: 8
           aggregator:
             enabled: false #re-enable as true when ready
@@ -69,13 +70,11 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       
 nav:
-  - About Mukurtu: 
-    - about-mukurtu/WhatDoesMukurtuMean.md
   - Getting Started:
-    - about-mukurtu/GettingStartedWithMukurtuCMS.md 
-    - about-mukurtu/SiteSetupChecklist.md
+    - getting-started/index.md 
+    - getting-started/SiteSetupChecklist.md
   - Communities, Cultural Protocols, Categories:
-    - communities-cultural-protocols-categories/UnderstandingCommunitiesAndCulturalProtocols.md
+    - communities-cultural-protocols-categories/index.md
     - Communities:
       - communities-cultural-protocols-categories/CreateACommunityAndInitialCulturalProtocol.md
       - communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md
@@ -92,27 +91,27 @@ nav:
       - communities-cultural-protocols-categories/CreateCategories.md 
       - communities-cultural-protocols-categories/CategoryTaxonomy.md
   - Content Types:
-    - content-settings/manage-content.md
+    - content-types/index.md
     - Digital Heritage Items:
-      - digital-heritage-items/UnderstandingDigitalHeritage.md
+      - digital-heritage-items/index.md
       - digital-heritage-items/DHMetadataFields.md
       - digital-heritage-items/CreateDHItem.md
     - Dictionary Words:
-      - dictionary/UnderstandingTheDictionary.md
+      - dictionary/index.md
       - dictionary/ConfigureTheDictionary.md
       - dictionary/DictionaryRoles.md
       - dictionary/DictionaryWordMetadata.md
       - dictionary/CreateDictionaryWord.md
     - Person Records:
-      - person-records/UnderstandingPersonRecords.md
+      - person-records/index.md
       - person-records/PersonRecords.md
       - person-records/ConfigurePersonRecord.md
     - Place Records:
-      - place-records/UnderstandingPlaceRecords.md
+      - place-records/index.md
       - place-records/CreatePlaceRecord.md
       - place-records/ConfigurePlaceRecord.md
     - Collections:
-      - collections/UnderstandingCollections.md
+      - collections/index.md.md
       - collections/CreateCollection.md 
       - collections/AddandArrangeCollections.md
       - collections/SubcollectionOrganization.md
@@ -123,11 +122,11 @@ nav:
       - digital-heritage-items/CreateCommunityRecord.md
     - Multipage Items:
         - digital-heritage-items/MultipageItems.md 
-        - content-settings/MultipageItemConfiguration.md
   - Content Settings:
-    - TBD
+    - index.md
+    - content-settings/MultipageItemConfiguration.md
   - Media:
-    - media/UnderstandingMediaAssets.md 
+    - media/index.md 
     - media/CreateMediaAssets.md 
     - Upload Media Assets:
       - media/ByTypeMediaUpload/Audio.md
@@ -147,11 +146,11 @@ nav:
     - media/SoundCloudPrivacySettings.md 
     - media/MediaContentWarnings.md
   - Taxonomies:
-    - taxonomies/UnderstandingTaxonomies.md
+    - taxonomies/index.md
     - taxonomies/ManagingTaxonomies.md
     - taxonomies/ManageTaxonomyPages.md
   - User Management:
-    - users/user-role-types.md 
+    - users/index.md 
     - users/creating-account-site-wide.md 
     - users/create-user-accounts-community-manager.md
     - users/manage-user-account-registration.md
@@ -159,18 +158,19 @@ nav:
     - users/review-user-account-requests.md
     - users/manage-user-accounts-site-wide.md
   - My Account:
-    - users/log-in.md
+    - my-account/index.md
     - users/UnderstandingDashboard.md
     - users/ManageEmailNotificationPreferences.md
     - users/ViewNotifications.md
     - users/reset-password.md
   - Site Settings:
-    - site-settings/ConfigureBasicSettings.md
+    - site-settings/index.md
     - site-settings/ConfigureCitationTemplates.md
     - site-settings/UnderstandingTextFormats.md
     - site-settings/ConfigureGoogleAnalytics.md
     - site-settings/ConfigureCookiesAndConsentSettings.md
   - Look and Feel:
+    - look-and-feel/index.md
     - look-and-feel/ConfigureLogo.md
     - look-and-feel/ConfigureSiteNavigation.md
     - look-and-feel/ConfigureLandingPage.md
@@ -182,7 +182,7 @@ nav:
     - look-and-feel/ConfigureSubtheme.md
     - look-and-feel/ConfigureAccessDeniedPage.md
   - Multilingual:
-    - multilingual/UnderstandingMultilingual.md 
+    - multilingual/index.md 
     - multilingual/TranslationWorkflow.md
     - multilingual/EnableMultilingualModule.md
     - multilingual/UITranslation.md
@@ -193,16 +193,16 @@ nav:
     - multilingual/ConfigureSiteLanguage.md 
     - multilingual/UserLanguage.md
   - Local Contexts:
-    - local-contexts/UnderstandingTheLocalContextsHub.md
+    - local-contexts/index.md
     - local-contexts/LevelsOfLocalContextsProjects.md
     - local-contexts/ManageLocalContextsProjects.md
     - local-contexts/ViewAndManageDirectoryPages.md
     - local-contexts/ApplyLabelsAndNoticesToSiteContent.md
   - Location and Mapping:
-    - location-data/UnderstandingLocationFields.md
+    - location-data/index.md
     - location-data/CreateMapPoints.md
   - Roundtrip:
-    - roundtrip/RoundtripOverview.md
+    - roundtrip/index.md
     - roundtrip/RoundtripFormatting.md
     - Import:
       - roundtrip/GeneralImportInformation.md
@@ -231,8 +231,8 @@ nav:
       - roundtrip/ExportingMedia.md
       - roundtrip/ExportingTaxonomies.md
   - Mukurtu 3 Migration:
+    - migration/index.md
     - Pre-Migration:
-      - migration/MigrationOverview.md
       - migration/PM01UpdateMukurtu3.md
       - migration/PM02Activities.md
     - Self-Hosted:
@@ -252,4 +252,4 @@ nav:
   - FAQs:
     - faqs/DatabasePrivacy.md
   - Tags: tags.md
-  # - Download the User Manual: DownloadManual.md
+  - Download the User Manual: DownloadManual.md

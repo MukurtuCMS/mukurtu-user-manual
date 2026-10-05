@@ -26,8 +26,8 @@ The Local Contexts Hub is a web portal that allows users to create and customize
 For detailed instructions on setting up a profile and account on the Hub and creating  your first project, visit the Local Contexts article [Getting Started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/).
 
 ## How does Local Contexts integrate with Mukurtu?
-Local Contexts projects and their labels can be added to any community, protocol, or site using the API key generated for your account in the Local Contexts Hub. For more about how project integration at different levels works, see [Levels of Local Contexts Projects](./LevelsOfLocalContextsProjects.md).
+Local Contexts projects and their labels can be added to any community, protocol, or site using the API key generated for your account in the Local Contexts Hub. For more about how project integration at different levels works, see [Levels of Local Contexts Projects](LevelsOfLocalContextsProjects.md).
 
-To add a Local Contexts project, see [Manage Local Contexts Projects](./ManageLocalContextsProjects.md)
+To add a Local Contexts project, see [Manage Local Contexts Projects](ManageLocalContextsProjects.md)
 
 

@@ -11,7 +11,7 @@ tags:
 
 Local Contexts projects can be managed at three different levels: site-wide, per community, and per protocol. This article provides instructions for adding and managing projects at each level. For more about how projects work in Mukurtu, see [Levels of Local Contexts Projects](./LevelsOfLocalContextsProjects.md).
 
-To learn more about Local Contexts, and the Local Contexts Hub see [Understanding the Local Contexts Hub](./UnderstandingTheLocalContextsHub.md)
+To learn more about Local Contexts, and the Local Contexts Hub see [Understanding the Local Contexts Hub](index.md)
 
 !!! Requirement
     The following steps can only be applied after you've created a Local Contexts profile and account, configured your labels within projects, and generated a unique API key. To learn more about this process, and configure your labels, visit [Getting Started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/).
@@ -65,7 +65,7 @@ To add an API key to a protocol, as a protocol steward, navigate to the protocol
     Only projects with labels that are not in use can be removed. Remove labels from all items before attempting to delete a project. 
    
 !!! Tip
-    Use the filters on the content manage page to find content using labels from projects you wish to remove. See [Manage Content](../content-settings/manage-content.md)
+    Use the filters on the content manage page to find content using labels from projects you wish to remove. See [Manage Content](../content-types/index.md)
 
 6. To remove a project, select the box next to the project name. 
 

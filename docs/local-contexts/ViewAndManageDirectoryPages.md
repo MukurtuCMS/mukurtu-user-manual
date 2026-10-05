@@ -11,7 +11,7 @@ tags:
 
 The Local Contexts directory provides information about Local Contexts projects and their accompanying labels and notices. Each directory page displays all the relevant projects, along with their labels and notices, grouped by project and type.
 
-To learn more about Local Contexts, and the Local Contexts Hub see [Understanding the Local Contexts Hub](./UnderstandingTheLocalContextsHub.md)
+To learn more about Local Contexts, and the Local Contexts Hub see [Understanding the Local Contexts Hub](index.md)
 
 !!! Requirement
     To use the directory you must first create a Local Contexts profile and account, configure your labels within projects, generate a unique API key, and add that key to your site. To learn more about this process, and configure your labels, visit [Getting Started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/). To add an API key to your site, see [Manage Local Contexts Projects](ManageLocalContextsProjects.md) for instructions. 

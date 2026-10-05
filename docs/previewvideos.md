@@ -17,7 +17,7 @@ See also: [Github Issues](https://github.com/MukurtuCMS/Mukurtu-CMS/issues)
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1119883141?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Mukurtu 4 Preview: User Roles"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-See also: [User Roles](./users/user-role-types.md)
+See also: [User Roles](users/index.md)
 
 ### Cultural Protocol Requirements
 
@@ -50,14 +50,14 @@ See also: [External Embeds](./media/ByTypeMediaUpload/ExternalEmbed.md)
 
 See also:
 
-- [Understanding Digital Heritage Items](./digital-heritage-items/UnderstandingDigitalHeritage.md)
+- [Understanding Digital Heritage Items](digital-heritage-items/index.md)
 - [More Than Personal Communication: Templates For Citing Indigenous Elders and Knowledge Keepers](https://kula.uvic.ca/index.php/kula/article/view/135)
 
 ### Dictonary Words
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1128313676?h=985e28a855&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Mukurtu 4 Preview: Dictionary Words"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-See also: [Dictionary Words](./dictionary/UnderstandingTheDictionary.md)
+See also: [Dictionary Words](dictionary/index.md)
 
 ## Tools
 ### Mapping
@@ -73,4 +73,4 @@ See also: [Mapping](./location-data/CreateMapPoints.md)
 See also: 
 
 - [Getting started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/) 
-- [Understanding The Local Contexts Hub](./local-contexts/UnderstandingTheLocalContextsHub.md)
+- [Understanding The Local Contexts Hub](local-contexts/index.md)

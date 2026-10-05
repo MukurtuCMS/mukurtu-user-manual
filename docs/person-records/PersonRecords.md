@@ -160,7 +160,7 @@ Enter a *Location*. This is a named place, or places, that are closely connected
 
 ### Local Contexts Projects
 
-Use the **Local Contexts** field to apply Traditional Knowledge labels to your person record. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md) or visit [Local Contexts](https://localcontexts.org/).
+Use the **Local Contexts** field to apply Traditional Knowledge labels to your person record. To start a project or for more information refer to [Understanding the Local Contexts Hub](../local-contexts/index.md) or visit [Local Contexts](https://localcontexts.org/).
 
 To apply all of the Labels in a project, select a project from the **Local Contexts Projects** list.
 
