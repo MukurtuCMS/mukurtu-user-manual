@@ -50,7 +50,7 @@ plugins:
           enabled: !ENV [MKDOCS_EXPORTER_PDF, true] 
           concurrency: 8
           aggregator:
-            enabled: false #re-enable as true when ready
+            enabled: true
             output: mukurtu-user-manual.pdf
             covers: all
       buttons:
