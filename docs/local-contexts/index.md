@@ -1,6 +1,6 @@
 ---
 tags:
-    - Local Contexts
+    - local contexts
 ---
 
 # Understanding the Local Contexts Hub
