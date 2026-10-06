@@ -92,7 +92,7 @@ Select the **Details** link to navigate to the access log.
 
 ### Performance
 
-Performance provides a weekly, daily, or hourly breakdown of the 
+Performance provides a weekly, daily, or hourly breakdown of the following metrics:
 
 - Network
 - Server
@@ -100,3 +100,37 @@ Performance provides a weekly, daily, or hourly breakdown of the
 - DOM Processing
 - DOM Complete
 - On Load
+
+[Screenshot of the Performance page with the Weekly view selected.](../_embeds/visitors11.png)
+
+### Recent hits
+
+Recent hits provides a breakdown of recent visits to specific pages. Select the **Details** link to view the access log.
+
+### Referrers
+
+Referrers provides a list of the links that visitors followed to navigate to a specific page. Referrers can be filtered by External pages, Internal pages, or All pages. 
+
+### Routes
+
+Routes maps the ways that visitors were directed to specific pages throughout the site. Select the **Details** link to view the access log.
+
+### Top Pages
+
+Top pages provides a list of your site's most recently visited paths and how many unique hits that path had.
+
+### Locations
+
+Locations provides a breakdown of your site's unique visitors by location, including the continent, country, and language. If you have configured [GeoIP](#enable-geoip), more granular regional information such as region and city data will be available. If you have not configured GeoIP, these will be listed as "Unknown, Country".
+
+### Devices
+
+Devices provides a breakdown of your site's unique visitors by device, including whether the site was accessed by desktop or smartphone, as well as the device model, the brand, and the configuration or resolution that the site was displayed. 
+
+### Software
+
+Software provides a breakdown of your site's unique visitors by software, including their operating system, operating system families, browser and browser version, configurations and resolution, and browser engines. Software also includes Cookie and PDF information.
+
+### Times
+
+Times provides a breakdown of daily visits, as well as a comparison of visits by the visitor's local time zone, the site administrator's time zone, and visits based on the day of the week and the month. A record of overall monthly visits is also included. 
