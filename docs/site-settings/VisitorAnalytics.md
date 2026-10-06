@@ -105,7 +105,7 @@ Performance provides a weekly, daily, or hourly breakdown of the following metri
 
 ### Recent hits
 
-Recent hits provides a breakdown of recent visits to specific pages. Select the **Details** link to view the access log.
+Recent hits provides a breakdown of recent visits to specific pages. Use the *Path* field to search for specific paths. Select the **Details** link to view the access log.
 
 [Screenshot of the recent hits page with the details link highlighted.](../_embeds/visitors12.png)
 
@@ -139,7 +139,7 @@ Devices provides a breakdown of your site's unique visitors by device, including
 
 Select the "Configuration" button to display the configuration.
 
-[Screenshot of the devices page with the configuration button highlighted.](../_embeds/visitors17.png)
+[Screenshot of the devices page.](../_embeds/visitors17.png)
 
 
 ### Software
@@ -148,7 +148,7 @@ Software provides a breakdown of your site's unique visitors by software, includ
 
 Select the "Operating System Families", "Browser Version", or "Resolution" buttons to display that information.
 
-[Screenshot of the software page with the operating system families, browser, and resolution buttons highlighted..](../_embeds/visitors18.png)
+[Screenshot of the software page.](../_embeds/visitors18.png)
 
 
 ### Times
