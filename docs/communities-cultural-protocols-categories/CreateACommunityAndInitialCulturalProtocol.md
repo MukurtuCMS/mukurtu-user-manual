@@ -118,7 +118,7 @@ Once you have created a community, you will be directed to create a cultural pro
         Users must be a member of the protocol's parent community before they can be enrolled in the protocol.
 
     !!! tip
-        For more in-depth information about user roles, see [User Role Types](../users/user-role-types.md)
+        For more in-depth information about user roles, see [User Role Types](../users/index.md)
 
 ### Add protocol members and assign roles
     

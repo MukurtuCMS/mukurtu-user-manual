@@ -151,7 +151,7 @@ This article covers two other methods for creating a cultural protocol: from the
     - **Protocol stewards** can manage protocol membership, add edit and delete all content and media assets, manage the look and feel of the protocol page, and manage Local Contexts labels and notices.
 
     !!!Tip
-        See [User Roles](../users/user-role-types.md) for more detail on protocol user roles.
+        See [User Roles](../users/index.md) for more detail on protocol user roles.
 
 6. To add new members, use the search bar to search for users. Existing community members will display, and options will narrow as you type. 
 

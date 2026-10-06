@@ -10,7 +10,7 @@ When a site is built a default administrator account is created. This account ex
 ## Users
 There are many different roles and responsibilities available to users for appropriately accessing and managing your content.
 
-- [User Roles](../users/user-role-types.md)
+- [User Roles](../users/index.md)
 
 - [Manage User Accounts and site-wide roles](../users/manage-user-accounts-site-wide.md)
 
@@ -31,7 +31,7 @@ There are many different roles and responsibilities available to users for appro
 
 These three structural elements are required to create digital heritage items. You will need at least one community, one cultural protocol within that community, and one category before you can start working with content.
 
-- [Understanding Communities and Cultural Protocols](../communities-cultural-protocols-categories/UnderstandingCommunitiesAndCulturalProtocols.md)
+- [Understanding Communities and Cultural Protocols](../communities-cultural-protocols-categories/index.md)
 
 - [Understanding Categories](../communities-cultural-protocols-categories/UnderstandingCategories.md)
 
@@ -44,7 +44,7 @@ These three structural elements are required to create digital heritage items. Y
 ## Digital Heritage Items and Media
 The majority of the content in a Mukurtu CMS site is digital heritage items. DH items generally include at least one media asset (see below) and supporting metadata. Media assets are uploaded independently of DH items, and can be included in multiple DH items or used in other areas of the site.
 
-- [Understanding Digital Heritage Items](../digital-heritage-items/UnderstandingDigitalHeritage.md)
+- [Understanding Digital Heritage Items](../digital-heritage-items/index.md)
 
 - [Digital Heritage Item Metadata Fields](../digital-heritage-items/DHMetadataFields.md)
 

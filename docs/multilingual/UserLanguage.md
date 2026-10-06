@@ -17,7 +17,7 @@ If your site has more than one language enabled, authenticated users may choose 
 
 ## Set your account language
 
-1. Log in to your account. For more information about how to log in to your user account, refer to our [Log In](../users/log-in.md) article.
+1. Log in to your account. For more information about how to log in to your user account, refer to our [Log In](../my-account/index.md) article.
 2. From the **Dashboard** select **Manage my account**.
 
     ![Screenshot of the Dashboard link in the top menu bar](../_embeds/user2.png)

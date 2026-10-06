@@ -15,7 +15,7 @@ A Mukurtu site can have as many communities as needed, and users can be members 
 
 ## How are communities managed?
 
-Communities are managed by community managers. The community manager can add and remove members and create new protocols. For more information on user roles, see [User Roles](../users/user-role-types.md).
+Communities are managed by community managers. The community manager can add and remove members and create new protocols. For more information on user roles, see [User Roles](../users/index.md).
 
 ### Community Types
 
@@ -67,9 +67,9 @@ Protocols allow for members to take an active role in managing the content withi
 - Language stewards can add, edit and delete ALL dictonary words and word lists and add media assets.
 - Protocol stewards manage protocol membership, can add edit and delete all content and media assets, manages the look and feel of the protocol and Local Contexts labels and notices.
 
-To read more about user roles and responsibilities, visit [User Roles](../users/user-role-types.md) 
+To read more about user roles and responsibilities, visit [User Roles](../users/index.md) 
 
-For instructions on how to set up a community and initial protocol, see [Create a community and initial cultural protocol](./CreateACommunityAndInitialCulturalProtocol.md).
+For instructions on how to set up a community and initial protocol, see [Create a community and initial cultural protocol](CreateACommunityAndInitialCulturalProtocol.md).
 
 For instructions on adding a protocol to an existing community, see [Create a cultural protocol](CreateACulturalProtocol.md). 
 

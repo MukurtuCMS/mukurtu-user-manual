@@ -39,7 +39,7 @@ A blank **Add Member** form will load.
     - **Protocol stewards** can manage protocol membership, add, edit, and delete all content and media assets, manage the look and feel of the protocol page, and manage Local Contexts labels and notices.
 
     !!! Tip
-        To learn about protocol roles in greater detail, see [User Roles](../users/user-role-types.md)
+        To learn about protocol roles in greater detail, see [User Roles](../users/index.md)
 
 4. Select their membership state.
 
