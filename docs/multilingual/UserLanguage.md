@@ -53,8 +53,7 @@ Mukurtu managers and administrators can assign languages to authenticated users,
 
 1. To edit a user account language, select the **Manage Users** link from the left-hand **Admin menu** or from the **Users** section of the **Dashboard**.
 
-    ![Screenshot of the manage users link in the left-hand sidebar admin menu](../_embeds/user9.png)
-    ![Screenshot of the manage users link in the Users section of the dashboard.](../_embeds/user9.5.png)
+    ![Screenshot of the manage users link in the Users section of the dashboard.](../_embeds/user9.png)
 
 2. Navigate to the user account and select the "Edit" button. 
 

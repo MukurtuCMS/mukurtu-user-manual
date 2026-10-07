@@ -33,3 +33,7 @@ Content translation functions the same way for all content types.
 5. This is what a translated digital heritage item looks like. 
 
     ![Screenshot of the translated digital heritage item in French.](../_embeds/translatecontent5.png)
+
+If content has not yet been translated, users will see a message stating "NOT YET TRANSLATED Showing the original [language] version.".
+
+![Screenshot of the digital heritage browse page with a digital heritage item showing the not yet translated message highlighted.](../_embeds/translatecontent6.png)
