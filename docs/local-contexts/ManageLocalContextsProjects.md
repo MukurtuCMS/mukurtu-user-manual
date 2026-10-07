@@ -1,6 +1,6 @@
 ---
 tags:
-    - Local Contexts
+    - local contexts
 ---
 
 # Manage Local Contexts Projects

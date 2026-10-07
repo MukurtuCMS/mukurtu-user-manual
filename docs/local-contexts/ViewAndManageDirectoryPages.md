@@ -1,6 +1,6 @@
 ---
 tags:
-    - Local Contexts
+    - local contexts
 ---
 
 # View and Manage Directory Pages

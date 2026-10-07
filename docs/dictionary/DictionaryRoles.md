@@ -1,7 +1,7 @@
 ---
 tags:
-    - Dictionary
-    - User roles and responsibilities
+    - cictionary
+    - user roles and responsibilities
 ---
 
 # Dictionary Roles
