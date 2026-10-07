@@ -8,9 +8,17 @@ tags:
 !!! Roles "User roles" 
     Administrator, Mukurtu manager
 
-Mukurtu ships with several security modules that can be configured to provide bot protection and spam control. 
+Mukurtu ships with several security modules that can be configured to provide bot protection and spam control. Click on each service to learn more:
 
-By default an ALTCHA checkbox is enabled to provide basic protection, but you can configure any or all of these services, select a default module for all forms, or have certain modules active on certain forms. You can also grant trusted users permissions to automatically bypass security modules. In most cases, configuring just one service will suffice.
+ Basic CAPTCHA - this is built in and can be enabled with no configuration settings.
+
+ [ALTCHA](https://altcha.org/) 
+
+ [ReCAPTCHA](https://www.google.com/recaptcha/admin)
+
+ [Turnstile](https://cloudflare.com/)
+
+By default an ALTCHA checkbox is enabled to provide basic protection, but you can configure any or all of these services, select a default module for all forms, or have certain modules active on certain forms. You can also grant trusted users permissions to automatically bypass security modules. In most cases, configuring just one service will suffice. 
 
 The chart below offers a basic comparison of each CAPTCHA service.
 
