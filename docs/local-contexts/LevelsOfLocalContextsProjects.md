@@ -1,6 +1,6 @@
 ---
 tags:
-    - Local Contexts
+    - local contexts
 ---
 
 # Levels of Local Contexts Projects
