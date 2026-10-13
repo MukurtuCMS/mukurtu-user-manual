@@ -1,7 +1,7 @@
 ---
 tags: 
     - communities, cultural protocols, and categories
-    - taxonomy
+    - taxonomies
     - getting started
 ---
 # Create Categories

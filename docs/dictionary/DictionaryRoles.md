@@ -1,6 +1,6 @@
 ---
 tags:
-    - cictionary
+    - dictionary
     - user roles and responsibilities
 ---
 

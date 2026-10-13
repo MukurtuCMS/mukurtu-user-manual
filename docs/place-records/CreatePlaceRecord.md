@@ -2,7 +2,7 @@
 tags:
     - content
     - place records
-    - taxonomy
+    - taxonomies
 ---
 # Create Place Records
 

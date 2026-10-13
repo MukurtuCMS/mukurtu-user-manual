@@ -2,7 +2,7 @@
 tags:
     - content
     - person records
-    - taxonomy
+    - taxonomies
 ---
 # Configure Person Record Settings
 

@@ -2,7 +2,7 @@
 tags:
     - content
     - person records
-    - taxonomy
+    - taxonomies
 ---
 # Create Person Records
 
