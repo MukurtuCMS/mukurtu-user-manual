@@ -14,7 +14,7 @@ Method 1: Add `/admin/config/people/accounts` to your url in your browser's addr
 
 Method 2: From the dashboard, scroll down to the Users section, and select **Manage User Settings and Registration** 
 
-![The Mukurtu Dashboard showing the Users section with Manage User Settings and Registration highlighted](../_embeds/manage-user-registration-01.png) 
+![The Mukurtu Dashboard showing the Users section with Manage User Settings and Registration highlighted](../_embeds/manager-user-registration-01.png) 
 
 ## Account Registration
 
