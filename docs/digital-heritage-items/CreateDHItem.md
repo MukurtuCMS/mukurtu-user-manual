@@ -1,6 +1,6 @@
 ---
 tags:
-    - digital heritage item
+    - digital heritage items
     - content
 ---
 # Create a Digital Heritage Item

@@ -94,7 +94,7 @@ A success message will display. The user will be unblocked and access to the pro
 
 ### Remove Users
 
-1. To remove a user from the protocol, select "Remove user" from the operations dropdown mnenu. 
+1. To remove a user from the protocol, select "Remove user" from the operations dropdown menu. 
 
     ![The members page with the manage roles dropdown menu exposed and the remove button highlighted](../_embeds/manage-protocol-members-07.2.png)
 

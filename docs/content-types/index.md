@@ -194,7 +194,7 @@ If an action is not working as expected, ensure you have the proper permission t
 
 **Publish**, **Unpublish**, **Archive** and **Restore to Draft** are simple state changes. The page will reload with a success message, and the state of the items will be updated.
 
-**Add to export list** and **Remove from export list** adds or removes items from export lists in the same way as single-item actions do. See the [Add to Export list](index.md#add-to-export-list) and [Remove from export list](index.md#remove-from-export-list) sections above and [Using Export Lists]ADD LINK for additional information.
+**Add to export list** and **Remove from export list** adds or removes items from export lists in the same way as single-item actions do. See the [Add to Export list](index.md#add-to-export-list) and [Remove from export list](index.md#remove-from-export-list) sections above and [Using Export Lists](../roundtrip/UsingExportLists.md) for additional information.
 
 **Delete**: This action deletes the item completely. After selecting "delete", a message will ask for confirmation. Select "execute action" and the content page will reload with a success message. The item is no longer listed.
 

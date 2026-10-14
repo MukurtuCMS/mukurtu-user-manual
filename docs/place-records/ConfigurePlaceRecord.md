@@ -2,7 +2,7 @@
 tags:
     - content
     - place records
-    - taxonomy
+    - taxonomies
 ---
 # Configure Place Record Settings
 

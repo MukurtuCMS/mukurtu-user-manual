@@ -7,7 +7,7 @@ tags:
 
 For the most up-to-date system requirements, please refer to the D11 [Drupal system requirements](https://www.drupal.org/docs/getting-started/system-requirements/overview#s-drupal-11-and-drupal-cms). We strongly recommend experience installing and maintaining Drupal servers.
 
-Full documentation is also available at [http://github.com/MukurtuCMS/mukurtucms](http://github.com/MukurtuCMS/mukurtucms). 
+Full documentation is also available at [https://github.com/MukurtuCMS/Mukurtu-CMS](https://github.com/MukurtuCMS/Mukurtu-CMS). 
 
 You will need:
 

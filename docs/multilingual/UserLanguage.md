@@ -13,7 +13,7 @@ tags:
 If your site has more than one language enabled, authenticated users may choose which which of those languages they use to view and navigate the site. Authenticated users can select from the list of enabled languages, or Mukurtu managers can assign a user's account language when they approve their account registration.
 
 !!! requirement
-    Multiple languages must be enabled for this option to be available. Users can only choose from languages that are already enabled on the site. For more information on how to configure Mukurtu Multilingual and translate your site, refer to our [Translation Workflow](TranslationWorkflow.md) article. For more information on creating user accounts, refer to our [Creating User Accounts](../users/creating-account-site-wide.md) article. 
+    Multiple languages must be enabled for this option to be available. Users can only choose from languages that are already enabled on the site. For more information on how to configure Mukurtu Multilingual and translate your site, refer to our [Translation Workflow](TranslationWorkflow.md) article. For more information on creating user accounts, refer to our [Create User Accounts from a Site-Wide Role](../users/creating-account-site-wide.md) article. 
 
 ## Set your account language
 
@@ -38,7 +38,7 @@ If your site has more than one language enabled, authenticated users may choose 
 
 ## Assign a user account language
 
-Mukurtu managers and administrators can assign languages to authenticated users, which can be helpful when creating accounts for community members who only might not speak one of the site's languages. Languages can be assigned when creating new user accounts or when editing user accounts. For more information on creating new user accounts, refer to [Creating User Accounts](../users/creating-account-site-wide.md). To assign a language during this process, follow the instructions below.
+Mukurtu managers and administrators can assign languages to authenticated users, which can be helpful when creating accounts for community members who only might not speak one of the site's languages. Languages can be assigned when creating new user accounts or when editing user accounts. For more information on creating new user accounts, refer to [Create User Accounts from a Site-Wide Role](../users/creating-account-site-wide.md). To assign a language during this process, follow the instructions below.
 
 1. When creating a new user account, navigate to the **Language Settings** section of the user registration page.
 2. From the *Site language* field, select a language from the dropdown menu.

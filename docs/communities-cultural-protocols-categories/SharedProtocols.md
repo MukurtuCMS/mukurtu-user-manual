@@ -25,7 +25,7 @@ Protocol stewards can add and remove users and manage user roles. They can see a
 
 The steps to add users and assign user roles are the same as with typical protocols. For detailed instructions, see [Manage Protocol Members](../communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md)
 
-Mukurtu managers can also add users to communities and protocols upon account creation. In this form, shared protocols are repeated under each of their parent communities. See [Create User Accounts as a Mukurtu Manager](../users/creating-account-site-wide.md)
+Mukurtu managers can also add users to communities and protocols upon account creation. In this form, shared protocols are repeated under each of their parent communities. See [Create User Accounts from a Site-wide Role](../users/creating-account-site-wide.md)
 
 
 ## Assigning shared protocols to content
