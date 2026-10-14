@@ -72,7 +72,7 @@ You can set a date, week, month, or year to view, or you can select a specific d
 
 4. Select the "Apply" button. The date or date range will be applied to all of the Visitor analytics views.
 
-![Screenshot of the Locations visitors page with the year 2026 applied.](../_embeds/visitors7.png)
+    ![Screenshot of the Locations visitors page with the year 2026 applied.](../_embeds/visitors7.png)
 
 ### Visitor analytics views
 
