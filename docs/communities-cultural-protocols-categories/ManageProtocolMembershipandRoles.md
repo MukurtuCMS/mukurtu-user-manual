@@ -162,6 +162,10 @@ You will receive different results depending on the action item you select. Belo
 
     ![Manage members page with action item "remove users from protocol" highlighted](../_embeds/manage-protocol-members-16.png)
 
+2. A confirmation page will display. Select **Remove**.
+
+    ![A confirmation page lists the selected users.](../_embeds/manage-protocol-members-32.png)
+
 2. The members page will re-load with a success message. The selected users are no longer listed on the manage page. They can no longer access content under the protocol (if protocol is strict). 
 
     ![Manage members page with the selected users deleted and a success message displayed](../_embeds/manage-protocol-members-17.png)
