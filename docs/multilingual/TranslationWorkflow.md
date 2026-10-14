@@ -44,4 +44,4 @@ Local Contexts projects and labels must be translated at the Local Contexts Hub.
 !!! tip
     Translating site content can be labor intensive. To ensure content can be accessed when browsing in all languages, we recommend creating and saving a translation for all content when it is created, even if no fields are translated. This will make content available in it's original language when it's viewed if there is no translation yet.  
 
-For instructions on how to translate content, refer to [Translate Content](TranslateContent.md)
+For instructions on how to translate content, refer to [Translate Content](TranslateContent.md).

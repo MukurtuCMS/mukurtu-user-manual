@@ -39,7 +39,7 @@ Use this section to add logos to your footer. Each logo can have an option link 
 
     ![Screenshot of the edit content block Mukurtu footer page with the Add footer logo button highlighted.](../_embeds/footer4.png)
 
-2. Add a **Logo image** to your logo using the "Browse" button. For specific instructions, refer to the [Upload Images](../media/ByTypeMediaUpload/Image.md) article. 
+2. Add a **Logo image** to your logo using the "Browse" button. For specific instructions, refer to the [Upload Media Assets: Images](../media/ByTypeMediaUpload/Image.md) article. 
 
     !!! requirement
         Alternative text is required for all images.
