@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager
 
-Optionally, administrators and Mukurtu managers may choose to enable site analytics. Mukurtu uses Drupal's built-in Visitors analytics module. This module is fully self-contained within your site, does not require third party API integrations, and allows administrators to have full control over their site's performance and user behavior.
+Administrators and Mukurtu managers may choose to enable site analytics. Mukurtu uses the  Visitors analytics module. This module is fully self-contained within your site, and does not require third party API integrations or accounts.
 
 ## Configure Visitor Analytics 
 
