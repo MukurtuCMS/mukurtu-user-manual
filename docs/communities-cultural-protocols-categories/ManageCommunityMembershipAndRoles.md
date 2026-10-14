@@ -137,6 +137,13 @@ You can manage multiple members by using the action menu. Use this menu to:
 
     ![Manage members page with action item "approve the pending memberships" highlighted](../_embeds/community-membership-20.png)
 
+    If the user(s) are not removed from all protocols within the community, a message will display indicating that the users cannot be removed from the community. Remove them from protocols first, then try again.
+
+    ![A warning message indicating that the users cannot be removed from the community](../_embeds/community-membership-32.png)
+
+2. A confirmation page will display. Select **Remove.**
+    ![Confirmation page to remove user(s) from the community](../_embeds/community-membership-33.png)
+
 2. The users will be removed from the community.
 
     ![Manage members page with updates highlighted and a success message displayed](../_embeds/community-membership-24.png)
