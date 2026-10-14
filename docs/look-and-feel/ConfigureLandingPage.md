@@ -70,7 +70,7 @@ The  Welcome to Your Mukurtu CMS Site and Welcome to Your Mukurtu CMS Site (Vert
 
     ![Screenshot of the Edit content block welcome to your Mukurtu CMS site featuring the block description and body fields.](../_embeds/block12.png)
 
-3. Use the "Add media" button to add a media asset to your welcome block. You can add an image or a video. For more information on adding media assets, refer to [Create Media Assets](../media/CreateMediaAssets.md)
+3. Use the "Add media" button to add a media asset to your welcome block. You can add an image or a video. For more information on adding media assets, refer to the [Create Media Assets Overview](../media/CreateMediaAssets.md).
 
     ![Screenshot of the media modal with the Add media button highlighted.](../_embeds/block13.png)
 
@@ -89,7 +89,7 @@ The Welcome to Your Mukurtu CMS Site (Full Background) welcome block only allows
 
     ![Screenshot of the Edit content block welcome to your Mukurtu CMS site featuring the block description and body fields.](../_embeds/block16.png)
 
-3. Use the "Add media" button to add a background image to your welcome block. For more information on adding media assets, refer to [Create Media Assets](../media/CreateMediaAssets.md).
+3. Use the "Add media" button to add a background image to your welcome block. For more information on adding media assets, refer to the [Create Media Assets Overview](../media/CreateMediaAssets.md).
 4. Select your image, then select the "Insert selected" button.
 5. Use the **Text Color** dropdown to select **Light** or **Dark** text. Choose your text color based on background contrast. Light uses white text, Dark uses brand primary dark color. Always verify color contrast meets accessibility standards (WCAG AA minimum 4.5:1 ratio) using an accessibility tool before publishing. 
 
