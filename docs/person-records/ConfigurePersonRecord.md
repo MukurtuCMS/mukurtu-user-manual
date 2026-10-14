@@ -2,7 +2,7 @@
 tags:
     - content
     - person records
-    - taxonomy
+    - taxonomies
 ---
 # Configure Person Record Settings
 
@@ -12,6 +12,8 @@ tags:
 Relevant taxonomies must be enabled before you can create a person record. To streamline this process, the *person*, *contributor*, and *creator* fields are enabled by default, but you may choose to use additional taxonomy fields. Follow the instructions to enable the taxonomies.
 
 1. Navigate to your **Dashboard**. Under **Content settings**, select the **Person Record Settings** link or go directly to `/admin/config/mukurtu/person-records`. 
+
+    ![Screenshot of the dashboard with the person record settings link highlighted.](../_embeds/person17.png)
 
 2. Select the checkboxes to the left of the taxonomies you want to enable. The *Contributor*, *Creator*, and *People* taxonomies are enabled automatically. For person records to function optimally, these should remain selected.
 

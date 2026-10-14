@@ -12,7 +12,7 @@ There are many different roles and responsibilities available to users for appro
 
 - [User Roles](../users/index.md)
 
-- [Manage User Accounts and site-wide roles](../users/manage-user-accounts-site-wide.md)
+- [Manage User Accounts and Site-wide Roles](../users/manage-user-accounts-site-wide.md)
 
 - [Review User Account Requests](../users/review-user-account-requests.md)
 
@@ -37,7 +37,7 @@ These three structural elements are required to create digital heritage items. Y
 
 - [Create a Community and Initial Cultural Protocol](../communities-cultural-protocols-categories/CreateACommunityAndInitialCulturalProtocol.md)
 
-- [Create a Cultural protocol](../communities-cultural-protocols-categories/CreateACulturalProtocol.md)
+- [Create a Cultural Protocol](../communities-cultural-protocols-categories/CreateACulturalProtocol.md)
 
 - [Create Categories](../communities-cultural-protocols-categories/CreateCategories.md)
 

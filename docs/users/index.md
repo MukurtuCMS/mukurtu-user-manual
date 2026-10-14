@@ -100,4 +100,4 @@ Protocol stewards have full permission to create, edit, and delete content under
 Protocols stewards manage the look and feel of the protocol page, including the title, banner and thumbnail images, description, protocol type, and other advanced display settings. 
 
 
-To read more about managing membership in communities and protocols, see [Manage Community Membership and Roles](../communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md) and [Manage Protocol Membership and Roles](../communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md).
+To read more about managing membership in communities and protocols, see [Manage Community Members](../communities-cultural-protocols-categories/ManageCommunityMembershipAndRoles.md) and [Manage Protocol Members](../communities-cultural-protocols-categories/ManageProtocolMembershipandRoles.md).

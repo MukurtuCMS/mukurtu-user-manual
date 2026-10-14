@@ -38,7 +38,7 @@ Once the form is open, fill out the form.
 
 2. Add a username for the user.
 
-3. Depending on your password settings, the password field may or may not be visible. If for any reason, a password is not entered into this form, the system will auto-generate a password and send a reset link to the user to log in and change their password. If the field is available and you prefer to manually set a password (i.e for security purposes or ease of troubleshooting), you can do so here. For more on password settings, see [Manager User Account Registration](../users/manage-user-account-registration.md).
+3. Depending on your password settings, the password field may or may not be visible. If for any reason, a password is not entered into this form, the system will auto-generate a password and send a reset link to the user to log in and change their password. If the field is available and you prefer to manually set a password (i.e for security purposes or ease of troubleshooting), you can do so here. For more on password settings, see [Manage User Account Registration](../users/manage-user-account-registration.md).
 
     ![The add user form with email address, username and password filled out](../_embeds/add-user-account-05.png)
 
