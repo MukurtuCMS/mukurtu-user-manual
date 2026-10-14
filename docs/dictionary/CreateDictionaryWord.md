@@ -11,7 +11,7 @@ tags:
 This article will walk you through creating a dictionary word and using word entries.
 
 !!! Requirement
-    Before you can create a dictionary word, you must first configure the dictionary. See [Configuring the Dictonary](../dictionary/ConfigureTheDictionary.md)
+    Before you can create a dictionary word, you must first configure the dictionary. See [Configure the Dictonary](../dictionary/ConfigureTheDictionary.md)
 
 To create a dictionary word, as a protocol steward, language steward, or language contributor, from the Create Content menu, select **Dictionary word**.
 
@@ -56,7 +56,7 @@ For content with multiple protocols assigned, sharing settings help to determine
 ### Language
 
 !!! Requirement
-    Dictionary languages must first be configured by Mukurtu Manager. To learn how to configure a language, see [Configuring the Dictionary](../dictionary/ConfigureTheDictionary.md)
+    Dictionary languages must first be configured by Mukurtu Manager. To learn how to configure a language, see [Configure the Dictionary](../dictionary/ConfigureTheDictionary.md)
     
 Select a language. If only one language is available, it will be pre-selected. 
 
@@ -67,7 +67,7 @@ Select a language. If only one language is available, it will be pre-selected.
 ### Glossary Entry
 
 !!! Tip
-    Custom indexing can be applied by configuring glossary settings. See [Configuring the Dictionary](../dictionary/ConfigureTheDictionary.md) for detailed instructions.
+    Custom indexing can be applied by configuring glossary settings. See [Configure the Dictionary](../dictionary/ConfigureTheDictionary.md) for detailed instructions.
 
 The glossary entry field can be used in cases where you do not want the term to be indexed under the first character of the term. This field allows you to choose a different character under which to index the term. To use this field, enter the character you would like the term to be indexed under.
 
@@ -96,7 +96,7 @@ Add an audio recording of the term being spoken by selecting "Add Media." There 
  - This field only accepts audio files. 
 
 !!! Tip
-    For detailed instructions on uploading an audio file, see [By type media upload: Audio](../media/ByTypeMediaUpload/Audio.md)
+    For detailed instructions on uploading an audio file, see [Upload Media Assets: Audio Files](../media/ByTypeMediaUpload/Audio.md)
 
 ### Definition
 
@@ -150,7 +150,7 @@ Include as many contributors as needed. Select existing contributors or add new 
 
 ## Word Entries
 
-Word entries are multiple entries that appear under one term. This allows you to capture additional meanings, conjugations, gendered or plural forms, etc. The metadata for a word entry is the same metadata in the Mukurtu Essentials tab, with the exception of cultural protocols, sharing setting, language, and glossary entry since those apply to the dictionary word as a whole. Please refer to [Mukurtu Essentials](CreateDictionaryWord.md#mukurtu-essentials)
+Word entries are multiple entries that appear under one term. This allows you to capture additional meanings, conjugations, gendered or plural forms, etc. The metadata for a word entry is the same metadata in the Mukurtu Essentials tab, with the exception of cultural protocols, sharing setting, language, and glossary entry since those apply to the dictionary word as a whole. Please refer to [Mukurtu Essentials](CreateDictionaryWord.md#mukurtu-essentials).
 
 You can add an unlimited amount of word entries by selecting **Add Word Entries** at the bottom of the word entry tab.
 
@@ -163,7 +163,7 @@ Thumbnails can help you quickly identify a term. Select **Add media** to select 
 
 ### Media Assets
 
-You can add media assets to your dictionary word. Select **Add media** to select from previously uploaded media or upload a new media asset. There is no limit to the number of media assets you can add. See [Create Media Assets](../media/CreateMediaAssets.md) for more information.
+You can add media assets to your dictionary word. Select **Add media** to select from previously uploaded media or upload a new media asset. There is no limit to the number of media assets you can add. See [Create Media Assets Overview](../media/CreateMediaAssets.md) for more information.
 
 ### Keywords
 
