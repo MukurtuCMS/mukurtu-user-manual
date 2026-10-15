@@ -82,7 +82,7 @@ The remaining settings allow you to customize text display and widget behavior. 
 
 ![Fields for customizing the CAPTCHA widget text](../_embeds/security-05.png)
 
-### Default validation and persistence
+### Default validation and persistence 
 
 **Default CAPTCHA validation** determines whether validation should be case sensitive. Select one of:
 
