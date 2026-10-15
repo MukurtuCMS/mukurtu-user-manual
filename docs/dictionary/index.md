@@ -24,9 +24,14 @@ You can view the dictionary at /dictionary or by selecting the dictionary in the
 
 A number of filters lets you find what youʻre looking for. Use the search bar to search for a term, or use the built-in filters to filter by language, community, cultural protocol, content type (dictionary word or word list), word type and word list. 
 
+!!!Tip
+     If a dictionary word includes apostrophe-like markings such as the 'okina, glottal stops, saltillo, etc., search will return the correct results whether or not you include them.
+
 Sort results can be ordered by glossary order or search relevance, and if youʻve enabled [multi-page items](../content-settings/MultipageItemConfiguration.md) or [community records](../digital-heritage-items/UnderstandCommunityRecords.md) for dictionary words, you can choose whether your search results display just the base item, or includes pages and/or community records. 
 
 Finally, you can preview your dictonary words as a list or on a map. Dictionary word previews can include the word, translation, recording and thumbnail image. Word lists previews can include the word list title, summary and thumbnail image.
+
+Click on a title to view the full item.
 
 ![The dictionary showing all filters and displaying several words and a word list](../_embeds/dictionary-word-22.png)
 
