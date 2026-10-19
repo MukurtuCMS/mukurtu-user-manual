@@ -27,7 +27,7 @@ If using Nginx
 
 - Create nginx config for Drupal and PHP (Google AI is helpful for this) 
 
-We currently recommend PHP version 8.3. 
+PHP 8.4 or later is required.
 
 A database server such as  
 
