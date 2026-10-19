@@ -17,7 +17,7 @@ If using Apache make sure that:
 
 - The `mod_rewrite` module is enabled.
 - You have the ability to use local `.htaccess` files. 
-- `PHP-FPM` OR `mod_php` must be installed.
+- `PHP-FPM` OR `mod_php` is installed.
 
 If using Nginx make sure that:
 
@@ -26,7 +26,7 @@ If using Nginx make sure that:
 
 PHP 8.4 or later is required.
 
-A database server using the `utf8mb4` character set and `utf8mb4_general_ci` such as:
+A database server using the `utf8mb4` character set and `utf8mb4_general_ci` collation such as:
 
 - [MySQL](https://www.mysql.com/) 8.0 or later.
 - [MariaDB](https://mariadb.org/) 10.6 or later.
@@ -36,6 +36,7 @@ Private files correctly configured outside the webroot and referenced in `web/si
 A system cron job that runs `drush cron`.
 
 Recommended media tools:
+
 - `poppler-utils` (`pdftotext` and `pdftoppm`) are installed for PDF text search and thumbnails.
 - `ffmpeg` is installed for video thumbnails.
 - PHP's `exec()` is enabled.
