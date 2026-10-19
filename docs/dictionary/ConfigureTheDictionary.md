@@ -34,7 +34,10 @@ If the language is not already listed, select "Add Term".
 
 ![Screenshot of the language list with the add term button indicated.](../_embeds/language-add-02.png)
 
-In the *Name* field enter the language name as you want it to appear on the site.
+In the *Name* field enter the language name as you want it to appear on the site. 
+
+You can also add a *language code*, which tells screen readers and browsers what language this is. To find your language's code, search the [ISO 639-3 code table](https://iso639-3.sil.org/code_tables/639/data). If your language doesn't have a code, use a private-use code that starts with x-, such as x-mylang. Leave blank if you're not sure.
+
 The *Description* field is optional, and can include information about the language, i.e., its history, regions where the language is spoken, related languages and dialects, etc. This will be displayed in the language's term page.
 
 When ready:
@@ -97,8 +100,20 @@ From the dashboard, scroll down to Content Settings. Select **Dictionary languag
 
 Check the box next to the language(s) you would like to use in the dictionary. Select "save configuration". A success message will display.
 
-![A list of language taxonomy terms with checkboxes to the left of each language. One language is checked.](../_embeds/language-add-12.png)
+![A list of language taxonomy terms with checkboxes to the left of each language. One language is checked. The fields written in the wordʻs language options list out definition, pronunciation, translation and word origin](../_embeds/language-add-12.png)
 
  In the dictionary word form, you will only see the selected language(s) listed and no others.
 
  ![Dictionary word form displaying the selected language.](../_embeds/language-add-13.png)
+
+## Set fields in the word's language
+
+Certain fields are always marked as being in the word's language (the term, alternate spellings, word entries, and sample sentences), so a screen reader pronounces them with that language's rules instead of the site language's. The fields below are usually written in the site's language, so they are not marked by default. 
+
+ - definition
+ - pronunciation
+ - translation
+ - word origin
+
+Select any that your dictionary writes in the word's language instead. Leave the rest clear: marking text with the wrong language is worse for a screen reader user than not marking it at all. Marking has an effect only on words whose language has a Language code set. See [Add a language](#add-a-language) to set a language code.
+
