@@ -113,8 +113,8 @@ Certain fields are always marked as being in the word's language (the term, alte
  - translation
  - word origin
 
- ![These fields can be set to the word's language rather than the site's language: definition, pronunciation, translation, word origin](../_embeds/language-add-13.png)
+ ![These fields can be set to the word's language rather than the site's language: definition, pronunciation, translation, word origin](../_embeds/language-add-14.png)
 
-Select any that your dictionary writes in the word's language instead. Leave the rest clear: marking text with the wrong language is worse for a screen reader user than not marking it at all. Marking has an effect only on words whose language has a Language code set. See [Add a language](#add-a-language) to set a language code.
+In the same form, select any fields that your dictionary writes in the word's language instead. Leave the rest clear: marking text with the wrong language is worse for a screen reader user than not marking it at all. Marking has an effect only on words whose language has a Language code set. See [Add a language](#add-a-language) to set a language code.
 
 When you're done, select "Save Configuration." A success message will display.
