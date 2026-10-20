@@ -86,7 +86,9 @@ If you need to reset the glossary entry order back to the default, select the "m
 
 ![The dictionary glossary order page with the more actions menu expanded. "Reset order to alphabetical" is indicated](../_embeds/language-add-09.png)
 
-## Set a default language
+## Languages settings
+
+### Set a default language
 
 Languages can be added to the language taxonomy list by using the language field in digital heritage items. As more content is added, the potential for several language terms grows. By default, all of these terms will be available in the dictionary. 
 
@@ -98,15 +100,11 @@ From the dashboard, scroll down to Content Settings. Select **Dictionary languag
 
 ![The dashboard with dictionary language settings indicated.](../_embeds/language-add-11.png)
 
-Check the box next to the language(s) you would like to use in the dictionary. Select "save configuration". A success message will display.
+Check the box next to the language(s) you would like to use in the dictionary. When saved, you will see only the selected language in a dictionary word form, and no others.
 
-![A list of language taxonomy terms with checkboxes to the left of each language. One language is checked. The fields written in the wordʻs language options list out definition, pronunciation, translation and word origin](../_embeds/language-add-12.png)
+![A list of language taxonomy terms with checkboxes to the left of each language. One language is checked.](../_embeds/language-add-12.png)
 
- In the dictionary word form, you will only see the selected language(s) listed and no others.
-
- ![Dictionary word form displaying the selected language.](../_embeds/language-add-13.png)
-
-## Set fields in the word's language
+### Set fields in the word's language
 
 Certain fields are always marked as being in the word's language (the term, alternate spellings, word entries, and sample sentences), so a screen reader pronounces them with that language's rules instead of the site language's. The fields below are usually written in the site's language, so they are not marked by default. 
 
@@ -115,5 +113,8 @@ Certain fields are always marked as being in the word's language (the term, alte
  - translation
  - word origin
 
+ ![These fields can be set to the word's language rather than the site's language: definition, pronunciation, translation, word origin](../_embeds/language-add-13.png)
+
 Select any that your dictionary writes in the word's language instead. Leave the rest clear: marking text with the wrong language is worse for a screen reader user than not marking it at all. Marking has an effect only on words whose language has a Language code set. See [Add a language](#add-a-language) to set a language code.
 
+When you're done, select "Save Configuration." A success message will display.
