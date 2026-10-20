@@ -106,7 +106,7 @@ Check the box next to the language(s) you would like to use in the dictionary. W
 
 ### Set fields in the word's language
 
-Certain fields are always marked as being in the word's language (the term, alternate spellings, word entries, and sample sentences), so a screen reader pronounces them with that language's rules instead of the site language's. The fields below are usually written in the site's language, so they are not marked by default. 
+Certain fields are always marked as being in the word's language (the term, alternate spellings, word entries, and sample sentences), so a screen reader pronounces them with that language's rules instead of the site language. The fields below are usually written in the site's language, so they are not marked by default. You can override that default by selecting them here. Any selected fields will be read in the word's language instead.
 
  - definition
  - pronunciation
@@ -115,6 +115,6 @@ Certain fields are always marked as being in the word's language (the term, alte
 
  ![These fields can be set to the word's language rather than the site's language: definition, pronunciation, translation, word origin](../_embeds/language-add-14.png)
 
-In the same form, select any fields that your dictionary writes in the word's language instead. Leave the rest clear: marking text with the wrong language is worse for a screen reader user than not marking it at all. Marking has an effect only on words whose language has a Language code set. See [Add a language](#add-a-language) to set a language code.
+ Leave the rest clear: marking text with the wrong language is worse for a screen reader user than not marking it at all. Marking has an effect only on words whose language has a Language code set. See [Add a language](#add-a-language) to set a language code.
 
 When you're done, select "Save Configuration." A success message will display.
