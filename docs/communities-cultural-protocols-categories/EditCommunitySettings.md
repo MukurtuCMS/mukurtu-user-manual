@@ -42,6 +42,12 @@ You can change the community page visibility by selecting one of:
 - **Community Only** - The community page will only be visible to community members who are logged in.
 - **Public** - The page will be visible to the public regardless of login.
 
+ !!! Note
+        If community page visibility is set to "community only", and that community includes an open protocol, visitors will be able to see the community name, although they won't be able to access the community page itself. Unless that difference in access between the community and protocol pages is something you intentionally want, we recommend setting the community page visibility to "public" if it includes any open protocols.  
+
+    !!! Note
+        The **Community only** page visibility setting also affects the community browse page `/community` and the "Browse by Community" block on the home page. Users who cannot view the community page will not be able to see the community listed in those locations.
+
 ## Membership display
 
 Determine which, if any, community members are displayed on the community page by selecting one of:

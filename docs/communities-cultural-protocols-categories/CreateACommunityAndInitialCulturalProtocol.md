@@ -21,13 +21,16 @@ In Mukurtu 4, creating a new community will automatically prompt you to create a
 
 3. In the *community page visibility field*, select **Community Only** or **Public**: 
 
-    - **Community Only** limits community page access to community members only.
+    - **Community Only** limits community page access to community members only. 
     - **Public** allows public access to the community page.
 
     ![The community page visibility field with two radio buttons, one labeled community only and the other labeled public and a red arrow pointing to the buttons](../_embeds/create-community-03.png)
 
     !!! Note
         If community page visibility is set to "community only", and that community includes an open protocol, visitors will be able to see the community name, although they won't be able to access the community page itself. Unless that difference in access between the community and protocol pages is something you intentionally want, we recommend setting the community page visibility to "public" if it includes any open protocols.  
+
+    !!! Note
+        The "community only" page visibility setting also affects the community browse page `/community` and the "Browse by Community" block on the home page. Users who cannot view the community page will not be able to see the community listed in those locations.
 
 4. Select the *membership display setting*. Choose one of: 
 
