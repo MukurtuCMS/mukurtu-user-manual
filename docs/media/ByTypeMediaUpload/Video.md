@@ -25,7 +25,7 @@ tags:
 4. If you would like to add captions or subtitles to your video, you can do so using the **Captions and Subtitles** uploader. This uploader accepts .vtt files only, and applies captions or subtitles to your video. 
 
     !!! Note 
-        Mukurtu does not generate .vtt files, nor can they be made within Mukurtu. They must be prepared separately and uploaded to Mukurtu using the uploader.
+        Mukurtu does not generate .vtt files, nor can they be made within Mukurtu. They must be prepared separately and uploaded to Mukurtu.
 
     - Select the .vtt file from your file explorer.
     - Select the **language** used in the .vtt file. If there are no languages avaiable, you will need to [add a language](../../dictionary/ConfigureTheDictionary.md#add-a-language), making sure to include the language code. 
