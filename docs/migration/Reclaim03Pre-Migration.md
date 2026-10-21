@@ -24,6 +24,12 @@ There are six categories included in the pre-migration report. A more detailed d
 
 ## Run the pre-migration report and clear caches
 
+!!! requirement
+   
+   To run the pre-migration report, you need to turn on the Mukurtu Migration Reports module. You can do that by going to `admin/modules` or selecting the Modules from the Drupal menu. Search for "Migration" in the filter. The Mukurtu Migration Reports should be the only visible module. Toggle the module on.
+
+   ![The modules page with modules, the filter, and the Mukurtu migration module highlighted. The module is toggled on](../_embeds/pre-migration-content-09.png)
+
 It is best for these activities to be run by a Drupal administrator to ensure all content is addressed. Depending on how you have assigned protocol membership, the account may need to be enrolled in additional protocols to apply protocols to content and media.
 
 You can access the pre-migration report directly at /admin/reports/migration/summary (eg: https://mysite.com/admin/reports/migration/summary).
