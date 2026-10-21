@@ -22,7 +22,10 @@ tags:
 
     ![Screenshot of the Browse button to upload a file along with a blank filename field.](../../_embeds/video1.png)    
 
-4. If you would like to add captions or subtitles to your video, you can do so using the **Captions and Subtitles** uploader. This uploader accepts .vtt files only, and applies captions or subtitles to your video.
+4. If you would like to add captions or subtitles to your video, you can do so using the **Captions and Subtitles** uploader. This uploader accepts .vtt files only, and applies captions or subtitles to your video. 
+
+    !!! Note 
+        Mukurtu does not generate .vtt files, nor can they be made within Mukurtu. They must be prepared separately and uploaded to Mukurtu using the uploader.
 
     - Select the .vtt file from your file explorer.
     - Select the **language** used in the .vtt file. If there are no languages avaiable, you will need to [add a language](../../dictionary/ConfigureTheDictionary.md#add-a-language), making sure to include the language code. 
@@ -30,7 +33,7 @@ tags:
     - You can add additional .vtt files as needed.
     - Select *Remove* to remove .vtt files.
 
-     ![Screenshot of the captions and subtitles fields with an uploaded .vtt file. The language is English and the type is subtitles. Add multiple files using the uploader.](../../_embeds/video4.png)
+    ![Screenshot of the captions and subtitles fields with an uploaded .vtt file. The language is English and the type is subtitles. Add multiple files using the uploader.](../../_embeds/video4.png)
 
     !!! tip
         Captions can be viewed from the video player in a content item. To display captions in the video player, select the three dots menu on the bottom right. Select "Captions," then select the caption language. The video will now display captions.
