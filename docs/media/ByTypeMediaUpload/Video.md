@@ -22,7 +22,23 @@ tags:
 
     ![Screenshot of the Browse button to upload a file along with a blank filename field.](../../_embeds/video1.png)    
 
-4. The name of your video is automatically generated from your filename. You can edit the name of your video file by editing the text in the *Name* field.
+4. If you would like to add captions or subtitles to your video, you can do so using the **Captions and Subtitles** uploader. This uploader accepts .vtt files only, and applies captions or subtitles to your video. 
+
+    !!! Note 
+        Mukurtu does not generate .vtt files, nor can they be made within Mukurtu. They must be prepared separately and uploaded to Mukurtu.
+
+    - Select the .vtt file from your file explorer.
+    - Select the **language** used in the .vtt file. If there are no languages avaiable, you will need to [add a language](../../dictionary/ConfigureTheDictionary.md#add-a-language), making sure to include the language code. 
+    - Select the **type** - captions or subtitles. Captions include dialogue and other sounds, and are typically used for viewers who are deaf or hard of hearing. Subtitles are typically just dialogue and are usually a translation.
+    - You can add additional .vtt files as needed.
+    - Select *Remove* to remove .vtt files.
+
+    ![Screenshot of the captions and subtitles fields with an uploaded .vtt file. The language is English and the type is subtitles. Add multiple files using the uploader.](../../_embeds/video4.png)
+
+    !!! tip
+        Captions can be viewed from the video player in a content item. To display captions in the video player, select the three dots menu on the bottom right. Select "Captions," then select the caption language. The video will now display captions.
+
+5. The name of your video is automatically generated from your filename. You can edit the name of your video file by editing the text in the *Name* field.
 
     - This is a required field.
 
@@ -31,11 +47,11 @@ tags:
 
     ![Screenshot of the file and filename showing how it automatically filled in.](../../_embeds/video2.png)
 
-5. Use the toggle(s) to apply cultural protocols to the media asset. By default, media assets created within a content form will sync and inherit protocols from that content. 
+6. Use the toggle(s) to apply cultural protocols to the media asset. By default, media assets created within a content form will sync and inherit protocols from that content. 
 
     - This is a required field.
 
-6. Navigate to the **Sharing Setting** field to apply a sharing setting. Select **All** or **Any**.
+7. Navigate to the **Sharing Setting** field to apply a sharing setting. Select **All** or **Any**.
 
     - All means that the media asset may only be shared with members belonging to ALL the protocols listed. This is the more restrictive setting. 
     - Any means the asset may be shared with members of ANY of the protocols listed. This is less restrictive.
@@ -44,16 +60,16 @@ tags:
     !!! tip
         All is the default setting.
 
-7. When enabled, the **Sync protocols with content** setting ensures the media asset's protocols will always match those of it's parent content to keep content and media access in sync. Media with synced protocols created within a content form will sync and inherit protocols from that content. Media created elsewhere require protocol selection, but will sync once added to content. You can disable the sync setting to set media protocols independent of parent content. 
+8. When enabled, the **Sync protocols with content** setting ensures the media asset's protocols will always match those of it's parent content to keep content and media access in sync. Media with synced protocols created within a content form will sync and inherit protocols from that content. Media created elsewhere require protocol selection, but will sync once added to content. You can disable the sync setting to set media protocols independent of parent content. 
 
     ![Screenshot of the cultural protocols and sharing settings fields](../../_embeds/mediaprotocols.png)
 
-8. Video files are represented by an interactive media player instead of a thumbnail image by default. You may choose to add a thumbnail to your video file.
+9. Video files are represented by an interactive media player instead of a thumbnail image by default. You may choose to add a thumbnail to your video file.
 
     - Select "Choose file" to upload an image.
     - Provide alternative text for your thumbnail. This is required for all thumbnail images. 
 
-9. In the *Identifier* field, provide a unique identifier for the video file. This identifier is usually an accession number, catalogue number, or other unique identifier.
+10. In the *Identifier* field, provide a unique identifier for the video file. This identifier is usually an accession number, catalogue number, or other unique identifier.
 10. Use the *People* field to enter the name of anyone present, named, or referenced in the media asset. 
     
     !!! tip
