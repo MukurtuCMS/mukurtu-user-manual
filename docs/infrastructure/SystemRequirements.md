@@ -5,36 +5,38 @@ tags:
 
 # System Requirements
 
-For the most up-to-date system requirements, please refer to the D11 [Drupal system requirements](https://www.drupal.org/docs/getting-started/system-requirements/overview#s-drupal-11-and-drupal-cms). We strongly recommend experience installing and maintaining Drupal servers.
+For the most up-to-date system requirements, please refer to the Drupal 11 [Drupal system requirements](https://www.drupal.org/docs/getting-started/system-requirements/overview#s-drupal-11-and-drupal-cms). We strongly recommend experience installing and maintaining Drupal servers.
 
 Full documentation is also available at [https://github.com/MukurtuCMS/Mukurtu-CMS](https://github.com/MukurtuCMS/Mukurtu-CMS). 
 
-You will need:
+## You will need:
 
-A web server that supports PHP such as Apache or Nginx  
+A web server that supports PHP such as Apache or Nginx.
 
-If using Apache make sure: 
+If using Apache make sure that: 
 
-- the mod_rewrite module is enabled 
+- The `mod_rewrite` module is enabled.
+- You have the ability to use local `.htaccess` files. 
+- `PHP-FPM` OR `mod_php` is installed.
 
-- you have the ability to use local .htaccess files 
+If using Nginx make sure that:
 
-- PHP-FPM OR mod_php must be installed 
+- `PHP-FPM` is installed.
+- Create nginx config for Drupal and PHP.
 
-If using Nginx 
+PHP 8.4 or later is required.
 
-- PHP-FPM must be installed 
+A database server using the `utf8mb4` character set and `utf8mb4_general_ci` collation such as:
 
-- Create nginx config for Drupal and PHP (Google AI is helpful for this) 
+- [MySQL](https://www.mysql.com/) 8.0 or later.
+- [MariaDB](https://mariadb.org/) 10.6 or later.
 
-We currently recommend PHP version 8.3. 
+Private files correctly configured outside the webroot and referenced in `web/sites/default/settings.php`.
 
-A database server such as  
+A system cron job that runs `drush cron`.
 
-- [MySQL](https://www.mysql.com/) latest version
+Recommended media tools:
 
-- [MariaDB](https://mariadb.org/) latest version
-
-
-
-
+- `poppler-utils` (`pdftotext` and `pdftoppm`) are installed for PDF text search and thumbnails.
+- `ffmpeg` is installed for video thumbnails.
+- PHP's `exec()` is enabled.

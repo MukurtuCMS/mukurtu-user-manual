@@ -37,11 +37,11 @@ There are two different ways to assign an existing collection as a sub-collectio
 
     ![Screenshot showing the top menu of a top level collection page with the edit button highlighted.](../_embeds/sub2.png)
  
-2. Scroll to the **Sub-collections** field, then select the "Select Content" button.
+2. Scroll to the **Sub-collections** field, then select the "Select Sub-collections" button.
 
     ![Screenshot sub-collections field of a top level collection page with the select content button highlighted.](../_embeds/sub3.png)
 
-3. Select any collections you want to assign as a sub-collection by selecting the checkbox beside the collection, then select "Add Content". 
+3. Select any collections you want to assign as a sub-collection by selecting the checkbox beside the collection, then select "Add Sub-collection". 
 
     ![Screenshot showing the sub-collections modal with a checkbox and add content highlighted.](../_embeds/sub4.png)
 
