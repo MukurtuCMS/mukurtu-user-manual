@@ -51,7 +51,7 @@ Add or edit the protocol description. Descriptions display on the protocol page 
 
 ## Local Contexts Description
 
-If you are using Local Contexts labels for content within this protocol, you may add or update a description for Local Contexts projects. This will be displayed in the protocol's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md).
+If you are using Local Contexts labels for content within this protocol, you may add or update a description for Local Contexts projects. This will be displayed in the protocol's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/index.md).
 
 ## Membership display
 
@@ -82,7 +82,7 @@ Featured content gives users a preview of selected content. It displays the titl
 3. All available content is displayed below the search bar. Check the box next to each piece of content you wish to feature.
 4. Select "Add Content".
 
-    ![Screenshot of featured content modal with checkboxes next to selected items and add content button highlighted in red.](../_embeds/edit-protocol-05.png) UPDATE WHEN MODAL IS FIXED
+    ![Screenshot of featured content modal with checkboxes next to selected items and add content button highlighted in red.](../_embeds/edit-protocol-05.png) 
 
 5. Remove featured content by selecting the grey trash can icon on the top right corner of each piece of content.
 

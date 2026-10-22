@@ -1,6 +1,6 @@
 ---
 tags:
-    - Local Contexts
+    - local contexts
 ---
 
 # Using Labels and Notices

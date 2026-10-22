@@ -1,6 +1,6 @@
 ---
 tags:
-    - digital heritage item
+    - digital heritage items
     - content
 ---
 # Multipage Items
@@ -45,11 +45,11 @@ You can add existing digital heritage items to multipage items.
 
     ![Screenshot of a page of the multipage item with the edit button highlighted.](../_embeds/multipage6.png)
 
-2. Select the "Select Content" button to add additional digital heritage items to add to your multipage item.
+2. Select the "Select pages" button to add additional digital heritage items to add to your multipage item.
 
     ![Screenshot of a page of the multipage item with the select content button highlighted.](../_embeds/multipage8.png)
 
-3. Select the checkbox by the digital heritage item or items you want to assign to your multipage item. Select the "Add content" button.
+3. Select the checkbox by the digital heritage item or items you want to assign to your multipage item. Select the "Select entities" button.
 
     ![Screenshot of a page of the multipage item with the edit button highlighted.](../_embeds/multipage9.png)
 

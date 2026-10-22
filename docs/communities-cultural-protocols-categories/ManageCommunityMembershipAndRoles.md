@@ -45,7 +45,7 @@ There are three community roles: community members, community affiliates and com
 - The **community affiliate** role is designated for users who aren't part of the community but work with the community in some capacity that requires a level of access to community content. Some examples include researchers, archivists, and other collaborative partners. Community affiliates may be assigned other roles and protocols within the community.
 
 - **Community managers** are responsible for managing membership in the community. They can create and manage new user accounts, add and remove users from communities, create new cultural protocols, and manage Local Contexts projects and directories. Community managers are also responsible for the look and feel of the community page. This includes the title, banner and thumbnail images, description, featured content and other display settings.
-    For more on user roles, see [User Roles](../users/user-role-types.md)
+    For more on user roles, see [User Roles](../users/index.md)
 
 5) When you've assigned community roles, save your selections by selecting "Assign protocol roles". If you are not a protocol steward, you will be redirected to the community membership page. If you are also a protocol steward of protocols within the community, you can add the user to those protocols and assign protocol roles on the following page.
 
@@ -136,6 +136,13 @@ You can manage multiple members by using the action menu. Use this menu to:
 1. Complete steps 1-3.
 
     ![Manage members page with action item "approve the pending memberships" highlighted](../_embeds/community-membership-20.png)
+
+    If the user(s) are not removed from all protocols within the community, a message will display indicating that the users cannot be removed from the community. Remove them from protocols first, then try again.
+
+    ![A warning message indicating that the users cannot be removed from the community](../_embeds/community-membership-32.png)
+
+2. A confirmation page will display. Select **Remove.**
+    ![Confirmation page to remove user(s) from the community](../_embeds/community-membership-33.png)
 
 2. The users will be removed from the community.
 

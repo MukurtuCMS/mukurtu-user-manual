@@ -39,7 +39,7 @@ A blank **Add Member** form will load.
     - **Protocol stewards** can manage protocol membership, add, edit, and delete all content and media assets, manage the look and feel of the protocol page, and manage Local Contexts labels and notices.
 
     !!! Tip
-        To learn about protocol roles in greater detail, see [User Roles](../users/user-role-types.md)
+        To learn about protocol roles in greater detail, see [User Roles](../users/index.md)
 
 4. Select their membership state.
 
@@ -94,7 +94,7 @@ A success message will display. The user will be unblocked and access to the pro
 
 ### Remove Users
 
-1. To remove a user from the protocol, select "Remove user" from the operations dropdown mnenu. 
+1. To remove a user from the protocol, select "Remove user" from the operations dropdown menu. 
 
     ![The members page with the manage roles dropdown menu exposed and the remove button highlighted](../_embeds/manage-protocol-members-07.2.png)
 
@@ -161,6 +161,10 @@ You will receive different results depending on the action item you select. Belo
 1. Complete steps 1-3.
 
     ![Manage members page with action item "remove users from protocol" highlighted](../_embeds/manage-protocol-members-16.png)
+
+2. A confirmation page will display. Select **Remove**.
+
+    ![A confirmation page lists the selected users.](../_embeds/manage-protocol-members-32.png)
 
 2. The members page will re-load with a success message. The selected users are no longer listed on the manage page. They can no longer access content under the protocol (if protocol is strict). 
 

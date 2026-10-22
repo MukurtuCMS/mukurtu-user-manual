@@ -33,7 +33,7 @@ Edit the *community name* and *description* as needed.
 
 ## Local Contexts description
 
-Local Contexts provides labels and notices that are applied to content. These are a combination of graphics and text that communicate standards for respectful interaction with heritage collections and data as dictated by Indigenous communities. If you are using Local Contexts labels for content within this community, you may add or update a description for Local Contexts projects. This will be displayed in the community's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/UnderstandingTheLocalContextsHub.md)
+Local Contexts provides labels and notices that are applied to content. These are a combination of graphics and text that communicate standards for respectful interaction with heritage collections and data as dictated by Indigenous communities. If you are using Local Contexts labels for content within this community, you may add or update a description for Local Contexts projects. This will be displayed in the community's Local Contexts directory page. For more on Local Contexts, see [Understanding the Local Contexts Hub](../local-contexts/index.md)
 
 ## Community page visibility
 
@@ -41,6 +41,12 @@ You can change the community page visibility by selecting one of:
 
 - **Community Only** - The community page will only be visible to community members who are logged in.
 - **Public** - The page will be visible to the public regardless of login.
+
+    !!! Note
+        If community page visibility is set to "community only", and that community includes an open protocol, visitors will be able to see the community name, although they won't be able to access the community page itself. Unless that difference in access between the community and protocol pages is something you intentionally want, we recommend setting the community page visibility to "public" if it includes any open protocols.  
+
+    !!! Note
+        The "community only" page visibility setting also affects the community browse page `/community` and the "Browse by Community" block on the home page. Users who cannot view the community page will not be able to see the community listed in those locations.
 
 ## Membership display
 

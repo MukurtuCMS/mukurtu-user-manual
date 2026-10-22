@@ -13,11 +13,11 @@ tags:
 If your site has more than one language enabled, authenticated users may choose which which of those languages they use to view and navigate the site. Authenticated users can select from the list of enabled languages, or Mukurtu managers can assign a user's account language when they approve their account registration.
 
 !!! requirement
-    Multiple languages must be enabled for this option to be available. Users can only choose from languages that are already enabled on the site. For more information on how to configure Mukurtu Multilingual and translate your site, refer to our [Translation Workflow](TranslationWorkflow.md) article. For more information on creating user accounts, refer to our [Creating User Accounts](../users/creating-account-site-wide.md) article. 
+    Multiple languages must be enabled for this option to be available. Users can only choose from languages that are already enabled on the site. For more information on how to configure Mukurtu Multilingual and translate your site, refer to our [Translation Workflow](TranslationWorkflow.md) article. For more information on creating user accounts, refer to our [Create User Accounts from a Site-Wide Role](../users/creating-account-site-wide.md) article. 
 
 ## Set your account language
 
-1. Log in to your account. For more information about how to log in to your user account, refer to our [Log In](../users/log-in.md) article.
+1. Log in to your account. For more information about how to log in to your user account, refer to our [Log In](../my-account/index.md) article.
 2. From the **Dashboard** select **Manage my account**.
 
     ![Screenshot of the Dashboard link in the top menu bar](../_embeds/user2.png)
@@ -38,7 +38,7 @@ If your site has more than one language enabled, authenticated users may choose 
 
 ## Assign a user account language
 
-Mukurtu managers and administrators can assign languages to authenticated users, which can be helpful when creating accounts for community members who only might not speak one of the site's languages. Languages can be assigned when creating new user accounts or when editing user accounts. For more information on creating new user accounts, refer to [Creating User Accounts](../users/creating-account-site-wide.md). To assign a language during this process, follow the instructions below.
+Mukurtu managers and administrators can assign languages to authenticated users, which can be helpful when creating accounts for community members who only might not speak one of the site's languages. Languages can be assigned when creating new user accounts or when editing user accounts. For more information on creating new user accounts, refer to [Create User Accounts from a Site-Wide Role](../users/creating-account-site-wide.md). To assign a language during this process, follow the instructions below.
 
 1. When creating a new user account, navigate to the **Language Settings** section of the user registration page.
 2. From the *Site language* field, select a language from the dropdown menu.
@@ -53,8 +53,7 @@ Mukurtu managers and administrators can assign languages to authenticated users,
 
 1. To edit a user account language, select the **Manage Users** link from the left-hand **Admin menu** or from the **Users** section of the **Dashboard**.
 
-    ![Screenshot of the manage users link in the left-hand sidebar admin menu](../_embeds/user9.png)
-    ![Screenshot of the manage users link in the Users section of the dashboard.](../_embeds/user9.5.png)
+    ![Screenshot of the manage users link in the Users section of the dashboard.](../_embeds/user9.png)
 
 2. Navigate to the user account and select the "Edit" button. 
 

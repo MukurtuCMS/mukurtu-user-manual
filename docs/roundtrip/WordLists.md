@@ -9,7 +9,7 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information"). For more information on word lists metadata fields, refer to [Create a Word List](../dictionary/WordLists.md).
+CSV templates can be downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information"). For more information on word lists metadata fields, refer to [Create a Word List](../dictionary/WordLists.md).
 
 ## Word lists
 

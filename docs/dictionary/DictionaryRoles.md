@@ -1,7 +1,7 @@
 ---
 tags:
-    - Dictionary
-    - User roles and responsibilities
+    - dictionary
+    - user roles and responsibilities
 ---
 
 # Dictionary Roles
@@ -26,4 +26,4 @@ The language steward can create, edit, and delete any dictionary word and word l
 
 The language contributor can create, edit, and delete their own dictionary words and word lists within their protocol, but cannot edit or delete those created by other users. They can also upload media and assign protocols to media assets.
 
-For more about user roles, see [User Role Types](../users/user-role-types.md).
+For more about user roles, see [User Roles](../users/index.md).

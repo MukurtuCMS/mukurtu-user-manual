@@ -13,7 +13,7 @@ Taxonomy terms each link to a taxonomy term page that aggregates all content tha
 
 To edit your taxonomy term page, navigate to the taxonomy term page. From your Dashboard, navigate to Taxonomies and select **Manage taxonomies**. 
 
-![Screenshot of the taxonomies section of the dashboard with manage taxonomies highlighted.](../_embeds/taxonomy1.png)
+![Screenshot of the taxonomies section of the dashboard with manage taxonomies highlighted.](../_embeds/manage-tax-1.1.png)
 
 1. Select the vocabulary from the taxonomies list.
 2. Select the term whose page you want to edit. 
@@ -23,7 +23,7 @@ To edit your taxonomy term page, navigate to the taxonomy term page. From your D
 
 3. Use the **Name** field to edit the term itself. This will be applied to any content using the term.
 
-    ![Screenshot of the edit term page with the name field highlighted.](../_emebds/taxonomy2.png)
+    ![Screenshot of the edit term page with the name field highlighted.](../_embeds/taxonomy2.png)
 
 4. Use the **Description** field to provide a description for your taxonomy term. Select the "Add media" icon to embed images, video, audio, or other media assets.
 

@@ -14,7 +14,7 @@ Method 1: Add `/admin/config/people/accounts` to your url in your browser's addr
 
 Method 2: From the dashboard, scroll down to the Users section, and select **Manage User Settings and Registration** 
 
-![The Mukurtu Dashboard showing the Users section with Manage User Settings and Registration highlighted](../_embeds/manage-user-registration-01.png) 
+![The Mukurtu Dashboard showing the Users section with Manage User Settings and Registration highlighted](../_embeds/manager-user-registration-01.png) 
 
 ## Account Registration
 
@@ -115,4 +115,6 @@ Different settings combinations create different registration flows. The followi
 
 7. When you are finished, select "Save Configuration." The form will reload and a success message will be displayed.
 
-    ![The account settings form with a success message displayed](../_embeds/manage-user-registration-08.png) 
+    ![The account settings form with a success message displayed](../_embeds/manage-user-registration-08.png)
+
+These settings control the automated emails tied to registration activity. Individual users control which other activity emails they receive, and how often, on their own account — see [Manage Email Notification Preferences](ManageEmailNotificationPreferences.md).

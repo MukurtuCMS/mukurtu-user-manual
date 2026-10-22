@@ -9,7 +9,7 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-Import templates can be created and downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information"). For more information on collections metadata fields, refer to [Create Collections](../collections/CreateCollection.md).
+CSV templates can be downloaded from your own site at `/admin/import/format` (linked on the dashboard as "Import format information"). For more information on collections metadata fields, refer to [Create Collections](../collections/CreateCollection.md).
 
 - When importing complex collections that have subcollections, the subcollections must be created first. Therefore, subcollections should be ordered first in the spreadsheet above any parent collections. 
 - Content must exist to be added to Collections.

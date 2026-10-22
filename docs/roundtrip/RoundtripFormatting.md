@@ -3,7 +3,7 @@ tags:
     - roundtrip
 ---
 
-# Roundtrip Spreadsheets, Formats, and Tools
+# File Formats and Spreadsheet Tools
 
 !!! Roles "User roles" 
     Administrator, Mukurtu manager, Roundtrip manager
@@ -18,12 +18,11 @@ The Roundtrip tools make use of CSV spreadsheets for import and export. Here are
 - All spreadsheets must use Unicode UTF-8 character encoding.
     - UTF-8 is the most commonly used character encoding system used online.
     - Most non-English keyboards are developed to use UTF-8 encoding to ensure that their characters are accurately and reliably displayed across operating systems and web browsers.
-- Certain exports will generate ZIP archives for download.
+- Exports will generate ZIP archives for download.
     - ZIP archives compress files and folder directories to reduce their size and facilitate transfer of larger files.
-    - All operating systems have built-in tools to create and open ZIP archives – they are often found under “compress” actions.
+    - All operating systems have built-in tools to create and open ZIP archives. They are often found under “compress” actions.
         - [Zip and unzip files (Windows)](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5)
         - [Compress or uncompress files and folders on Mac](https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac)
-    - Third-party file compression tools can be used, but are  not required.
 
 ## Spreadsheet tools
 
@@ -54,4 +53,5 @@ In general, any spreadsheet tool that supports the above file format and charact
 - At this time, we have not thoroughly tested any of Microsoft’s online services (eg: Office 365) and are not sure how they address these issues.
 
 **Numbers**
+
 - Numbers-generated CSV sheets cannot have any excess, empty columns. These will cause the import to fail, so delete any unused columns entirely.
