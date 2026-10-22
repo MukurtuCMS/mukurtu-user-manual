@@ -40,7 +40,20 @@ Please note, this is an experimental tool. Our stock palettes are selected to me
 
     ![Screenshot of the color selector button for the Brand Primary Accent color highlighted with the Color module below.](../_embeds/color4.png)
 
-3. Use the Color modal to select the color you want to apply. You can also use *HEX*, *HSL* (*Hue Sat Lum*), or *RGB* (*Red Green Blue*) codes to specify colors. 
+3. Use the modal to select the color you want to apply. You can also use *HEX*, *HSL* (*Hue Sat Lum*), or *RGB* (*Red Green Blue*) codes to specify colors. 
 4. Select the "Save" button to apply your color palette site-wide.
 
     ![Screenshot of the edit config page design settings with the save button highlighted.](../_embeds/color7.png)
+
+## Configure page background
+
+Users have the option to set a page background that is shown behind their home page. When setting a page background, users can also select whether to have light or dark text and whether to tint their background image so that the image competes less with any text on the page. Large images, around 2000 pixels wide, work best for this. 
+
+1. You can upload your page background image by selecting the "Browse" or "Choose File" button. The text of the button depends on your browser settings.
+
+    ![Screenshot of the design settings page featuring the page background settings with the browse button highlighted.](../_embeds/page1.png)
+
+    !!! tip 
+        If your uploaded image does not meet contrast accessibility standards, you will receive a warning. 
+
+2. Use the **Page text** radio buttons to select your text color. You can select from light or dark text. *Tint the background image* is selected by default and adds a contrasting transparent layer over your image so it competes less with your text. If you turn this setting off, check that the text is still easy to read over your image.
