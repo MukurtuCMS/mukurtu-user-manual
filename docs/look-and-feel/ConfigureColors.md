@@ -4,12 +4,10 @@ tags:
     - look and feel
 ---
 
-# Configure Design Settings
+# Configure Color Settings
 
 !!! roles "User roles"
     Administrator, Mukurtu manager
-
-## Configure color settings
 
 Mukurtu includes two stock color palettes: Blue and Gold and Red and Bone. There is also an experimental palette customizer that allows you to configure custom colors. You can configure your color palette settings in the **Dashboard** by navigating to **Look and Feel** and selecting the **Design settings** link.
 
@@ -44,44 +42,3 @@ Please note, this is an experimental tool. Our stock palettes are selected to me
 4. Select the "Save" button to apply your color palette site-wide.
 
     ![Screenshot of the edit config page design settings with the save button highlighted.](../_embeds/color7.png)
-
-## Configure page background
-
-Users may add an optional page background that is shown behind their home page. When setting a page background, users can also select whether to have light or dark text and whether to tint their background image so that the image competes less with any text on the page. Large images, around 2000 pixels wide, work best for this. If no image is added the page background will be blank.
-
-1. You can upload your page background image by selecting the "Browse" or "Choose File" button. The text of the button depends on your browser settings.
-
-    ![Screenshot of the design settings page featuring the page background settings with the browse button highlighted.](../_embeds/page1.png)
-
-2. Use the **Page text** radio buttons to select your text color. You can select from light or dark text. 
-
-    !!! tip
-        *Tint the background image* is selected by default and adds a contrasting transparent layer over your image so it competes less with your text. If you turn this setting off, check that the text is still easy to read over your image.
-
-This is an example of a page background with a darkened overlay and light text:
-
-![Screenshot of the front page with a dark overlay and light text.](../_embeds/page4.png)
-
-This is an example of a page background with a lightened overlay and dark text:
-
-![Screenshot of the front page with a light overlay and dark text.](../_embeds/page3.png)
-
-## Configure header background
-
-Users may add an optional header background that is shown behind the logo and menu on every page. A short, wide image is recommended, around 2000 x 300 pixels. 
-
-If your home page has its own background image, that one is used on the home page instead. 
-
-1. You can upload your header background image by selecting the "Browse" or "Choose File" button. The text of the button depends on your browser settings.
-2. Use the **Page text** radio buttons to select your text color. You can select from light or dark text. 
-
-    !!! tip
-        *Tint the background image* is selected by default and adds a contrasting transparent layer over your image so it competes less with your text. If you turn this setting off, check that the text is still easy to read over your image.
-
-This is an example of a header background with a darkened overlay and light text:
-
-![Screenshot of the browse digital heritage items page with a header background displaying a dark overlay and light text.](../_embeds/page5.png)
-
-This is an example of a header background with a lightened overlay and dark text:
-
-![Screenshot of the browse digital heritage items page with a header background displaying a light overlay and dark text.](../_embeds/page6.png)

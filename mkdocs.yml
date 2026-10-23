@@ -172,6 +172,7 @@ nav:
   - Look and Feel:
     - look-and-feel/index.md
     - look-and-feel/ConfigureLogo.md
+    - look-and-feel/ConfigureSiteBranding.md
     - look-and-feel/ConfigureSiteNavigation.md
     - look-and-feel/ConfigureLandingPage.md
     - look-and-feel/ConfigureConsentPopup.md
