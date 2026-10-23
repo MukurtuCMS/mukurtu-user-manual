@@ -12,32 +12,31 @@ The Mukurtu Multilingual module enables the required Drupal multilingual modules
 
 ## Enable module
 
-1. From the administrative menu, select **Extend** or navigate to `/admin/modules`.
+1. From the **Dashboard**, navigate to the **Multilingual** section and select the **Enable multilingual** link.
 
-    ![Screenshot of the front page with the Extend menu highlighted.](../_embeds/translation1.png)
+    ![Screenshot of the dashboard featuring the multilingual section with enable multilingual highlighted.](../_embeds/multilingual1.png)
 
-2. Use the *Filter* field to search for "multilingual". 
-3. Select Mukurtu Multilingual, then select "Install". This installs and configures the Mukurtu Multilingual, Configuration Translation, Interface Translation, and Content Translation modules.
+2. Select the "Enable multilingual" button to installs and configure Mukurtu Multilingual, Configuration Translation, Interface Translation, and Config Translation PO modules.
 
-    ![Screenshot of the Extend menu, with the checkbox and install button highlighted.](../_embeds/translation2.png)
+    ![Screenshot of the enable multilingual confirmation page with the enable multilingual button highlighted.](../_embeds/multilingual2.png)
 
 4. You will receive a message asking you to confirm that you want to install all of the associated modules. Select "Continue".
 
     ![Screenshot of the message asking you to confirm whether you want to install all of the multilingual modules.](../_embeds/translation3.png)
 
-5. You will receive a status message confirming whether your modules have been installed. The warning message includes a link to add languages to your Mukurtu site. Continue to the next section for instructions on adding a language to your site.
+5. You will receive a status message confirming that your modules have been installed and redirected to the Languages page. Follow the instructions below to add one or more languages to your site.
 
-    ![Screenshot of the Extend menu with the status and warning messages displayed.](../_embeds/translation3a.png)
+    ![Screenshot of the Languages page with the status message showing that multilingual is enabled.](../_embeds/multilingual3.png)
 
 ## Add Languages
 
-To add a language for translation, follow the link in the warning message you got when you configured your site languages or use the administrative menu to navigate to Configuration > Region and Languages > Language. You can also access this setting directly by going to `/admin/config/regional/language`. 
+You can add your language for translation on the redirected **Languages** page immediately after enabling your multilingual modules. If you choose not to add a language at that time, you can add languages later. From the **Dashboard**, navigate to the **Multilingual** section and select the **Manage site languages** link or go directly by going to `/admin/config/regional/language`. 
 
-![Screenshot of the Configuration menu with Region and Languages open and Language highlighted](../_embeds/translation7.png)
+![Screenshot of the multilingual section of the dashboard with the manage site languages link highlighted.](../_embeds/multilingual4.png)
 
 ### Add a language
 
-1. Select the "Add Language" button in the top right-hand corner of the Languages configuration page.
+1. Select the "Add language" button in the top right-hand corner of the Languages configuration page.
 
     ![Screenshot of the languages configuration page with the add language button highlighted](../_embeds/translation4.png)
 
