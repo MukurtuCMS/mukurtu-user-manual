@@ -185,13 +185,13 @@ nav:
     - multilingual/index.md 
     - multilingual/TranslationWorkflow.md
     - multilingual/EnableMultilingualModule.md
+    - multilingual/ConfigureSiteLanguage.md 
+    - multilingual/UserLanguage.md
+    - multilingual/TranslateContent.md  
     - multilingual/UITranslation.md
     - multilingual/ConfigurationTranslation.md
     - multilingual/TranslateTaxonomies.md
     - multilingual/TranslateLocalContexts.md
-    - multilingual/TranslateContent.md    
-    - multilingual/ConfigureSiteLanguage.md 
-    - multilingual/UserLanguage.md
   - Local Contexts:
     - local-contexts/index.md
     - local-contexts/LevelsOfLocalContextsProjects.md

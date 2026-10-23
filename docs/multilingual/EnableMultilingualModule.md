@@ -36,6 +36,8 @@ You can add your language for translation on the redirected **Languages** page i
 
 ### Add a language
 
+Adding a language allows users to use the site in that language, imports any Drupal translations, and allows for interface and content translation. It does not auto-translate a site's content or interface.
+
 1. Select the "Add language" button in the top right-hand corner of the Languages configuration page.
 
     ![Screenshot of the languages configuration page with the add language button highlighted](../_embeds/translation4.png)
