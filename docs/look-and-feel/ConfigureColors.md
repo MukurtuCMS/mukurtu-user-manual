@@ -40,7 +40,7 @@ Please note, this is an experimental tool. Our stock palettes are selected to me
 
     ![Screenshot of the color selector button for the Brand Primary Accent color highlighted with the Color module below.](../_embeds/color4.png)
 
-3. Use the modal to select the color you want to apply. You can also use *HEX*, *HSL* (*Hue Sat Lum*), or *RGB* (*Red Green Blue*) codes to specify colors. 
+3. Use the modal to select the color you want to apply. You can use *HEX*, *HSL* (*Hue Sat Lum*), or *RGB* (*Red Green Blue*) codes to specify colors. 
 4. Select the "Save" button to apply your color palette site-wide.
 
     ![Screenshot of the edit config page design settings with the save button highlighted.](../_embeds/color7.png)
