@@ -38,6 +38,8 @@ In the *Name* field enter the language name as you want it to appear on the site
 
 You can also add a *language code*, which tells screen readers and browsers what language this is. To find your language's code, search the [ISO 639-3 code table](https://iso639-3.sil.org/code_tables/639/data). If your language doesn't have a code, use a private-use code that starts with x-, such as x-mylang. Leave blank if you're not sure.
 
+If your language reads right to left (i.e. Arabic, Hebrew or Persian) enable the *Read right to left* toggle so that the language is laid out correctly.
+
 The *Description* field is optional, and can include information about the language, i.e., its history, regions where the language is spoken, related languages and dialects, etc. This will be displayed in the language's term page.
 
 When ready:
