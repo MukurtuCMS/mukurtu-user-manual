@@ -169,6 +169,7 @@ nav:
     - site-settings/UnderstandingTextFormats.md
     - site-settings/ConfigureGoogleAnalytics.md
     - site-settings/ConfigureCookiesAndConsentSettings.md
+    - site-settings/ConfigureBotAndSpamProtection.md
   - Look and Feel:
     - look-and-feel/index.md
     - look-and-feel/ConfigureLogo.md
@@ -185,15 +186,17 @@ nav:
     - multilingual/index.md 
     - multilingual/TranslationWorkflow.md
     - multilingual/EnableMultilingualModule.md
+    - multilingual/ConfigureSiteLanguage.md 
+    - multilingual/UserLanguage.md
+    - multilingual/TranslateContent.md  
     - multilingual/UITranslation.md
     - multilingual/ConfigurationTranslation.md
     - multilingual/TranslateTaxonomies.md
     - multilingual/TranslateLocalContexts.md
-    - multilingual/TranslateContent.md    
-    - multilingual/ConfigureSiteLanguage.md 
-    - multilingual/UserLanguage.md
   - Local Contexts:
     - local-contexts/index.md
+    - local-contexts/UnderstandingLegacyTKLabels.md
+    - local-contexts/ConvertLegacyTKLabelsToHubLabels.md
     - local-contexts/LevelsOfLocalContextsProjects.md
     - local-contexts/ManageLocalContextsProjects.md
     - local-contexts/ViewAndManageDirectoryPages.md
