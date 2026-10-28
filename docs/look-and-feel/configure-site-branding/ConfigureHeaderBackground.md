@@ -4,12 +4,10 @@ tags:
     - look and feel
 ---
 
-# Configure Site Branding
+# Configure Header Background
 
 !!! roles "User roles"
     Administrator, Mukurtu manager
-
-## Configure header background
 
 Users may add an optional header background that is shown behind the logo and menu on every page. A short, wide image is recommended, around 2000 x 300 pixels. 
 

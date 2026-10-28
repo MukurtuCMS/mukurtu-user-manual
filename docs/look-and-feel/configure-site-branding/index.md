@@ -122,7 +122,7 @@ The Welcome to Your Mukurtu CMS Site (Full Background) welcome block only allows
 
 ### Configure Featured Content block
 
-The Featured Content block allows you to showcase featured content on your Mukurtu CMS site. Follow the instructions below to configure your featured content.
+The Featured Content block allows you to showcase featured content on your Mukurtu CMS site in either a grid or a carousel format. Follow the instructions below to configure your featured content.
 
 1. From the **Edit content block Featured Content** page, you may choose to use the *Block description* field to rename your block.
 2. Navigate to the **Featured Content** section of the page, and select the "Select Content" button.
