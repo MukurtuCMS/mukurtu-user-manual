@@ -46,10 +46,10 @@ To move a Mukurtu 3 site from Reclaim Hosting to another hosting provider, you w
 
 These files can be quite large, to optimize sharing it is a good idea to compress the file:
 
-    - On a Mac, right-click and select “compress”.
-    - On Windows, right-click and select “send to” > Compressed (Zipped) Folder. 
+- On a Mac, right-click and select “compress”.
+- On Windows, right-click and select “send to” > Compressed (Zipped) Folder. 
 
- ![finder file compression](../_embeds/DBExport09.png)
+![finder file compression](../_embeds/DBExport09.png)
 
 ## Download a backup of the site files
 
