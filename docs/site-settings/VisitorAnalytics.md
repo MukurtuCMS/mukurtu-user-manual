@@ -75,7 +75,7 @@ Select the **Details** link to navigate to the access log.
 
 ![Screenshot of the view access log page](../_embeds/visitors10.png)
 
-### Performance
+#### Performance
 
 Performance provides a weekly, daily, or hourly breakdown of the following metrics:
 
@@ -88,37 +88,37 @@ Performance provides a weekly, daily, or hourly breakdown of the following metri
 
 ![Screenshot of the Performance page with the Weekly view selected.](../_embeds/visitors11.png)
 
-### Recent hits
+#### Recent hits
 
 Recent hits provides a breakdown of recent visits to specific pages. Use the *Path* field to search for specific paths. Select the **Details** link to view the access log.
 
 ![Screenshot of the recent hits page with the details link highlighted.](../_embeds/visitors12.png)
 
-### Referrers
+#### Referrers
 
 Referrers provides a list of the links that visitors followed to navigate to a specific page. Referrers can be filtered by External pages, Internal pages, or All pages. 
 
 ![Screenshot of the referrers page with the filter field highlighted.](../_embeds/visitors13.png)
 
-### Routes
+#### Routes
 
 Routes maps the ways that visitors were directed to specific pages throughout the site. Select the **Details** link to view the access log.
 
 ![Screenshot of the routes page with the details link highlighted.](../_embeds/visitors14.png)
 
-### Top Pages
+#### Top Pages
 
 Top pages provides a list of your site's most recently visited paths and how many unique hits that path had.
 
 ![Screenshot of the top pages page.](../_embeds/visitors15.png)
 
-### Locations
+#### Locations
 
 Locations provides a breakdown of your site's unique visitors by location, including the continent, country, region, city, and language. Locations also provides an interactive visitor map. 
 
 ![Screenshot of the locations page.](../_embeds/visitors16.png)
 
-### Devices
+#### Devices
 
 Devices provides a breakdown of your site's unique visitors by device, including whether the site was accessed by desktop or smartphone, as well as the device model, the brand, and the configuration or resolution that the site was displayed. 
 
@@ -127,7 +127,7 @@ Select the "Configuration" button to display the configuration.
 ![Screenshot of the devices page.](../_embeds/visitors17.png)
 
 
-### Software
+#### Software
 
 Software provides a breakdown of your site's unique visitors by software, including their operating system, operating system families, browser and browser version, configurations and resolution, and browser engines. Software also includes Cookie and PDF information.
 
@@ -136,7 +136,7 @@ Select the "Operating System Families", "Browser Version", or "Resolution" butto
 ![Screenshot of the software page.](../_embeds/visitors18.png)
 
 
-### Times
+#### Times
 
 Times provides a breakdown of daily visits, as well as a comparison of visits by the visitor's local time zone, the site administrator's time zone, and visits based on the day of the week and the month. A record of overall monthly visits is also included. 
 
