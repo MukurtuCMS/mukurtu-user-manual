@@ -42,7 +42,7 @@ To move a Mukurtu 3 site from Reclaim Hosting to another hosting provider, you w
 
 8) The file will download with a “.sql” extension. This may take a few minutes to complete.
 
-![file download](../_embeds/DBExport08png)
+![file download](../_embeds/DBExport08.png)
 
 These files can be quite large, to optimize sharing it is a good idea to compress the file:
 

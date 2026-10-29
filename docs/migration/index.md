@@ -33,3 +33,7 @@ Before starting the migration process, regardless of your hosting environment, y
 5. [Decommission the Mukurtu 3 site](SH05DecommissionMukurtu3.md)
 
 If you have any questions, please contact us at [support@mukurtu.org](mailto:support@mukurtu.org?subject=Mukurtu%204%20migration%20support).
+
+## Migrating from Reclaim Hosting to another vendor
+
+- [Exporting Site Data from Reclaim Hosting](ReclaimExportSiteData.md)
