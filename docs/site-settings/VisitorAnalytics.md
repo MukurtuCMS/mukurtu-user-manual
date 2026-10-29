@@ -29,21 +29,6 @@ Administrators and Mukurtu managers may choose to enable site analytics. Mukurtu
     - Retention - how often retention logs are discarded
     - Miscellaneous - script type (minified versus full)
 
-### Enable GeoIP 
-
-Optionally, users with command line access can enable the Visitor Analytics module's GeoIP function to show city or regional data. Enabling GeoIP requires a free MaxMind GeoLite2 license key. 
-
-1. Get a MaxMind GeoLite2 license key by creating an account at [maxmind.com](https://www.maxmind.com/en/geolite-free-ip-geolocation-data).
-2. Navigate to the GeoIP tab of the **Analytics settings** by selecting the tab or by navigating direcly to `admin/config/system/visitors/geoip`. 
-3. Enter your key in the *MaxMind License Key* field.
-4. Select "Save configuration".
-
-    ![Screenshot of the Visitors analytics settings page with the GeoIP tab selected and the GeoIP field and Save configuration buttons highlighted.](../_embeds/visitors2.png)
-
-5. Open your terminal and run `drush visitors:download:city`.
-6. Then run `drush visitors:rebuild:location` to backfill existing analytics records.
-7. In your Mukurtu site, clear your cache by selecting the "Rebuild Cache" button in the top right of your screen.
-
 ## View Visitor Analytics
 
 To view analytics provided by the Mukurtu Visitors module, navigate to your **Dashboard** in the **Site settings** section and select the **Analytics** link. 
@@ -129,7 +114,7 @@ Top pages provides a list of your site's most recently visited paths and how man
 
 ### Locations
 
-Locations provides a breakdown of your site's unique visitors by location, including the continent, country, and language. If you have configured [GeoIP](#enable-geoip), more granular regional information such as region and city data will be available. If you have not configured GeoIP, these will be listed as "Unknown, Country".
+Locations provides a breakdown of your site's unique visitors by location, including the continent, country, region, city, and language. Locations also provides an interactive visitor map. 
 
 ![Screenshot of the locations page.](../_embeds/visitors16.png)
 
