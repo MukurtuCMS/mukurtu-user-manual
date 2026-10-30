@@ -32,9 +32,8 @@ Before starting the migration process, regardless of your hosting environment, y
 4. [Ensure that the migration was successful](SH04VerifyMigration.md)
 5. [Decommission the Mukurtu 3 site](SH05DecommissionMukurtu3.md)
 
-## Reclaim Hosting migration steps
-
-TBD pending Reclaim release.
-
 If you have any questions, please contact us at [support@mukurtu.org](mailto:support@mukurtu.org?subject=Mukurtu%204%20migration%20support).
 
+## Migrating from Reclaim Hosting to another vendor
+
+- [Exporting Site Data from Reclaim Hosting](ReclaimExportSiteData.md)
