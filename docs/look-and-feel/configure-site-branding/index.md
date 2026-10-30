@@ -19,6 +19,29 @@ Mukurtu CMS includes a preconfigured landing page layout that users can personal
 
 Users also have the option to personalize their landing page to reflect their organizational branding and best showcase their content. 
 
+## Configure page background
+
+Users may add an optional page background that is shown behind their home page. When setting a page background, users can also select whether to have light or dark text and whether to tint their background image so that the image competes less with any text on the page. Large images, around 2000 pixels wide, work best for this. If no image is added the page background will be blank.
+
+1. You can upload your page background image by selecting the "Browse" or "Choose File" button. The text of the button depends on your browser settings.
+
+    ![Screenshot of the design settings page featuring the page background settings with the browse button highlighted.](../_embeds/page1.png)
+
+2. Use the **Page text** radio buttons to select your text color. You can select from light or dark text. 
+
+3. *Tint the background image* is selected by default and adds a contrasting transparent layer over your image so it competes less with your text. Use the toggle to turn this setting off.
+
+    !!! tip
+        If you turn this setting off, check that the text is still easy to read over your image.
+
+This is an example of a page background with a darkened overlay and light text:
+
+![Screenshot of the front page with a dark overlay and light text.](../_embeds/page4.png)
+
+This is an example of a page background with a lightened overlay and dark text:
+
+![Screenshot of the front page with a light overlay and dark text.](../_embeds/page3.png)
+
 ## Block types
 
 - Welcome to Your Mukurtu CMS Site: This block features a half-page, right jusitified welcome banner in our classic Red and Bone color palette. For more information on configuring featured content blocks, refer to [Configure a Welcome Block](#configure-welcome-block-and-vertical-block).
@@ -99,7 +122,7 @@ The Welcome to Your Mukurtu CMS Site (Full Background) welcome block only allows
 
 ### Configure Featured Content block
 
-The Featured Content block allows you to showcase featured content on your Mukurtu CMS site. Follow the instructions below to configure your featured content.
+The Featured Content block allows you to showcase featured content on your Mukurtu CMS site in either a grid or a carousel format. Follow the instructions below to configure your featured content.
 
 1. From the **Edit content block Featured Content** page, you may choose to use the *Block description* field to rename your block.
 2. Navigate to the **Featured Content** section of the page, and select the "Select Content" button.
@@ -270,3 +293,4 @@ Most sites will use the provided landing page, but if your landing page has been
 9. Select the "Save configuration" button to apply your changes.
 
     ![Screenshot of the basic site settings page with the save configuration button highlighted.](../_embeds/landing24.png)
+

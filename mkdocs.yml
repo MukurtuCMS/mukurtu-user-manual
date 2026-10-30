@@ -173,15 +173,17 @@ nav:
     - site-settings/ConfigureBotAndSpamProtection.md
   - Look and Feel:
     - look-and-feel/index.md
-    - look-and-feel/ConfigureLogo.md
+    - Configure Site Branding:
+      - configure-site-branding/index.md
+      - configure-site-branding/ConfigureLogo.md
+      - configure-site-branding/ConfigureFooter.md
+      - configure-site-branding/ConfigureColors.md
+      - configure-site-branding/ConfigureHeaderBackground.md
+      - configure-site-branding/ConfigureFont.md 
+      - configure-site-branding/ConfigureSubtheme.md
     - look-and-feel/ConfigureSiteNavigation.md
-    - look-and-feel/ConfigureLandingPage.md
     - look-and-feel/ConfigureConsentPopup.md
     - look-and-feel/CreateBasicPage.md
-    - look-and-feel/ConfigureFooter.md
-    - look-and-feel/ConfigureColors.md
-    - look-and-feel/ConfigureFont.md 
-    - look-and-feel/ConfigureSubtheme.md
     - look-and-feel/ConfigureAccessDeniedPage.md
   - Multilingual:
     - multilingual/index.md 
