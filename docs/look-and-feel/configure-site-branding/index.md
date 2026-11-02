@@ -159,7 +159,7 @@ You can rearrange the blocks on your landing page by selecting a block and dragg
 
 4. Select the "Add block" button to add your block.
 
-    ![Screenshot of the configure block settigns with the add block button highlighted.](../_embeds/landing10.png)
+    ![Screenshot of the configure block settings with the add block button highlighted.](../_embeds/landing10.png)
 
 5. You may choose to add more blocks, or select "Save" to save your landing page configuration.
 

@@ -9,7 +9,6 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager
 
-
 ## Block types
 
 ### Content blocks
