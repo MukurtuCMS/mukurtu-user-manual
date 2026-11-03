@@ -46,7 +46,7 @@ This is an example of a page background with a lightened overlay and dark text:
 
 ### Content blocks
 
-For more information about the different types of blocks you can use on your landing page and how to configure them, refer to [Block Types and Configuration](../ConfigureBlocks.md)
+For more information about the different types of blocks you can use on your landing page and how to configure them, refer to [Block Types and Configuration](ConfigureBlocks.md)
 
 ## Edit the default landing page
 

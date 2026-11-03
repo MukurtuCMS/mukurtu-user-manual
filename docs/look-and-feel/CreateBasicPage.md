@@ -83,7 +83,7 @@ Layout Builder uses sections and blocks to structure the layout of your page. Se
 
     ![Screenshot of the add block menu.](../_embeds/layout6.png)
 
-For more information on how to configure the different types of blocks, refer to [Block Types and Configuration](../ConfigureBlocks.md)
+For more information on how to configure the different types of blocks, refer to [Block Types and Configuration](configure-site-branding/ConfigureBlocks.md)
 
 ### Edit basic page
 
