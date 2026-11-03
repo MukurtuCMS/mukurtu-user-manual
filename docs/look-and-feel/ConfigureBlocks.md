@@ -15,15 +15,19 @@ tags:
 
 - Call to Action: A call to action block enables a block with text and a button that redirects users to a specific site. Calls to action can be used to direct users to specific campaigns or to bring attention to particular aspects of the site.
 
+    ![Screenshot of the call to action block.](../_embeds/block20.png)
+
 - Featured Content: This block enables users to showcase featured content on their site. For more information on configuring featured content blocks, refer to [Configure a Featured Content block](#configure-featured-content-block).
 
     ![Screenshot of the featured content block.](../_embeds/block4.png)
 
-- Full Image With Description: This block features a full-width background image block with overlaid title and description text. For more information on configuring featured content blocks, refer to [Configure a Full Background Block](#configure-full-background-block).
+- Full Image With Description: This block features a full-width background image block with overlaid title and description text. For more information on configuring featured content blocks, refer to [Configure a Full Background Block](#featured-content).
 
     ![Screenshot of the full image with description banner.](../_embeds/block2.png)
 
 - Horizontal divider: This block adds a grey horizontal divider to your landing page.
+
+    ![Screenshot of the horizontal divider block.](../_embeds/block21.png)
 
 - Image with Description: This block features a half-page, right jusitified welcome banner in our classic Red and Bone color palette. For more information on configuring featured content blocks, refer to [Configure a Welcome Block](#configure-welcome-block-and-vertical-block).
 
@@ -59,49 +63,13 @@ tags:
 
 ## Configure content blocks
 
-Content blocks include the Call to action, Featured Content, Full Image with Description, Horizontal divider, Image with Description, Local Contexts, Media assets, Text, and Vertical Image with Description blocks. All content blocks can be configured from the . Follow the instructions below to configure your content blocks.
+Content blocks include the Call to action, Featured Content, Full Image with Description, Horizontal divider, Image with Description, Local Contexts, Media assets, Text, and Vertical Image with Description blocks. Follow the instructions below to configure your content blocks.
 
 Select the "Edit" icon and then select "Configure" on the blocks you want to configure, or configure new blocks as you add them. 
 
 ![Screenshot of the image with description block with the edit icon for the image with description block highlighted.](../_embeds/block7.png)
 
 ![Screenshot of the image with description block with the edit icon expanded and the configure button highlighted.](../_embeds/block7.5.png)
-
-### Configure Image with description and Vertical image with description blocks
-
-The  Image with Description and Vertical Image with Description welcome blocks are configured the same way, and allow image and video uploads. Follow the instructions to configure your block.
-
-1. Use the *Block description* field to rename your Welcome block.
-2. Use the *Body* field to provide more information about your site. 
-
-    ![Screenshot of the Edit content block welcome to your Mukurtu CMS site featuring the block description and body fields.](../_embeds/block12.png)
-
-3. Use the "Add media" button to add a media asset to your welcome block. You can add an image or a video. For more information on adding media assets, refer to the [Create Media Assets Overview](../media/CreateMediaAssets.md).
-
-    ![Screenshot of the media modal with the Add media button highlighted.](../_embeds/block13.png)
-
-4. Select your media asset, then select the "Insert selected" button.
-
-    ![Screenshot of the media modal with the insert selected button highlighted.](../_embeds/block14.png)
-
-5. Select "Save" to save your welcome block.
-
-### Configure Full Background block
-
-The Welcome to Your Mukurtu CMS Site (Full Background) welcome block only allows images and requires users to configure the overlaid text color. Follow the instructions to configure your welcome block.
-
-1. Use the *Block description* field to rename your Welcome block.
-2. Use the *Body* field to provide more information about your site. 
-
-    ![Screenshot of the Edit content block welcome to your Mukurtu CMS site featuring the block description and body fields.](../_embeds/block16.png)
-
-3. Use the "Add media" button to add a background image to your welcome block. For more information on adding media assets, refer to the [Create Media Assets Overview](../media/CreateMediaAssets.md).
-4. Select your image, then select the "Insert selected" button.
-5. Use the **Text Color** dropdown to select **Light** or **Dark** text. Choose your text color based on background contrast. Light uses white text, Dark uses brand primary dark color. Always verify color contrast meets accessibility standards (WCAG AA minimum 4.5:1 ratio) using an accessibility tool before publishing. 
-
-    ![Screenshot of the edit content block welcome to your Mukurtu CMS site featuring the add media and text color dropdown, with the text color dropdown highlighted.](../_embeds/block15.png)
-
-6. Select the "Save" button to save your welcome block.
 
 ### Call to action 
 
@@ -142,6 +110,42 @@ You can add a featured content block to your landing page or your basic page. Th
 6. You can continue to add blocks, or select the "Save" button in the top right-hand side of the page to save your layout.
 
     ![Screenshot of the edit layout page with the save button in the top right highlighted.](../_embeds/layout12.png)
+
+### Configure Full Background block
+
+The Welcome to Your Mukurtu CMS Site (Full Background) welcome block only allows images and requires users to configure the overlaid text color. Follow the instructions to configure your welcome block.
+
+1. Use the *Block description* field to rename your Welcome block.
+2. Use the *Body* field to provide more information about your site. 
+
+    ![Screenshot of the Edit content block welcome to your Mukurtu CMS site featuring the block description and body fields.](../_embeds/block16.png)
+
+3. Use the "Add media" button to add a background image to your welcome block. For more information on adding media assets, refer to the [Create Media Assets Overview](../media/CreateMediaAssets.md).
+4. Select your image, then select the "Insert selected" button.
+5. Use the **Text Color** dropdown to select **Light** or **Dark** text. Choose your text color based on background contrast. Light uses white text, Dark uses brand primary dark color. Always verify color contrast meets accessibility standards (WCAG AA minimum 4.5:1 ratio) using an accessibility tool before publishing. 
+
+    ![Screenshot of the edit content block welcome to your Mukurtu CMS site featuring the add media and text color dropdown, with the text color dropdown highlighted.](../_embeds/block15.png)
+
+6. Select the "Save" button to save your welcome block.
+
+### Configure Image with description and Vertical image with description blocks
+
+The  Image with Description and Vertical Image with Description welcome blocks are configured the same way, and allow image and video uploads. Follow the instructions to configure your block.
+
+1. Use the *Block description* field to rename your Welcome block.
+2. Use the *Body* field to provide more information about your site. 
+
+    ![Screenshot of the Edit content block welcome to your Mukurtu CMS site featuring the block description and body fields.](../_embeds/block12.png)
+
+3. Use the "Add media" button to add a media asset to your welcome block. You can add an image or a video. For more information on adding media assets, refer to the [Create Media Assets Overview](../media/CreateMediaAssets.md).
+
+    ![Screenshot of the media modal with the Add media button highlighted.](../_embeds/block13.png)
+
+4. Select your media asset, then select the "Insert selected" button.
+
+    ![Screenshot of the media modal with the insert selected button highlighted.](../_embeds/block14.png)
+
+5. Select "Save" to save your welcome block.
 
 ### Horizontal divider
 
