@@ -103,6 +103,7 @@ You can add a featured content block to your landing page or your basic page. Th
 
 3. Select content to add to your featured content block, then select the "Add content" button to add your content. 
 4. Select the "Remove" button to remove any content you do not want included.
+5. Select a "Display style" radio button for your block. You can choose to display your block as either a grid or a carousel. 
 5. Select the "Add block" button to save your featured content block.
 
     ![Screenshot of the configure block modal for featured content with content added and the add block button highlighted.](../_embeds/layout11.png)
