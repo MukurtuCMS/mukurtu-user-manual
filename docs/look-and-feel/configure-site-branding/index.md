@@ -139,31 +139,9 @@ You can rearrange the blocks on your landing page by selecting a block and dragg
 
 #### Add a block
 
-1. Select the "Add block" button to add a new block to your landing page.
+Select the "Add block" button to add a new block to your landing page. For more information on adding and configuring blocks, refer to [Block Types and Configuration](configure-site-branding/ConfigureBlocks.md)
 
-    ![Screenshot of the landing page edit layout form with the add block button highlighted.](../_embeds/landing8.png)
-
-2. Select your block type from the **Choose a block** sidebar menu. You can add different block types, including a Content block, a Custom block, or a Lists (Views) block. Use the *Filter by block name* field to search for a specific block.
-
-    ![Screenshot of the choose a block sidebar menu with the filter by block name field highlighted.](../_embeds/landing9.png)
-
-    - Content blocks include Featured Content and Welcome to your Mukurtu CMS Site blocks.
-    - Custom blocks include the Consent popup block.
-    - Lists (Views) include the Browse by Community, Browse by Map: Map Block, and Mukurtu Categories blocks.
-
-3. Selecting your block opens the **Configure block** settings. 
-
-    - You may choose to hide the display title by selecting the toggle.
-    - Items per block is set to "0" by default. This setting allows your block to display even without applicable content.
-    - You may select the toggle to override the display title. If you choose to override the display title, enter a new title in the *Title* field.
-
-4. Select the "Add block" button to add your block.
-
-    ![Screenshot of the configure block settings with the add block button highlighted.](../_embeds/landing10.png)
-
-5. You may choose to add more blocks, or select "Save" to save your landing page configuration.
-
-    ![Screenshot of the landing page edit layout form with the save button highlighted.](../_embeds/landing11.png)
+![Screenshot of the landing page edit layout form with the add block button highlighted.](../_embeds/landing8.png)
 
 ## Add a new landing page
 
