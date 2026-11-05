@@ -46,7 +46,7 @@ This is an example of a page background with a lightened overlay and dark text:
 
 ### Content blocks
 
-For more information about the different types of blocks you can use on your landing page and how to configure them, refer to [Block Types and Configuration](ConfigureBlocks.md)
+For more information about the different types of blocks you can use on your landing page and how to configure them, refer to [Block Types and Configuration](../look-and-feel/ConfigureBlocks.md)
 
 ## Edit the default landing page
 
@@ -89,7 +89,7 @@ Delete sections by selecting the "Delete" icon.
 
 ### Configure blocks
 
-Blocks are the individual pieces of your site's web layout and are placed within sections. For more information on adding and configuring blocks, refer to [Block Types and Configuration](/look-and-feel/ConfigureBlocks.md)
+Blocks are the individual pieces of your site's web layout and are placed within sections. For more information on adding and configuring blocks, refer to [Block Types and Configuration](../look-and-feel/ConfigureBlocks.md)
 
 #### Edit a block
 
