@@ -49,6 +49,8 @@ tags:
 
 - Browse by Category (names only): This block features all of the categories on your site. This features the categories only by name and does not include a category thumbnail. Categories are automatically added to this block when they are created.
 
+- ![Screenshot of the Browse by Category (names only) block.](../_embeds/categorybrowse.png)
+
 - Browse by Map: Map Block: This block highlights the locations of content using an embedded Leaflet map. Map points are automatically added to this block when they are created.
 
     ![Screenshot of the browse by map block](../../_embeds/block18.png)
@@ -218,4 +220,3 @@ To add a text block to your basic page, select the **Text** section.
 2. Use the full text HTML field to add text or embedded media to your block.
 3. Select the "Add block" button to add your text block.
 4. You can continue to add blocks, or select the "Save" button in the top right-hand side of the page to save your layout.
-
