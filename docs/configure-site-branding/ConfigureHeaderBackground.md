@@ -11,7 +11,11 @@ tags:
 
 Users may add an optional header background that is shown behind the logo and menu on every page. A short, wide image is recommended, around 2000 x 300 pixels. 
 
-If your home page has its own background image, that one is used on the home page instead. 
+If your home page has its own background image, that one is used on the home page instead and the header background is shown on other pages.
+
+To add a header background, navigate to your **Dashboard** in the **Look and Feel** section. Select the **Design settings** link or go directly to `/admin/config/design-settings`. Scroll down to the **Header background** section. 
+
+![Screenshot of the header background section of the design settings page.](../_embeds/design.png)
 
 1. You can upload your header background image by selecting the "Browse" or "Choose File" button. The text of the button depends on your browser settings.
 2. Use the **Page text** radio buttons to select your text color. You can select from light or dark text. 
