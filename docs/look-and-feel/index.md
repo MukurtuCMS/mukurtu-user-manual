@@ -6,15 +6,15 @@ tags:
 
 # Look and Feel
 
-Mukurtu 4 CMS enables users to configure their sites to reflect their organizational branding, including adding branding to:
+Mukurtu 4 CMS enables users to configure their sites to reflect their organizational branding by personalizing:
 
 - Landing pages
 - About pages
 - Logos
-- Color schemes
+- Background and header images
 - Site navigation
 - Site footer
 - Consent pop-up 
 
-and more.
+and more. 
 
