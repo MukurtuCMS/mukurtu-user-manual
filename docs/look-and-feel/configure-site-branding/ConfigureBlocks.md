@@ -21,9 +21,11 @@ tags:
 
     ![Screenshot of the featured content block.](../../_embeds/block4.png)
 
-- Full Image With Description: This block features a full-width background image block with overlaid title and description text. For more information on configuring featured content blocks, refer to [Configure a Full Background Block](#featured-content).
+- Full Image With Description: This block can be configured to feature a full-width background image block with overlaid title and description text, or a full text hero with a title and description. For more information on configuring featured content blocks, refer to [Configure a Full Background Block](#featured-content).
 
     ![Screenshot of the full image with description banner.](../../_embeds/block2.png)
+
+    ![Screenshot of the full image with description text only banner](../_embeds/)
 
 - Horizontal divider: This block adds a grey horizontal divider to your landing page.
 
@@ -122,20 +124,24 @@ This is an example of the featured content block displayed as a carousel:
 
 ### Configure Full Background block
 
-The Full Background block only allows images and requires users to configure the overlaid text color. Follow the instructions to configure your welcome block.
+The Full Background block allows users to set a full background image or text only hero. It includes an option to configure the overlaid text color. Follow the instructions to configure the full background block.
 
 1. Use the *Block description* field to rename your Welcome block.
 2. Use the *Body* field to provide more information about your site. 
 
     ![Screenshot of the Edit content block welcome to your Mukurtu CMS site featuring the block description and body fields.](../../_embeds/block16.png)
 
-3. Use the "Add media" button to add a background image to your welcome block. For more information on adding media assets, refer to the [Create Media Assets Overview](../../media/CreateMediaAssets.md).
+3. To configure the full background block with an image, use the "Add media" button. For more information on adding media assets, refer to the [Create Media Assets Overview](../../media/CreateMediaAssets.md).
 4. Select your image, then select the "Insert selected" button.
-5. Use the **Text Color** dropdown to select **Light** or **Dark** text. Choose your text color based on background contrast. Light uses white text, Dark uses brand primary dark color. Always verify color contrast meets accessibility standards (WCAG AA minimum 4.5:1 ratio) using an accessibility tool before publishing. 
+5. Use the **Text Color** dropdown to select **Dark** or **Light** text. Choose your text color based on background contrast. Light uses white text, Dark uses brand primary dark color. Always verify color contrast meets accessibility standards (WCAG AA minimum 4.5:1 ratio) using an accessibility tool before publishing. 
 
     ![Screenshot of the edit content block welcome to your Mukurtu CMS site featuring the add media and text color dropdown, with the text color dropdown highlighted.](../../_embeds/block15.png)
 
-6. Select the "Save" button to save your welcome block.
+6. Use the **Background** dropdown to select **None**, **Brand color**, or **Soft brand color**. This is used when no image is selected. If an image is included, the image is the background and the text color applies instead.
+
+    ![Screenshot of the configure block background dropdown with the dropdown highlighted and featuring none.](../_embeds/block15.5.png)
+
+7. Select the "Save" button to save your welcome block.
 
 ### Configure Image with description and Vertical image with description blocks
 
