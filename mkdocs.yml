@@ -181,7 +181,7 @@ nav:
       - configure-site-branding/ConfigureHeaderBackground.md
       - configure-site-branding/ConfigureFont.md 
       - configure-site-branding/ConfigureSubtheme.md
-      - configure-site-branding/ConfigureBlocks.md
+    - look-and-feel/ConfigureBlocks.md
     - look-and-feel/ConfigureSiteNavigation.md
     - look-and-feel/ConfigureConsentPopup.md
     - look-and-feel/CreateBasicPage.md

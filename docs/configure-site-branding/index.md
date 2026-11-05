@@ -89,7 +89,7 @@ Delete sections by selecting the "Delete" icon.
 
 ### Configure blocks
 
-Blocks are the individual pieces of your site's web layout and are placed within sections. 
+Blocks are the individual pieces of your site's web layout and are placed within sections. For more information on adding and configuring blocks, refer to [Block Types and Configuration](/look-and-feel/ConfigureBlocks.md)
 
 #### Edit a block
 
@@ -139,7 +139,7 @@ You can rearrange the blocks on your landing page by selecting a block and dragg
 
 #### Add a block
 
-Select the "Add block" button to add a new block to your landing page. For more information on adding and configuring blocks, refer to [Block Types and Configuration](configure-site-branding/ConfigureBlocks.md)
+Select the "Add block" button to add a new block to your landing page. 
 
 ![Screenshot of the landing page edit layout form with the add block button highlighted.](../_embeds/landing8.png)
 
