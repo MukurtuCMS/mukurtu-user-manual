@@ -9,7 +9,7 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager
 
-## Configure your logo
+## Configure logo
 
 1. From your **Dashboard**, navigate to the **Look and Feel** section. Select the **Change logo** link, or go directly to `/admin/appearance/settings`.
 
@@ -29,7 +29,7 @@ tags:
 
 You may choose to use text branding in addition to or in place of a logo. To use this feature, navigate to your logo and select the **Edit** icon, then select **Configure block**.
 
-![Screenshot of a Mukurtu homepage with the edit icon on the logo selected and the configure block option selected, then highlighted.](.._embeds/branding1.png)
+![Screenshot of a Mukurtu homepage with the edit icon on the logo selected and the configure block option selected, then highlighted.](../_embeds/branding1.png)
 
 1. Toggle the *Site name* field on. Optionally, you may choose to toggle the *Site logo* off if you want to use text branding.
 
@@ -37,7 +37,7 @@ You may choose to use text branding in addition to or in place of a logo. To use
 
 2. Select the "Save block" button in the top right-hand corner of the page.
 
-This will set your site name as the text branding for your site. For instructions on how to configure your site name, navigate to the [Configure Basic Site Settings](../../site-settings/index.md)
+This will set your site name as the text branding for your site. For instructions on how to configure your site name, navigate to the [Configure Basic Site Settings](../site-settings/index.md)
 
 ## Configure your favicon
 
