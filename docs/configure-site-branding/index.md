@@ -43,7 +43,7 @@ Sections are the primary regions for your theme.
 
     ![Screenshot of the edit administrative label sidebar with the administrative label field and update button highlighted.](../_embeds/landing5.png)
 
-4. You can select "Save" now to save your section, or you can add blocks. For more information about adding blocks, refer to the [Add a block](#add-a-block) section of this article.
+4. You can select "Save" now to save your section, or you can add blocks. For more information about adding blocks, refer to the [Block Types and Configuration](../look-and-feel/ConfigureBlocks.md) article.
 
     ![Screenshot of the landing page edit layout form with the save button highlighted.](../_embeds/landing7.png)
 
@@ -60,7 +60,7 @@ Delete sections by selecting the "Delete" icon.
 
 ### Add and configure blocks
 
-Blocks are the individual pieces of your site's web layout and are placed within sections. For more information on adding and configuring blocks, refer to [Block Types and Configuration](../look-and-feel/ConfigureBlocks.md)
+Blocks are the individual pieces of your site's web layout and are placed within sections. For more information on adding and configuring blocks, refer to [Block Types and Configuration](../look-and-feel/ConfigureBlocks.md).
 
 ## Add a new landing page
 
