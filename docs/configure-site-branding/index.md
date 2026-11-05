@@ -19,35 +19,6 @@ Mukurtu CMS includes a preconfigured landing page layout that users can personal
 
 Users also have the option to personalize their landing page to reflect their organizational branding and best showcase their content. 
 
-## Configure page background
-
-Users may add an optional page background that is shown behind their home page. When setting a page background, users can also select whether to have light or dark text and whether to tint their background image so that the image competes less with any text on the page. Large images, around 2000 pixels wide, work best for this. If no image is added the page background will be blank.
-
-1. You can upload your page background image by selecting the "Browse" or "Choose File" button. The text of the button depends on your browser settings.
-
-    ![Screenshot of the design settings page featuring the page background settings with the browse button highlighted.](../_embeds/page1.png)
-
-2. Use the **Page text** radio buttons to select your text color. You can select from light or dark text. 
-
-3. *Tint the background image* is selected by default and adds a contrasting transparent layer over your image so it competes less with your text. Use the toggle to turn this setting off.
-
-    !!! tip
-        If you turn this setting off, check that the text is still easy to read over your image.
-
-This is an example of a page background with a darkened overlay and light text:
-
-![Screenshot of the front page with a dark overlay and light text.](../_embeds/page4.png)
-
-This is an example of a page background with a lightened overlay and dark text:
-
-![Screenshot of the front page with a light overlay and dark text.](../_embeds/page3.png)
-
-## Block types
-
-### Content blocks
-
-For more information about the different types of blocks you can use on your landing page and how to configure them, refer to [Block Types and Configuration](../look-and-feel/ConfigureBlocks.md)
-
 ## Edit the default landing page
 
 From the **Dashboard**, navigate to the **Look and Feel** section and select the **Landing Page** link. This takes you to Mukurtu's **Layout Builder** editor for the default landing page. From here you can add or remove sections and blocks. 
@@ -87,61 +58,9 @@ Delete sections by selecting the "Delete" icon.
 
 ![Screenshot of the landing page edit layout form with the delete icon button highlighted.](../_embeds/landing4.png)
 
-### Configure blocks
+### Add and configure blocks
 
 Blocks are the individual pieces of your site's web layout and are placed within sections. For more information on adding and configuring blocks, refer to [Block Types and Configuration](../look-and-feel/ConfigureBlocks.md)
-
-#### Edit a block
-
-1. Navigate to the **Edit** icon to the right of your block. Select **Configure block** to edit your block.
-
-    ![Screenshot of the edit icon and menu to the right of the block with the icon and the menu highlighted.](../_embeds/landing12.png)
-
-2. You can edit your block's title display status, items per block, or override the display title.   
-
-    - You may choose to hide the display title by selecting the toggle.
-    - Items per block is set to "0" by default. This setting allows your block to display even without applicable content.
-    - You may select the toggle to override the display title. If you choose to override the display title, enter a new title in the *Title* field.
-
-3. Select "Update" to update your block.
-
-    ![Screenshot of the configure block menu with the update button highlighted.](../_embeds/landing13.png)
-
-4. Select "Save" to save the updates to your landing page. 
-
-#### Delete a block
-
-1. Navigate to the **Edit** icon menu and select the **Remove block** link.
-2. Select the "Remove" button to remove your block. If you choose not to remove your block, select "Cancel".
-
-    ![Screenshot of the Remove Mukurtu block menu with the remove button highlighted.](../_embeds/landing14.png)
-
-3. Select "Save" to save the updates to your landing page.
-
-#### Rearrange blocks
-
-You can rearrange the blocks on your landing page by selecting a block and dragging it into your preferred order. You can also use the "Move" button to move your block to different sections. 
-
-1. Navigate to the **Edit** icon menu and select the **Move** link. 
-2. To move your block to a new section, select the section from the dropdown menu.
-
-    ![Screenshot of the rearrange blocks menu with the dropdown section menu highlighted.](../_embeds/landing15.png)
-
-3. Select and drag your block into your preferred order using the **Rearrange** icons.
-
-    ![Screenshot of the rearrange blocks menu with the rearrange icon highlighted.](../_embeds/landing16.png)
-
-4. Select the "Move" button to finalize your block arrangement.
-
-    ![Screenshot of the rearrange blocks menu with the move button highlighted.](../_embeds/landing17.png)
-
-5. Select "Save" to save the updates to your landing page.
-
-#### Add a block
-
-Select the "Add block" button to add a new block to your landing page. 
-
-![Screenshot of the landing page edit layout form with the add block button highlighted.](../_embeds/landing8.png)
 
 ## Add a new landing page
 
@@ -175,4 +94,27 @@ Most sites will use the provided landing page, but if your landing page has been
 9. Select the "Save configuration" button to apply your changes.
 
     ![Screenshot of the basic site settings page with the save configuration button highlighted.](../_embeds/landing24.png)
+
+## Configure page background
+
+Users may add an optional page background that is shown behind their home page. When setting a page background, users can also select whether to have light or dark text and whether to tint their background image so that the image competes less with any text on the page. Large images, around 2000 pixels wide, work best for this. If no image is added the page background will be blank.
+
+1. You can upload your page background image by selecting the "Browse" or "Choose File" button. The text of the button depends on your browser settings.
+
+    ![Screenshot of the design settings page featuring the page background settings with the browse button highlighted.](../_embeds/page1.png)
+
+2. Use the **Page text** radio buttons to select your text color. You can select from light or dark text. 
+
+3. *Tint the background image* is selected by default and adds a contrasting transparent layer over your image so it competes less with your text. Use the toggle to turn this setting off.
+
+    !!! tip
+        If you turn this setting off, check that the text is still easy to read over your image.
+
+This is an example of a page background with a darkened overlay and light text:
+
+![Screenshot of the front page with a dark overlay and light text.](../_embeds/page4.png)
+
+This is an example of a page background with a lightened overlay and dark text:
+
+![Screenshot of the front page with a light overlay and dark text.](../_embeds/page3.png)
 

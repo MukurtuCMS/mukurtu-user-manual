@@ -218,3 +218,55 @@ To add a text block to your basic page, select the **Text** section.
 2. Use the full text HTML field to add text or embedded media to your block.
 3. Select the "Add block" button to add your text block.
 4. You can continue to add blocks, or select the "Save" button in the top right-hand side of the page to save your layout.
+
+## Add a block
+
+Select the "Add block" button to add a new block to your landing page. 
+
+![Screenshot of the landing page edit layout form with the add block button highlighted.](../_embeds/landing8.png)
+
+## Edit a block
+
+1. Navigate to the **Edit** icon to the right of your block. Select **Configure block** to edit your block.
+
+    ![Screenshot of the edit icon and menu to the right of the block with the icon and the menu highlighted.](../_embeds/landing12.png)
+
+2. You can edit your block's title display status, items per block, or override the display title.   
+
+    - You may choose to hide the display title by selecting the toggle.
+    - Items per block is set to "0" by default. This setting allows your block to display even without applicable content.
+    - You may select the toggle to override the display title. If you choose to override the display title, enter a new title in the *Title* field.
+
+3. Select "Update" to update your block.
+
+    ![Screenshot of the configure block menu with the update button highlighted.](../_embeds/landing13.png)
+
+4. Select "Save" to save the updates to your landing page. 
+
+## Delete a block
+
+1. Navigate to the **Edit** icon menu and select the **Remove block** link.
+2. Select the "Remove" button to remove your block. If you choose not to remove your block, select "Cancel".
+
+    ![Screenshot of the Remove Mukurtu block menu with the remove button highlighted.](../_embeds/landing14.png)
+
+3. Select "Save" to save the updates to your landing page.
+
+## Rearrange blocks
+
+You can rearrange the blocks on your landing page by selecting a block and dragging it into your preferred order. You can also use the "Move" button to move your block to different sections. 
+
+1. Navigate to the **Edit** icon menu and select the **Move** link. 
+2. To move your block to a new section, select the section from the dropdown menu.
+
+    ![Screenshot of the rearrange blocks menu with the dropdown section menu highlighted.](../_embeds/landing15.png)
+
+3. Select and drag your block into your preferred order using the **Rearrange** icons.
+
+    ![Screenshot of the rearrange blocks menu with the rearrange icon highlighted.](../_embeds/landing16.png)
+
+4. Select the "Move" button to finalize your block arrangement.
+
+    ![Screenshot of the rearrange blocks menu with the move button highlighted.](../_embeds/landing17.png)
+
+5. Select "Save" to save the updates to your landing page.
