@@ -25,6 +25,8 @@ tags:
 
 4. You can select the "Save configuration" button to save your logo at this point, or you can continue for instructions on how to customize your favicon.
 
+    ![Screenshot of the logo image section with the slider toggled off and a file uploaded, and the save configuration button highlighted.](../_embeds/logo1.png)
+ 
 ## Use text branding 
 
 You may choose to use text branding in addition to or in place of a logo. To use this feature, navigate to your logo and select the **Edit** icon, then select **Configure block**.

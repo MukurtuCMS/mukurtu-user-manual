@@ -175,6 +175,7 @@ nav:
     - look-and-feel/index.md
     - Configure Site Branding:
       - configure-site-branding/index.md
+      - configure-site-branding/ConfigureLanding.md
       - configure-site-branding/ConfigureLogo.md
       - configure-site-branding/ConfigureFooter.md
       - configure-site-branding/ConfigureColors.md
