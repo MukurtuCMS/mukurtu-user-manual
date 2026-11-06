@@ -61,7 +61,7 @@ You can add content to an existing collection while browsing using the quick act
 
 1. Navigate to the collection you want to rearrange, and select the **Edit** button from the menu below the collection title.
 
-2. In the **Mukurtu Essentials** tab, navigate to the **Items in the Collection** field. Select and drag the content into the preferred order. 
+2. In the **Mukurtu Essentials** tab, navigate to the **Items in the Collection** field. Select and drag the content into the preferred order, or select the arrows to move content up or down.
 
     To remove content from the collection, select the "Remove" icon.
 
