@@ -32,6 +32,8 @@ Please note, this is an experimental tool. Our stock palettes are selected to me
     !!! tip
         Users receive a warning if their selected custom color selection fails accessibility contrast checks.
 
+        ![Screenshot of the warnings if the custom color selections fails accessibility contrast checks after save.](../_embeds/color9.png)
+
     ![Screenshot of the custom radio button selected.](../_embeds/color3.png)
 
 2. Select the color selector for the colors you want to edit. 
