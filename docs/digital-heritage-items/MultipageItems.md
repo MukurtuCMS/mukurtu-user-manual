@@ -61,7 +61,10 @@ You can add existing digital heritage items to multipage items.
 
     ![Screenshot of a page of the multipage item with the edit button highlighted.](../_embeds/multipage7.png)
 
-2. New pages are created as additional digital heritage items. Select which type of content to use for your new page.
+2. New pages are created as additional digital heritage items, but you can configure multipage items to include other content Select which type of content to use for your new page.
+
+    !!! Tip
+        Digital Heritage items are the default multipage item content type, but you can configure multipage items to include other content types. See [Configure Multipage Items](../content-settings/MultipageItemConfiguration.md)
 
     ![Screenshot of the content selection form for adding new pages with the digital heritage link is highlighted.](../_embeds/multipage10.png)
 
