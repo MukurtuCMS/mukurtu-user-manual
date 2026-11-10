@@ -36,11 +36,11 @@ Each protocol is managed by at least one parent community. Protocols can also be
 
 2. Select each community you would like to add. Select "Add Communities".
 
-![Screenshot of community selection modal. Three communities are listed, two are selected, indicated by a green outline. The add communities button is located in the bottom-left corner.](../_embeds/edit-protocol-06.png)
+    ![Screenshot of community selection modal. Three communities are listed, two are selected, indicated by a green outline. The add communities button is located in the bottom-left corner.](../_embeds/edit-protocol-06.png)
 
-3. To remove a community, select the trash can icon in the top right corner of each community.
+3. Use the arrows to reorder the communities, or drag and drop to your preferred order. To remove a community, select the trash can icon in the top right corner of each community.
 
-![Screenshot of community section with red boxes around remove and add select communities](../_embeds/edit-protocol-02.png)
+    ![Screenshot of community section with red boxes around remove and add select communities](../_embeds/edit-protocol-02.png)
 
 !!! Tip
     You must be a community manager in every community you wish to add.
@@ -108,4 +108,28 @@ The comment settings allow you to control comments for content within this proto
 When you are satisfied with your changes, select "Save." A success message will be displayed on the cultural protocols page. 
 
 ![Screenshot of cultural protocols page with success message](../_embeds/edit-protocol-03.png)
+
+## Delete a Protocol
+
+Protocols can only be deleted if content and media assets are not using them. If the protocol is in use, a warning message will display when editing or attempting to delete a protocol. 
+
+A protocol can be deleted from two places: the protocol page, and the protocol's edit page.
+
+The delete button on the protocol page is always visible to community managers. 
+![Protocol page with delete button highlighted ](../_embeds/edit-protocol-09.png)
+
+If there is no content/media asset using this protocol, a confirmation page will load and you can proceed to delete the protocol.
+![A confirmation page confirming that you want to delete the protocol. There is a delete button in red, and a cancel button in green](../_embeds/edit-protocol-10.png)
+
+If this protocol is in use, the confirmation page will list the items using the protocol and their content/media asset type. The protocol must be removed from these items before it can be deleted.
+
+![A page listing out the content that is using the protocol. The protocol must be removed from the content before it can be deleted.](../_embeds/edit-protocol-11.png)
+
+On the protocol edit page, the delete button is available in the three dots menu if there is no content using the protocol.  Selecting it will take you to the same confirmation page where you can finish deleting the protocol. 
+
+![Protocol edit page with delete button exposed in the three dots menu](../_embeds/edit-protocol-12.png)
+
+If the protocol is in use, the button will not be available, and a warning message will explain that the protocol cannot be deleted. Select "See which items" to view the content that is using the protocol.
+
+![The protocol edit page with a warning that the protocol cannot be deleted. The "See which items" link displays the content utilizing the protocol that the protocol must first be removed from](../_embeds/edit-protocol-13.png)
 
