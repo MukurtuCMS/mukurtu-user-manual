@@ -3,7 +3,7 @@ tags:
     - communities, cultural protocols, and categories
 ---
 
-# Edit Community Settings
+# Edit and Delete Communities
 
 !!! Roles "User role" 
 	Community manager
@@ -68,7 +68,7 @@ This is what communities with thumbnails will look like on the community browse 
 
 ![Screenshot of the community browse page with thumbnails](../_embeds/community-settings-03.png)
 
-This is what a community page looks like with a banner.
+This is what a community page looks like with a banner. 
 
 ![Screenshot of a community page with banner displayed](../_embeds/community-settings-04.png)
 
@@ -95,11 +95,10 @@ Featured content gives users a preview of selected content contributed by the co
 1. Expand *featured content* and select "Select Content." 
 2. Use the dropdown menu to narrow your search by content type, and the *search* field to search for specific content.
 3. All available content is displayed below the search bar. Check the box next to each piece of content you wish to feature.
-4. Select "Add Content."
-
+4. Select "Add Content." 
 	![Screenshot of the featured content modal](../_embeds/community-settings-07.png)
 
-5. Remove featured content by selecting the grey trash can icon on the right of each content item.
+5. Remove featured content by selecting the grey trash can icon on the right of each content item. 
 
 	![The featured content field with selected featured content](../_embeds/community-settings-09.png)
 
@@ -123,3 +122,28 @@ When your changes are complete, select "Save." You will be taken to your communi
 
  ![Screenshot of community page after saving edits](../_embeds/community-settings-13.png)
 
+
+## Delete a community
+
+Communities can only be deleted if they do not have any protocols. If your community has protocols, a warning message will display when editing or attempting to delete a community. 
+
+A community can be deleted from two places: the community page, and the community's edit page.
+
+The delete button on the community page is always visible to Mukurtu managers. 
+![Community page with delete button highlighted ](../_embeds/community-settings-18.png)
+
+If your community doesn't have any protocols, a confirmation page will load and you can proceed to delete the community.
+![A confirmation page confirming that you want to delete the community. There is a delete button in red, and a cancel button in green](../_embeds/community-settings-19.png)
+
+If your community still has protocols, the confirmation page will list the existing protocols. These must be deleted before the community can be deleted.
+
+![A page listing out a community's existing protocol. They must be deleted before the community can be deleted.](../_embeds/community-settings-20.png)
+
+
+On the community edit page, the delete button is available in the three dots menu if the community has no protocols.  Selecting it will take you to the same confirmation page where you can finish deleting the community. 
+
+![Community edit page with delete button highlighted ](../_embeds/community-settings-17.png)
+
+If there are protocols, the button will not be available, and a warning message will explain that the community cannot be deleted. Select "See why" to view the community's existing protocols. 
+
+![The community edit page with a warning that the community cannot be deleted. The "see why" link displays the community's protocols that must be deleted first.](../_embeds/community-settings-21.png)
