@@ -10,6 +10,9 @@ tags:
 
 Mukurtu uses Klaro! to manage cookies and consent settings. This protects visitor data and privacy while they're browsing the site and obtains user consent to serve 3rd party content on the site.
 
+!!! Tip
+    If you prefer not to use Klaro! It can be uninstalled from the **uninstall** tab at `/admin/modules.` Should you decide to reinstall Klaro!, the settings it had when it was uninstalled will be restored.
+
 This article will touch on basic settings. For more detail, see [Klaro Cookie and Consent Management](https://www.drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/klaro-cookie-consent-management) Documentation.
 
 ## Notice and Consent Dialogs
@@ -71,3 +74,4 @@ The **Manage** tab lists the services Klaro! supports that can be enabled for yo
 The **Texts** tab allows you to adjust any of the default verbiage used by Klaro! Notably, you can link your privacy policy page in the **Notice Dialogue** tab under **Privacy Policy**. This will display in the consent modal.
 
 ![The notice dialog fields](../_embeds/cookies-08.png)
+
