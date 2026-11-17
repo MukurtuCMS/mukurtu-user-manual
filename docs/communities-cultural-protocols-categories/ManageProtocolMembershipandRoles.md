@@ -98,9 +98,13 @@ A success message will display. The user will be unblocked and access to the pro
 
     ![The members page with the manage roles dropdown menu exposed and the remove button highlighted](../_embeds/manage-protocol-members-07.2.png)
 
-2. A pop up window will display a warning. Select "Delete." A success message will be displayed and the user will be deleted from the protocol. Note that they have not been deleted from the community or the site and can be re-added to the protocol at any time.
+2. A pop up window displays the following message:
+
+    "The user will lose their roles in the protocol and will no longer see content shared with that protocol. Their acount is not affected, and you can add them back from the members list, but their roles will need to be set again."
 
     ![A pop-up warning that this action cannot be undone, with delete and cancel buttons](../_embeds/manage-protocol-members-07.3.png)
+
+3. Select "Delete." A success message will be displayed and the user will be deleted from the protocol. Note that they have not been deleted from the community or the site and can be re-added to the protocol at any time.
 
     ![The members page with a success message displayed](../_embeds/manage-protocol-members-07.4.png)
 
