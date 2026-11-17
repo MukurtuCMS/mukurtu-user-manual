@@ -84,7 +84,7 @@ Featured content gives users a preview of selected content. It displays the titl
 
     ![Screenshot of featured content modal with checkboxes next to selected items and add content button highlighted in red.](../_embeds/edit-protocol-05.png) 
 
-5. Remove featured content by selecting the grey trash can icon on the top right corner of each piece of content.
+5. Select the arrows or drag and drop content to your preferred order. Remove featured content by selecting the grey trash can icon on the top right corner of each piece of content.
 
     ![Featured content field with a sample content item and trash can icon highlighted in red](../_embeds/edit-protocol-04.png)
 
