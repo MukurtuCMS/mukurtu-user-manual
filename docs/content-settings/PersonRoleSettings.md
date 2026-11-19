@@ -30,4 +30,10 @@ To configure the person roles setting, navigate to your **Dashboard**.
 
 1. To apply person roles, navigate to your content form. In a configured *Creator*, *Contributor*, or *People* field, enter the person's name.
 2. Select "Enter" or "Tab" on your keyboard.
-3. Once the person's name is applied, the *Role* field will appear. Enter an appropriate role for the person.
+3. Once the person's name is applied, the *Role* field will appear. Enter the appropriate role for the person. Examples of roles can be "Author", "Singer", "Illustrator", "Speaker", etc.
+
+    ![Screenshot of the name and role fields with the name and role filled in.](../_embeds/rolesettings4.png)
+
+4. Once the form is saved, the person roles will appear on the content like this:
+
+    ![Screenshot of a finished DH item with the creator field and role highlighted.](../_embeds/rolesettings5.png)
