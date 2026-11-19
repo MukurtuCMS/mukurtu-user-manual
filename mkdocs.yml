@@ -125,6 +125,7 @@ nav:
   - Content Settings:
     - content-settings/index.md
     - content-settings/MultipageItemConfiguration.md
+    - content-settings/PersonRoleSettings.md
   - Media:
     - media/index.md 
     - media/CreateMediaAssets.md 
