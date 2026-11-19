@@ -37,3 +37,12 @@ Content translation functions the same way for all content types.
 If content has not yet been translated, users will see a message stating "Not yet translated to [language].".
 
 ![Screenshot of the digital heritage browse page with a digital heritage item showing the not yet translated message highlighted.](../_embeds/translatecontent6.png)
+
+## Translation Status
+
+Because translating content can be labor intensive, we have included a **Translation Status** page so that users can easily see which content has been translated. To access the **Translation Status** page, navigate to your **Dashboard**.
+
+1. Navigate to the **Multilingual** section and select the **Translation Status** link.
+
+    ![Screenshot of the dashboard featuring the multilingual section with the translation status link highlighted.](../_embeds/status1.png)
+
