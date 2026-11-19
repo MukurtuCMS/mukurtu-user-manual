@@ -22,9 +22,6 @@ From the **Dashboard**, under **Site Settings**, select **Character Palette**
 
 3. You can now begin to build your palette by adding a character into the **Character** field. Give the character a name. This name will be read by screen readers. Add a name for any character a screen reader might skip or misread. 
 
-    !!! Tip
-        Accents that appear with a character must be entered with each character in the character palette. For example, the French grave accent should appear as "è", "à", and "ù" rather than "`"
-
 4. Continue to add characters by selecting "Add new row."
 
 5. Characters can be reordered using the drag and drop arrows to the left, or the keyboard-friendly arrows to the right of each row.
