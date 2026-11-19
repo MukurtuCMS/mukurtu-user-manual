@@ -14,13 +14,17 @@ Communities can have a range of settings that can be updated once the community 
 
 1. Navigate to the community you wish to edit. Communities can be accessed two ways:
 
-	- From the navigation menu:
+	- From the navigation menu, select **Communities**
 
-	![The navigation menu with community hihglighted](../_embeds/community-settings-10.png)
+	![The navigation menu with community highlighted](../_embeds/community-settings-10.png)
 
-	- From the dashboard:
+	- From the dashboard, select **Manage Communities and Cultural Protocols**
 
 	![The dashboard with manage communities and protocols highlighted](../_embeds/community-settings-11.png)
+
+	All communities and protocols that are visible to you will be listed. If any are not linked, it means you can see them, but don't have permission to edit them (i.e. you are not a protocol steward or community manager). As a community manager, select the community you wish to edit.
+
+	![The manage communities and cultural protocols page displaying two communities and two protocols. The Repository community and Repository Public Access Protocol are visible and linked. The Tribal Community and Tribal Access protocol are visible but not linked.](../_embeds/community-settings-22.png) 
 
 
 2. From the community menu options, select **edit**. The community form will open with its current settings.
