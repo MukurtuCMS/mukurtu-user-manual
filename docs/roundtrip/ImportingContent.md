@@ -44,7 +44,7 @@ The import review page lists all included metadata, media files and configuratio
 
 ![The import review page listing metadata and media files. The start import button is highlighted.](../_embeds/import-content-13.png)
 
-The import will run. When complete, a results page will populate with a success message and a list of items that imported successfully. Select the titles to view each item.
+The import will run. When complete, a results page will populate with a success message and a list of items that imported successfully. The status column indicates new, updated and unchanged items. Select the titles to view each item.
 
 ![The results page with a success message and list of imported items](../_embeds/import-content-14.png)
 
