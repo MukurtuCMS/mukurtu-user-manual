@@ -98,8 +98,8 @@ You may want to merge multiple taxonomy terms together. For example, different u
 
 2. To choose the terms you want to merge together, select the field to view existing terms. 
 
-     - To merge multiple terms into a new or existing target term, select the items you wish to merge.The target term will be selected/created on the next page, do not select it now.
-
+     - Select the terms you wish to merge.The target term will be selected/created on the next page, do not select it now. Select "Next."
+     
     ![The keyword taxonomy merge page listing all terms. Some terms are selected for merging.](../_embeds/manage-tax-11.png)
 
 3. Either enter a new target term or select an existing target term. Select "Merge terms" at the bottom of the page.
