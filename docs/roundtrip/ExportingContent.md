@@ -25,6 +25,11 @@ Either way, you'll land on the same export page. From here:
 
 1. Under *Export Settings*, choose which saved CSV export setting to use for this export. See [Export Settings](ExportSettings.md) for what these control. If you don't have one yet, select "New CSV export setting" to create one.
 2. If your list or on the fly selection includes a collection, word list, original record, community record, or multipage item, you may see additional options here for how much connected content to include. See [Exporting complex content](UsingExportLists.md#exporting-complex-content) for what these options do.
+
+3. Select your desired file format for the export. Choose from:
+    - CSV
+    - Excel workbook (.xlsx)
+    - OpenDocument spreadsheet (.ods)
 3. Select "Start Export".
 
     ![The export page with a list selected under Export list, a saved CSV export setting selected under Export Settings, and the Start Export button.](../_embeds/exporting-content-run-export-01.png)

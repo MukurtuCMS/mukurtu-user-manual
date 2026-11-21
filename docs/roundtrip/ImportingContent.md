@@ -8,7 +8,7 @@ tags:
 !!! roles "User roles" 
     Administrator, Mukurtu manager, Roundtrip manager
 
-This article will walk you through the general steps to import a .csv metadata sheet and accompanying media assets. While the basic steps are the same for each content type, there are specifics about each type that are discussed in dedicated articles. Please refer to the article for the content type you are importing for more detail.
+This article will walk you through the general steps to import a metadata sheet and accompanying media assets. While the basic steps are the same for each content type, there are specifics about each type that are discussed in dedicated articles. Please refer to the article for the content type you are importing for more detail.
 
 ## Upload content
 
@@ -16,7 +16,7 @@ To import content, go to `/admin/import` or from the dashboard, select **Import*
 
 ![The dashboard with the import link highlighted.](../_embeds/import-content-01.png)
 
-The import page has two upload fields. The **metadata files** field is for .csv sheets only. The **media/binary files** field is for media or binary files that are referenced in the csv sheets. You can upload multiple files in each field. 
+The import page has two upload fields. The **metadata files** field is for metadata sheets only. The **media/binary files** field is for media or binary files that are referenced in the metadata sheets. You can upload multiple files in each field. 
 
 !!! requirement
     To upload media, you must upload an accompanying metadata sheet for the media asset that is separate from the content item. See [Importing Media Assets](../roundtrip/MediaFormatsFields.md) for instructions.
@@ -25,9 +25,9 @@ The import page has two upload fields. The **metadata files** field is for .csv 
 
 2. Under **media/binary files** select "choose files." Select the media file(s) you would like to upload.
 
-Any combination of CSV sheets and supported media assets can be selected. When you are done, select "Next" to continue on to the file configuration page.
+Any combination of metadata sheets and supported media assets can be selected. When you are done, select "Next" to continue on to the file configuration page.
 
-![The import page showing two csv spreadsheets and 2 media assets selected for upload](../_embeds/import-content-02.png)
+![The import page showing two spreadsheets and 2 media assets selected for upload](../_embeds/import-content-02.png)
 
 ## Choose an import template
 

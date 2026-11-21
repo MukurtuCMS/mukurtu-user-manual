@@ -8,11 +8,11 @@ tags:
 !!! roles "User roles"
     Administrator, Mukurtu manager, Roundtrip manager
 
-A CSV export setting is a saved, reusable configuration that controls exactly which fields are included in an export and how the resulting CSV file is formatted. You can save several settings for different purposes, for example one for updating your own site and another for sharing a limited set of fields with an outside institution.
+An export setting is a saved, reusable configuration that controls exactly which fields are included in an export and how the resulting file is formatted. You can save several settings for different purposes, for example one for updating your own site and another for sharing a limited set of fields with an outside institution.
 
 ## Default export settings
 
-Mukurtu ships with four ready-to-use CSV export settings, shared with **All export users** so anyone with export access can use them right away. Each combines one of the two *identifier format* choices with one of the two *media asset packaging* choices described under [Configuration](#configuration) below:
+Mukurtu ships with four ready-to-use export settings, shared with **All export users** so anyone with export access can use them right away. Each combines one of the two *identifier format* choices with one of the two *media asset packaging* choices described under [Configuration](#configuration) below:
 
 | Setting | Identifiers | Media assets | Use it for |
 |---|---|---|---|
@@ -23,17 +23,17 @@ Mukurtu ships with four ready-to-use CSV export settings, shared with **All expo
 
 All four cover every content type, media type, taxonomy term, and other supported entity, so they're a good starting point to duplicate rather than build a setting from scratch.
 
-## Create a CSV export setting
+## Create an export setting
 
 The four default settings export every field for every content type, using a fixed set of choices for how references are exported. Create a custom setting instead when you need something different, for example:
 
 - Exporting only a curated subset of fields, rather than everything.
-- Renaming CSV headers to match a specific partner's or tool's expected format.
+- Renaming headers to match a specific partner's or tool's expected format.
 - Changing how deeply a particular reference type is followed, such as exporting media as just an identifier instead of packaging the full asset.
-- Using different CSV formatting, such as a different delimiter, for a specific downstream tool.
+- Using different formatting, such as a different delimiter, for a specific downstream tool.
 - Keeping the setting visible to only you, rather than sharing it with all export users.
 
-From your **Dashboard**, under **Roundtrip**, select **Export Settings**, then select "New CSV export setting".
+From your **Dashboard**, under **Roundtrip**, select **Export Settings**, then select "New export setting".
 
 !!! tip
     You can also duplicate an existing setting as a starting point. Select "Duplicate" next to the setting you want to copy.
@@ -44,7 +44,7 @@ From your **Dashboard**, under **Roundtrip**, select **Export Settings**, then s
 - **Description**: optional text shown alongside the name.
 - **Visibility**: share the setting with all users who have roundtrip permissions, or keep it visible to "Only me".
 
-![The general settings for a new CSV export setting: Label, Description, and Visibility.](../_embeds/export-settings-general-01.png)
+![The general settings for a new export setting: Label, Description, and Visibility.](../_embeds/export-settings-general-01.png)
 
 ### Configuration
 
@@ -75,7 +75,7 @@ These settings control how references to other content are written in exported c
 
 ![The Media reference-depth options and the three Media asset packaging options.](../_embeds/export-settings-configuration-02.png)
 
-### CSV file format settings
+### File format settings
 
 - **Field delimiter**: separates columns. Defaults to a comma (`,`).
 - **Field enclosure**: wraps field values. Defaults to a double quote (`"`).
@@ -84,14 +84,14 @@ These settings control how references to other content are written in exported c
 - **Local Contexts delimiter**: separates parts of an exported Local Contexts label or notice value. Defaults to `>`.
 - **Default text format**: the text format exported content is written in. Set the matching import template to the same value.
 
-![The CSV File Format Settings section, showing the field delimiter, enclosure, escape character, and other formatting fields.](../_embeds/export-settings-csv-format-01.png)
+![The File Format Settings section, showing the field delimiter, enclosure, escape character, and other formatting fields.](../_embeds/export-settings-csv-format-01.png)
 
 ### Field mappings
 
 Fields are grouped by content and media type (Digital Heritage, Dictionary Word, Person, Place, Collection, Word List, Media, Users, Taxonomy Terms, and others). Open a group to see its fields, each with:
 
 - An **Export** checkbox to include or exclude that field.
-- Its **CSV header label**, which you can edit to rename the column in the exported file.
+- Its **header label**, which you can edit to rename the column in the exported file.
 
 You can drag-and-drop the field order to reorder columns.
 
