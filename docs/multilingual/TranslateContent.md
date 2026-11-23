@@ -10,9 +10,11 @@ tags:
 
 Once the Mukurtu Multilingual module is installed and a language is added see [Enable Multilingual Module](../multilingual/EnableMultilingualModule.md), site content can be translated.
 
-If a user can create or edit a piece of content, they can also translate it - additional roles or permissions are not required. 
+If a user can create or edit a piece of content, they can also translate it - additional roles or permissions are not required. Users can check the status of their content translation using the **Tranlsation Status** page.
 
 Content translation functions the same way for all content types. 
+
+## Translate site content
 
 1. Navigate to the content you want to translate and select the "Translate" button.
 
@@ -37,3 +39,21 @@ Content translation functions the same way for all content types.
 If content has not yet been translated, users will see a message stating "Not yet translated to [language].".
 
 ![Screenshot of the digital heritage browse page with a digital heritage item showing the not yet translated message highlighted.](../_embeds/translatecontent6.png)
+
+## Check translation status
+
+Because translating content can be labor intensive, we have included a **Translation Status** page so that users can easily see which content has been translated. To access the **Translation Status** page, navigate to your **Dashboard**.
+
+1. Navigate to the **Multilingual** section and select the **Translation Status** link.
+
+    ![Screenshot of the dashboard featuring the multilingual section with the translation status link highlighted.](../_embeds/status1.png)
+
+2. Content is annotated as **Translated**, **Partly translated**, or **Not translated**, depending on how much of the content has been translated. There is also a **Fields** column so that users can easily see how many fields still require tranlsation. 
+
+   ![Screenshot of the translation status page with the translated, partly translated, and not translated annotations highlighted.](../_embeds/status2.png)
+
+3. You can use the search bar to search for specific content, or use the built in filters to filter content by Type, Language, or Status.
+4. Users can select the **Translate** link to the right of the content they want to translate to navigate to the item's translation page.
+
+   ![Screenshot of the translation status page with the translate link highlighted.](../_embeds/status3.png)
+
