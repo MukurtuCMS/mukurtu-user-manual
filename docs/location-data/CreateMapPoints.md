@@ -25,13 +25,13 @@ Use the *Address search* field to search for a specific address by entering the 
 
 ![Screenshot of the map points field with the address search highlighted.](../_embeds/Mapping40.png)
 
-## Add map layers
+## Add map points
 
-You can easily add map points and objects, which are referred to as "markers" and "layers" in Leaflet, to highlight features on your map, including markers, polylines, rectangles, polygons, and circles. 
+You can easily add map points and objects to highlight features on your map, including markers, polylines, rectangles, polygons, and circles. 
 
 ### Add a marker
 
-1. To add a marker, or point, to your map, select the "Draw Marker" icon in the top right-hand corner of the map.
+1. To add a marker, or point, to your map, select the "Draw marker" icon in the top right-hand corner of the map.
 
     ![Screenshot of selecting the draw marker icon.](../_embeds/Mapping1.png)
 
@@ -43,11 +43,11 @@ You can easily add map points and objects, which are referred to as "markers" an
 
     ![Screenshot of completed markers with the cancel button highlighted.](../_embeds/Mapping3.png)
 
-4. For instructions on labeling your markers, see the [Label map layers](#label-map-layers) section of this article. 
+4. For instructions on labeling your markers, see the [Label map points](#label-map-points) section of this article. 
 
 ### Add a polyline
 
-Polylines are lines that consist of multiple joined points to create a path. This can be useful for highlighting significant routes or roads. Follow the directions to draw a polyline layer on your map.
+Polylines are lines that consist of multiple joined points to create a path. This can be useful for highlighting significant routes or roads. Follow the directions to draw a polyline on your map.
 
 1. To add a polyline to your map, select the "Draw polyline" icon from the right-hand edge of your map.
 
@@ -75,16 +75,16 @@ Polylines are lines that consist of multiple joined points to create a path. Thi
 
     ![Screenshot of a completed polyline with one vertex highlighted.](../_embeds/Mapping8.png)
 
-7. For instructions on labeling your polyline, see the [Label map layers](#label-map-layers) section of this article. 
+7. For instructions on labeling your polyline, see the [Label map points](#label-map-points) section of this article. 
 
     !!! tip
-        Label your layers as you go. You cannot select an object to label if it is underneath another layer. 
+        Label your map points and objects as you go. You cannot select an object to label if it is underneath another object. 
 
 ### Add a rectangle
 
-Rectangles can indicate an area. Follow the directions to add a rectangle layer to your map.
+Rectangles can indicate an area. Follow the directions to add a rectangle to your map.
 
-1. To add a rectangle to your map, select the "Draw Rectangle" icon from the right-hand edge of your map.
+1. To add a rectangle to your map, select the "Draw rectangle" icon from the right-hand edge of your map.
 
     ![Screenshot showing the draw rectangle icon.](../_embeds/Mapping11.png) 
 
@@ -100,14 +100,14 @@ Rectangles can indicate an area. Follow the directions to add a rectangle layer 
 
     ![Screenshot of a completed rectangle.](../_embeds/Mapping14.png)
 
-7. For instructions on labeling your rectangle, see the [Label map layers](#label-map-layers) section of this article. 
+5. For instructions on labeling your rectangle, see the [Label map points](#label-map-points) section of this article. 
 
     !!! tip
-        Label your layers as you go. You cannot select an object to label if it is underneath another layer. 
+        Label your map points and objects as you go. You cannot select an object to label if it is underneath another object. 
 
 ### Add a polygon
 
-Polygons can indicate a specific area. Follow the directions to add a polygon layer to your map. 
+Polygons can indicate a specific area. Follow the directions to add a polygon to your map. 
 
 1. To add a polygon to your map, select the "Draw Polygon" icon from the right-hand edge of your map.
 
@@ -131,14 +131,14 @@ Polygons can indicate a specific area. Follow the directions to add a polygon la
 
     ![Screenshot of a completed polygon with one vertex highlighted and moved slightly.](../_embeds/Mapping20.png)
 
-6. For instructions on labeling your polygon, see the [Label map layers](#label-map-layers) section of this article. 
+6. For instructions on labeling your polygon, see the [Label map points](#label-map-points) section of this article. 
 
     !!! tip
-        Label your layers as you go. You cannot select an object to label if it is underneath another layer. 
+        Label your map points and objects as you go. You cannot select an object to label if it is underneath another object. 
 
 ### Add a circle
 
-Circles can indicate a specific area. Follow the directions to add a circle layer to your map. 
+Circles can indicate a specific area. Follow the directions to add a circle to your map. 
 
 1. To add a circle to your map, select the "Draw Circle" icon from the right-hand edge of your map.
 
@@ -158,36 +158,36 @@ Circles can indicate a specific area. Follow the directions to add a circle laye
 
     ![Screenshot of a completed circle.](../_embeds/circle5.png) 
 
-6. For instructions on labeling your circle, see the [Label map layers](#label-map-layers) section of this article. 
+6. For instructions on labeling your circle, see the [Label map points](#label-map-points) section of this article. 
 
     !!! tip
-        Label your layers as you go. You cannot select an object to label if it is underneath another layer. 
+        Label your map points and objects as you go. You cannot select an object to label if it is underneath another object. 
 
-## Label map layers
+## Label map points
 
-Label your points, polylines, rectangles, polygons, and circles by selecting the marker or layer and entering a location description in the *Map points description* field on the map. You must select the field to enter your text. If you do not label your marker or layer, the label will default to the name of your content on the **Browse** pages. To relabel objects or layers, simply select the object or layer you want to relabel and replace the text in the text box.
+Label your points, polylines, rectangles, polygons, and circles by selecting the marker or object and entering a location description in the *Map points description* field on the map. You must select the field to enter your text. If you do not label your marker or object, the label will default to the name of your content on the **Browse** pages. To relabel objects, simply select the object you want to relabel and replace the text in the text box.
 
 ![Screenshot of selecting a polygon to add a label.](../_embeds/Mapping37.png) 
     
 ![Screenshot of adding a label to a polygon. The label says Polygon 1.](../_embeds/Mapping38.png)
 
-## Edit and remove map layers
+## Edit and remove map points
 
 To edit the map points on your map, you can use the three editing icons on the right-hand side of the map. 
 
-1. To edit individual vectors, select the "Edit layers" icon. This icon highlights all of the vertices on your map. 
+1. To edit individual vectors, select the "Edit map points" icon. This icon highlights all of the vertices on your map. 
     
     - Move the vertex or vertices by selecting one at a time dragging it to a new location. 
 
         !!! tip
             If you are trying to draw an amorphous or curved shape, you can outline it by selecting and moving vertices. Each vertex you move generates an inactive vertex to either side. These vertices can be activated by selecting them. This allows you more flexibility to outline lines or shapes.
     
-    ![Screenshot of the edit layers icon.](../_embeds/Mapping26.png)
+    ![Screenshot of the edit map points icon.](../_embeds/Mapping26.png)
 
-2. To move objects or layers, select the "Drag layers" icon. You can then select and drag your objects to a new location.
+2. To move map points, select the "Move map points" icon. You can then select and drag your objects to a new location.
 
-    ![Screenshot of the drag layers icon](../_embeds/Mapping27.png)
+    ![Screenshot of the move map points icon](../_embeds/Mapping27.png)
 
-3. To remove objects or layers, select the "Remove layers" icon. Select the objects you want to remove, then select "Finish" when done.
+3. To remove map points, select the "Remove map points" icon. Select the objects you want to remove, then select "Finish" when done.
 
-    ![Screenshot of the remove layers icon](../_embeds/Mapping28.png)
+    ![Screenshot of the remove map points icon](../_embeds/Mapping28.png)
